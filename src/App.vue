@@ -1,19 +1,339 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <!--Hero-->
+    <div
+      class="container px-3 mx-auto flex flex-wrap flex-col md:flex-row items-center mb-8 sm:mb-0"
+    >
+      <!--Left Col-->
+      <div
+        class="flex flex-col w-full md:w-2/5 justify-center items-start text-center md:text-left"
+      >
+        <p class="uppercase tracking-loose w-full">
+          Some companies have special deals
+        </p>
+        <h1 class="my-4 text-5xl font-bold leading-tight">
+          We can fight COVID-19 together!
+        </h1>
+        <p class="leading-normal text-2xl mb-8">
+          Use their provide discounts and build amazing tools.
+        </p>
+
+        <!-- <button
+          class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg"
+        >
+          Subscribe
+        </button> -->
+      </div>
+      <!--Right Col-->
+      <div
+        class="hidden sm:flex w-full md:w-3/5 py-6 pb-20 text-right flex-col items-start"
+      >
+        <svg
+          style="max-height: 200px; margin-left: 3rem;"
+          viewBox="0 0 128 128"
+          fill="#2c3e50"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M127.26,109.23a7.54,7.54,0,0,0-2.69-2.42,5.45,5.45,0,0,0,.68-1.39c1.24-3.86-1.83-5.85-4.08-7.3l-.49-.31A79.59,79.59,0,0,0,112.22,94a5,5,0,0,0,1.49-3,6.15,6.15,0,0,0-.34-2.57,7,7,0,0,0,2.61-2,6.11,6.11,0,0,0,1.18-4.78,4.63,4.63,0,0,0-1.9-3.16,7.36,7.36,0,0,0-3.39-1.26A5.13,5.13,0,0,0,112,75.7c-.26-4-3.85-4.77-6.48-5.29l-.56-.12c-2-.4-12.36-.47-15.75-.43l.72-.73C93,66,94.29,62,93.3,58.5a5.5,5.5,0,0,0-3.58-4.11h0c-3.33-.83-6.34,2.25-8.33,4.28-.38.39-.9.92-1.09,1.06h0c-.45.27-1.61,1-3.79,2.49-3.72,2.47-9.23,6.14-12.74,8.27-2.94,0-6.21-.09-8.06-.12L54.24,70c2.57-2.7,6.46-7.16,8.65-11.45,2-3.93,2-8.1,0-11.16a5.51,5.51,0,0,0-4.66-2.82c-3.16.2-5.66,3.56-7.94,7-.29.44-.65,1-.74,1.09-.29.28-1.71,1.29-3,2.18C43,57.37,37.66,61.2,34.8,64.45c-.95,1.07-4.44,4.88-7.52,8.25-2.5,2.73-4.66,5.09-5.15,5.64s-1.45,1.55-2.5,2.62c-1.2,1.24-2.44,2.52-3.22,3.39-1.34.83-8.63,2.42-14.74,3.44a2,2,0,1,0,.66,3.94c10-1.67,15.75-3.23,17-4.64.71-.8,2-2.15,3.18-3.34s2.1-2.16,2.63-2.77,2.72-3,5.1-5.58c3.09-3.38,6.6-7.21,7.57-8.31,2.56-2.9,7.7-6.57,11.1-9a26.52,26.52,0,0,0,3.6-2.77,16,16,0,0,0,1.1-1.54c.85-1.27,3.41-5.13,4.81-5.22a2.8,2.8,0,0,1,1.38,1.49c.44.87,1.28,3.27-.46,6.68-2.48,4.86-7.67,10.24-9.6,12.16-3.49-.75-5.8-.6-6.86.49a2,2,0,0,0,2.5,3.09c.27,0,1.47-.21,4.48.55l5.09,1.28a1.74,1.74,0,0,0,.45.06c1.28,0,12.56.25,14.64.11,1.1-.07,6.19-.21,10.68-.34l3.38-.1h.16a1.73,1.73,0,0,0,.32,0l3.91-.13c1.67-.11,14.18,0,15.66.33l.59.12c2.83.57,3.22.84,3.27,1.62a1.61,1.61,0,0,1-.69,1.36L67,82a2,2,0,0,0,.23,4l.23,0,40.8-4.77h.09c1-.16,3.56-.26,4.58.49a.72.72,0,0,1,.31.52,2.1,2.1,0,0,1-.34,1.72,4.9,4.9,0,0,1-2.92,1.32h-.18L68.42,92.56a2,2,0,0,0,.35,4l.35,0,40.32-7.09a2.07,2.07,0,0,1,.28,1.24c-.06.28-1,1.66-4.34,2.79-3.5,1.19-10,2.69-10.27,2.77h0l-29.75,6.42a2,2,0,0,0,.42,4,2.15,2.15,0,0,0,.43,0l29.51-6.37a.71.71,0,0,1,.65.61c.18.74-1.24,1.66-2.73,2.11-.75.23-2.15.76-3.92,1.43-1.61.61-3.68,1.39-5.68,2.1a1.9,1.9,0,0,0-.4.14,31.63,31.63,0,0,1-5.84,1.65c-2.35.14-5.8,1.45-9.79,3-2.07.79-4.21,1.6-6.22,2.25a77.13,77.13,0,0,1-9.33,2.12l-.24,0c-6.16,1.07-13,1.82-16.37,1.51-6.32-.58-9.94,0-19.33,3C6.3,123.36,1.77,124,1.73,124A2,2,0,0,0,2,128l.27,0c.19,0,4.85-.69,15.48-4.09,9.35-3,12.34-3.32,17.73-2.81,3.71.34,10.64-.42,16.88-1.48a55.09,55.09,0,0,0,12,3.56c1.92.41,3.73.8,5.49,1.27,6.92,1.85,27.77,3.51,28,3.53s.68,0,1,0c3.67,0,6.21-1.69,6.58-4.46a4.56,4.56,0,0,0,.05-.73c2.22.29,4.9.58,6.89.68,4.42.2,7.74-1,8.82-3.21a6,6,0,0,0,.63-2.52,6.93,6.93,0,0,0,3.16-.88,6.07,6.07,0,0,0,2.85-4A4.63,4.63,0,0,0,127.26,109.23ZM80.59,70.13l-9.23.28c2.58-1.68,5.25-3.46,7.35-4.86,1.76-1.17,3.29-2.18,3.66-2.4h0a10.2,10.2,0,0,0,1.87-1.67c1-1,3.37-3.42,4.47-3.21a2.89,2.89,0,0,1,.85,1.83c.15,1,.22,3.5-2.48,6.22-1.91,1.93-3,3-3.56,3.62a1.14,1.14,0,0,1-.11.11Zm26.08,27.09c.52-.18,1-.37,1.48-.57,2.43.92,9.13,3.71,10.34,4.5l.51.33c2.42,1.57,2.68,2,2.44,2.71a1.58,1.58,0,0,1-1.14,1l-20-5.32a.13.13,0,0,1,0-.06,6.39,6.39,0,0,0-.22-.7C102.2,98.57,104.79,97.86,106.67,97.22ZM98.19,124c-5.35-.42-21.83-2-27.26-3.4-1.86-.5-3.8-.92-5.68-1.32s-3.5-.76-5.22-1.2c1.15-.28,2.17-.56,3-.83,1.3-.42,2.62-.9,3.95-1.39l34.14,6.37a.69.69,0,0,1,.39.81C101.4,123.77,99.73,124.09,98.19,124Zm19.45-5.48c-.16.24-1.58,1.16-5.06,1-3.67-.17-10.17-1.14-10.56-1.2l-27.71-5.16a16.8,16.8,0,0,1,3.74-.93,30.64,30.64,0,0,0,6.61-1.76l33.17,6.8A2,2,0,0,1,117.64,118.49Zm6.33-6.55a2.07,2.07,0,0,1-1,1.47,4.92,4.92,0,0,1-3.2.16h-.06l-.11,0-27.86-5.71c1.35-.52,2.48-.94,3-1.1a8.91,8.91,0,0,0,4.59-2.93l20.3,5.4h.08c1,.23,3.41,1.07,4.08,2.15A.66.66,0,0,1,124,111.94Z"
+          />
+          <path
+            d="M77,14h49a2,2,0,0,0,2-2V9a2,2,0,0,0-4,0v1h-5V2a2,2,0,0,0-2-2H85.35a2,2,0,0,0,0,4H103v6H77c-3.78,0-8,2.88-8,7V27a2,2,0,0,0,2,2H87a2,2,0,0,0,2-2V24h35v1a2,2,0,0,0,4,0V22a2,2,0,0,0-2-2H87a2,2,0,0,0-2,2v3H73V17C73,15.38,75.2,14,77,14ZM107,4h8v6h-8Z"
+          />
+          <path d="M71,33a2,2,0,0,0-2,2V59a2,2,0,0,0,4,0V35A2,2,0,0,0,71,33Z" />
+          <path d="M79,33a2,2,0,0,0-2,2V53a2,2,0,0,0,4,0V35A2,2,0,0,0,79,33Z" />
+          <path d="M87,33a2,2,0,0,0-2,2V49a2,2,0,0,0,4,0V35A2,2,0,0,0,87,33Z" />
+        </svg>
+      </div>
+    </div>
+
+    <div class="relative -mt-12 lg:-mt-24">
+      <svg
+        viewBox="0 0 1428 174"
+        version="1.1"
+        xmlns="http://www.w3.org/2000/svg"
+        xmlns:xlink="http://www.w3.org/1999/xlink"
+      >
+        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+          <g
+            transform="translate(-2.000000, 44.000000)"
+            fill="#FFFFFF"
+            fill-rule="nonzero"
+          >
+            <path
+              d="M0,0 C90.7283404,0.927527913 147.912752,27.187927 291.910178,59.9119003 C387.908462,81.7278826 543.605069,89.334785 759,82.7326078 C469.336065,156.254352 216.336065,153.6679 0,74.9732496"
+              opacity="0.100000001"
+            ></path>
+            <path
+              d="M100,104.708498 C277.413333,72.2345949 426.147877,52.5246657 546.203633,45.5787101 C666.259389,38.6327546 810.524845,41.7979068 979,55.0741668 C931.069965,56.122511 810.303266,74.8455141 616.699903,111.243176 C423.096539,147.640838 250.863238,145.462612 100,104.708498 Z"
+              opacity="0.100000001"
+            ></path>
+            <path
+              d="M1046,51.6521276 C1130.83045,29.328812 1279.08318,17.607883 1439,40.1656806 L1439,120 C1271.17211,77.9435312 1140.17211,55.1609071 1046,51.6521276 Z"
+              id="Path-4"
+              opacity="0.200000003"
+            ></path>
+          </g>
+          <g
+            transform="translate(-4.000000, 76.000000)"
+            fill="#FFFFFF"
+            fill-rule="nonzero"
+          >
+            <path
+              d="M0.457,34.035 C57.086,53.198 98.208,65.809 123.822,71.865 C181.454,85.495 234.295,90.29 272.033,93.459 C311.355,96.759 396.635,95.801 461.025,91.663 C486.76,90.01 518.727,86.372 556.926,80.752 C595.747,74.596 622.372,70.008 636.799,66.991 C663.913,61.324 712.501,49.503 727.605,46.128 C780.47,34.317 818.839,22.532 856.324,15.904 C922.689,4.169 955.676,2.522 1011.185,0.432 C1060.705,1.477 1097.39,3.129 1121.236,5.387 C1161.703,9.219 1208.621,17.821 1235.4,22.304 C1285.855,30.748 1354.351,47.432 1440.886,72.354 L1441.191,104.352 L1.121,104.031 L0.457,34.035 Z"
+            ></path>
+          </g>
+        </g>
+      </svg>
+    </div>
+
+    <section class="bg-white border-b py-8">
+      <div class="container mx-auto flex flex-wrap pt-4 pb-12">
+        <h1
+          class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800"
+        >
+          SaaS products with a COVID-19 discount
+        </h1>
+        <div class="w-full mb-4">
+          <div
+            class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"
+          ></div>
+        </div>
+
+        <div class="w-full flex flex-wrap" v-if="services">
+          <a
+            class="md:w-1/3 p-6 flex flex-col flex-shrink"
+            v-for="service in services"
+            :key="service.id"
+            :href="
+              service.how_to_apply_url_or_email.includes('@')
+                ? `mailto:${service.how_to_apply_url_or_email}&subject=Discount%20to%20fight%20COVID-19`
+                : `${service.how_to_apply_url_or_email}?utm_source=saasforcovid.com`
+            "
+          >
+            <div
+              class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow"
+            >
+              <div
+                class="flex flex-wrap text-left no-underline hover:no-underline"
+              >
+                <div class="w-full font-bold text-xl text-gray-800 px-6 mt-4">
+                  <img
+                    class="inline"
+                    style="width: 30px; heigth: 30px; margin-bottom: 5px;"
+                    :src="service.favicon_url"
+                    v-if="service.favicon_url"
+                  />
+                  {{ service.name }}
+                </div>
+                <p class="text-gray-800 text-base px-6 mb-5 mt-3">
+                  {{ service.description }}
+                  <a
+                    class="underline"
+                    :href="service.more_info_url"
+                    v-if="
+                      `${service.more_info_url}?utm_source=saasforcovid.com`
+                    "
+                  >
+                    Read more
+                  </a>
+                </p>
+                <p
+                  class="text-red-600 text-xs px-6 mb-5"
+                  v-if="service.requirement"
+                >
+                  <strong>Requirement</strong>
+                  {{ service.requirement }}
+                </p>
+              </div>
+            </div>
+            <div
+              class="flex-none mt-auto bg-white rounded-b rounded-t-none overflow-hidden shadow p-6"
+            >
+              <p class="text-left text-sm">{{ service.how_to_apply_text }}</p>
+              <div class="flex items-center justify-start">
+                <button
+                  class="mx-auto lg:mx-0 text-sm gradient text-white font-bold rounded-full mt-4 mb-2 py-4 px-8 shadow-lg"
+                >
+                  Get {{ service.discount }} discount
+                </button>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div v-else class="w-full mt-8">
+          <p class="text-center">Loading products...</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="bg-gray-100 pt-12 pb-20">
+      <div class="container mx-auto px-2 pt-4 pb-6 text-gray-800">
+        <h1
+          class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800"
+        >
+          Traffic
+        </h1>
+        <div class="w-full mb-4">
+          <div
+            class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"
+          ></div>
+        </div>
+      </div>
+
+      <p>
+        This website had <span id="pageviews"></span> page views in the last
+        month.
+      </p>
+      <p>
+        See more on
+        <a
+          class="underline"
+          href="https://simpleanalytics.com/simpleanalytics.com"
+          >our public dashboard</a
+        >
+        of Simple Analytics
+      </p>
+      <div
+        style="display: none;"
+        data-sa-graph-url="https://simpleanalytics.com/simpleanalytics.com?color=259145"
+        data-sa-page-views-selector="#pageviews"
+      >
+        <p>
+          Ad blockers don't like the Simple Analytics embed, disable yours to
+          view this graph.
+        </p>
+      </div>
+    </section>
+
+    <!-- Change the colour #f8fafc to match the previous section colour -->
+    <svg
+      class="wave-top"
+      viewBox="0 0 1439 147"
+      version="1.1"
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+    >
+      <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-1.000000, -14.000000)" fill-rule="nonzero">
+          <g class="wave" fill="#f8fafc">
+            <path
+              d="M1440,84 C1383.555,64.3 1342.555,51.3 1317,45 C1259.5,30.824 1206.707,25.526 1169,22 C1129.711,18.326 1044.426,18.475 980,22 C954.25,23.409 922.25,26.742 884,32 C845.122,37.787 818.455,42.121 804,45 C776.833,50.41 728.136,61.77 713,65 C660.023,76.309 621.544,87.729 584,94 C517.525,105.104 484.525,106.438 429,108 C379.49,106.484 342.823,104.484 319,102 C278.571,97.783 231.737,88.736 205,84 C154.629,75.076 86.296,57.743 0,32 L0,0 L1440,0 L1440,84 Z"
+            ></path>
+          </g>
+          <g transform="translate(1.000000, 15.000000)" fill="#FFFFFF">
+            <g
+              transform="translate(719.500000, 68.500000) rotate(-180.000000) translate(-719.500000, -68.500000) "
+            >
+              <path
+                d="M0,0 C90.7283404,0.927527913 147.912752,27.187927 291.910178,59.9119003 C387.908462,81.7278826 543.605069,89.334785 759,82.7326078 C469.336065,156.254352 216.336065,153.6679 0,74.9732496"
+                opacity="0.100000001"
+              ></path>
+              <path
+                d="M100,104.708498 C277.413333,72.2345949 426.147877,52.5246657 546.203633,45.5787101 C666.259389,38.6327546 810.524845,41.7979068 979,55.0741668 C931.069965,56.122511 810.303266,74.8455141 616.699903,111.243176 C423.096539,147.640838 250.863238,145.462612 100,104.708498 Z"
+                opacity="0.100000001"
+              ></path>
+              <path
+                d="M1046,51.6521276 C1130.83045,29.328812 1279.08318,17.607883 1439,40.1656806 L1439,120 C1271.17211,77.9435312 1140.17211,55.1609071 1046,51.6521276 Z"
+                opacity="0.200000003"
+              ></path>
+            </g>
+          </g>
+        </g>
+      </g>
+    </svg>
+
+    <section class="container mx-auto text-center pt-6 mb-8">
+      <h1
+        class="w-full my-2 text-5xl font-bold leading-tight text-center text-white"
+      >
+        Add more SaaS products
+      </h1>
+      <div class="w-full mb-4">
+        <div
+          class="h-1 mx-auto bg-white w-1/6 opacity-25 my-0 py-0 rounded-t"
+        ></div>
+      </div>
+
+      <h3 class="my-4 mt-8 text-3xl leading-tight">
+        Let's fight COVID-19 together!
+      </h3>
+
+      <p class="mt-12 mb-8">
+        <a
+          class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full py-4 px-8 shadow-lg"
+          href="https://docs.google.com/spreadsheets/d/1QdMr6TYlPLgc8nip165CyuDrr5WPcxnzqxJBJK_EfJ0/edit#gid=0"
+          target="_blank"
+        >
+          Go to our public spreadsheet
+        </a>
+      </p>
+
+      <p class="text-xs text-white mt-20">
+        <a
+          href="https://simpleanalytics.com/?ref=saasforcovid.com"
+          class="text-white"
+          >Public website stats by Simple Analytics</a
+        >
+        -
+        <a
+          href="https://www.freepik.com/free-photos-vectors/background?utm_source=saasforcovid.com"
+          class="text-white"
+          >Background vector created by freepik.com</a
+        >
+      </p>
+    </section>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import axios from "axios";
+import csv2json from "csvjson-csv2json";
 
 export default {
-  name: 'App',
-  components: {
-    HelloWorld
+  name: "App",
+  data() {
+    return {
+      services: null
+    };
+  },
+
+  created() {
+    axios
+      .get(
+        `https://docs.google.com/spreadsheets/d/e/2PACX-1vSb8E61f73swPO9Mdvo3u2buf-pglEpgLHOa8wFpRzUtn3_8Dcf7cxhi-lGlJL9yOLXjIBBWw4UsYL9/pub?gid=0&single=true&output=csv`
+      )
+      .then(response => {
+        const csv = response && response.data ? response.data : null;
+        if (csv) {
+          const json = csv2json(csv, { parseNumbers: true });
+
+          const clean = json.map(service => {
+            return Object.keys(service).reduce((c, k) => {
+              c[
+                k
+                  .toLowerCase()
+                  .replace(/[^a-z]+/gi, "_")
+                  .replace(/(^_|_$)/g, "")
+              ] = service[k];
+              return c;
+            }, {});
+          });
+
+          this.services = clean.map(service => {
+            if (service.favicon)
+              service.favicon_url = service.favicon.includes("http")
+                ? service.favicon
+                : service.url + "/" + service.favicon;
+            return service;
+          });
+        }
+      })
+      .catch(e => {
+        console.error(e);
+      });
   }
-}
+};
 </script>
 
 <style>
