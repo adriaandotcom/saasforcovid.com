@@ -102,14 +102,10 @@
 
         <div class="w-full flex flex-wrap" v-if="services">
           <a
-            class="md:w-1/3 p-6 flex flex-col flex-shrink"
+            class="md:w-1/3 p-6 flex flex-col flex-shrink transform hover:scale-105 transition duration-150 ease-in-out"
             v-for="service in services"
             :key="service.id"
-            :href="
-              service.how_to_apply_url_or_email.includes('@')
-                ? `mailto:${service.how_to_apply_url_or_email}&subject=Discount%20to%20fight%20COVID-19`
-                : `${service.how_to_apply_url_or_email}?utm_source=saasforcovid.com`
-            "
+            :href="`${service.url}/?ref=saasforcovid.com`"
           >
             <div
               class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow"
@@ -119,7 +115,7 @@
               >
                 <div class="w-full font-bold text-xl text-gray-800 px-6 mt-4">
                   <img
-                    class="inline"
+                    class="inline rounded-sm"
                     style="width: 30px; heigth: 30px; margin-bottom: 5px;"
                     :src="service.favicon_url"
                     v-if="service.favicon_url"
@@ -130,10 +126,10 @@
                   {{ service.description }}
                   <a
                     class="underline"
-                    :href="service.more_info_url"
-                    v-if="
+                    :href="
                       `${service.more_info_url}?utm_source=saasforcovid.com`
                     "
+                    v-if="service.more_info_url"
                   >
                     Read more
                   </a>
@@ -152,11 +148,30 @@
             >
               <p class="text-left text-sm">{{ service.how_to_apply_text }}</p>
               <div class="flex items-center justify-start">
-                <button
-                  class="mx-auto lg:mx-0 text-sm gradient text-white font-bold rounded-full mt-4 mb-2 py-4 px-8 shadow-lg"
+                <a
+                  :href="
+                    service.how_to_apply_url_or_email.includes('@')
+                      ? `mailto:${service.how_to_apply_url_or_email}&subject=Discount%20to%20fight%20COVID-19`
+                      : `${service.how_to_apply_url_or_email}?utm_source=saasforcovid.com`
+                  "
+                  class="transform hover:scale-105 transition duration-150 ease-in-out mx-auto lg:mx-0 text-sm gradient text-white font-bold rounded-full mt-4 mb-2 py-4 px-8 shadow-lg"
                 >
+                  <svg
+                    v-if="service.how_to_apply_url_or_email.includes('@')"
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="white"
+                    class="inline mr-2 -ml-2"
+                  >
+                    <path
+                      d="M24 0l-6 22-8.129-7.239 7.802-8.234-10.458 7.227-7.215-1.754 24-12zm-15 16.668v7.332l3.258-4.431-3.258-2.901z"
+                    />
+                  </svg>
+
                   Get {{ service.discount }} discount
-                </button>
+                </a>
               </div>
             </div>
           </a>
@@ -247,7 +262,7 @@
       <h1
         class="w-full my-2 text-5xl font-bold leading-tight text-center text-white"
       >
-        Add more SaaS products
+        This list is crowdsourced
       </h1>
       <div class="w-full mb-4">
         <div
@@ -265,15 +280,21 @@
           href="https://docs.google.com/spreadsheets/d/1QdMr6TYlPLgc8nip165CyuDrr5WPcxnzqxJBJK_EfJ0/edit#gid=0"
           target="_blank"
         >
-          Go to our public spreadsheet
+          Add more SaaS products
         </a>
       </p>
 
       <p class="text-xs text-white mt-20">
         <a
-          href="https://simpleanalytics.com/?ref=saasforcovid.com"
+          href="https://simpleanalytics.com/saasforcovid.com?ref=saasforcovid.com"
           class="text-white"
           >Public website stats by Simple Analytics</a
+        >
+        -
+        <a
+          href="https://www.iconfinder.com/iconsets/stop-virus-outline-iconset?utm_source=saasforcovid.com"
+          class="text-white"
+          >Washing icon by LAFS</a
         >
         -
         <a
