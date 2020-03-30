@@ -113,7 +113,9 @@
               <div
                 class="flex flex-wrap text-left no-underline hover:no-underline"
               >
-                <div class="w-full font-bold text-xl text-gray-800 px-6 mt-4">
+                <div
+                  class="w-full font-bold text-xl text-gray-800 px-6 mt-6 mb-2"
+                >
                   <img
                     class="inline rounded-sm"
                     style="width: 30px; heigth: 30px; margin-bottom: 5px;"
@@ -144,7 +146,7 @@
               </div>
             </div>
             <div
-              class="flex-none mt-auto bg-white rounded-b rounded-t-none overflow-hidden shadow p-6"
+              class="flex-none mt-auto bg-white rounded-b rounded-t-none overflow-hidden shadow-lg p-6 "
             >
               <p class="text-left text-sm">{{ service.how_to_apply_text }}</p>
               <div class="flex items-center justify-start">
@@ -202,16 +204,14 @@
       </p>
       <p>
         See more on
-        <a
-          class="underline"
-          href="https://simpleanalytics.com/simpleanalytics.com"
+        <a class="underline" href="https://simpleanalytics.com/saasforcovid.com"
           >our public dashboard</a
         >
         of Simple Analytics
       </p>
       <div
         style="display: none;"
-        data-sa-graph-url="https://simpleanalytics.com/simpleanalytics.com?color=259145"
+        data-sa-graph-url="https://simpleanalytics.com/saasforcovid.com?color=259145"
         data-sa-page-views-selector="#pageviews"
       >
         <p>
@@ -295,6 +295,12 @@
           href="https://www.iconfinder.com/iconsets/stop-virus-outline-iconset?utm_source=saasforcovid.com"
           class="text-white"
           >Washing icon by LAFS</a
+        >
+        -
+        <a
+          href="https://iconmonstr.com/paper-plane-1-psd/?utm_source=saasforcovid.com"
+          class="text-white"
+          >Paper plane by iconmonstr.com</a
         >
         -
         <a
