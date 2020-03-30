@@ -125,6 +125,11 @@
                   {{ service.name }}
                 </div>
                 <p class="text-gray-800 text-base px-6 mb-5 mt-3">
+                  <span
+                    class="inline-flex rounded-full bg-gray-300 px-2 text-xs font-bold "
+                  >
+                    {{ service.category }}
+                  </span>
                   {{ service.description }}
                   <a
                     class="underline"
@@ -316,12 +321,13 @@
 <script>
 import axios from "axios";
 import csv2json from "csvjson-csv2json";
+import { services } from "./cache";
 
 export default {
   name: "App",
   data() {
     return {
-      services: null
+      services
     };
   },
 
