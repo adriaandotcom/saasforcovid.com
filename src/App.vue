@@ -157,6 +157,7 @@
               <div class="flex items-center justify-start">
                 <a
                   :href="
+                    service.how_to_apply_url_or_email &&
                     service.how_to_apply_url_or_email.includes('@')
                       ? `mailto:${service.how_to_apply_url_or_email}&subject=Discount%20to%20fight%20COVID-19`
                       : `${service.how_to_apply_url_or_email}?utm_source=saasforcovid.com`
@@ -164,7 +165,10 @@
                   class="transform hover:scale-105 transition duration-150 ease-in-out mx-auto lg:mx-0 text-sm gradient text-white font-bold rounded-full mt-4 mb-2 py-4 px-8 shadow-lg"
                 >
                   <svg
-                    v-if="service.how_to_apply_url_or_email.includes('@')"
+                    v-if="
+                      service.how_to_apply_url_or_email &&
+                        service.how_to_apply_url_or_email.includes('@')
+                    "
                     xmlns="http://www.w3.org/2000/svg"
                     width="24"
                     height="24"
@@ -364,9 +368,10 @@ export default {
 
           this.services = clean.map(service => {
             if (service.favicon)
-              service.favicon_url = service.favicon.includes("http")
-                ? service.favicon
-                : service.url + "/" + service.favicon;
+              service.favicon_url =
+                service.favicon && service.favicon.includes("http")
+                  ? service.favicon
+                  : service.url + "/" + service.favicon;
             return service;
           });
         }
