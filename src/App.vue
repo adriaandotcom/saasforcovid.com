@@ -305,7 +305,7 @@
           class="text-white"
           >Washing icon by LAFS</a
         >
-        -
+        <br />
         <a
           href="https://iconmonstr.com/paper-plane-1-psd/?utm_source=saasforcovid.com"
           class="text-white"
@@ -316,6 +316,12 @@
           href="https://www.freepik.com/free-photos-vectors/background?utm_source=saasforcovid.com"
           class="text-white"
           >Background vector created by freepik.com</a
+        >
+        -
+        <a
+          href="https://www.tailwindtoolbox.com/templates/landing-page?utm_source=saasforcovid.com"
+          class="text-white"
+          >Theme by TailwindToolbox.com</a
         >
       </p>
     </section>
