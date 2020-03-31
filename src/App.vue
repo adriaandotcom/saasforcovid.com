@@ -331,6 +331,19 @@ export default {
     };
   },
 
+  methods: {
+    cleanKey(key) {
+      return key
+        .toLowerCase()
+        .replace(/[^a-z]+/gi, "_")
+        .replace(/(^_|_$)/g, "");
+    },
+    cleanValue(key, value) {
+      if (key === "category" && value.startsWith("Other")) return "Other";
+      return value;
+    }
+  },
+
   created() {
     axios
       .get(
@@ -343,12 +356,8 @@ export default {
 
           const clean = json.map(service => {
             return Object.keys(service).reduce((c, k) => {
-              c[
-                k
-                  .toLowerCase()
-                  .replace(/[^a-z]+/gi, "_")
-                  .replace(/(^_|_$)/g, "")
-              ] = service[k];
+              const key = this.cleanKey(k);
+              c[key] = this.cleanValue(key, service[k]);
               return c;
             }, {});
           });
