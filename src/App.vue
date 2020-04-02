@@ -286,9 +286,9 @@
             Fight COVID-19
           </h4>
           <p>
-            To help build amazing tools some SaaS business have made their
-            products cheaper of even for free. This way makers can help with
-            fighting COVID-19.
+            Some SaaS business have made their products cheaper, or even free.
+            This way makers can help fighting COVID-19 by building amazing
+            tools.
           </p>
         </div>
         <div class="w-full md:w-1/3 p-4">
@@ -296,9 +296,9 @@
             Inspire
           </h4>
           <p>
-            To inspire other businesses to do the same it makes sense to show a
-            list of businesses helping in this crisis. If more business give
-            their products for free we can fight COVID-19 better together.
+            By showing a list of all awesome participating businesses, we hope
+            to inspire others to join the movement. If they can do it, so can
+            you. And it's always better together.
           </p>
         </div>
         <div class="w-full md:w-1/3 p-4">
@@ -306,8 +306,9 @@
             Support businesses
           </h4>
           <p>
-            Some business have a harder time because of the COVID-19 virus. To
-            generate more traffic to them we help them with this initiative.
+            Some businessess are going through tough times because of the
+            COVID-19 crisis. We support them by generating a bit more traffic
+            towards their websites.
           </p>
         </div>
       </div>
