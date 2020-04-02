@@ -15,7 +15,7 @@
           We can fight COVID-19 together!
         </h1>
         <p class="leading-normal text-2xl mb-8">
-          Use their provide discounts and build amazing tools.
+          Use their provided discounts and build amazing tools.
         </p>
 
         <!-- <button
@@ -306,7 +306,7 @@
             Support businesses
           </h4>
           <p>
-            Some businessess are going through tough times because of the
+            Some businesses are going through tough times because of the
             COVID-19 crisis. We support them by generating a bit more traffic
             towards their websites.
           </p>

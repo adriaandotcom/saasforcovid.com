@@ -1,6 +1,6 @@
 # saasforcovid.com
 
-Fight COVID-19 together with huge discounts for these SaaS products.
+Fight COVID-19 together with discounts for these SaaS products.
 
 Use the provided discounts of the following SaaS products and build amazing tools to fight COVID-19.
 
