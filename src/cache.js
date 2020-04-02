@@ -16,22 +16,6 @@ export const services = [
     "More info URL": ""
   },
   {
-    Name: "Simple Analytics",
-    Category: "Analytics",
-    URL: "https://simpleanalytics.com",
-    Description:
-      "Simple Analytics gives you the analytics you need without invading your users' privacy. GDPR, CCPA, and PECR compliant. We don't handle PII and use no cookies.",
-    Discount: "100%",
-    "Does it drive you into a paid account":
-      "No, you don't have to enter any payment information.",
-    Requirement: "Public stats + link in footer of project",
-    Favicon: "/apple-touch-icon.png",
-    "How to apply (text)":
-      "Fill in their contact form or use their chat widget",
-    "How to apply (URL or email)": "https://simpleanalytics.com/contact",
-    "More info URL": ""
-  },
-  {
     Name: "Intercom",
     Category: "Website Tools",
     URL: "https://intercom.com",
@@ -73,8 +57,10 @@ export const services = [
     Description:
       "Divjoy helps you create the perfect codebase and UI for your next React project.",
     Discount: "100%",
-    "Does it drive you into a paid account": "Maybe",
-    Requirement: "",
+    "Does it drive you into a paid account":
+      "No, no need for payment information and 1 year free usage.",
+    Requirement:
+      "It's appreciated to add a link back to divjoy.com (not required)",
     Favicon: "/static/images/favicon/apple-touch-icon.png",
     "How to apply (text)": "Use chatbot on the page",
     "How to apply (URL or email)": "https://divjoy.com/",
@@ -86,7 +72,7 @@ export const services = [
     URL: "https://leverice.com",
     Description: "A team messenger that lets you focus on what matters.",
     Discount: "100%",
-    "Does it drive you into a paid account": "Maybe",
+    "Does it drive you into a paid account": "No",
     Requirement: "",
     Favicon: "",
     "How to apply (text)":
@@ -115,7 +101,7 @@ export const services = [
     Description:
       "Match people in your Slack space that have similar expertise or interest so they can share information related to COVID-19.",
     Discount: "100%",
-    "Does it drive you into a paid account": "Maybe",
+    "Does it drive you into a paid account": "No",
     Requirement: "",
     Favicon: "resources/favicon.ico",
     "How to apply (text)": "Email: erwin@sparklybot.com",
@@ -129,7 +115,8 @@ export const services = [
     Description:
       "Mindwave is a journal app for work & life. Together you'll learn from the past, be present and improve the future.",
     Discount: "100%",
-    "Does it drive you into a paid account": "Maybe",
+    "Does it drive you into a paid account":
+      "No, you get an extended free trial (6 months), no credit card needed.",
     Requirement:
       "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
     Favicon: "https://mindwave.app/assets/favicons/apple-touch-icon.png",
@@ -145,7 +132,7 @@ export const services = [
     Description:
       "Gmail, meet spreadsheet. CRM, mail merge, automated follow ups, canned responses, and many more features to spend less time on email.",
     Discount: "100%",
-    "Does it drive you into a paid account": "Maybe",
+    "Does it drive you into a paid account": "No",
     Requirement: "Your business has been substantially affected by COVID-19",
     Favicon:
       "/assets/icon128-53d136bb0aa1c128a1a32fc3630d28eb4d3659aaa9fc748839e8d489221fe2f9.png",
@@ -160,7 +147,7 @@ export const services = [
     Description:
       "Spike is a simple incident management platform that alerts via slack, phone and email and automatic escalations to help teams fix infrastructure problems.",
     Discount: "100%",
-    "Does it drive you into a paid account": "Maybe",
+    "Does it drive you into a paid account": "No",
     Requirement: "Free for COVID-19 projects",
     Favicon: "",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
@@ -174,7 +161,7 @@ export const services = [
     Description:
       "Your team’s knowledge base - Team wiki, documentation, playbooks, onboarding & more…",
     Discount: "100%",
-    "Does it drive you into a paid account": "Maybe",
+    "Does it drive you into a paid account": "No",
     Requirement:
       "COVID-19 projects. Discounts available for affected industries",
     Favicon: "",
@@ -189,7 +176,7 @@ export const services = [
     Description:
       "Lowdown unleashes the valuable content locked within Slack and emails it to your members so they don't miss key information.",
     Discount: "100%",
-    "Does it drive you into a paid account": "Maybe",
+    "Does it drive you into a paid account": "No",
     Requirement: "Free for Slack groups helping with COVID-19",
     Favicon: "",
     "How to apply (text)": "Sign up and then send us an email.",
@@ -202,12 +189,28 @@ export const services = [
     URL: "https://productroad.com",
     Description: "Customer feedback management",
     Discount: "100%",
-    "Does it drive you into a paid account": "Maybe",
+    "Does it drive you into a paid account": "No",
     Requirement: "",
     Favicon:
       "https://productroad.com/static/images/favicon/productroad-64x64.png",
     "How to apply (text)": "Contact in livechat",
     "How to apply (URL or email)": "",
+    "More info URL": ""
+  },
+  {
+    Name: "Simple Analytics",
+    Category: "Analytics",
+    URL: "https://simpleanalytics.com",
+    Description:
+      "Simple Analytics gives you the analytics you need without invading your users' privacy. GDPR, CCPA, and PECR compliant. We don't handle PII and use no cookies.",
+    Discount: "100%",
+    "Does it drive you into a paid account":
+      "No, you don't have to enter any payment information.",
+    Requirement: "Public stats + link in footer of project",
+    Favicon: "/apple-touch-icon.png",
+    "How to apply (text)":
+      "Fill in their contact form or use their chat widget",
+    "How to apply (URL or email)": "https://simpleanalytics.com/contact",
     "More info URL": ""
   },
   {
@@ -382,6 +385,22 @@ export const services = [
     "More info URL": ""
   },
   {
+    Name: "Polypane",
+    Category: "Developer Tools",
+    URL: "https://polypane.app",
+    Description:
+      "A web browser for developers and designers that makes you twice as productive",
+    Discount: "25%",
+    "Does it drive you into a paid account":
+      "No, no need for payment information and 6 months free usage.",
+    Requirement:
+      "To use for a covid-related site or tool, link back appreciated.",
+    Favicon: "/icons/icon-48x48.png?v=9ac1f3fc4286e7d9318862f69ebc6f89",
+    "How to apply (text)": "Email: support@polypane.app",
+    "How to apply (URL or email)": "support@polypane.app",
+    "More info URL": "https://polypane.app"
+  },
+  {
     Name: "FunRetro",
     Category: "Remote Work",
     URL: "http://funretro.io",
@@ -543,6 +562,22 @@ export const services = [
     Favicon: "",
     "How to apply (text)": "Signup, become a pro, use coupon code covid-19",
     "How to apply (URL or email)": "https://saferequest.net/en/pricing",
+    "More info URL": ""
+  },
+  {
+    Name: "Webflow",
+    Category: "Website Builder",
+    URL: "https://webflow.com",
+    Description: "Site builder and hosting.",
+    Discount: "12 months hosting",
+    "Does it drive you into a paid account": "Maybe, after the 12 months.",
+    Requirement: "",
+    Favicon:
+      "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5d5595354de4fbdd8c554dba_default_webclip.png",
+    "How to apply (text)":
+      "Contact support with details of project for discount code.",
+    "How to apply (URL or email)":
+      "https://university.webflow.com/support#contact-form",
     "More info URL": ""
   }
 ];
