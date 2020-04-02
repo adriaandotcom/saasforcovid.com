@@ -1,12 +1,14 @@
 export const services = [
   {
     Name: "Digital Ocean",
-    URL: "https://digitalocean.com",
     Category: "Hosting",
+    URL: "https://digitalocean.com",
     Description:
-      "Helping millions of developers easily build, test, manage, and scale  applications of any size – faster than ever before.",
+      "Helping millions of developers easily build, test, manage, and scale applications of any size – faster than ever before.",
     Discount: "$1,000",
-    Requirement: "",
+    "Does it drive you into a paid account":
+      "Maybe, but you can get pretty far with $1000.",
+    Requirement: "Expires one year after it is issued",
     Favicon: "/apple-touch-icon.png",
     "How to apply (text)": "Fill in their form on a special page",
     "How to apply (URL or email)":
@@ -15,11 +17,13 @@ export const services = [
   },
   {
     Name: "Simple Analytics",
-    URL: "https://simpleanalytics.com",
     Category: "Analytics",
+    URL: "https://simpleanalytics.com",
     Description:
-      "Simple Analytics gives you the analytics you need without invading your  users' privacy. GDPR, CCPA, and PECR compliant. We don't handle PII and use  no cookies.",
+      "Simple Analytics gives you the analytics you need without invading your users' privacy. GDPR, CCPA, and PECR compliant. We don't handle PII and use no cookies.",
     Discount: "100%",
+    "Does it drive you into a paid account":
+      "No, you don't have to enter any payment information.",
     Requirement: "Public stats + link in footer of project",
     Favicon: "/apple-touch-icon.png",
     "How to apply (text)":
@@ -29,12 +33,15 @@ export const services = [
   },
   {
     Name: "Intercom",
-    URL: "https://intercom.com",
     Category: "Website Tools",
+    URL: "https://intercom.com",
     Description:
-      "We make customer messaging apps for sales, marketing, and support,  connected on one platform. Our mission is to make business personal again.",
+      "We make customer messaging apps for sales, marketing, and support, connected on one platform. Our mission is to make business personal again.",
     Discount: "100%",
-    Requirement: "",
+    "Does it drive you into a paid account":
+      "Maybe, you need to enter payment information and will be charged automatically after 2 years.",
+    Requirement:
+      "Free of charge to any company or institution fighting COVID-19 and its impact on society, or working to help those affected.",
     Favicon:
       "https://www.intercom.com/_next/static/images/apple-touch-icon-iphone-eb1b3768428e86b06930fbfc4b7fabbe.png",
     "How to apply (text)": "Use chatbot on the page",
@@ -44,11 +51,13 @@ export const services = [
   },
   {
     Name: "Airtable",
-    URL: "https://airtable.com",
     Category: "Website Tools",
+    URL: "https://airtable.com",
     Description:
-      "Airtable works like a spreadsheet but gives you the power of a database to  organize anything. Sign up for free.",
+      "Airtable works like a spreadsheet but gives you the power of a database to organize anything. Sign up for free.",
     Discount: "100%",
+    "Does it drive you into a paid account":
+      "No, no need for payment information and 1 year free trial",
     Requirement:
       "Airtable is making Airtable Pro available for free to any non-political humanitarian group that is working on COVID-19 relief efforts.",
     Favicon: "/images/favicon/baymax/apple-touch-icon.png",
@@ -59,11 +68,12 @@ export const services = [
   },
   {
     Name: "Divjoy",
-    URL: "https://divjoy.com",
     Category: "Website Tools",
+    URL: "https://divjoy.com",
     Description:
-      "Divjoy helps you create the perfect codebase and UI for your next React  project.",
+      "Divjoy helps you create the perfect codebase and UI for your next React project.",
     Discount: "100%",
+    "Does it drive you into a paid account": "Maybe",
     Requirement: "",
     Favicon: "/static/images/favicon/apple-touch-icon.png",
     "How to apply (text)": "Use chatbot on the page",
@@ -71,11 +81,27 @@ export const services = [
     "More info URL": ""
   },
   {
+    Name: "Leverice",
+    Category: "Remote Work",
+    URL: "https://leverice.com",
+    Description: "A team messenger that lets you focus on what matters.",
+    Discount: "100%",
+    "Does it drive you into a paid account": "Maybe",
+    Requirement: "",
+    Favicon: "",
+    "How to apply (text)":
+      'Click on "Get Started" or "Try Now" button on homepage.',
+    "How to apply (URL or email)": "https://leverice.com",
+    "More info URL": ""
+  },
+  {
     Name: "Sheet2Site",
-    URL: "https://sheet2site.com",
     Category: "Website Builder",
+    URL: "https://sheet2site.com",
     Description: "Create a website from Google Sheets",
     Discount: "100%",
+    "Does it drive you into a paid account":
+      "No, but this free plan has no custom domain.",
     Requirement: "Install add-on",
     Favicon: "../img/faviconnew.png",
     "How to apply (text)": "Use the button below",
@@ -84,11 +110,12 @@ export const services = [
   },
   {
     Name: "Sparkly",
-    URL: "https://sparklybot.com",
     Category: "Slack App",
+    URL: "https://sparklybot.com",
     Description:
       "Match people in your Slack space that have similar expertise or interest so they can share information related to COVID-19.",
     Discount: "100%",
+    "Does it drive you into a paid account": "Maybe",
     Requirement: "",
     Favicon: "resources/favicon.ico",
     "How to apply (text)": "Email: erwin@sparklybot.com",
@@ -97,11 +124,12 @@ export const services = [
   },
   {
     Name: "Mindwave for Teams",
-    URL: "https://mindwave.app",
     Category: "Writing Tools",
+    URL: "https://mindwave.app",
     Description:
       "Mindwave is a journal app for work & life. Together you'll learn from the past, be present and improve the future.",
     Discount: "100%",
+    "Does it drive you into a paid account": "Maybe",
     Requirement:
       "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
     Favicon: "https://mindwave.app/assets/favicons/apple-touch-icon.png",
@@ -112,11 +140,12 @@ export const services = [
   },
   {
     Name: "Pigeon",
-    URL: "https://trypigeon.co",
     Category: "CRM",
+    URL: "https://trypigeon.co",
     Description:
       "Gmail, meet spreadsheet. CRM, mail merge, automated follow ups, canned responses, and many more features to spend less time on email.",
     Discount: "100%",
+    "Does it drive you into a paid account": "Maybe",
     Requirement: "Your business has been substantially affected by COVID-19",
     Favicon:
       "/assets/icon128-53d136bb0aa1c128a1a32fc3630d28eb4d3659aaa9fc748839e8d489221fe2f9.png",
@@ -125,12 +154,98 @@ export const services = [
     "More info URL": ""
   },
   {
+    Name: "Spike.sh",
+    Category: "Incident Management",
+    URL: "https://spike.sh",
+    Description:
+      "Spike is a simple incident management platform that alerts via slack, phone and email and automatic escalations to help teams fix infrastructure problems.",
+    Discount: "100%",
+    "Does it drive you into a paid account": "Maybe",
+    Requirement: "Free for COVID-19 projects",
+    Favicon: "",
+    "How to apply (text)": "Signup & email us covid19@spike.sh",
+    "How to apply (URL or email)": "covid19@spike.sh",
+    "More info URL": ""
+  },
+  {
+    Name: "Outline",
+    Category: "Writing Tools",
+    URL: "https://www.getoutline.com",
+    Description:
+      "Your team’s knowledge base - Team wiki, documentation, playbooks, onboarding & more…",
+    Discount: "100%",
+    "Does it drive you into a paid account": "Maybe",
+    Requirement:
+      "COVID-19 projects. Discounts available for affected industries",
+    Favicon: "",
+    "How to apply (text)": "Email: hello@getoutline.com",
+    "How to apply (URL or email)": "hello@getoutline.com",
+    "More info URL": ""
+  },
+  {
+    Name: "Lowdown",
+    Category: "Email",
+    URL: "https://getlowdown.com",
+    Description:
+      "Lowdown unleashes the valuable content locked within Slack and emails it to your members so they don't miss key information.",
+    Discount: "100%",
+    "Does it drive you into a paid account": "Maybe",
+    Requirement: "Free for Slack groups helping with COVID-19",
+    Favicon: "",
+    "How to apply (text)": "Sign up and then send us an email.",
+    "How to apply (URL or email)": "https://getlowdown.com/covid-19/",
+    "More info URL": ""
+  },
+  {
+    Name: "Productroad",
+    Category: "Productivity Tools",
+    URL: "https://productroad.com",
+    Description: "Customer feedback management",
+    Discount: "100%",
+    "Does it drive you into a paid account": "Maybe",
+    Requirement: "",
+    Favicon:
+      "https://productroad.com/static/images/favicon/productroad-64x64.png",
+    "How to apply (text)": "Contact in livechat",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
+  },
+  {
+    Name: "Kedaiweb",
+    Category: "eCommerce Software",
+    URL: "https://kedaiweb.co",
+    Description:
+      "The ecommerce system comes with four pre-built agent to help you get started faster · Kedaiweb.co",
+    Discount: "70%",
+    "Does it drive you into a paid account": "Maybe",
+    Requirement: "",
+    Favicon: "",
+    "How to apply (text)": "Signup & all addon up to 70% discount",
+    "How to apply (URL or email)": "https://kedaiweb.co",
+    "More info URL": ""
+  },
+  {
+    Name: "Remote OK",
+    Category: "Remote Work",
+    URL: "https://remoteok.io",
+    Description:
+      "Hire the best remote working talent in the world on Remote OK and reach millions of applicants, just like Amazon, Microsoft, Stripe, ESPN, Intercom, GoDaddy, Namecheap, Invision, Toptal and thousands more remote companies.",
+    Discount: "Job posting for $3",
+    "Does it drive you into a paid account": "Maybe, with the upsells.",
+    Requirement: "Disable logo options to get full discount.",
+    Favicon: "",
+    "How to apply (text)": "Just post a job",
+    "How to apply (URL or email)": "https://remoteok.io/hire-remotely",
+    "More info URL": ""
+  },
+  {
     Name: "Stadia Maps",
-    URL: "https://stadiamaps.com",
     Category: "Website Tools",
+    URL: "https://stadiamaps.com",
     Description:
       "Location made human: Map tiles, static maps, and routing for every app.",
     Discount: "50-100%",
+    "Does it drive you into a paid account": "Maybe",
     Requirement: "Attribution in maps",
     Favicon: "https://stadiamaps.com/favicon-32x32.png",
     "How to apply (text)": "Email: info@stadiamaps.com",
@@ -138,12 +253,43 @@ export const services = [
     "More info URL": ""
   },
   {
-    Name: "Remote Leaf",
-    URL: "https://remoteleaf.com",
-    Category: "Remote Work",
+    Name: "blucheq",
+    Category: "Project Management",
+    URL: "https://blucheq.com",
     Description:
-      "Remote Leaf aggregates remote jobs in one organised place from tons of  remote job boards, company career pages, linkedin, reddit, twitter,  facebook groups and hacker news hiring.",
+      "We help online businesses comply with privacy regulations like the GDPR and CCPA, including EU representation per GDPR's Article 27",
+    Discount: "50-100%",
+    "Does it drive you into a paid account": "Maybe",
+    Requirement: "Attribution on project website.",
+    Favicon: "",
+    "How to apply (text)": "E-mail: covid@blucheq.com",
+    "How to apply (URL or email)": "covid@blucheq.com",
+    "More info URL": "https://blucheq.com"
+  },
+  {
+    Name: "Project Central",
+    Category: "Project Management",
+    URL: "https://www.projectcentral.com",
+    Description:
+      "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     Discount: "50%",
+    "Does it drive you into a paid account":
+      "No, after 14-day free trial expires and it will then prompt for payment information.",
+    Requirement: "Users need a Microsoft Work account",
+    Favicon: "",
+    "How to apply (text)":
+      "Email support@projectcentral.com to receive discount code",
+    "How to apply (URL or email)": "support@projectcentral.com",
+    "More info URL": ""
+  },
+  {
+    Name: "Remote Leaf",
+    Category: "Remote Work",
+    URL: "https://remoteleaf.com",
+    Description:
+      "Remote Leaf aggregates remote jobs in one organised place from tons of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
+    Discount: "50%",
+    "Does it drive you into a paid account": "Maybe",
     Requirement: "",
     Favicon: "https://remoteleaf.com/static/leaf/img/leaf/Favicon%402x.png",
     "How to apply (text)": "Email: abi@remoteleaf.com",
@@ -152,11 +298,13 @@ export const services = [
   },
   {
     Name: "Burner Mail",
-    URL: "https://burnermail.io",
     Category: "Email",
+    URL: "https://burnermail.io",
     Description:
-      "One-click burner email addresses that you can use when signing up on  websites to protect your identity and prevent your personal email address  from being sold or spammed.",
+      "One-click burner email addresses that you can use when signing up on websites to protect your identity and prevent your personal email address from being sold or spammed.",
     Discount: "50%",
+    "Does it drive you into a paid account":
+      "Maybe, the discount is only applied to the first charge but it's possible to select 3 years.",
     Requirement: "",
     Favicon: "https://burnermail.io/favicon-196x196.png",
     "How to apply (text)": "Using coupon code: STAYINGHOME",
@@ -165,10 +313,11 @@ export const services = [
   },
   {
     Name: "DarwinMail",
-    URL: "https://www.darwinmail.app",
     Category: "Email",
+    URL: "https://www.darwinmail.app",
     Description: "DarwinMail is your golden ticket to a more productive day.",
     Discount: "50%",
+    "Does it drive you into a paid account": "Maybe",
     Requirement: "",
     Favicon:
       "https://www.darwinmail.app/mail/lib/manifest/apple-touch-icon.png",
@@ -178,10 +327,11 @@ export const services = [
   },
   {
     Name: "FindMeGigs",
-    URL: "https://findmegigs.com",
     Category: "Remote Work",
+    URL: "https://findmegigs.com",
     Description: "Bot that finds you jobs on Twitter",
     Discount: "30%",
+    "Does it drive you into a paid account": "Maybe",
     Requirement: "",
     Favicon: "assets/images/apple-touch-icon.png?v30674582845851",
     "How to apply (text)": "Just sign up using this link",
@@ -191,11 +341,12 @@ export const services = [
   },
   {
     Name: "Xeovo",
-    URL: "https://xeovo.com",
     Category: "VPN",
+    URL: "https://xeovo.com",
     Description:
       "Silence censorship. Protect your privacy and bypass restrictions with Xeovo VPN.",
     Discount: "30%",
+    "Does it drive you into a paid account": "Maybe",
     Requirement: "",
     Favicon: "https://xeovo.com/static/favicon.3fbbff7e00cb.ico",
     "How to apply (text)": "Use this code: StayHome2020",
@@ -203,25 +354,41 @@ export const services = [
     "More info URL": ""
   },
   {
-    Name: "Intention",
-    URL: "https://www.intention.nl",
-    Category: "Domain names",
+    Name: "Proxyman",
+    Category: "Developer Tools",
+    URL: "https://proxyman.io",
     Description:
-      "Dutch green hosting provider with clear fees and great support. They speak English as well, so feel free to contact them about your discount.",
-    Discount: "25%",
+      "Modern and Delightful HTTP Debugging Proxy. Proxyman is a high-performance macOS app, which enables developers to view HTTP/HTTPS requests from apps and domains from macOS & iPhone & Android",
+    Discount: "30%",
+    "Does it drive you into a paid account": "Maybe, it's a discount",
     Requirement: "",
-    Favicon: "fbrfg/apple-touch-icon.png",
-    "How to apply (text)": "Fill in their contact form",
-    "How to apply (URL or email)": "https://www.intention.nl/contact",
+    Favicon: "",
+    "How to apply (text)": "Coupon: PROXYMAN_STAY_SAFE_STAY_HEALTHY",
+    "How to apply (URL or email)": "https://proxyman.io/pricing",
+    "More info URL": ""
+  },
+  {
+    Name: "Hoverify",
+    Category: "Developer Tools",
+    URL: "https://tryhoverify.com",
+    Description:
+      "Hoverify makes inspecting, editing, copying HTML and CSS super easy by just hovering over the element. It also include various tools which lets you Hide and remove elements, Search, Pick colors and capture screenshots.",
+    Discount: "30%",
+    "Does it drive you into a paid account": "Maybe",
+    Requirement: "",
+    Favicon: "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
     "More info URL": ""
   },
   {
     Name: "FunRetro",
-    URL: "http://funretro.io",
     Category: "Remote Work",
+    URL: "http://funretro.io",
     Description:
       "Collaboration tool for remote teams to do agile retrospectives and other activities/meetings.",
     Discount: "25%",
+    "Does it drive you into a paid account": "Maybe",
     Requirement: "",
     Favicon: "https://funretro.io/apple-touch-icon.png",
     "How to apply (text)": "Email: info@funretro.io",
@@ -230,11 +397,12 @@ export const services = [
   },
   {
     Name: "JustCall",
-    URL: "https://justcall.io",
     Category: "Website Tools",
+    URL: "https://justcall.io",
     Description:
-      "JustCall is a cloud based phone system for your business. Integrates with  HubSpot, Intercom, Pipedrive, Salesforce & other CRM/Helpdesk tools.  Available on web, mobile and desktop.",
+      "JustCall is a cloud based phone system for your business. Integrates with HubSpot, Intercom, Pipedrive, Salesforce & other CRM/Helpdesk tools. Available on web, mobile and desktop.",
     Discount: "20%",
+    "Does it drive you into a paid account": "Maybe",
     Requirement:
       "20% off on subscription plans for 6 months. 70% off 1st month.",
     Favicon: "https://justcall.io/favicon.png",
@@ -245,16 +413,136 @@ export const services = [
   },
   {
     Name: "Helpwise",
-    URL: "https://helpwise.io",
     Category: "Email",
+    URL: "https://helpwise.io",
     Description:
-      "Helpwise is an easy to use shared inbox and email collaboration software  for teams to manage team email accounts like help@, sales@, etc. Get Shared  Inbox for your team now!",
+      "Helpwise is an easy to use shared inbox and email collaboration software for teams to manage team email accounts like help@, sales@, etc. Get Shared Inbox for your team now!",
     Discount: "20%",
+    "Does it drive you into a paid account": "Maybe",
     Requirement: "20% off for 12 months",
     Favicon: "https://cdn.helpwise.io/assets/images/favicon.png",
     "How to apply (text)":
       "Signup & upgrade. Ping support for 20% off for 12 months.",
     "How to apply (URL or email)": "https://helpwise.io",
+    "More info URL": ""
+  },
+  {
+    Name: "Reader Mode Premium",
+    Category: "Productivity Tools",
+    URL: "https://readermode.io",
+    Description:
+      "A feature-packed Reader Mode chrome extension with dyslexia support. Remove all clutter and view any article in a distraction-free readermode.",
+    Discount: "20%",
+    "Does it drive you into a paid account": "Maybe",
+    Requirement: "",
+    Favicon: "",
+    "How to apply (text)": "Use coupon code: stayathome",
+    "How to apply (URL or email)": "https://readermode.io/premium",
+    "More info URL": ""
+  },
+  {
+    Name: "Publisuites",
+    Category: "Ads",
+    URL: "https://www.publisuites.com",
+    Description:
+      "Sign up as a free advertiser and improve your content marketing with sponsored posts and texts for SEO",
+    Discount: "15% extra",
+    "Does it drive you into a paid account": "Maybe, it's an extra discount",
+    Requirement:
+      "Additional 15% of credit in the rechargings by applying coupon CSVCOVID.\nOnly for advertisers counts.",
+    Favicon: "",
+    "How to apply (text)": "Using coupon code: CSVCOVID",
+    "How to apply (URL or email)":
+      "https://www.publisuites.com/en/info-advertisers/",
+    "More info URL": ""
+  },
+  {
+    Name: "Retrospect.team",
+    Category: "Remote Work",
+    URL: "https://www.retrospect.team",
+    Description:
+      "Easily conduct end of sprint and project retrospectives with everyone on your team no matter their location.",
+    Discount: "Lifetime for $48, rather than $4/mo. ongoing.",
+    "Does it drive you into a paid account":
+      "No, but you have to pay a one time fee.",
+    Requirement: "",
+    Favicon: "/apple-touch-icon.png",
+    "How to apply (text)": "Signup & upgrade to PRO Lifetime Account for $48.",
+    "How to apply (URL or email)": "https://www.retrospect.team/",
+    "More info URL": ""
+  },
+  {
+    Name: "Leave Me Alone",
+    Category: "Productivity Tools",
+    URL: "https://leavemealone.app",
+    Description:
+      "See all of your subscription emails, newsletters, and spam in one place and unsubscribe from them with a single click. Take back control of your inbox.",
+    Discount: "Free 50 credits",
+    "Does it drive you into a paid account":
+      "Maybe, but you will not be automatically charged.",
+    Requirement: "",
+    Favicon: "",
+    "How to apply (text)": "Use coupon: HELPING_HAND on profile billing page",
+    "How to apply (URL or email)": "https://leavemealone.app/signup",
+    "More info URL": ""
+  },
+  {
+    Name: "Grow.com",
+    Category: "Business Intelligence",
+    URL: "https://www.grow.com",
+    Description:
+      "Business intelligence software that frees the insights you desperately need to fuel growth and transform your business.",
+    Discount: "Free 1 dashboard",
+    "Does it drive you into a paid account": "Maybe, with the upsells.",
+    Requirement: "Free 1 dashboard for 12 months.",
+    Favicon: "",
+    "How to apply (text)": "Fill out form on landing page",
+    "How to apply (URL or email)":
+      "https://www.grow.com/free-business-intelligence-spreadsheet-dashboard",
+    "More info URL": ""
+  },
+  {
+    Name: "CLINQ",
+    Category: "Remote Work",
+    URL: "https://clinq.com",
+    Description:
+      "Slack-Like Business Telephonie for Teams. Each channel has an own phone number for incoming and outgoing calls.",
+    Discount: "600 free minutes per user",
+    "Does it drive you into a paid account":
+      "Maybe, but you will not be automatically charged.",
+    Requirement: "",
+    Favicon: "",
+    "How to apply (text)": "No application needed",
+    "How to apply (URL or email)": "https://clinq.com/en/",
+    "More info URL": ""
+  },
+  {
+    Name: "PagerTree",
+    Category: "Incident Management",
+    URL: "https://pagertree.com",
+    Description:
+      "PagerTree on-call incident management gives devops teams flexible schedules, escalations, & reliable notifications via email, SMS, voice, & smartphone app.",
+    Discount: "3 months $3",
+    "Does it drive you into a paid account":
+      "Yes, but you can cancel your subscription any time.",
+    Requirement: "",
+    Favicon: "",
+    "How to apply (text)": "Email: support@pagertree.com",
+    "How to apply (URL or email)": "support@pagertree.com",
+    "More info URL": ""
+  },
+  {
+    Name: "SafeRequest",
+    Category: "Productivity Tools",
+    URL: "https://saferequest.net",
+    Description: "Safely receive files only you can open.",
+    Discount: "3 months for €3",
+    "Does it drive you into a paid account":
+      "Yes, but you can cancel your subscription any time.",
+    Requirement: "",
+    Favicon: "",
+    "How to apply (text)": "Signup, become a pro, use coupon code covid-19",
+    "How to apply (URL or email)": "https://saferequest.net/en/pricing",
     "More info URL": ""
   }
 ];
