@@ -378,34 +378,41 @@
       </p>
 
       <p class="text-xs text-white mt-20">
+        Public website stats by
         <a
           href="https://simpleanalytics.com/saasforcovid.com?ref=saasforcovid.com"
-          class="text-white"
-          >Public website stats by Simple Analytics</a
+          class="text-white underline"
+          >Simple Analytics</a
         >
-        -
+        - Washing icon by
         <a
           href="https://www.iconfinder.com/iconsets/stop-virus-outline-iconset?utm_source=saasforcovid.com"
-          class="text-white"
-          >Washing icon by LAFS</a
+          class="text-white underline"
+          >LAFS</a
         >
         <br />
         <a
           href="https://iconmonstr.com/paper-plane-1-psd/?utm_source=saasforcovid.com"
-          class="text-white"
-          >Paper plane by iconmonstr.com</a
+          class="text-white underline"
+          >Paper plane</a
         >
-        -
+        and
+        <a
+          href="https://iconmonstr.com/user-31-svg/?utm_source=saasforcovid.com"
+          class="text-white underline"
+          >users</a
+        >
+        by iconmonstr.com - Background vector created by
         <a
           href="https://www.freepik.com/free-photos-vectors/background?utm_source=saasforcovid.com"
-          class="text-white"
-          >Background vector created by freepik.com</a
+          class="text-white underline"
+          >freepik.com</a
         >
-        -
+        - Theme by
         <a
           href="https://www.tailwindtoolbox.com/templates/landing-page?utm_source=saasforcovid.com"
-          class="text-white"
-          >Theme by TailwindToolbox.com</a
+          class="text-white underline"
+          >TailwindToolbox.com</a
         >
       </p>
     </section>
@@ -517,7 +524,7 @@ export default {
               return service;
             })
             .sort(({ name: left }, { name: right }) => {
-              return left < right ? -1 : 1;
+              return left.toLowerCase() < right.toLowerCase() ? -1 : 1;
             })
             .sort(({ driveToPaid: left }, { driveToPaid: right }) => {
               if (left === "no" && ["yes", "maybe"].includes(right)) return -1;
