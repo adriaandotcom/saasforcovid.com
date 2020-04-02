@@ -416,6 +416,16 @@
         >
       </p>
     </section>
+
+    <div class="fixed bottom-0 right-0">
+      <a
+        class="flex items-center gradient px-3 py-2 rounded-tl-lg text-white border-t border-l"
+        href="https://twitter.com/intent/user?screen_name=AdriaanvRossum"
+      >
+        <img class="w-6 rounded-full mr-2" src="/adriaan.jpg" /> Created by
+        Adriaan
+      </a>
+    </div>
   </div>
 </template>
 
