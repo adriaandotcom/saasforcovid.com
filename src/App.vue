@@ -94,16 +94,63 @@
         >
           SaaS products with a COVID-19 discount
         </h1>
+
         <div class="w-full mb-4">
           <div
             class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"
           ></div>
         </div>
 
+        <div
+          class="mx-auto my-8 py-4 px-6 bg-white shadow border rounded flex items-center justify-center"
+        >
+          <p class="mr-4">Does it drive you into a paid account</p>
+          <ul class="inline-flex">
+            <li class="mr-2">
+              <a
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('no')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
+                @click="toggle('no')"
+                >No</a
+              >
+            </li>
+            <li class="mr-2">
+              <a
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('maybe')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
+                @click="toggle('maybe')"
+                >Maybe</a
+              >
+            </li>
+            <li class="mr-2">
+              <a
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('yes')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
+                @click="toggle('yes')"
+                >Yes</a
+              >
+            </li>
+          </ul>
+        </div>
         <div class="w-full flex flex-wrap" v-if="services">
           <a
             class="md:w-1/3 p-6 flex flex-col flex-shrink transform hover:scale-105 transition duration-150 ease-in-out"
-            v-for="service in services"
+            v-for="service in showServices"
             :key="service.id"
             :href="`${service.url}/?ref=saasforcovid.com`"
           >
@@ -124,7 +171,7 @@
                   />
                   {{ service.name }}
                 </div>
-                <p class="text-gray-800 text-base px-6 mb-5 mt-3">
+                <p class="text-gray-800 text-base px-6 mb-2 mt-3">
                   <span
                     class="inline-flex rounded-full bg-gray-300 px-2 text-xs font-bold "
                   >
@@ -142,38 +189,59 @@
                   </a>
                 </p>
                 <p
-                  class="text-red-600 text-xs px-6 mb-5"
+                  class="text-gray-600 text-xs px-6 mb-5"
                   v-if="service.requirement"
                 >
                   <strong>Requirement</strong>
                   {{ service.requirement }}
+                </p>
+                <p
+                  :class="
+                    `text-${service.driveToPaidColor ||
+                      'gray'}-600 text-xs px-6 mb-5`
+                  "
+                  v-if="service.driveToPaidText"
+                >
+                  {{ service.driveToPaidText }}
                 </p>
               </div>
             </div>
             <div
               class="flex-none mt-auto bg-white rounded-b rounded-t-none overflow-hidden shadow-lg p-6 "
             >
-              <p class="text-left text-sm">{{ service.how_to_apply_text }}</p>
+              <p class="text-left text-sm">
+                <span v-if="service.how_to_apply_text.endsWith('.')"
+                  >{{ service.how_to_apply_text }}
+                </span>
+                <span v-else-if="service.how_to_apply_text"
+                  >{{ service.how_to_apply_text }}.
+                </span>
+                <span v-if="service.discount.length > 10">{{
+                  service.discount
+                }}</span>
+              </p>
               <div class="flex items-center justify-start">
                 <a
                   :href="
-                    service.how_to_apply_url_or_email &&
-                    service.how_to_apply_url_or_email.includes('@')
+                    service.useEmail
                       ? `mailto:${service.how_to_apply_url_or_email}&subject=Discount%20to%20fight%20COVID-19`
                       : `${service.how_to_apply_url_or_email}?utm_source=saasforcovid.com`
                   "
-                  class="transform hover:scale-105 transition duration-150 ease-in-out mx-auto lg:mx-0 text-sm gradient text-white font-bold rounded-full mt-4 mb-2 py-4 px-8 shadow-lg"
+                  :class="
+                    `transform hover:scale-105 transition duration-150 ease-in-out mx-auto lg:mx-0 text-sm font-bold rounded-full mt-4 mb-2 px-8 shadow-lg ${
+                      service.useEmail
+                        ? 'text-custom-pink border-2 border-custom-pink py-3'
+                        : 'text-white gradient py-4'
+                    }`
+                  "
                 >
                   <svg
-                    v-if="
-                      service.how_to_apply_url_or_email &&
-                        service.how_to_apply_url_or_email.includes('@')
-                    "
+                    v-if="service.useEmail"
                     xmlns="http://www.w3.org/2000/svg"
                     width="24"
                     height="24"
                     viewBox="0 0 24 24"
-                    fill="white"
+                    fill="#ed6ea0"
                     class="inline mr-2 -ml-2"
                   >
                     <path
@@ -181,7 +249,10 @@
                     />
                   </svg>
 
-                  Get {{ service.discount }} discount
+                  <span v-if="service.discount.length > 10"
+                    >Get this discount</span
+                  >
+                  <span v-else>Get {{ service.discount }} discount</span>
                 </a>
               </div>
             </div>
@@ -198,7 +269,7 @@
         <h1
           class="w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800"
         >
-          Traffic
+          Why?
         </h1>
         <div class="w-full mb-4">
           <div
@@ -207,26 +278,38 @@
         </div>
       </div>
 
-      <p>
-        This website had <span id="pageviews"></span> page views in the last
-        month.
-      </p>
-      <p>
-        See more on
-        <a class="underline" href="https://simpleanalytics.com/saasforcovid.com"
-          >our public dashboard</a
-        >
-        of Simple Analytics
-      </p>
       <div
-        style="display: none;"
-        data-sa-graph-url="https://simpleanalytics.com/saasforcovid.com?color=259145"
-        data-sa-page-views-selector="#pageviews"
+        class="flex flex-wrap container mx-auto justify-center items-start text-left md:text-center"
       >
-        <p>
-          Ad blockers don't like the Simple Analytics embed, disable yours to
-          view this graph.
-        </p>
+        <div class="w-full md:w-1/3 p-4">
+          <h4 class="text-xl font-bold leading-tight text-gray-800 mb-4">
+            Fight COVID-19
+          </h4>
+          <p>
+            To help build amazing tools some SaaS business have made their
+            products cheaper of even for free. This way makers can help with
+            fighting COVID-19.
+          </p>
+        </div>
+        <div class="w-full md:w-1/3 p-4">
+          <h4 class="text-xl font-bold leading-tight text-gray-800 mb-4">
+            Inspire
+          </h4>
+          <p>
+            To inspire other businesses to do the same it makes sense to show a
+            list of businesses helping in this crisis. If more business give
+            their products for free we can fight COVID-19 better together.
+          </p>
+        </div>
+        <div class="w-full md:w-1/3 p-4">
+          <h4 class="text-xl font-bold leading-tight text-gray-800 mb-4">
+            Support businesses
+          </h4>
+          <p>
+            Some business have a harder time because of the COVID-19 virus. To
+            generate more traffic to them we help them with this initiative.
+          </p>
+        </div>
       </div>
     </section>
 
@@ -337,8 +420,17 @@ export default {
   name: "App",
   data() {
     return {
-      services
+      services,
+      show: ["maybe", "no"]
     };
+  },
+
+  computed: {
+    showServices() {
+      return this.services.filter(({ driveToPaid }) => {
+        return this.show.includes(driveToPaid);
+      });
+    }
   },
 
   methods: {
@@ -351,6 +443,11 @@ export default {
     cleanValue(key, value) {
       if (key === "category" && value.startsWith("Other")) return "Other";
       return value;
+    },
+    toggle(type) {
+      const add = !this.show.includes(type);
+      if (add) this.show.push(type);
+      else this.show.splice(this.show.indexOf(type), 1);
     }
   },
 
@@ -372,14 +469,62 @@ export default {
             }, {});
           });
 
-          this.services = clean.map(service => {
-            if (service.favicon)
-              service.favicon_url =
-                service.favicon && service.favicon.includes("http")
-                  ? service.favicon
-                  : service.url + "/" + service.favicon;
-            return service;
-          });
+          this.services = clean
+            .filter(
+              ({ description, name, category }) =>
+                description && name && category
+            )
+            .map(service => {
+              const {
+                does_it_drive_you_into_a_paid_account: paid,
+                favicon
+              } = service;
+              if (favicon)
+                service.favicon_url =
+                  favicon && favicon.includes("http")
+                    ? favicon
+                    : service.url + "/" + favicon;
+
+              if (paid) {
+                if (/^maybe/i.test(paid)) {
+                  service.driveToPaid = "maybe";
+                  service.driveToPaidColor = "orange";
+                  service.driveToPaidText =
+                    "Warning: It may drive you into a paid account";
+                }
+                if (/^no/i.test(paid)) {
+                  service.driveToPaid = "no";
+                  service.driveToPaidColor = "green";
+                  service.driveToPaidText =
+                    "It does not drive you into a paid account";
+                }
+                if (/^yes/i.test(paid)) {
+                  service.driveToPaid = "yes";
+                  service.driveToPaidColor = "red";
+                  service.driveToPaidText =
+                    "Warning: It drives you into a paid account";
+                }
+                service.driveToPaidText += paid.includes(",")
+                  ? ", " + paid.split(",")[1].trim()
+                  : ".";
+              }
+
+              service.useEmail =
+                service.how_to_apply_url_or_email &&
+                service.how_to_apply_url_or_email.includes("@");
+
+              return service;
+            })
+            .sort(({ name: left }, { name: right }) => {
+              return left < right ? -1 : 1;
+            })
+            .sort(({ driveToPaid: left }, { driveToPaid: right }) => {
+              if (left === "no" && ["yes", "maybe"].includes(right)) return -1;
+              if (left === "yes" && ["no", "maybe"].includes(right)) return 1;
+              if (left === "maybe" && ["yes"].includes(right)) return -1;
+              if (left === "maybe" && ["no"].includes(right)) return 1;
+              return 0;
+            });
         }
       })
       .catch(e => {
