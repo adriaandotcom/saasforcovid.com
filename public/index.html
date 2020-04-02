@@ -73,8 +73,12 @@
     <!-- Styling -->
     <link
       rel="stylesheet"
-      href="https://unpkg.com/tailwindcss/dist/tailwind.min.css"
+      href="https://unpkg.com/tailwindcss@1.2.0/dist/tailwind.min.css"
+      integrity="sha384-E51zwM2RXfsr6dyVjhDmacr1PgikzlC+prmOn6JXe782mmAK847mRmUMYnicdKoZ"
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
     />
+
     <style>
       .gradient {
         background-image: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);
@@ -91,7 +95,11 @@
     </style>
 
     <!-- Privacy friendly analytics, no cookies, no fingerprints -->
-    <script async defer src="https://cdn.simpleanalytics.io/hello.js"></script>
+    <script
+      async
+      crossorigin="anonymous"
+      src="https://scripts.simpleanalyticscdn.com/latest.js"
+    ></script>
   </head>
   <body class="leading-normal tracking-normal text-white gradient">
     <noscript
@@ -105,6 +113,9 @@
     </noscript>
     <div id="app"></div>
     <!-- built files will be auto injected -->
-    <script src="https://cdn.simpleanalytics.io/embed.js"></script>
+    <script
+      src="https://cdn.simpleanalytics.io/embed.js"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>

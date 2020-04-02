@@ -147,7 +147,14 @@
             </li>
           </ul>
         </div>
-        <div class="w-full flex flex-wrap" v-if="services">
+
+        <div class="px-4 w-full my-2" v-if="error">
+          <p class="border-2 border-red-400 rounded inline p-2 text-red-600">
+            {{ error }}
+          </p>
+        </div>
+
+        <div class="w-full flex flex-wrap" v-if="showServices.length">
           <a
             class="md:w-1/3 p-6 flex flex-col flex-shrink transform hover:scale-105 transition duration-150 ease-in-out"
             v-for="service in showServices"
@@ -258,8 +265,11 @@
             </div>
           </a>
         </div>
-        <div v-else class="w-full mt-8">
+        <div v-else-if="loading" class="w-full mt-8">
           <p class="text-center">Loading products...</p>
+        </div>
+        <div v-else class="w-full mt-8">
+          <p class="text-center">Select an option above.</p>
         </div>
       </div>
     </section>
@@ -438,14 +448,82 @@ export default {
   name: "App",
   data() {
     return {
-      services,
+      json: null,
+      error: null,
+      services: [],
+      loading: true,
       show: ["maybe", "no"]
     };
   },
 
   computed: {
     showServices() {
-      return this.services.filter(({ driveToPaid }) => {
+      if (!this.json) return [];
+      const clean = this.json.map(service => {
+        return Object.keys(service).reduce((c, k) => {
+          const key = this.cleanKey(k);
+          c[key] = this.cleanValue(key, service[k]);
+          return c;
+        }, {});
+      });
+
+      const showServices = clean
+        .filter(
+          ({ description, name, category }) => description && name && category
+        )
+        .map(service => {
+          const {
+            does_it_drive_you_into_a_paid_account: paid,
+            favicon
+          } = service;
+          if (favicon)
+            service.favicon_url =
+              favicon && favicon.includes("http")
+                ? favicon
+                : service.url + "/" + favicon;
+
+          if (paid) {
+            if (/^maybe/i.test(paid)) {
+              service.driveToPaid = "maybe";
+              service.driveToPaidColor = "orange";
+              service.driveToPaidText =
+                "Warning: It may drive you into a paid account";
+            }
+            if (/^no/i.test(paid)) {
+              service.driveToPaid = "no";
+              service.driveToPaidColor = "green";
+              service.driveToPaidText =
+                "It does not drive you into a paid account";
+            }
+            if (/^yes/i.test(paid)) {
+              service.driveToPaid = "yes";
+              service.driveToPaidColor = "red";
+              service.driveToPaidText =
+                "Warning: It drives you into a paid account";
+            }
+            service.driveToPaidText += paid.includes(",")
+              ? ", " + paid.split(",")[1].trim()
+              : ".";
+          }
+
+          service.useEmail =
+            service.how_to_apply_url_or_email &&
+            service.how_to_apply_url_or_email.includes("@");
+
+          return service;
+        })
+        .sort(({ name: left }, { name: right }) => {
+          return left.toLowerCase() < right.toLowerCase() ? -1 : 1;
+        })
+        .sort(({ driveToPaid: left }, { driveToPaid: right }) => {
+          if (left === "no" && ["yes", "maybe"].includes(right)) return -1;
+          if (left === "yes" && ["no", "maybe"].includes(right)) return 1;
+          if (left === "maybe" && ["yes"].includes(right)) return -1;
+          if (left === "maybe" && ["no"].includes(right)) return 1;
+          return 0;
+        });
+
+      return showServices.filter(({ driveToPaid }) => {
         return this.show.includes(driveToPaid);
       });
     }
@@ -477,76 +555,15 @@ export default {
       .then(response => {
         const csv = response && response.data ? response.data : null;
         if (csv) {
-          const json = csv2json(csv, { parseNumbers: true });
-
-          const clean = json.map(service => {
-            return Object.keys(service).reduce((c, k) => {
-              const key = this.cleanKey(k);
-              c[key] = this.cleanValue(key, service[k]);
-              return c;
-            }, {});
-          });
-
-          this.services = clean
-            .filter(
-              ({ description, name, category }) =>
-                description && name && category
-            )
-            .map(service => {
-              const {
-                does_it_drive_you_into_a_paid_account: paid,
-                favicon
-              } = service;
-              if (favicon)
-                service.favicon_url =
-                  favicon && favicon.includes("http")
-                    ? favicon
-                    : service.url + "/" + favicon;
-
-              if (paid) {
-                if (/^maybe/i.test(paid)) {
-                  service.driveToPaid = "maybe";
-                  service.driveToPaidColor = "orange";
-                  service.driveToPaidText =
-                    "Warning: It may drive you into a paid account";
-                }
-                if (/^no/i.test(paid)) {
-                  service.driveToPaid = "no";
-                  service.driveToPaidColor = "green";
-                  service.driveToPaidText =
-                    "It does not drive you into a paid account";
-                }
-                if (/^yes/i.test(paid)) {
-                  service.driveToPaid = "yes";
-                  service.driveToPaidColor = "red";
-                  service.driveToPaidText =
-                    "Warning: It drives you into a paid account";
-                }
-                service.driveToPaidText += paid.includes(",")
-                  ? ", " + paid.split(",")[1].trim()
-                  : ".";
-              }
-
-              service.useEmail =
-                service.how_to_apply_url_or_email &&
-                service.how_to_apply_url_or_email.includes("@");
-
-              return service;
-            })
-            .sort(({ name: left }, { name: right }) => {
-              return left.toLowerCase() < right.toLowerCase() ? -1 : 1;
-            })
-            .sort(({ driveToPaid: left }, { driveToPaid: right }) => {
-              if (left === "no" && ["yes", "maybe"].includes(right)) return -1;
-              if (left === "yes" && ["no", "maybe"].includes(right)) return 1;
-              if (left === "maybe" && ["yes"].includes(right)) return -1;
-              if (left === "maybe" && ["no"].includes(right)) return 1;
-              return 0;
-            });
+          this.json = csv2json(csv, { parseNumbers: true });
+          this.loading = false;
         }
       })
       .catch(e => {
         console.error(e);
+        this.json = services;
+        this.loading = false;
+        this.error = "Oops. Couldn't load an up to date version";
       });
   }
 };
