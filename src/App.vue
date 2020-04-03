@@ -476,11 +476,23 @@ export default {
             does_it_drive_you_into_a_paid_account: paid,
             favicon
           } = service;
-          if (favicon)
-            service.favicon_url =
-              favicon && favicon.includes("http")
-                ? favicon
-                : service.url + "/" + favicon;
+          if (favicon) {
+            const url = !service.url.startsWith("http")
+              ? `https://${service.url}`
+              : service.url;
+            const parts = url.split("/");
+            if (parts && parts[2]) {
+              const hostname = parts[2];
+              const faviconUrl = !favicon.startsWith("http")
+                ? `http://${hostname}${
+                    favicon.startsWith("/") ? favicon : `/${favicon}`
+                  }`
+                : favicon;
+              service.favicon_url = faviconUrl.startsWith("https")
+                ? faviconUrl.split("?")[0]
+                : null;
+            }
+          }
 
           if (paid) {
             if (/^maybe/i.test(paid)) {
