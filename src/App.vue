@@ -400,6 +400,12 @@
           class="text-white underline"
           >LAFS</a
         >
+        - Code is on
+        <a
+          href="https://github.com/adriaanvanrossum/saasforcovid.com?utm_source=saasforcovid.com"
+          class="text-white underline"
+          >GitHub</a
+        >
         <br />
         <a
           href="https://iconmonstr.com/paper-plane-1-psd/?utm_source=saasforcovid.com"
