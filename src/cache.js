@@ -237,7 +237,7 @@ export const services = [
     Discount: "70%",
     "Does it drive you into a paid account": "Maybe",
     Requirement: "",
-    Favicon: "",
+    Favicon: "https://kedaiweb.co/v4/apple-touch-icon.png",
     "How to apply (text)": "Signup & all addon up to 70% discount",
     "How to apply (URL or email)": "https://kedaiweb.co",
     "More info URL": ""
@@ -1187,7 +1187,7 @@ export const services = [
     Requirement: "Covid-19 related",
     Favicon: "https://coast-wp.imgix.net/img/icons/favicon.ico",
     "How to apply (text)": "Sign up for free",
-    "How to apply (URL or email)": "Sign up for free",
+    "How to apply (URL or email)": "https://coastapp.com",
     "More info URL": ""
   },
   {
@@ -1219,7 +1219,7 @@ export const services = [
     Favicon:
       "https://cdn.skyler.awsprod.workato.com/assets/favicon/apple-touch-icon-57x57-fce29c54d4bb560f60cd521ec8697d43.png",
     "How to apply (text)": "Signup for free or contact us",
-    "How to apply (URL or email)": "",
+    "How to apply (URL or email)": "http://www.workato.com",
     "More info URL": ""
   },
   {
@@ -1469,7 +1469,7 @@ export const services = [
     Requirement: "",
     Favicon: "https://kidpofy.com/assets/img/favicon.png",
     "How to apply (text)": "Automatically on sign up",
-    "How to apply (URL or email)": "",
+    "How to apply (URL or email)": "https://kidpofy.com",
     "More info URL": ""
   },
   {
@@ -1593,7 +1593,7 @@ export const services = [
     Requirement: "",
     Favicon: "/icons/icon-48x48.png?v=72374989b7a3ea68c356480ba6fc2535",
     "How to apply (text)": "Contact via chat",
-    "How to apply (URL or email)": "",
+    "How to apply (URL or email)": "https://upflow.io",
     "More info URL": ""
   },
   {
@@ -1624,8 +1624,8 @@ export const services = [
     Requirement: "No payment method or anything",
     Favicon: "logo.png",
     "How to apply (text)": "Just sign up",
-    "How to apply (URL or email)": "",
-    "More info URL": "https://getjames.app"
+    "How to apply (URL or email)": "https://getjames.app",
+    "More info URL": ""
   },
   {
     Name: "CustomFit.ai",

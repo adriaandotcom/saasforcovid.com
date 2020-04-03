@@ -159,7 +159,13 @@
             class="md:w-1/3 p-6 flex flex-col flex-shrink transform hover:scale-105 transition duration-150 ease-in-out"
             v-for="service in showServices"
             :key="service.id"
-            :href="`${service.url}/?ref=saasforcovid.com`"
+            :href="
+              service.how_to_apply_url_or_email.includes('@')
+                ? `${service.url}/?ref=saasforcovid.com`
+                : service.how_to_apply_url_or_email.includes('?')
+                ? `${service.how_to_apply_url_or_email}&ref=saasforcovid.com`
+                : `${service.how_to_apply_url_or_email}?ref=saasforcovid.com`
+            "
           >
             <div
               class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow"
