@@ -566,6 +566,8 @@ export default {
   },
 
   created() {
+    this.json = services;
+
     axios
       .get(
         `https://docs.google.com/spreadsheets/d/e/2PACX-1vSb8E61f73swPO9Mdvo3u2buf-pglEpgLHOa8wFpRzUtn3_8Dcf7cxhi-lGlJL9yOLXjIBBWw4UsYL9/pub?gid=0&single=true&output=csv`
