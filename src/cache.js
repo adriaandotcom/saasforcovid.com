@@ -159,7 +159,7 @@ export const services = [
     Discount: "100%",
     "Does it drive you into a paid account": "No",
     Requirement: "Free for COVID-19 projects",
-    Favicon: "/spike-badge-180.png",
+    Favicon: "",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -207,7 +207,7 @@ export const services = [
     Favicon:
       "https://productroad.com/static/images/favicon/productroad-64x64.png",
     "How to apply (text)": "Contact in livechat",
-    "How to apply (URL or email)": "",
+    "How to apply (URL or email)": "https://productroad.com",
     "More info URL": ""
   },
   {
@@ -407,7 +407,7 @@ export const services = [
     Requirement: "",
     Favicon: "fav.ico",
     "How to apply (text)": "",
-    "How to apply (URL or email)": "",
+    "How to apply (URL or email)": "https://tryhoverify.com",
     "More info URL": ""
   },
   {
@@ -485,7 +485,7 @@ export const services = [
     Discount: "20%",
     "Does it drive you into a paid account": "Maybe",
     Requirement: "",
-    Favicon: "/apple-touch-icon.png",
+    Favicon: "",
     "How to apply (text)": "Use coupon code: stayathome",
     "How to apply (URL or email)": "https://readermode.io/premium",
     "More info URL": ""
@@ -603,6 +603,22 @@ export const services = [
     "How to apply (text)": "Signup, become a pro, use coupon code covid-19",
     "How to apply (URL or email)": "https://saferequest.net/en/pricing",
     "More info URL": ""
+  },
+  {
+    Name: "NetNut",
+    Approved: "",
+    Category: "Data collection",
+    URL: "https://netnut.io/",
+    Description:
+      "NetNut is the fastest residential proxy network for businesses. Gather any web data & never get blocked again.",
+    Discount: "50% for all packages",
+    "Does it drive you into a paid account": "Maybe",
+    Requirement: "New customers",
+    Favicon:
+      "https://netnut.io/wp-content/uploads/2019/06/cropped-Favicon-transparent-32x32.png",
+    "How to apply (text)": "Email jeffy@netnut.io",
+    "How to apply (URL or email)": "https://l.netnut.io/saasforcovid",
+    "More info URL": "https://netnut.io/"
   },
   {
     Name: "Webflow",
@@ -732,7 +748,7 @@ export const services = [
     Requirement: "Less than 100 devices.",
     Favicon: "/favicon.ico?r=124",
     "How to apply (text)": "No application needed",
-    "How to apply (URL or email)": "",
+    "How to apply (URL or email)": "https://my.zerotier.com",
     "More info URL": "www.zerotier.com"
   },
   {
@@ -1775,5 +1791,173 @@ export const services = [
     "How to apply (URL or email)":
       "https://lp.kernelcare.com/kernelcare-for-free-for-healthcare",
     "More info URL": "https://www.kernelcare.com/product/"
+  },
+  {
+    Name: "Noisli",
+    Approved: "",
+    Category: "Productivity Tools",
+    URL: "https://www.noisli.com",
+    Description:
+      "Noisli provides background sounds that help to mask distracting noises and create a personal sound environment for calm and focus.",
+    Discount: "Free 2 months of the Business plan",
+    "Does it drive you into a paid account":
+      "Yes, but you can cancel at any time and before any payment takes place",
+    Requirement: "Free for Businesses impacted by COVID-1",
+    Favicon: "https://about.noisli.com/assets/icons/icon-196x196.png",
+    "How to apply (text)": "Fill in the request form",
+    "How to apply (URL or email)":
+      "https://support.noisli.com/coronavirus-response",
+    "More info URL": "https://support.noisli.com/coronavirus-response"
+  },
+  {
+    Name: "Databand",
+    Approved: "",
+    Category: "Monitoring",
+    URL: "https://databand.ai/",
+    Description:
+      "Databand provides monitoring and observability for data pipelines. Instantly discover data quality issues and the root cause of pipeline failures.",
+    Discount: "Free for 3 months",
+    "Does it drive you into a paid account":
+      "100% free for COVID-related data projects",
+    Requirement: "100% free for COVID-related data projects",
+    Favicon:
+      "https://databand.ai/wp-content/uploads/2019/11/Databand-Icon-150x150.png",
+    "How to apply (text)": "Fill out demo request form",
+    "How to apply (URL or email)": "https://databand.ai/request-demo/",
+    "More info URL": ""
+  },
+  {
+    Name: "Status Hero",
+    Approved: "",
+    Category: "Management Tools",
+    URL: "https://statushero.com",
+    Description:
+      "Status Hero is a lightweight application for tracking daily goals, activity logs from your tools, and status check-ins from your team, all in one place. Remote teams love it. Sync up your team, kill stand-up meetings, inform stakeholders, and quickly cut through all of the management noise.",
+    Discount: "Free for 6 months",
+    "Does it drive you into a paid account": "Yes",
+    Requirement: "COVID-19 related, non-profit organizations",
+    Favicon: "/pwa/apple-icon-180.png?vv2360",
+    "How to apply (text)":
+      "Create a free trial and message support from within your account",
+    "How to apply (URL or email)": "https://statushero.com/signup",
+    "More info URL": "https://statushero.com"
+  },
+  {
+    Name: "Pleo",
+    Approved: "",
+    Category: "Finance",
+    URL: "https://www.pleo.io",
+    Description:
+      "Pleo offers smart company credit & virtual cards that simplify any company spending.",
+    Discount: "Free until July",
+    "Does it drive you into a paid account": "No",
+    Requirement: "None",
+    Favicon: "",
+    "How to apply (text)": "Fill out demo request form",
+    "How to apply (URL or email)": "https://www.pleo.io",
+    "More info URL": ""
+  },
+  {
+    Name: "Writing Analytics",
+    Approved: "",
+    Category: "Writing Tools",
+    URL: "https://www.writinganalytics.co",
+    Description:
+      "Writing Analytics is a writing tracker that helps authors and bloggers build a sustainable writing routine.",
+    Discount: "Free until 1 June",
+    "Does it drive you into a paid account":
+      "No (cancels automatically at the end of the free period)",
+    Requirement: "None",
+    Favicon: "/assets/icons/apple-touch-icon.png",
+    "How to apply (text)": "Just sign up",
+    "How to apply (URL or email)":
+      "https://app.writinganalytics.co/signup/covid-19",
+    "More info URL": "https://www.writinganalytics.co/posts/covid-19/"
+  },
+  {
+    Name: "College Life Work",
+    Approved: "",
+    Category: "Recruitment",
+    URL: "https://collegelife.co/work/",
+    Description:
+      "College Life Work is a career platform for top international students & graduates.",
+    Discount: "Free for 3 months",
+    "Does it drive you into a paid account": "Yes",
+    Requirement: "None",
+    Favicon:
+      "https://collegelife.co/work/wp-content/uploads/2019/06/cropped-cropped-Artboard-1-2-1-32x32.png",
+    "How to apply (text)":
+      'Sign up and send email with subject "COVID" to info@collegelife.co',
+    "How to apply (URL or email)": "info@collegelife.co",
+    "More info URL": "https://collegelife.co/nl/employers/"
+  },
+  {
+    Name: "CloudForecast",
+    Approved: "",
+    Category: "Developer Tools",
+    URL: "https://www.cloudforecast.io",
+    Description:
+      "CloudForecast helps companies monitor and eliminate wasted AWS cost without",
+    Discount: "Free for 2 months",
+    "Does it drive you into a paid account":
+      "No - We have an option where no Credit Card is required to start a free-trial.",
+    Requirement: "None",
+    Favicon: "images/webclip.png",
+    "How to apply (text)": "Email tony@cloudforecast.io with subject COVID",
+    "How to apply (URL or email)": "https://app.cloudforecast.io/users/sign_up",
+    "More info URL": "www.cloudforecast.io"
+  },
+  {
+    Name: "PandaDoc Free eSignatures",
+    Approved: "",
+    Category: "Sales Tools",
+    URL: "https://www.pandadoc.com/",
+    Description:
+      "PandaDoc is offering a new free eSign plan to securely send an unlimited number of documents for signatures and collect payments.",
+    Discount: "100%",
+    "Does it drive you into a paid account":
+      "No need for payment information and free forever",
+    Requirement: "None",
+    Favicon:
+      "//assets.cdnpandadoc.com/app/packages/www-merge/img/fav/icon-180-509eb5f708.png",
+    "How to apply (text)": "Sign up on the website from this page",
+    "How to apply (URL or email)":
+      "https://signup.pandadoc.com/?plan=rec_plans_v4_free",
+    "More info URL":
+      "https://www.pandadoc.com/free-electronic-signature-software/"
+  },
+  {
+    Name: "Qualified",
+    Approved: "",
+    Category: "Assessments",
+    URL: "https://www.qualified.io",
+    Description:
+      "Qualified is the most effective platform for assessing software developers. Use it for education, certification and recruiting.",
+    Discount: "Free for 1st year",
+    "Does it drive you into a paid account":
+      "No - 1st year free but no credit card required",
+    Requirement: "New K-12 customers",
+    Favicon: "/favicon-f99f13ec.ico",
+    "How to apply (text)": "Complete request trial form",
+    "How to apply (URL or email)":
+      "https://www.qualified.io/signup?utm_source=saasforcovid",
+    "More info URL":
+      "https://www.qualified.io/blog/posts/qualified-and-codewars-are-free-for-k-12-teachers-and-students"
+  },
+  {
+    Name: "Designmodo",
+    Approved: "",
+    Category: "Developer Tools",
+    URL: "https://designmodo.com/freemonth/",
+    Description:
+      "Timesaving tools for designers and developers. Website and Email Builders.",
+    Discount: "Free for 1st month",
+    "Does it drive you into a paid account":
+      "No (You can cancel the subscription directly from your account.)",
+    Requirement: "None",
+    Favicon: "i/favicon.png",
+    "How to apply (text)": "Use coupon code FREEMONTH during checkout.",
+    "How to apply (URL or email)": "https://designmodo.com/freemonth/",
+    "More info URL": "https://designmodo.com/freemonth/"
   }
 ];
