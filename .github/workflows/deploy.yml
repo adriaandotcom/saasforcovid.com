@@ -16,6 +16,10 @@ jobs:
         id: date
         run: echo "::set-output name=date::$(date -u +'%Y-%m-%dT%H:%M:%SZ')"
 
+      - name: Get last commit
+        id: commit
+        run: echo "::set-output name=hash::$(git rev-parse HEAD)"
+
       - name: Build
         run: |
           npm install --only=dev
@@ -24,6 +28,7 @@ jobs:
         env:
           CI: true
           NODE_ENV: production
+          VUE_APP_COMMIT_HASH: ${{steps.commit.outputs.hash}}
           VUE_APP_BUILD_DATE: ${{steps.date.outputs.date}}
 
       - name: Deploy

@@ -418,7 +418,11 @@
       <p class="text-xs text-white mt-20">
         <span v-if="buildDate"
           ><a
-            href="https://github.com/adriaanvanrossum/saasforcovid.com/commits/master"
+            :href="
+              `https://github.com/adriaanvanrossum/saasforcovid.com/${
+                commitHash ? `commit/${commitHash}` : 'commits/master'
+              }`
+            "
             class="text-white underline"
             >Last build</a
           >
@@ -493,6 +497,7 @@ import { services } from "./cache";
 import { format } from "timeago.js";
 
 const BUILD_DATE = process.env.VUE_APP_BUILD_DATE;
+const COMMIT_HASH = process.env.VUE_APP_COMMIT_HASH;
 
 export default {
   name: "App",
@@ -503,6 +508,7 @@ export default {
       services: [],
       loading: true,
       buildDate: BUILD_DATE ? format(BUILD_DATE) : null,
+      commitHash: COMMIT_HASH,
       show: ["maybe", "no"],
     };
   },

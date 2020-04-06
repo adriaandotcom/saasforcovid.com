@@ -29,11 +29,16 @@ jobs:
         with:
           commit_message: Update cache from Google Sheet
 
+      - name: Get last commit
+        id: commit
+        run: echo "::set-output name=hash::$(git rev-parse HEAD)"
+
       - name: Build app
         run: npm run build
         env:
           CI: true
           NODE_ENV: production
+          VUE_APP_COMMIT_HASH: ${{steps.commit.outputs.hash}}
           VUE_APP_BUILD_DATE: ${{steps.date.outputs.date}}
 
       - name: Deploy
