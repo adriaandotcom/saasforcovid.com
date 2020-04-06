@@ -14,12 +14,14 @@ jobs:
 
       - name: Build
         run: |
+          echo $DATE
           npm install --only=dev
           npm install
           npm run build
         env:
           CI: true
           NODE_ENV: production
+          DATE: ${{ date -u +"%Y-%m-%dT%H:%M:%SZ" }}
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
