@@ -8,14 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    container: node:12
 
     steps:
       - uses: actions/checkout@v2
-
-      - name: Use Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: "*"
 
       - name: Build
         run: |
