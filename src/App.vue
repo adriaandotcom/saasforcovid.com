@@ -415,23 +415,27 @@
           class="text-white underline"
           >LAFS</a
         >
-        - Code is on
+        - Code is
         <a
           href="https://github.com/adriaanvanrossum/saasforcovid.com?utm_source=saasforcovid.com"
           class="text-white underline"
-          >GitHub</a
+          >open source</a
         >
         <br />
         <a
           href="https://iconmonstr.com/paper-plane-1-psd/?utm_source=saasforcovid.com"
           class="text-white underline"
           >Paper plane</a
-        >
-        and
+        >,
         <a
           href="https://iconmonstr.com/user-31-svg/?utm_source=saasforcovid.com"
           class="text-white underline"
           >users</a
+        >, and
+        <a
+          href="https://iconmonstr.com/flag-14-svg/?utm_source=saasforcovid.com"
+          class="text-white underline"
+          >flag</a
         >
         by iconmonstr.com - Background vector created by
         <a
