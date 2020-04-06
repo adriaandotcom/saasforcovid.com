@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "",
+    "Favicon": "/spike-badge-180.png",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -2588,5 +2588,33 @@ export const services = [
     "How to apply (text)": "Send message to: info@learnermobile.com",
     "How to apply (URL or email)": "info@learnermobile.com",
     "More info URL": ""
+  },
+  {
+    "Name": "Zenefits",
+    "Approved": "",
+    "Category": "HR",
+    "URL": "www.zenefits.com",
+    "Description": "Zenefits is an all-in-one HR system that helps you manage payroll, benefits, and HR to keep you business running smoothly.",
+    "Discount": "Free payroll services",
+    "Does it drive you into a paid account": "Yes, with an annual contract of base HR.",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Sign up on website",
+    "How to apply (URL or email)": "https://www.zenefits.com/learn/free-payroll-for-a-year/?utm_source=saasforcovid&utm_medium=direct&utm_campaign=03-2020-free-payroll-for-a-year",
+    "More info URL": "https://www.zenefits.com/learn/free-payroll-for-a-year/?utm_source=saasforcovid&utm_medium=direct&utm_campaign=03-2020-free-payroll-for-a-year"
+  },
+  {
+    "Name": "Weglot",
+    "Approved": "",
+    "Category": "Website Tools",
+    "URL": "https://weglot.com/",
+    "Description": "Weglot is a SaaS startup that allows companies of all sizes to make their websites multilingual in a few minutes and without the need for technical skills.",
+    "Discount": "offer temporary Weglot accounts to any website related to providing information about COVID-19",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "to any website related to providing information about COVID-19",
+    "Favicon": "",
+    "How to apply (text)": "1. Sign up to Weglot 2. Send an email to coronavirus@weglot.com 3. We activate the plan for free",
+    "How to apply (URL or email)": "coronavirus@weglot.com",
+    "More info URL": "N/A"
   }
 ]
