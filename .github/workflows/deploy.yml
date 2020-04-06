@@ -18,7 +18,6 @@ jobs:
 
       - name: Build
         run: |
-          echo today's date: $(date +%d-%m-%Y)
           echo env date: $DATE
           npm install --only=dev
           npm install
