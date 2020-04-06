@@ -108,39 +108,33 @@
           <ul class="inline-flex">
             <li class="mr-2">
               <a
-                :class="
-                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                    show.includes('no')
-                      ? 'bg-custom-pink text-white'
-                      : 'text-custom-pink bg-gray-300'
-                  }`
-                "
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('no')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
                 @click="toggle('no')"
                 >No</a
               >
             </li>
             <li class="mr-2">
               <a
-                :class="
-                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                    show.includes('maybe')
-                      ? 'bg-custom-pink text-white'
-                      : 'text-custom-pink bg-gray-300'
-                  }`
-                "
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('maybe')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
                 @click="toggle('maybe')"
                 >Maybe</a
               >
             </li>
             <li class="mr-2">
               <a
-                :class="
-                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                    show.includes('yes')
-                      ? 'bg-custom-pink text-white'
-                      : 'text-custom-pink bg-gray-300'
-                  }`
-                "
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('yes')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
                 @click="toggle('yes')"
                 >Yes</a
               >
@@ -174,28 +168,46 @@
                 class="flex flex-wrap text-left no-underline hover:no-underline"
               >
                 <div
-                  class="w-full font-bold text-xl text-gray-800 px-6 mt-6 mb-2"
+                  class="w-full font-bold text-xl text-gray-800 px-6 mt-6 mb-2 flex items-center"
                 >
                   <img
-                    class="inline rounded-sm"
-                    style="width: 30px; heigth: 30px; margin-bottom: 5px;"
+                    class="inline rounded-sm mr-2"
+                    style="width: 30px; heigth: 30px;"
                     :src="service.favicon_url"
                     v-if="service.favicon_url"
                   />
                   {{ service.name }}
+                  <a
+                    class="p-2 ml-auto rounded bg-gray-200 hover:bg-gray-400"
+                    :title="`Flag ${service.name}`"
+                    :href="`https://twitter.com/share?url=${encodeURIComponent(
+                      'https://saasforcovid.com'
+                    )}&text=${encodeURIComponent(
+                      `Hi @AdriaanvRossum, there is something wrong with the '${service.name}' listing.\n\n(please replace this line with what is wrong...)\n\n`
+                    )}`"
+                  >
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="18"
+                      height="18"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M18.827 7.806c-4.225 0-4.491-6.806-9.666-6.806-1.535 0-2.951.628-4.161 1.482v-2.482h-2v24h2v-10.427c1.064-1.302 2.316-2.021 4.205-2.021 2.219 0 3.592.841 5.368.841 3.127 0 4.938-2.379 6.428-5.083-.832.345-1.547.496-2.174.496zm-4.255 2.588c-1.399 0-2.882-.841-5.368-.841-1.761 0-3.108.508-4.205 1.292v-5.784c.999-.951 2.517-2.061 4.162-2.061 1.621 0 2.444 1.025 3.759 2.836.987 1.359 2.159 2.974 4.022 3.648-.74.633-1.5.91-2.37.91z"
+                      />
+                    </svg>
+                  </a>
                 </div>
                 <p class="text-gray-800 text-base px-6 mb-2 mt-3">
                   <span
-                    class="inline-flex rounded-full bg-gray-300 px-2 text-xs font-bold "
+                    class="inline-flex rounded-full bg-gray-300 px-2 text-xs font-bold"
                   >
                     {{ service.category }}
                   </span>
                   {{ service.description }}
                   <a
                     class="underline"
-                    :href="
-                      `${service.more_info_url}?utm_source=saasforcovid.com`
-                    "
+                    :href="`${service.more_info_url}?utm_source=saasforcovid.com`"
                     v-if="service.more_info_url"
                   >
                     Read more
@@ -209,10 +221,9 @@
                   {{ service.requirement }}
                 </p>
                 <p
-                  :class="
-                    `text-${service.driveToPaidColor ||
-                      'gray'}-600 text-xs px-6 mb-5`
-                  "
+                  :class="`text-${
+                    service.driveToPaidColor || 'gray'
+                  }-600 text-xs px-6 mb-5`"
                   v-if="service.driveToPaidText"
                 >
                   {{ service.driveToPaidText }}
@@ -220,7 +231,7 @@
               </div>
             </div>
             <div
-              class="flex-none mt-auto bg-white rounded-b rounded-t-none overflow-hidden shadow-lg p-6 "
+              class="flex-none mt-auto bg-white rounded-b rounded-t-none overflow-hidden shadow-lg p-6"
             >
               <p class="text-left text-sm">
                 <span v-if="service.how_to_apply_text.endsWith('.')"
@@ -240,13 +251,11 @@
                       ? `mailto:${service.how_to_apply_url_or_email}&subject=Discount%20to%20fight%20COVID-19`
                       : `${service.how_to_apply_url_or_email}?utm_source=saasforcovid.com`
                   "
-                  :class="
-                    `transform hover:scale-105 transition duration-150 ease-in-out mx-auto lg:mx-0 text-sm font-bold rounded-full mt-4 mb-2 px-8 shadow-lg ${
-                      service.useEmail
-                        ? 'text-custom-pink border-2 border-custom-pink py-3'
-                        : 'text-white gradient py-4'
-                    }`
-                  "
+                  :class="`transform hover:scale-105 transition duration-150 ease-in-out mx-auto lg:mx-0 text-sm font-bold rounded-full mt-4 mb-2 px-8 shadow-lg ${
+                    service.useEmail
+                      ? 'text-custom-pink border-2 border-custom-pink py-3'
+                      : 'text-white gradient py-4'
+                  }`"
                 >
                   <svg
                     v-if="service.useEmail"
@@ -464,14 +473,14 @@ export default {
       error: null,
       services: [],
       loading: true,
-      show: ["maybe", "no"]
+      show: ["maybe", "no"],
     };
   },
 
   computed: {
     showServices() {
       if (!this.json) return [];
-      const clean = this.json.map(service => {
+      const clean = this.json.map((service) => {
         return Object.keys(service).reduce((c, k) => {
           const key = this.cleanKey(k);
           c[key] = this.cleanValue(key, service[k]);
@@ -483,10 +492,10 @@ export default {
         .filter(
           ({ description, name, category }) => description && name && category
         )
-        .map(service => {
+        .map((service) => {
           const {
             does_it_drive_you_into_a_paid_account: paid,
-            favicon
+            favicon,
           } = service;
           if (favicon) {
             const url = !service.url.startsWith("http")
@@ -550,7 +559,7 @@ export default {
       return showServices.filter(({ driveToPaid }) => {
         return this.show.includes(driveToPaid);
       });
-    }
+    },
   },
 
   methods: {
@@ -568,7 +577,7 @@ export default {
       const add = !this.show.includes(type);
       if (add) this.show.push(type);
       else this.show.splice(this.show.indexOf(type), 1);
-    }
+    },
   },
 
   created() {
@@ -578,20 +587,20 @@ export default {
       .get(
         `https://docs.google.com/spreadsheets/d/e/2PACX-1vSb8E61f73swPO9Mdvo3u2buf-pglEpgLHOa8wFpRzUtn3_8Dcf7cxhi-lGlJL9yOLXjIBBWw4UsYL9/pub?gid=0&single=true&output=csv`
       )
-      .then(response => {
+      .then((response) => {
         const csv = response && response.data ? response.data : null;
         if (csv) {
           this.json = csv2json(csv, { parseNumbers: true });
           this.loading = false;
         }
       })
-      .catch(e => {
+      .catch((e) => {
         console.error(e);
         this.json = services;
         this.loading = false;
         this.error = "Oops. Couldn't load an up to date version";
       });
-  }
+  },
 };
 </script>
 
