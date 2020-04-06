@@ -108,33 +108,39 @@
           <ul class="inline-flex">
             <li class="mr-2">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('no')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('no')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('no')"
                 >No</a
               >
             </li>
             <li class="mr-2">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('maybe')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('maybe')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('maybe')"
                 >Maybe</a
               >
             </li>
             <li class="mr-2">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('yes')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('yes')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('yes')"
                 >Yes</a
               >
@@ -180,11 +186,13 @@
                   <a
                     class="p-2 ml-auto rounded bg-gray-200 hover:bg-gray-400"
                     :title="`Flag ${service.name}`"
-                    :href="`https://twitter.com/share?url=${encodeURIComponent(
-                      'https://saasforcovid.com'
-                    )}&text=${encodeURIComponent(
-                      `Hi @AdriaanvRossum, there is something wrong with the '${service.name}' listing.\n\n(please replace this line with what is wrong...)\n\n`
-                    )}`"
+                    :href="
+                      `https://twitter.com/share?url=${encodeURIComponent(
+                        'https://saasforcovid.com'
+                      )}&text=${encodeURIComponent(
+                        `Hi @AdriaanvRossum, there is something wrong with the '${service.name}' listing.\n\n(please replace this line with what is wrong...)\n\n`
+                      )}`
+                    "
                   >
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -207,7 +215,9 @@
                   {{ service.description }}
                   <a
                     class="underline"
-                    :href="`${service.more_info_url}?utm_source=saasforcovid.com`"
+                    :href="
+                      `${service.more_info_url}?utm_source=saasforcovid.com`
+                    "
                     v-if="service.more_info_url"
                   >
                     Read more
@@ -221,9 +231,10 @@
                   {{ service.requirement }}
                 </p>
                 <p
-                  :class="`text-${
-                    service.driveToPaidColor || 'gray'
-                  }-600 text-xs px-6 mb-5`"
+                  :class="
+                    `text-${service.driveToPaidColor ||
+                      'gray'}-600 text-xs px-6 mb-5`
+                  "
                   v-if="service.driveToPaidText"
                 >
                   {{ service.driveToPaidText }}
@@ -251,11 +262,13 @@
                       ? `mailto:${service.how_to_apply_url_or_email}&subject=Discount%20to%20fight%20COVID-19`
                       : `${service.how_to_apply_url_or_email}?utm_source=saasforcovid.com`
                   "
-                  :class="`transform hover:scale-105 transition duration-150 ease-in-out mx-auto lg:mx-0 text-sm font-bold rounded-full mt-4 mb-2 px-8 shadow-lg ${
-                    service.useEmail
-                      ? 'text-custom-pink border-2 border-custom-pink py-3'
-                      : 'text-white gradient py-4'
-                  }`"
+                  :class="
+                    `transform hover:scale-105 transition duration-150 ease-in-out mx-auto lg:mx-0 text-sm font-bold rounded-full mt-4 mb-2 px-8 shadow-lg ${
+                      service.useEmail
+                        ? 'text-custom-pink border-2 border-custom-pink py-3'
+                        : 'text-white gradient py-4'
+                    }`
+                  "
                 >
                   <svg
                     v-if="service.useEmail"
@@ -403,6 +416,15 @@
       </p>
 
       <p class="text-xs text-white mt-20">
+        <span v-if="buildDate"
+          ><a
+            href="https://github.com/adriaanvanrossum/saasforcovid.com/commits/master"
+            class="text-white underline"
+            >Last build</a
+          >
+          was {{ buildDate }} -</span
+        >
+
         Public website stats by
         <a
           href="https://simpleanalytics.com/saasforcovid.com?ref=saasforcovid.com"
@@ -468,6 +490,9 @@
 import axios from "axios";
 import csv2json from "csvjson-csv2json";
 import { services } from "./cache";
+import { format } from "timeago.js";
+
+const BUILD_DATE = process.env.VUE_APP_BUILD_DATE;
 
 export default {
   name: "App",
@@ -477,6 +502,7 @@ export default {
       error: null,
       services: [],
       loading: true,
+      buildDate: BUILD_DATE ? format(BUILD_DATE) : null,
       show: ["maybe", "no"],
     };
   },

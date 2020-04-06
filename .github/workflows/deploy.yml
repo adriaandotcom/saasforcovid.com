@@ -18,14 +18,13 @@ jobs:
 
       - name: Build
         run: |
-          echo env date: $DATE
           npm install --only=dev
           npm install
           npm run build
         env:
           CI: true
           NODE_ENV: production
-          DATE: ${{steps.date.outputs.date}}
+          VUE_APP_BUILD_DATE: ${{steps.date.outputs.date}}
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
