@@ -2240,20 +2240,6 @@ export const services = [
     "More info URL": ""
   },
   {
-    "Name": "Foinikas",
-    "Approved": "",
-    "Category": "Productivity Tools",
-    "URL": "https://bit.ly/2UZwoFG",
-    "Description": "Foinikas, is a no fuzz web app to manage your's and your team's daily work life. Lightweight and accessible from any device Foinikas allow you to easily manage your Customer information, Orders, Meetings and have a day to day overview of your business’s financials (revenue, outstanding payments, statistics).  Foinikas is ideal for freelancers, e-shops, practices, brick & mortar stores, beauty salons, insurance brokers and many others.",
-    "Discount": "100% for 3 months + 80% for the 6 following",
-    "Does it drive you into a paid account": "Maybe, but you get a clear discount so you know upfront.",
-    "Requirement": "None",
-    "Favicon": "/favicons/apple-touch-icon.png",
-    "How to apply (text)": "Just register",
-    "How to apply (URL or email)": "https://bit.ly/2UZwoFG",
-    "More info URL": ""
-  },
-  {
     "Name": "AppScreens",
     "Approved": "",
     "Category": "App Store Optimisation",
@@ -2266,20 +2252,6 @@ export const services = [
     "How to apply (text)": "Use coupon: COVID19 on the pricing & subscription page",
     "How to apply (URL or email)": "https://appscreens.com",
     "More info URL": "https://appscreens.com/pricing"
-  },
-  {
-    "Name": "Hootsuite",
-    "Approved": "",
-    "Category": "Marketing/ LiveChat",
-    "URL": "https://hootsuite.com",
-    "Description": "Enhance your social media management with Hootsuite, the leading social media dashboard. Manage multiple networks and profiles and measure your campaign results.",
-    "Discount": "100%",
-    "Does it drive you into a paid account": "Maybe",
-    "Requirement": "Professional Plan",
-    "Favicon": "",
-    "How to apply (text)": "Use the button below",
-    "How to apply (URL or email)": "https://hootsuite.com/pages/stay-connected",
-    "More info URL": "https://hootsuite.com/newsroom/press-releases/helping-small-businesses-and-nonprofits-stay-connected-during-covid-19-crisis"
   },
   {
     "Name": "SuperPay",
@@ -2304,7 +2276,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 10 employees",
     "Requirement": "None",
-    "Favicon": "https://bundy.io/wp-content/uploads/2020/03/cropped-Frame-1-2-1-32x32.png",
+    "Favicon": "",
     "How to apply (text)": "Signup online",
     "How to apply (URL or email)": "https://bundy.io",
     "More info URL": "https://bundy.io"
@@ -2322,20 +2294,6 @@ export const services = [
     "How to apply (text)": "Signup online, use promo code ZACHRANNYKRUH",
     "How to apply (URL or email)": "https://app.freelo.cz/premium/checkout/choose-plan",
     "More info URL": "https://freelo.app/"
-  },
-  {
-    "Name": "Luminati",
-    "Approved": "",
-    "Category": "Data collection",
-    "URL": "https://luminati.io/",
-    "Description": "Luminati is a leading Data Collection Automation platform, offering high-performance and fast data collection products and services",
-    "Discount": "$250 discount for the 1st month, including all residential packages",
-    "Does it drive you into a paid account": "Maybe, it depends on the customer",
-    "Requirement": "New customers",
-    "Favicon": "",
-    "How to apply (text)": "Just sign up",
-    "How to apply (URL or email)": "https://luminati.io/?affiliate=ref_5e89cd71c7669177ab70a143",
-    "More info URL": "https://luminati.io/"
   },
   {
     "Name": "Hostitor",
@@ -2362,7 +2320,7 @@ export const services = [
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
     "Favicon": "/assets/icon/app-icon-16x16.2635418cb67de439a7cbf1408133e044b048d753.png",
     "How to apply (text)": "Just sign up or open chat on pricing page.",
-    "How to apply (URL or email)": "https://ideanote.it/VbErPn",
+    "How to apply (URL or email)": "https://ideanote.it",
     "More info URL": "https://ideanote.io"
   },
   {
