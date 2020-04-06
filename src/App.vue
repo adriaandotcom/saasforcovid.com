@@ -491,8 +491,6 @@
 </template>
 
 <script>
-import axios from "axios";
-import csv2json from "csvjson-csv2json";
 import { services } from "./cache";
 import { format } from "timeago.js";
 
@@ -503,7 +501,7 @@ export default {
   name: "App",
   data() {
     return {
-      json: null,
+      json: services,
       error: null,
       services: [],
       loading: true,
@@ -516,6 +514,7 @@ export default {
   computed: {
     showServices() {
       if (!this.json) return [];
+
       const clean = this.json.map((service) => {
         return Object.keys(service).reduce((c, k) => {
           const key = this.cleanKey(k);
@@ -614,28 +613,6 @@ export default {
       if (add) this.show.push(type);
       else this.show.splice(this.show.indexOf(type), 1);
     },
-  },
-
-  created() {
-    this.json = services;
-
-    axios
-      .get(
-        `https://docs.google.com/spreadsheets/d/e/2PACX-1vSb8E61f73swPO9Mdvo3u2buf-pglEpgLHOa8wFpRzUtn3_8Dcf7cxhi-lGlJL9yOLXjIBBWw4UsYL9/pub?gid=0&single=true&output=csv`
-      )
-      .then((response) => {
-        const csv = response && response.data ? response.data : null;
-        if (csv) {
-          this.json = csv2json(csv, { parseNumbers: true });
-          this.loading = false;
-        }
-      })
-      .catch((e) => {
-        console.error(e);
-        this.json = services;
-        this.loading = false;
-        this.error = "Oops. Couldn't load an up to date version";
-      });
   },
 };
 </script>
