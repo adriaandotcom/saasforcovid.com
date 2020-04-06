@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "/spike-badge-180.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -2574,5 +2574,19 @@ export const services = [
     "How to apply (text)": "Send us a message to: andy@postaffiliatepro.com with subject \"SaaS4Covid",
     "How to apply (URL or email)": "https://www.postaffiliatepro.com/trial/",
     "More info URL": "https://www.postaffiliatepro.com/affiliate-marketing-software/"
+  },
+  {
+    "Name": "Learner Mobile",
+    "Approved": "",
+    "Category": "Learning Management System",
+    "URL": "www.learnermobile.com",
+    "Description": "A next generation LMS that gets the right content and training\nat the right time to the right person, so they can\nperform their best as a virtual worker.",
+    "Discount": "100% for 3 months",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Send message to: info@learnermobile.com",
+    "How to apply (URL or email)": "info@learnermobile.com",
+    "More info URL": ""
   }
 ]
