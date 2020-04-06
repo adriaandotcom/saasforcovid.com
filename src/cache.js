@@ -1646,7 +1646,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No need for payment information and free forever",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "//assets.cdnpandadoc.com/app/packages/www-merge/img/fav/icon-192-db126555ce.png",
     "How to apply (text)": "Sign up on the website from this page",
     "How to apply (URL or email)": "https://signup.pandadoc.com/?plan=rec_plans_v4_free",
     "More info URL": "https://www.pandadoc.com/free-electronic-signature-software/"
@@ -2574,19 +2574,5 @@ export const services = [
     "How to apply (text)": "Send us a message to: andy@postaffiliatepro.com with subject \"SaaS4Covid",
     "How to apply (URL or email)": "https://www.postaffiliatepro.com/trial/",
     "More info URL": "https://www.postaffiliatepro.com/affiliate-marketing-software/"
-  },
-  {
-    "Name": "Happierco",
-    "Approved": "",
-    "Category": "People Management",
-    "URL": "https://happierco.com",
-    "Description": "Happierco is an intuitive solution for team engagement and performance management. We're responding to the needs of managers and teams of various company sizes as they work from home by offering some of our incredible features for free to help them continue to stay engaged and productive amidst the COVID-19 pandemic.",
-    "Discount": "Free OKRs and 1-on-1 Meeting solution",
-    "Does it drive you into a paid account": "No",
-    "Requirement": "None",
-    "Favicon": "",
-    "How to apply (text)": "Just sign up - On the pricing page, go for the Free.",
-    "How to apply (URL or email)": "https://happierco.com/free",
-    "More info URL": "https://www.happierco.com/blog/coronavirus-response/"
   }
 ]
