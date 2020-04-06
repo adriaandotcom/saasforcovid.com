@@ -2052,7 +2052,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No (after 6 months you'll move to a lower volume forever free plan).",
     "Requirement": "None",
-    "Favicon": "/images/favicons/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Reply to the welcome email + mention COVID-19",
     "How to apply (URL or email)": "https://continual.ly/",
     "More info URL": "https://continual.ly/"
@@ -2570,9 +2570,23 @@ export const services = [
     "Discount": "250$ credit",
     "Does it drive you into a paid account": "Maybe, but it's a clear discount.",
     "Requirement": "None.",
-    "Favicon": "",
+    "Favicon": "//d2p3olkzjojwnw.cloudfront.net/app/themes/postaffiliatepro/assets/images/favicon/apple-touch-icon-180x180.png",
     "How to apply (text)": "Send us a message to: andy@postaffiliatepro.com with subject \"SaaS4Covid",
     "How to apply (URL or email)": "https://www.postaffiliatepro.com/trial/",
     "More info URL": "https://www.postaffiliatepro.com/affiliate-marketing-software/"
+  },
+  {
+    "Name": "Happierco",
+    "Approved": "",
+    "Category": "People Management",
+    "URL": "https://happierco.com",
+    "Description": "Happierco is an intuitive solution for team engagement and performance management. We're responding to the needs of managers and teams of various company sizes as they work from home by offering some of our incredible features for free to help them continue to stay engaged and productive amidst the COVID-19 pandemic.",
+    "Discount": "Free OKRs and 1-on-1 Meeting solution",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
