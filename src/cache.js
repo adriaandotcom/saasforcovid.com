@@ -95,7 +95,7 @@ export const services = [
     "Does it drive you into a paid account":
       "No, but this free plan has no custom domain.",
     Requirement: "Install add-on",
-    Favicon: "../img/faviconnew.png",
+    Favicon: "",
     "How to apply (text)": "Use the button below",
     "How to apply (URL or email)": "https://sheet2site.com/coronavirus",
     "More info URL": "",
@@ -464,8 +464,7 @@ export const services = [
     Approved: "Yes",
     Category: "Email",
     URL: "https://helpwise.io",
-    Description:
-      "Helpwise is an easy to use shared inbox and email collaboration software for teams to manage team email accounts like help@, sales@, etc. Get Shared Inbox for your team now!",
+    Description: "",
     Discount: "20%",
     "Does it drive you into a paid account": "Maybe",
     Requirement: "20% off for 12 months",
@@ -1035,8 +1034,7 @@ export const services = [
     Discount: "100%",
     "Does it drive you into a paid account": "No",
     Requirement: "",
-    Favicon:
-      "https://mk0placereynlffhamiu.kinstacdn.com/wp-content/uploads/2018/08/favicon-310x310-150x150.png",
+    Favicon: "",
     "How to apply (text)":
       "Corona correlated retail trend data is available publicly for free.",
     "How to apply (URL or email)": "https://www.placer.ai/covid-19/",
@@ -1737,9 +1735,10 @@ export const services = [
     Description:
       "Jiminny is the platform for all your customer conversations. We record, transcribe, and analyze your calls & meetings in real-time so you can capture every data point important to your business and have the insights to help your team win together",
     Discount: "Free for 3 months",
-    "Does it drive you into a paid account": "Only after 3 months",
+    "Does it drive you into a paid account":
+      "Maybe, after 3 months and only for new customers.",
     Requirement: "New customers",
-    Favicon: "",
+    Favicon: "https://www.jiminny.com/hubfs/favicon.ico",
     "How to apply (text)": "Request demo on the webite",
     "How to apply (URL or email)": "https://www.jiminny.com/request-a-demo",
     "More info URL": "https://www.jiminny.com/product/coaching-made-easy",
@@ -2286,7 +2285,7 @@ export const services = [
     Discount: "100%",
     "Does it drive you into a paid account": "No",
     Requirement: "COVID-19 related projec",
-    Favicon: "./assets/logos/favicon.ico",
+    Favicon: "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://payrequest.io/donation-pages",
     "More info URL": "https://payrequest.io/donation-pages",
@@ -2808,16 +2807,177 @@ export const services = [
     Approved: "",
     Category: "Help Desk Software",
     URL: "https://www.liveagent.com/",
-    Description: "",
-    Discount: "100% for the duration of COVID-19 pandemic",
-    "Does it drive you into a paid account":
-      "Maybe, no payment details / contracts required.",
+    Description:
+      "Multi-channel help desk system. Combine your regular emails, live chats, call center and social networks into single tool. Work remotely from your home and support your customers via voice. Provide excellent customer service while keeping your employees safe during the coronavirus pandemic.",
+    Discount: "250$ credit",
+    "Does it drive you into a paid account": "No",
     Requirement: "None.",
     Favicon:
       "//cdn.liveagent.com/app/themes/liveagent/assets/images/favicon/apple-touch-icon.png",
-    "How to apply (text)": "",
+    "How to apply (text)":
+      'Send us a message to: andy@liveagent.com with subject "SaaS4Covid',
     "How to apply (URL or email)": "https://www.liveagent.com/trial/",
     "More info URL":
       "https://www.liveagent.com/customer-service-during-coronavirus/",
+  },
+  {
+    Name: "EmailDrips.com",
+    Approved: "",
+    Category: "Marketing/ LiveChat",
+    URL: "www.emaildrips.com",
+    Description:
+      "Need inspiration for your next email sequence? Get free access to the worlds biggest library of email drip campaign examples",
+    Discount: "100%",
+    "Does it drive you into a paid account": "No",
+    Requirement: "None.",
+    Favicon: "",
+    "How to apply (text)": "sign up on the website",
+    "How to apply (URL or email)":
+      "https://www.emaildrips.com/register-step-1/",
+    "More info URL": "www.emaildrips.com",
+  },
+  {
+    Name: "Power eCard",
+    Approved: "",
+    Category: "Marketing/ LiveChat",
+    URL: "https://www.power-ecard.com",
+    Description:
+      "Send digital and animated cards in your corporate design to employees, customers or leads.",
+    Discount: "100%",
+    "Does it drive you into a paid account": "No",
+    Requirement: "None.",
+    Favicon: "",
+    "How to apply (text)": "Just request a trial",
+    "How to apply (URL or email)": "https://www.power-ecard.com/free-trial/",
+    "More info URL": "https://www.power-ecard.com",
+  },
+  {
+    Name: "AfterShip",
+    Approved: "",
+    Category: "Delivery management",
+    URL: "https://www.aftership.com/",
+    Description:
+      "The #1 Tracking Solution for eCommerce Businesses. Track and trace all shipments across 666+ carriers worldwide in one place.",
+    Discount: 1,
+    "Does it drive you into a paid account": "No",
+    Requirement: "Free forever plan (less than 50 trackings per month）",
+    Favicon: "Just signup. No payment method needed",
+    "How to apply (text)": "Just signup. No payment method needed",
+    "How to apply (URL or email)":
+      "https://www.aftership.com/?utm_source=covid19&utm_medium=saasforcovid",
+    "More info URL": "https://www.aftership.com/pricing",
+  },
+  {
+    Name: "AfterShip Returns Center",
+    Approved: "",
+    Category: "Delivery management",
+    URL: "https://www.returnscenter.com/",
+    Description:
+      "A must-have returns management tool that guarantees a happy post-purchase experience. It helps you build brand loyalty and turn returns into repurchases.",
+    Discount: 1,
+    "Does it drive you into a paid account": "No",
+    Requirement: "Free forever plan (Less than 3 returns per month）",
+    Favicon: "Just signup. No payment method needed",
+    "How to apply (text)": "Just signup. No payment method needed",
+    "How to apply (URL or email)":
+      "https://www.returnscenter.com/?utm_source=covid19&utm_medium=saasforcovid",
+    "More info URL":
+      "https://blog.aftership.com/forever-free-at-returns-center/",
+  },
+  {
+    Name: "Automizely",
+    Approved: "",
+    Category: "Sales Tools",
+    URL: "https://www.automizely.com/",
+    Description:
+      "Ultimate all-in-one sales tool. Provide sales popup, coupon bar, email newsletter, social proof, exit intent, countdown, web-push. It's completely free.",
+    Discount: 1,
+    "Does it drive you into a paid account": "No",
+    Requirement: "None",
+    Favicon: "Just signup",
+    "How to apply (text)": "Just signup",
+    "How to apply (URL or email)":
+      "https://www.automizely.com/?utm_source=covid19&utm_medium=saasforcovid",
+    "More info URL": "https://www.automizely.com/",
+  },
+  {
+    Name: "Postmen",
+    Approved: "",
+    Category: "Delivery management",
+    URL: "https://www.postmen.com/",
+    Description:
+      "Scalable shipping software & API for eCommerce businesses. Enjoy the lowest USPS shipping rates for free.",
+    Discount: 1,
+    "Does it drive you into a paid account": "No",
+    Requirement: "Free forever plan (Less than 20 labels per month）",
+    Favicon: "Just signup",
+    "How to apply (text)": "Just signup",
+    "How to apply (URL or email)":
+      "https://secure.postmen.com/login?utm_source=covid19&utm_medium=saasforcovid",
+    "More info URL": "https://www.postmen.com/pricing",
+  },
+  {
+    Name: "Wobaka",
+    Approved: "",
+    Category: "CRM",
+    URL: "https://wobaka.com",
+    Description:
+      "Wobaka helps you get more done in less time by focusing on the essentials. Not website builders or blog engines. Just a great CRM.",
+    Discount: "100%",
+    "Does it drive you into a paid account": "No",
+    Requirement: "Affected businesses and COVID-19 projects",
+    Favicon: "",
+    "How to apply (text)": "Sign up and send us a message",
+    "How to apply (URL or email)": "fredrik@wobaka.com",
+    "More info URL": "https://wobaka.com",
+  },
+  {
+    Name: "Fieldfusion",
+    Approved: "",
+    Category: "Management Tools",
+    URL: "https://fieldfusion.io/",
+    Description:
+      "Fieldfusion is cloud-based Field Service Management (FSM) software — a web application for office staff, and a mobile application for field engineers. It provides a seamless, real-time connection between your office staff, field teams and customers so they're kept up-to-date at all times, maximising operational efficiency, empowering staff and delighting customers.",
+    Discount: "100% for 3 months",
+    "Does it drive you into a paid account":
+      "No — user has the option to continue after 3-months",
+    Requirement: "None",
+    Favicon: "",
+    "How to apply (text)": "Sign-up using the link on the homepage.",
+    "How to apply (URL or email)":
+      "https://fieldfusion.io/fieldfusion-core-free-for-3-months-coronavirus/",
+    "More info URL": "",
+  },
+  {
+    Name: "SurveySparrow",
+    Approved: "",
+    Category: "Data collection",
+    URL: "http://surveysparrow.com/",
+    Description:
+      "SurveySparrow is an end to end Conversational Experience Management Platform that helps get 40% better response rate.",
+    Discount: "30% for ever",
+    "Does it drive you into a paid account": "Yes",
+    Requirement: "None",
+    Favicon: "",
+    "How to apply (text)": "Sign-up and ask for the saasforcovid discount",
+    "How to apply (URL or email)": "http://surveysparrow.com/",
+    "More info URL": "http://surveysparrow.com/pricing",
+  },
+  {
+    Name: "Post Affiliate Pro",
+    Approved: "",
+    Category: "Affiliate Marketing",
+    URL: "https://www.postaffiliatepro.com/",
+    Description:
+      "Start your affiliate program with affiliate marketing software - Post Affiliate Pro in minutes with 14-day free trial. Grow your business and increase your sales.",
+    Discount: "250$ credit",
+    "Does it drive you into a paid account": "No",
+    Requirement: "None.",
+    Favicon: "",
+    "How to apply (text)":
+      'Send us a message to: andy@postaffiliatepro.com with subject "SaaS4Covid',
+    "How to apply (URL or email)": "https://www.postaffiliatepro.com/trial/",
+    "More info URL":
+      "https://www.postaffiliatepro.com/affiliate-marketing-software/",
   },
 ];
