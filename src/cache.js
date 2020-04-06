@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from tons of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -2504,5 +2504,19 @@ export const services = [
     "How to apply (text)": "Sign up for free, then email max@basedash.io for 3 months free",
     "How to apply (URL or email)": "https://basedash.io/create-account?ref=saasforcovid",
     "More info URL": "https://basedash.io"
+  },
+  {
+    "Name": "Growth-X",
+    "Approved": "",
+    "Category": "Lead generation",
+    "URL": "http://growth-x.com",
+    "Description": "Generate highly engaged and laser-targeted leads.",
+    "Discount": "100% for 2 months",
+    "Does it drive you into a paid account": "Maybe, after 2 months",
+    "Requirement": "COVID-19 projects (non-profit only).  In addition - if you are startup struggling due to COVID-19 we will do our best efforts to help!",
+    "Favicon": "",
+    "How to apply (text)": "sign up for a free demo account, then email help@growth-x.com",
+    "How to apply (URL or email)": "https://web.growthx-app.com/signup",
+    "More info URL": ""
   }
 ]
