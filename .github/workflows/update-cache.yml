@@ -2,23 +2,20 @@ name: Update Cache
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/15 * * * *"
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [12.x]
-
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
 
-      - name: Use Node.js ${{ matrix.node-version }}
+      - name: Install Node.js 12.x
         uses: actions/setup-node@v1
         with:
-          node-version: ${{ matrix.node-version }}
+          node-version: "12.x"
 
       - name: Install packages
         run: |
@@ -28,19 +25,7 @@ jobs:
       - name: Update cache
         run: npm run cache
 
-      - uses: stefanzweifel/git-auto-commit-action@v4.1.2
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4.1.2
         with:
           commit_message: Update cache from Google Sheet
-
-      - name: Build app
-        run: npm run build
-        env:
-          CI: true
-          NODE_ENV: production
-
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v3
-        with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages
-          FOLDER: dist
