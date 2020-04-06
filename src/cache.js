@@ -1747,7 +1747,7 @@ export const services = [
   {
     Name: "Air",
     Approved: "",
-    Category: 'Other (add in tab "Categories")',
+    Category: "Remote Work",
     URL: "https://air.inc",
     Description:
       "Air is a workspace for your team's images and videos. Organize, manage, and collaborate with the visual content that drives your business. Where distributed teams do their best work.",
@@ -1852,7 +1852,7 @@ export const services = [
       "Writing Analytics is a writing tracker that helps authors and bloggers build a sustainable writing routine.",
     Discount: "Free until 1 June",
     "Does it drive you into a paid account":
-      "No (cancels automatically at the end of the free period)",
+      "No, it cancels automatically at the end of the free period",
     Requirement: "None",
     Favicon: "/assets/icons/apple-touch-icon.png",
     "How to apply (text)": "Just sign up",
@@ -1868,7 +1868,7 @@ export const services = [
     Description:
       "College Life Work is a career platform for top international students & graduates.",
     Discount: "Free for 3 months",
-    "Does it drive you into a paid account": "Yes",
+    "Does it drive you into a paid account": "Maybe, after 3 months",
     Requirement: "None",
     Favicon:
       "https://collegelife.co/work/wp-content/uploads/2019/06/cropped-cropped-Artboard-1-2-1-32x32.png",
@@ -1886,7 +1886,7 @@ export const services = [
       "CloudForecast helps companies monitor and eliminate wasted AWS cost without",
     Discount: "Free for 2 months",
     "Does it drive you into a paid account":
-      "No - We have an option where no Credit Card is required to start a free-trial.",
+      "No, they have an option where no Credit Card is required to start a free-trial.",
     Requirement: "None",
     Favicon: "images/webclip.png",
     "How to apply (text)": "Email tony@cloudforecast.io with subject COVID",
@@ -1921,12 +1921,11 @@ export const services = [
       "Qualified is the most effective platform for assessing software developers. Use it for education, certification and recruiting.",
     Discount: "Free for 1st year",
     "Does it drive you into a paid account":
-      "No - 1st year free but no credit card required",
+      "No, first year free and no credit card required",
     Requirement: "New K-12 customers",
     Favicon: "/favicon-f99f13ec.ico",
     "How to apply (text)": "Complete request trial form",
-    "How to apply (URL or email)":
-      "https://www.qualified.io/signup?utm_source=saasforcovid",
+    "How to apply (URL or email)": "https://www.qualified.io/signup",
     "More info URL":
       "https://www.qualified.io/blog/posts/qualified-and-codewars-are-free-for-k-12-teachers-and-students",
   },
@@ -1939,7 +1938,7 @@ export const services = [
       "Timesaving tools for designers and developers. Website and Email Builders.",
     Discount: "Free for 1st month",
     "Does it drive you into a paid account":
-      "No (You can cancel the subscription directly from your account.)",
+      "Yes, but you can cancel the subscription",
     Requirement: "None",
     Favicon: "i/favicon.png",
     "How to apply (text)": "Use coupon code FREEMONTH during checkout.",
@@ -2093,8 +2092,8 @@ export const services = [
     URL: "https://www.jobtrackable.com/",
     Description:
       "Jobtrackable is built for job seekers to organize their job search by tracking every job opportunity. The platform allows them to save applications from every job board, set tasks and follow up applications.",
-    Discount: "100%",
-    "Does it drive you into a paid account": "No",
+    Discount: "6 months free",
+    "Does it drive you into a paid account": "Maybe, after 6 months",
     Requirement: "First time users",
     Favicon:
       "https://static.wixstatic.com/media/7491b9_2396e8f63f364bd7b9ab56672c236492%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/7491b9_2396e8f63f364bd7b9ab56672c236492%7Emv2.png",
@@ -2110,7 +2109,7 @@ export const services = [
     URL: "https://www.bigradar.io",
     Description: "Live chat software with email marketing",
     Discount: "3 months free",
-    "Does it drive you into a paid account": "No",
+    "Does it drive you into a paid account": "Maybe, after 3 months",
     Requirement: "First time users",
     Favicon: "",
     "How to apply (text)":
@@ -2143,11 +2142,11 @@ export const services = [
     Description:
       "Best-in-class, end-to-end contract management solutions for businesses of all sizes. Create, sign and store all your legal documents in one, safe place.",
     Discount: "6 months free ($114 value)",
-    "Does it drive you into a paid account": "",
+    "Does it drive you into a paid account": "Maybe, after 6 months",
     Requirement: "None. Valid for all users.",
     Favicon:
       "https://contractawesome.com/wp-content/uploads/2020/03/cropped-icon-ca--180x180.png",
-    "How to apply (text)": "Just sign up",
+    "How to apply (text)": "",
     "How to apply (URL or email)": "https://contractawesome.com",
     "More info URL": "https://contractawesome.com",
   },
@@ -2164,7 +2163,7 @@ export const services = [
     Requirement: "None.",
     Favicon:
       "https://global-uploads.webflow.com/5d938557a62fb96e9ccf86e1/5e402d845b31cb858c4a0b77_icon-square-256.png",
-    "How to apply (text)": "Just sign up",
+    "How to apply (text)": "",
     "How to apply (URL or email)": "https://www.fluxo.ai",
     "More info URL": "https://www.fluxo.ai/pricing",
   },
@@ -2180,7 +2179,7 @@ export const services = [
       "No, you don't have to enter any payment information.",
     Requirement: "None.",
     Favicon: "//app.invoicequick.com/theme/img/apple-icon-57x57.png",
-    "How to apply (text)": "Just sign up",
+    "How to apply (text)": "",
     "How to apply (URL or email)": "https://app.invoicequick.com/auth/register",
     "More info URL": "https://invoicequick.com/help-free-users/",
   },
@@ -2195,7 +2194,7 @@ export const services = [
     "Does it drive you into a paid account": "Yes, but only $0.01",
     Requirement: "None.",
     Favicon: "/assets/icons/apple-icon-120x120.png",
-    "How to apply (text)": "Just sign up",
+    "How to apply (text)": "",
     "How to apply (URL or email)": "http://unicorn-nest.com/",
     "More info URL": "",
   },
@@ -2209,7 +2208,7 @@ export const services = [
     "Does it drive you into a paid account": "Yes, but only $1/month",
     Requirement: "none",
     Favicon: "/favicon.png",
-    "How to apply (text)": "Just Sign Up",
+    "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com",
   },
@@ -2225,25 +2224,9 @@ export const services = [
       "Yes, but you get a lot of value for a fair price.",
     Requirement: "None",
     Favicon: "fav/apple-touch-icon.png",
-    "How to apply (text)": "Just Sign Up",
+    "How to apply (text)": "",
     "How to apply (URL or email)": "https://rulecontent.com/?cov=1",
     "More info URL": "https://rulecontent.com/?cov=1",
-  },
-  {
-    Name: "Whispli's Open Line",
-    Approved: "",
-    Category: "People Management",
-    URL: "https://whispli.com",
-    Description:
-      "Keep an open line of communication with your employees. Our worforce is adjusting to a completely new way of working. Whether they are working on the front line, or working remotely, often for the first time in their lives, they have plenty of questions regarding the new normal, but nowhere to ask them without fear of being judged and/or retaliation.\nWhispli provides the platform to engage with your employees, in the simplest and most effective way possible, while preserving anonymity.",
-    Discount: "100%",
-    "Does it drive you into a paid account":
-      "No, this service is 100% free. We launched it to help companies communicate with their employee in these difficult times.",
-    Requirement: "None",
-    Favicon: "",
-    "How to apply (text)": "Fill out the form on the page",
-    "How to apply (URL or email)": "https://whispli.com/open-line/",
-    "More info URL": "https://whispli.com/open-line/",
   },
   {
     Name: "Aardvark",
@@ -2253,10 +2236,11 @@ export const services = [
     Description:
       'Get rid of "no shows" with automatic text reminders and close more deals. Seamless integration with Hubspot.',
     Discount: "100% discount for 3 months",
-    "Does it drive you into a paid account": "No",
+    "Does it drive you into a paid account":
+      "Yes, it's for first time users only",
     Requirement: "First time users",
-    Favicon: "",
-    "How to apply (text)": "Just sign up",
+    Favicon: "https://i.ibb.co/ft0kCck/aardvark-logo.png",
+    "How to apply (text)": "",
     "How to apply (URL or email)": "https://vark.io",
     "More info URL": "http://vark.io/aardvark-response-covid-19",
   },
@@ -2273,26 +2257,9 @@ export const services = [
       "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
     Favicon:
       "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-32x32.png",
-    "How to apply (text)": "Just sign up",
+    "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/",
-  },
-  {
-    Name: "Mobiroller",
-    Approved: "",
-    Category: "Low-Code/No-Code",
-    URL: "https://www.mobiroller.com",
-    Description:
-      "Mobile app builder with no-code. It lets users to create Android and iOS apps in short time without coding",
-    Discount: "50%",
-    "Does it drive you into a paid account":
-      "No. Always free version is available with some limitations",
-    Requirement: "None",
-    Favicon:
-      "https://www.mobiroller.com/wp-content/uploads/2017/02/mobirollar_app_maker_favicon-mavi-150x150.png",
-    "How to apply (text)": "Just sign up",
-    "How to apply (URL or email)": "https://www.mobiroller.com",
-    "More info URL": "",
   },
   {
     Name: "Livestorm",
@@ -2305,7 +2272,7 @@ export const services = [
     "Does it drive you into a paid account": "No",
     Requirement: "None",
     Favicon: "/apple-touch-icon-57x57.png?v=allejJnzBp",
-    "How to apply (text)": "Just sign up",
+    "How to apply (text)": "",
     "How to apply (URL or email)":
       "https://livestorm.co/blog/livestorm-and-covid-19/",
     "More info URL": "https://livestorm.co/",
@@ -2320,7 +2287,7 @@ export const services = [
     "Does it drive you into a paid account": "No",
     Requirement: "COVID-19 related projec",
     Favicon: "./assets/logos/favicon.ico",
-    "How to apply (text)": "Just sign up",
+    "How to apply (text)": "",
     "How to apply (URL or email)": "https://payrequest.io/donation-pages",
     "More info URL": "https://payrequest.io/donation-pages",
   },
@@ -2335,7 +2302,7 @@ export const services = [
     "Does it drive you into a paid account": "",
     Requirement: "",
     Favicon: "",
-    "How to apply (text)": "Just sign up and use the code: Stay-Safe",
+    "How to apply (text)": "Use this code: Stay-Safe",
     "How to apply (URL or email)": "https://investorhunt.co/pricing",
     "More info URL": "",
   },
@@ -2349,9 +2316,9 @@ export const services = [
     Discount: "50%",
     "Does it drive you into a paid account": "No",
     Requirement:
-      "- be a sales company; be a professional broker; be a fintech lender",
+      "Be a sales company; be a professional broker; be a fintech lender",
     Favicon: "",
-    "How to apply (text)": "Just sign-up: RichieLendingCares",
+    "How to apply (text)": "Use this code: RichieLendingCares",
     "How to apply (URL or email)": "https://saas.richielending.com",
     "More info URL": "https://youtu.be/M-2ChKyWrQ8",
   },
@@ -2367,14 +2334,14 @@ export const services = [
     Requirement: "None. Works on any website",
     Favicon:
       "https://s3-us-west-2.amazonaws.com/storage.newclick.io/STATIC/IMG/newclick_favicon.png",
-    "How to apply (text)": "Just sign up",
+    "How to apply (text)": "",
     "How to apply (URL or email)": "http://newclick.io/",
     "More info URL": "http://newclick.io/",
   },
   {
     Name: "Music for Makers",
     Approved: "",
-    Category: 'Other (add in tab "Categories")',
+    Category: "Video & Music",
     URL: "https://musicformakers.com",
     Description: "Get Royalty-Free Music for Your Podcasts, Videos, and More",
     Discount: "25%",
@@ -2403,20 +2370,6 @@ export const services = [
     "More info URL": "https://continual.ly/",
   },
   {
-    Name: "Baitblock",
-    Approved: "",
-    Category: "Productivity Tools",
-    URL: "https://baitblock.app",
-    Description: "Anti-distraction chrome extension for working from home.",
-    Discount: "100%",
-    "Does it drive you into a paid account": "No",
-    Requirement: "None",
-    Favicon: "static/img/16x.png",
-    "How to apply (text)": "Just sign up",
-    "How to apply (URL or email)": "https://baitblock.app",
-    "More info URL": "https://baitblock.app/why",
-  },
-  {
     Name: "Kimp.io",
     Approved: "",
     Category: "Web/Graphic Design",
@@ -2424,7 +2377,7 @@ export const services = [
     Description:
       "Unlimited Graphic Design, unlimited revisions, unlimited brands. 7-Days free trial. Flat Monthly Fee. Save time and money with a dedicated design team. Kimp is for startups, SMEs, marketers, creative agencies, entrepreneurs.",
     Discount: "50%",
-    "Does it drive you into a paid account": "yes, after 7 days free trial",
+    "Does it drive you into a paid account": "Yes, after 7 days free trial",
     Requirement: "First time users",
     Favicon:
       "https://q5g9j9b9.stackpathcdn.com/wp-content/themes/kimp/assets/images/favicon.png",
@@ -2447,21 +2400,6 @@ export const services = [
     "How to apply (text)": "Use the discount code at the time of purchase",
     "How to apply (URL or email)": "https://creately.com/remote-working-guide/",
     "More info URL": "https://creately.com/",
-  },
-  {
-    Name: "Kintell",
-    Approved: "",
-    Category: "Marketing/ LiveChat",
-    URL: "Kintell.com",
-    Description:
-      "Integrated solution for giving video advice/tuition including scheduling, video chat, payment and rating and review. Free to use and only charge small percentage of booking fee when paid transactions occur.",
-    Discount: "100%",
-    "Does it drive you into a paid account": "No",
-    Requirement: "None",
-    Favicon: "",
-    "How to apply (text)": "Just sign up",
-    "How to apply (URL or email)": "https://kintell.com/join-now",
-    "More info URL": "https://kintell.com/what-is-kintell",
   },
   {
     Name: "Circuit",
@@ -2488,7 +2426,7 @@ export const services = [
     Description:
       "Automate.io is an easy-to-use workflow automation tool that lets you connect the web apps you use every day. You can pass data through them and automate repetitive tasks without having to code or relying on developers.",
     Discount: "45 days FREE for existing paid customers",
-    "Does it drive you into a paid account": "No",
+    "Does it drive you into a paid account": "Maybe",
     Requirement:
       "You have to be an existing paid user of Automate.io. If you downgrade to the free plan, you can avail the 45-day FREE offer.",
     Favicon: "/assets/img/favicon.png",
@@ -2549,7 +2487,7 @@ export const services = [
     Description:
       "Marketing SaaS to grow customer loyalty, automate a better review score and increast return visits. Connect, capture and keep more customers with our all-in-one marketing platform",
     Discount: "Free until 1 June",
-    "Does it drive you into a paid account": "No payment details required.",
+    "Does it drive you into a paid account": "No, no payment details required.",
     Requirement: "Businesses heavily impacted by COVID-19",
     Favicon: "",
     "How to apply (text)": "Use coupon: FIGHTCOVID",
@@ -2565,7 +2503,7 @@ export const services = [
       "Price tracking and dynamic pricing SaaS for any type or size of E-commerce business.",
     Discount: "100%",
     "Does it drive you into a paid account":
-      "No payment details required. No contracts. No commitments.",
+      "No, no payment details required. No contracts. No commitments.",
     Requirement: "Covid-19 Impacted E-commerce Businesses. New customers.",
     Favicon: "/img/favicon.png",
     "How to apply (text)": "Sign up from the link provided here.",
@@ -2580,7 +2518,7 @@ export const services = [
     URL: "https://www.yarooms.com",
     Description: "Room and resource management software.",
     Discount: "100%",
-    "Does it drive you into a paid account": "Not for 6 months",
+    "Does it drive you into a paid account": "Maybe, after 6 months.",
     Requirement: "You are a hospital/ medical facility",
     Favicon: "/assets/image/favicon.png",
     "How to apply (text)": "Sign up and request a free account",
@@ -2597,7 +2535,8 @@ export const services = [
     Description:
       "Social Media Reports: Reports for Instagram, Facebook, Ads, YouTube, LinkedIn, Analytics, Google Ads and others. Generate professional reports in just 3 seconds and stop wasting time with manual tasks",
     Discount: "30% for 3 months",
-    "Does it drive you into a paid account": "Yes",
+    "Does it drive you into a paid account":
+      "Maybe, but you get a clear discount so you know upfront.",
     Requirement: "None",
     Favicon:
       "https://reportei.com/wp-content/uploads/2017/11/favicon-150x150.png",
@@ -2645,7 +2584,8 @@ export const services = [
     Description:
       "Foinikas, is a no fuzz web app to manage your's and your team's daily work life. Lightweight and accessible from any device Foinikas allow you to easily manage your Customer information, Orders, Meetings and have a day to day overview of your business’s financials (revenue, outstanding payments, statistics).  Foinikas is ideal for freelancers, e-shops, practices, brick & mortar stores, beauty salons, insurance brokers and many others.",
     Discount: "100% for 3 months + 80% for the 6 following",
-    "Does it drive you into a paid account": "No",
+    "Does it drive you into a paid account":
+      "Maybe, but you get a clear discount so you know upfront.",
     Requirement: "None",
     Favicon: "/favicons/apple-touch-icon.png",
     "How to apply (text)": "Just register",
@@ -2660,9 +2600,10 @@ export const services = [
     Description:
       "Design high-quality, pixel perfect screenshots for your Apple & Android apps. The all in one solution to save time, money and boost your app store impact by 35%!\nBusiness owner? Marketer? Designer? Full stack developer? AppScreens is designed for you.",
     Discount: "50%",
-    "Does it drive you into a paid account": "Maybe, it’s a discount.",
+    "Does it drive you into a paid account":
+      "Maybe, but you get a clear discount so you know upfront.",
     Requirement: "First time users",
-    Favicon: "",
+    Favicon: "https://appscreens.com/assets/apple-touch-icon.png",
     "How to apply (text)":
       "Use coupon: COVID19 on the pricing & subscription page",
     "How to apply (URL or email)": "https://appscreens.com",
@@ -2673,15 +2614,16 @@ export const services = [
     Approved: "",
     Category: "Marketing/ LiveChat",
     URL: "https://hootsuite.com",
-    Description: "",
-    Discount: "",
-    "Does it drive you into a paid account": "",
-    Requirement: "",
+    Description:
+      "Enhance your social media management with Hootsuite, the leading social media dashboard. Manage multiple networks and profiles and measure your campaign results.",
+    Discount: "100%",
+    "Does it drive you into a paid account": "Maybe",
+    Requirement: "Professional Plan",
     Favicon: "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)":
+    "How to apply (text)": "Use the button below",
+    "How to apply (URL or email)": "https://hootsuite.com/pages/stay-connected",
+    "More info URL":
       "https://hootsuite.com/newsroom/press-releases/helping-small-businesses-and-nonprofits-stay-connected-during-covid-19-crisis",
-    "More info URL": "",
   },
   {
     Name: "SuperPay",
@@ -2692,27 +2634,11 @@ export const services = [
     Discount: "100%",
     "Does it drive you into a paid account": "No",
     Requirement: "Must be a non-profit helping to in the Covid-19 effort",
-    Favicon: "",
+    Favicon: "/touch-icon/apple-touch-icon.png",
     "How to apply (text)":
       "Just register and contact support via the live chat to get access to the dicount",
     "How to apply (URL or email)": "https://superpayit.com/",
     "More info URL": "",
-  },
-  {
-    Name: "Happierco",
-    Approved: "",
-    Category: "People Management",
-    URL: "https://happierco.com",
-    Description:
-      "Happierco is an intuitive solution for team engagement and performance management. We're responding to the needs of managers and teams of various company sizes as they work from home by offering some of our incredible features for free to help them continue to stay engaged and productive amidst the COVID-19 pandemic.",
-    Discount: "Free OKRs and 1-on-1 Meeting solution",
-    "Does it drive you into a paid account": "No",
-    Requirement: "None",
-    Favicon: "",
-    "How to apply (text)":
-      "Just sign up - On the pricing page, go for the Free.",
-    "How to apply (URL or email)": "https://happierco.com/free",
-    "More info URL": "https://www.happierco.com/blog/coronavirus-response/",
   },
   {
     Name: "Bundy",
@@ -2722,9 +2648,10 @@ export const services = [
     Description:
       "Bundy provides you with all the features your team needs to work from home in minutes.",
     Discount: "100%",
-    "Does it drive you into a paid account": "After 10 Employees",
+    "Does it drive you into a paid account": "Maybe, after 10 employees",
     Requirement: "None",
-    Favicon: "",
+    Favicon:
+      "https://bundy.io/wp-content/uploads/2020/03/cropped-Frame-1-2-1-32x32.png",
     "How to apply (text)": "Signup online",
     "How to apply (URL or email)": "https://bundy.io",
     "More info URL": "https://bundy.io",
@@ -2737,7 +2664,7 @@ export const services = [
     Description:
       "Simple project management + internal communication tool for remote teams worldwide.",
     Discount: "100%",
-    "Does it drive you into a paid account": "Not for 6 months",
+    "Does it drive you into a paid account": "Maybe, after 6 months.",
     Requirement: "COVID-19 projects, businesses impacted by COVID-19",
     Favicon: "/img/favicons/apple-touch-icon.png",
     "How to apply (text)": "Signup online, use promo code ZACHRANNYKRUH",
@@ -2746,19 +2673,151 @@ export const services = [
     "More info URL": "https://freelo.app/",
   },
   {
-    Name: "Crrux",
+    Name: "Luminati",
     Approved: "",
-    Category: "Productivity Tools",
-    URL: "https://www.crrux.com",
+    Category: "Data collection",
+    URL: "https://luminati.io/",
     Description:
-      "Crrux is a seamless software for critical productivity, collaboration and engagement needs, to power your personal, community and business related needs. It provides a versatile way to manage the crux of your work.",
-    Discount: "100%",
-    "Does it drive you into a paid account": "No",
+      "Luminati is a leading Data Collection Automation platform, offering high-performance and fast data collection products and services",
+    Discount:
+      "$250 discount for the 1st month, including all residential packages",
+    "Does it drive you into a paid account":
+      "Maybe, it depends on the customer",
+    Requirement: "New customers",
+    Favicon: "",
+    "How to apply (text)": "Just sign up",
+    "How to apply (URL or email)":
+      "https://luminati.io/?affiliate=ref_5e89cd71c7669177ab70a143",
+    "More info URL": "https://luminati.io/",
+  },
+  {
+    Name: "Hostitor",
+    Approved: "",
+    Category: "Hosting",
+    URL: "https://hostitor.com",
+    Description:
+      "Host Unlimited Websites with Unlimited Storage and Bandwidth. Sign up for free, no payment required.",
+    Discount: "6 months",
+    "Does it drive you into a paid account":
+      "Maybe, after 6 months, then $15/year",
     Requirement: "None",
     Favicon: "",
+    "How to apply (text)": "Just Sign up from Homepage or other pages",
+    "How to apply (URL or email)": "https://www.hostitor.com/sign-up",
+    "More info URL": "https://www.hostitor.com/",
+  },
+  {
+    Name: "Ideanote",
+    Approved: "",
+    Category: "Remote Work",
+    URL: "https://ideanote.io",
+    Description:
+      "All-in-one idea management for remote teams. One central hub to collect, manage and act on ideas.",
+    Discount: "60%",
+    "Does it drive you into a paid account": "Maybe, after September",
+    Requirement: "COVID-19 projects, businesses impacted by COVID-19",
+    Favicon:
+      "/assets/icon/app-icon-16x16.2635418cb67de439a7cbf1408133e044b048d753.png",
+    "How to apply (text)": "Just sign up or open chat on pricing page.",
+    "How to apply (URL or email)": "https://ideanote.it/VbErPn",
+    "More info URL": "https://ideanote.io",
+  },
+  {
+    Name: "Sponseasy",
+    Approved: "",
+    Category: "Website Builder",
+    URL: "https://sponseasy.com",
+    Description:
+      "A simple proposal builder to better pitch, sell and close sponsorship for anything (your online event too).",
+    Discount: "100%",
+    "Does it drive you into a paid account": "Maybe, after July",
+    Requirement:
+      "Covid-19 related projects (website, apps, iniatives looking for sponsors, online events to support artists...)",
+    Favicon: "https://uploads-ssl.webflow.com/img/webclip.png",
+    "How to apply (text)": "Sign Up and contact us using the chat.",
+    "How to apply (URL or email)": "contact@sponseasy.com",
+    "More info URL": "https://sponseasy.com/#covidhelp",
+  },
+  {
+    Name: "Miro",
+    Approved: "",
+    Category: "Diagramming and Collaboration tool",
+    URL: "https://miro.com",
+    Description:
+      "A collaborative online whiteboard for any kind of team to visually collaborate synchronously or asynchronously from anywhere.",
+    Discount: "100%",
+    "Does it drive you into a paid account": "No",
+    Requirement:
+      "Free education plan for all k-12 and higher ed students and educators, 30% off team plan for nonprofits and 100% off for nonprofits working on COVID-19 initiatives.",
+    Favicon: "/static/favicons/apple-touch-icon.png?v=00zdoEw6N6",
     "How to apply (text)":
-      "Just sign up - Start with 14 day trial period and at the end of trial select the free plan",
-    "How to apply (URL or email)": "https://www.crrux.com",
-    "More info URL": "https://www.crrux.com/pricing",
+      "Free forever: sign up. Education and NPO plans: apply for eligibility.",
+    "How to apply (URL or email)": "https://miro.com/",
+    "More info URL": "",
+  },
+  {
+    Name: "ubersuggest",
+    Approved: "",
+    Category: "Content Marketing",
+    URL: "https://neilpatel.com/ubersuggest/",
+    Description:
+      "Ubersuggest helps you generate keyword ideas for your content marketing strategy and production.",
+    Discount: "100% for 7 days",
+    "Does it drive you into a paid account": "Yes, after 7 days",
+    Requirement: "",
+    Favicon: "",
+    "How to apply (text)": "just use the application",
+    "How to apply (URL or email)": "https://neilpatel.com/ubersuggest/",
+    "More info URL": "",
+  },
+  {
+    Name: "User.com",
+    Approved: "",
+    Category: "Marketing/ LiveChat",
+    URL: "https://user.com/en",
+    Description:
+      "An omnichannel Live Chat, Email Marketing, Marketing Automation platform with Push Notifications and SMS messages. plus more!",
+    Discount: "100% for 6 months",
+    "Does it drive you into a paid account": "Maybe, after 6 months.",
+    Requirement:
+      "Governmental, educational or healthcare institution responding to COVID-19",
+    Favicon: "/static/img/favicon/apple-touch-icon.png",
+    "How to apply (text)":
+      "please mention #ngo-user in chat to receive a free 6-month Business plan.",
+    "How to apply (URL or email)": "https://app.user.com/accounts/register/",
+    "More info URL":
+      "https://user.com/en/blog/covid-19-support-for-gov-agencies-ngos/",
+  },
+  {
+    Name: "Call to Shop",
+    Approved: "",
+    Category: "eCommerce Software",
+    URL: "http://callto.shop/",
+    Description:
+      "Human connection in retail. Customers videocall during opening hours and make a purchase using Stripe. Your own app for Android and iOs.",
+    Discount: "100% for 3 months",
+    "Does it drive you into a paid account": "Maybe, after 3 months.",
+    Requirement: "None.",
+    Favicon: "/apple-icon-57x57.png",
+    "How to apply (text)": "Just send us a message.",
+    "How to apply (URL or email)": "https://www.callto.shop",
+    "More info URL": "",
+  },
+  {
+    Name: "LiveAgent",
+    Approved: "",
+    Category: "Help Desk Software",
+    URL: "https://www.liveagent.com/",
+    Description: "",
+    Discount: "100% for the duration of COVID-19 pandemic",
+    "Does it drive you into a paid account":
+      "Maybe, no payment details / contracts required.",
+    Requirement: "None.",
+    Favicon:
+      "//cdn.liveagent.com/app/themes/liveagent/assets/images/favicon/apple-touch-icon.png",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "https://www.liveagent.com/trial/",
+    "More info URL":
+      "https://www.liveagent.com/customer-service-during-coronavirus/",
   },
 ];
