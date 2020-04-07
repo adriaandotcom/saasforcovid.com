@@ -2546,5 +2546,19 @@ export const services = [
     "How to apply (text)": "Use code: MNMKH",
     "How to apply (URL or email)": "https://try.easyship.com/small-business-relief/",
     "More info URL": ""
+  },
+  {
+    "Name": "Luminati",
+    "Approved": "",
+    "Category": "Data collection",
+    "URL": "https://luminati.io/",
+    "Description": "Luminati is a leading Data Collection Automation platform, offering high-performance and fast data collection products and services",
+    "Discount": "$250 discount for the 1st month, including all residential packages",
+    "Does it drive you into a paid account": "Maybe, it depends on the customer",
+    "Requirement": "New customers",
+    "Favicon": "",
+    "How to apply (text)": "Just sign up",
+    "How to apply (URL or email)": "https://luminati.io/?affiliate=ref_5e89cd71c7669177ab70a143",
+    "More info URL": "https://luminati.io/"
   }
 ]
