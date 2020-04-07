@@ -1744,7 +1744,7 @@ export const services = [
     "Discount": "Free tier of recruitment softwre",
     "Does it drive you into a paid account": "Maybe, if there's further interest in additional features or tiers",
     "Requirement": "Must have an Applicant Tracking System",
-    "Favicon": "",
+    "Favicon": "/favicon.png",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://register.joonko.com",
     "More info URL": "https://joonko.co/how-it-works"
@@ -2587,6 +2587,20 @@ export const services = [
     "Favicon": "",
     "How to apply (text)": "Just add your email",
     "How to apply (URL or email)": "https://enhancv.com/covid-19/",
+    "More info URL": ""
+  },
+  {
+    "Name": "Apify",
+    "Approved": "",
+    "Category": "Data collection",
+    "URL": "www.apify.com",
+    "Description": "Apify is the one-stop shop for all your web scraping, data extraction, and web RPA needs. Turn any website into an API.",
+    "Discount": "100% free use of COVID-19 actors",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Sign up and use the COVID-19 actors for free",
+    "How to apply (URL or email)": "https://apify.com/covid-19",
     "More info URL": ""
   }
 ]
