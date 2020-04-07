@@ -2475,7 +2475,7 @@ export const services = [
     "Favicon": "",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://get.sparkup.app/remote-work/",
-    "More info URL": "https://blog.sparkup.app/16-tips-for-efficient-virtual-meetings"
+    "More info URL": "https://sparkup.app/fr"
   },
   {
     "Name": "Learner Mobile",
