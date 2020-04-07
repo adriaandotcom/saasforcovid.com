@@ -890,7 +890,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project",
-    "Favicon": "/favicon-196x196.png",
+    "Favicon": "",
     "How to apply (text)": "Email info@vectorspace.ai or visit https://vectorspace.ai",
     "How to apply (URL or email)": "info@vectorspace.ai",
     "More info URL": "https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html?tc=eml_cleartime"
@@ -2735,12 +2735,12 @@ export const services = [
     "Category": "Cybersecurity",
     "URL": "https://acronymx.com",
     "Description": "Created for startups + SMBs, acronym helps teams build their first privacy + security program. Teams affected by the crisis are encouraged to reach out for additional help.",
-    "Discount": "100% plus free Discovery workshop for qualifying teams",
+    "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Pay it forward",
     "Favicon": "https://acronymx.com/static/images/favicon.310dc5e17c76.ico",
-    "How to apply (text)": "Sign up + email hello@acronymx.com",
-    "How to apply (URL or email)": "hello@acronymx.com",
+    "How to apply (text)": "Sign up + email hello@acronymx.com - free for 12 months plus free Discovery workshop for qualifying teams",
+    "How to apply (URL or email)": "https://acronymx.com",
     "More info URL": ""
   },
   {
