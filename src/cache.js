@@ -2402,7 +2402,7 @@ export const services = [
     "Discount": "250$ credit",
     "Does it drive you into a paid account": "No",
     "Requirement": "None.",
-    "Favicon": "//cdn.liveagent.com/app/themes/liveagent/assets/images/favicon/favicon-32x32.png",
+    "Favicon": "",
     "How to apply (text)": "Send us a message to: andy@liveagent.com with subject \"SaaS4Covid",
     "How to apply (URL or email)": "https://www.liveagent.com/trial/",
     "More info URL": "https://www.liveagent.com/customer-service-during-coronavirus/"
@@ -2699,6 +2699,6 @@ export const services = [
     "Favicon": "",
     "How to apply (text)": "Just sign up and the discount will be applied",
     "How to apply (URL or email)": "https://www.calltrackingmetrics.com/plans-pricing/",
-    "More info URL": ""
+    "More info URL": "https://www.calltrackingmetrics.com/covid-19/"
   }
 ]
