@@ -2614,7 +2614,21 @@ export const services = [
     "Requirement": "Free of charge to anyone working on a COVID-19 project",
     "Favicon": "",
     "How to apply (text)": "Just sign up",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (URL or email)": "contact@dokomaps.com",
+    "More info URL": "https://www.ville-boe.fr/decouvrir-boe/presentation/dernieres-actualites/911-carte-covid19-boe\nhttps://dokomaps.com/map/873/takeout-and-delivery-list-in-vancouver-covid-19"
+  },
+  {
+    "Name": "Netpeak Software",
+    "Approved": "",
+    "Category": "Website Tools",
+    "URL": "https://netpeaksoftware.com/",
+    "Description": "Netpeak Software develops Netpeak Spider & Checker – tools for SEO specialists and webmasters, that help to solve day-to-day SEO tasks in easy and effective way",
+    "Discount": "Up to 45% off on all plans",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "New and old customers",
+    "Favicon": "",
+    "How to apply (text)": "Watch pricing to choose your discount and apply promo code while purchasing",
+    "How to apply (URL or email)": "https://netpeaksoftware.com/blog/zombie-sale-up-to-45-off-netpeak-spider-and-checker",
+    "More info URL": "https://netpeaksoftware.com/pricing"
   }
 ]
