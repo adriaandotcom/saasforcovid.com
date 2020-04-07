@@ -806,7 +806,7 @@ export const services = [
     "Discount": "Free for up to 10 users or build minutes (incase of Bitbucket Pipelines etc)",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Just signup through the link",
     "How to apply (URL or email)": "https://www.atlassian.com/software/free",
     "More info URL": "https://www.atlassian.com/remote"
@@ -2630,5 +2630,33 @@ export const services = [
     "How to apply (text)": "Watch pricing to choose your discount and apply promo code while purchasing",
     "How to apply (URL or email)": "Watch the offer here: https://netpeaksoftware.com/blog/zombie-sale-up-to-45-off-netpeak-spider-and-checker",
     "More info URL": "https://netpeaksoftware.com/pricing"
+  },
+  {
+    "Name": "",
+    "Approved": "",
+    "Category": "",
+    "URL": "",
+    "Description": "",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
+  },
+  {
+    "Name": "Sparkup",
+    "Approved": "",
+    "Category": "Remote Work",
+    "URL": "https://sparkup.app/",
+    "Description": "",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "Just sign up",
+    "How to apply (URL or email)": "https://get.sparkup.app/remote-work/",
+    "More info URL": "https://blog.sparkup.app/16-tips-for-efficient-virtual-meetings"
   }
 ]
