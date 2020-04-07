@@ -2595,11 +2595,11 @@ export const services = [
     "Category": "Data collection",
     "URL": "www.apify.com",
     "Description": "Apify is the one-stop shop for all your web scraping, data extraction, and web RPA needs. Turn any website into an API.",
-    "Discount": "100% free use of COVID-19 actors",
+    "Discount": "100% (up to Business plan)",
     "Does it drive you into a paid account": "No",
-    "Requirement": "None",
+    "Requirement": "Free of charge to anyone working on a COVID-19 project",
     "Favicon": "",
-    "How to apply (text)": "Sign up and use the COVID-19 actors for free",
+    "How to apply (text)": "Use the chatbot on the page",
     "How to apply (URL or email)": "https://apify.com/covid-19",
     "More info URL": ""
   }
