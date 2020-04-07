@@ -2262,7 +2262,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Must be a non-profit helping to in the Covid-19 effort",
-    "Favicon": "/touch-icon/favicon-32x32.png",
+    "Favicon": "/touch-icon/apple-touch-icon.png",
     "How to apply (text)": "Just register and contact support via the live chat to get access to the dicount",
     "How to apply (URL or email)": "https://superpayit.com/",
     "More info URL": ""
