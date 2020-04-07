@@ -2567,13 +2567,13 @@ export const services = [
     "Category": "Website Tools",
     "URL": "https://www.expertrec.com/covid-19-discount/",
     "Description": "Expertrec is an internal website search engine",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Discount": "50% for all medical institutions and communities fighting coronavirus",
+    "Does it drive you into a paid account": "Yes",
+    "Requirement": "New and old customers",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Sign up and send an email to support@expertrec.com with subject line \"COVID 19\" and your website URL",
+    "How to apply (URL or email)": "https://www.expertrec.com/covid-19-discount/",
+    "More info URL": "https://www.expertrec.com/covid-19-discount/"
   },
   {
     "Name": "Enhancv",
