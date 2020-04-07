@@ -2735,7 +2735,7 @@ export const services = [
     "Category": "Cybersecurity",
     "URL": "https://acronymx.com",
     "Description": "Created for startups + SMBs, acronym helps teams build their first privacy + security program. Teams affected by the crisis are encouraged to reach out for free services.",
-    "Discount": "Free for 12 months",
+    "Discount": "Free",
     "Does it drive you into a paid account": "No",
     "Requirement": "Pay it forward",
     "Favicon": "https://acronymx.com/static/images/favicon.310dc5e17c76.ico",
