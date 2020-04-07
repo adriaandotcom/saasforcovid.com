@@ -2497,13 +2497,13 @@ export const services = [
     "Category": "Website Tools",
     "URL": "https://weglot.com/",
     "Description": "Weglot is a SaaS startup that allows companies of all sizes to make their websites multilingual in a few minutes and without the need for technical skills.",
-    "Discount": "!00%",
+    "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "To any website related to providing information about COVID-19",
     "Favicon": "",
     "How to apply (text)": "Send an email to coronavirus@weglot.com after sign up to Weglot",
     "How to apply (URL or email)": "coronavirus@weglot.com",
-    "More info URL": "N/A"
+    "More info URL": ""
   },
   {
     "Name": "BaseDash",
@@ -2516,7 +2516,7 @@ export const services = [
     "Requirement": "BaseDash Pro is free for 3 months for any startups affected by COVID-19",
     "Favicon": "",
     "How to apply (text)": "Sign up for free, then email max@basedash.io for 3 months free",
-    "How to apply (URL or email)": "https://basedash.io/create-account?ref=saasforcovid",
+    "How to apply (URL or email)": "https://basedash.io/create-account",
     "More info URL": "https://basedash.io"
   },
   {
@@ -2570,9 +2570,9 @@ export const services = [
     "Discount": "$250 discount for the 1st month, including all residential packages",
     "Does it drive you into a paid account": "Maybe, it depends on the customer",
     "Requirement": "New customers",
-    "Favicon": "",
+    "Favicon": "https://luminati-holanetworksltd.netdna-ssl.com/favicon.ico?md5=15406-80ba0b60",
     "How to apply (text)": "Just sign up",
-    "How to apply (URL or email)": "https://luminati.io/?affiliate=ref_5e89cd71c7669177ab70a143",
+    "How to apply (URL or email)": "https://luminati.io/",
     "More info URL": "https://luminati.io/"
   },
   {
@@ -2629,7 +2629,7 @@ export const services = [
     "Favicon": "",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "contact@dokomaps.com",
-    "More info URL": "https://www.ville-boe.fr/decouvrir-boe/presentation/dernieres-actualites/911-carte-covid19-boe\nhttps://dokomaps.com/map/873/takeout-and-delivery-list-in-vancouver-covid-19"
+    "More info URL": "https://dokomaps.com/map/873/takeout-and-delivery-list-in-vancouver-covid-19"
   },
   {
     "Name": "Netpeak Software",
