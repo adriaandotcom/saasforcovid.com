@@ -2686,5 +2686,19 @@ export const services = [
     "How to apply (text)": "Sign up and send an email to info@jamespot.com",
     "How to apply (URL or email)": "https://launch.jamespot.com/?vertical=default-en&lang=en&utm_source=ovh&utm_medium=opensolidarity&utm_campaign=opensolidarity",
     "More info URL": ""
+  },
+  {
+    "Name": "CallTrackingMetrics",
+    "Approved": "",
+    "Category": "Remote Work",
+    "URL": "https://www.calltrackingmetrics.com/",
+    "Description": "All-in-one marketing intelligence and",
+    "Discount": "no monthly subscription fee on any plan until June 1, 2020",
+    "Does it drive you into a paid account": "Yes, but you can cancel anytime",
+    "Requirement": "New customers",
+    "Favicon": "",
+    "How to apply (text)": "Just sign up and the discount will be applied",
+    "How to apply (URL or email)": "https://www.calltrackingmetrics.com/plans-pricing/",
+    "More info URL": ""
   }
 ]
