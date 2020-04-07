@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "Free until 1 June",
     "Does it drive you into a paid account": "No, no payment details required.",
     "Requirement": "Businesses heavily impacted by COVID-19",
-    "Favicon": "",
+    "Favicon": "https://spotonwifi.com/wp-content/uploads/2017/07/cropped-logo-1-32x32.png",
     "How to apply (text)": "Use coupon: FIGHTCOVID",
     "How to apply (URL or email)": "info@spotonwifi.com",
     "More info URL": "https://spotonwifi.com"
@@ -2464,6 +2464,20 @@ export const services = [
     "More info URL": "https://www.postaffiliatepro.com/affiliate-marketing-software/"
   },
   {
+    "Name": "Sparkup",
+    "Approved": "",
+    "Category": "Remote Work",
+    "URL": "https://sparkup.app/",
+    "Description": "Make your meetings and events more interactive with a powerful Q&A and polling platform.\nGive a voice to your audience - Collect real-time insights - Energize your participants\nYou can use it with zoom, slack, hangout, skype..etc",
+    "Discount": "100% for 3 months",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Just sign up",
+    "How to apply (URL or email)": "https://get.sparkup.app/remote-work/",
+    "More info URL": "https://blog.sparkup.app/16-tips-for-efficient-virtual-meetings"
+  },
+  {
     "Name": "Learner Mobile",
     "Approved": "",
     "Category": "Learning Management System",
@@ -2632,31 +2646,17 @@ export const services = [
     "More info URL": "https://netpeaksoftware.com/pricing"
   },
   {
-    "Name": "",
+    "Name": "Kognity",
     "Approved": "",
-    "Category": "",
-    "URL": "",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Category": "Other (add in tab \"Categories\")",
+    "URL": "kognity.com",
+    "Description": "Kognity offers intelligent textbooks and online learning platforms for the IB, IGCSE, GCSE curriculums.",
+    "Discount": "100%",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "Schools need to be in countries that are in lockdown and doing distance learning.",
     "Favicon": "",
-    "How to apply (text)": "",
+    "How to apply (text)": "Co",
     "How to apply (URL or email)": "",
     "More info URL": ""
-  },
-  {
-    "Name": "Sparkup",
-    "Approved": "",
-    "Category": "Remote Work",
-    "URL": "https://sparkup.app/",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
-    "Favicon": "",
-    "How to apply (text)": "Just sign up",
-    "How to apply (URL or email)": "https://get.sparkup.app/remote-work/",
-    "More info URL": "https://blog.sparkup.app/16-tips-for-efficient-virtual-meetings"
   }
 ]
