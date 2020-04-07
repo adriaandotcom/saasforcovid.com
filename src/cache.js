@@ -1912,7 +1912,7 @@ export const services = [
     "Discount": "$1/mo per location",
     "Does it drive you into a paid account": "Yes, but only $1/month",
     "Requirement": "none",
-    "Favicon": "/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com"
@@ -2532,5 +2532,19 @@ export const services = [
     "How to apply (text)": "Fill in the form from the link",
     "How to apply (URL or email)": "https://www.zendesk.com/campaign/remote-support-bundle/",
     "More info URL": "https://www.zendesk.com/campaign/remote-support-bundle/"
+  },
+  {
+    "Name": "Easyship",
+    "Approved": "",
+    "Category": "eCommerce Software",
+    "URL": "https://www.easyship.com/",
+    "Description": "Extended 90 Day Free Trial\nMigrating offline orders online or trying to keep up with a surge in online orders? We're offering a 90-day free trial of our Plus package for all new customers who sign up before June 30, 2020. If you're currently on a 30-day trial, we'll extend this to 90 days to give you a bit more breathing room.\n\nThis offer's merchant's live chat support, and branded tracking features, to offer increased transparency to their customers.",
+    "Discount": "100% for 3 months",
+    "Does it drive you into a paid account": "Yes, but we have a free plan for merchants under 100 shipments per month. Live chat and branded tracking only available on free plans, otherwise tracking and email offered in free plan.",
+    "Requirement": "N/A",
+    "Favicon": "",
+    "How to apply (text)": "Use code: MNMKH",
+    "How to apply (URL or email)": "https://try.easyship.com/small-business-relief/",
+    "More info URL": ""
   }
 ]
