@@ -2560,5 +2560,33 @@ export const services = [
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://luminati.io/?affiliate=ref_5e89cd71c7669177ab70a143",
     "More info URL": "https://luminati.io/"
+  },
+  {
+    "Name": "Expertrec",
+    "Approved": "",
+    "Category": "Website Tools",
+    "URL": "https://www.expertrec.com/covid-19-discount/",
+    "Description": "Expertrec is an internal website search engine",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
+  },
+  {
+    "Name": "Enhancv",
+    "Approved": "",
+    "Category": "Recruitment",
+    "URL": "www.enhancv.com",
+    "Description": "Enhancv is one of the most used resume builders on the web",
+    "Discount": "100% free for 1 month",
+    "Does it drive you into a paid account": "No credit card, to recurring fees",
+    "Requirement": "New and old customers",
+    "Favicon": "",
+    "How to apply (text)": "Just add your email",
+    "How to apply (URL or email)": "https://enhancv.com/covid-19/",
+    "More info URL": ""
   }
 ]
