@@ -2730,17 +2730,17 @@ export const services = [
     "More info URL": ""
   },
   {
-    "Name": "",
+    "Name": "acronym",
     "Approved": "",
-    "Category": "",
-    "URL": "",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Category": "Cybersecurity",
+    "URL": "https://acronymx.com/",
+    "Description": "Created for startups + SMBs, acronym helps teams build their first privacy + security program. Teams affected by the crisis are encouraged to reach out for additional help.",
+    "Discount": "100% plus free Discovery workshop for qualifying teams",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "Pay it forward",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
+    "How to apply (text)": "Sign up + email hello@acronymx.com",
+    "How to apply (URL or email)": "hello@acronymx.com",
     "More info URL": ""
   },
   {
