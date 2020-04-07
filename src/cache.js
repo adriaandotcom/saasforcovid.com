@@ -2159,7 +2159,7 @@ export const services = [
     "Name": "SpotOnWifi.com",
     "Approved": "",
     "Category": "Marketing Automation",
-    "URL": "https://spotowifi.com/",
+    "URL": "https://spotonwifi.com",
     "Description": "Marketing SaaS to grow customer loyalty, automate a better review score and increast return visits. Connect, capture and keep more customers with our all-in-one marketing platform",
     "Discount": "Free until 1 June",
     "Does it drive you into a paid account": "No, no payment details required.",
@@ -2628,7 +2628,7 @@ export const services = [
     "Requirement": "New and old customers",
     "Favicon": "",
     "How to apply (text)": "Watch pricing to choose your discount and apply promo code while purchasing",
-    "How to apply (URL or email)": "https://netpeaksoftware.com/blog/zombie-sale-up-to-45-off-netpeak-spider-and-checker",
+    "How to apply (URL or email)": "Watch the offer here: https://netpeaksoftware.com/blog/zombie-sale-up-to-45-off-netpeak-spider-and-checker",
     "More info URL": "https://netpeaksoftware.com/pricing"
   }
 ]
