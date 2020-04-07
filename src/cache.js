@@ -2402,7 +2402,7 @@ export const services = [
     "Discount": "250$ credit",
     "Does it drive you into a paid account": "No",
     "Requirement": "None.",
-    "Favicon": "",
+    "Favicon": "//cdn.liveagent.com/app/themes/liveagent/assets/images/favicon/apple-touch-icon.png",
     "How to apply (text)": "Send us a message to: andy@liveagent.com with subject \"SaaS4Covid",
     "How to apply (URL or email)": "https://www.liveagent.com/trial/",
     "More info URL": "https://www.liveagent.com/customer-service-during-coronavirus/"
@@ -2671,6 +2671,20 @@ export const services = [
     "Favicon": "",
     "How to apply (text)": "Use the chatbot on the page",
     "How to apply (URL or email)": "https://www.lambdatest.com/non-profit?utm_source=saasforcovid&utm_medium=listing&utm_campaign=&utm_term=",
+    "More info URL": ""
+  },
+  {
+    "Name": "Jamespot",
+    "Approved": "",
+    "Category": "Remote Work",
+    "URL": "https://www.en.jamespot.com/",
+    "Description": "All-in-one collaborative platform with all the required applications to efficiently boost your teams on a daily basis.",
+    "Discount": "100% free for 2 months",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Sign up and send an email to info@jamespot.com",
+    "How to apply (URL or email)": "https://launch.jamespot.com/?vertical=default-en&lang=en&utm_source=ovh&utm_medium=opensolidarity&utm_campaign=opensolidarity",
     "More info URL": ""
   }
 ]
