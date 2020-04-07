@@ -2607,7 +2607,7 @@ export const services = [
     "Name": "Apify",
     "Approved": "",
     "Category": "Data collection",
-    "URL": "www.apify.com",
+    "URL": "https//apify.com",
     "Description": "Apify is the one-stop shop for all your web scraping, data extraction, and web RPA needs. Turn any website into an API.",
     "Discount": "100% (up to Business plan)",
     "Does it drive you into a paid account": "No",
