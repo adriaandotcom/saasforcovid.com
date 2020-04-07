@@ -2602,5 +2602,19 @@ export const services = [
     "How to apply (text)": "Use the chatbot on the page",
     "How to apply (URL or email)": "https://apify.com/covid-19",
     "More info URL": ""
+  },
+  {
+    "Name": "Doko Maps",
+    "Approved": "",
+    "Category": "Cartography",
+    "URL": "https://dokomaps.com",
+    "Description": "Doko Maps is a tool to create, organize and share places on a map.\nOur free trial is now for 90 days to help cities, communities, anyone map operating businesses during the lockdown.",
+    "Discount": "100% for 3 months",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "Free of charge to anyone working on a COVID-19 project",
+    "Favicon": "",
+    "How to apply (text)": "Just sign up",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
