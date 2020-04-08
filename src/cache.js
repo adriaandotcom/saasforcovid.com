@@ -932,7 +932,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Scaling Plan only. Non-profit working on Covid-19 related response",
-    "Favicon": "",
+    "Favicon": "https://tettra.com/wp-content/uploads/2018/11/cropped-favicon-32x32.png",
     "How to apply (text)": "Sign up and reach out over chat",
     "How to apply (URL or email)": "https://app.tettra.co/create-team",
     "More info URL": ""
@@ -2825,6 +2825,20 @@ export const services = [
     "Favicon": "",
     "How to apply (text)": "Install our Chrome extension and use it to create a new Reply account",
     "How to apply (URL or email)": "https://reply.io/relief-offer/",
+    "More info URL": ""
+  },
+  {
+    "Name": "SellPro",
+    "Approved": "",
+    "Category": "Internal Communication",
+    "URL": "https://www.sellpro.net",
+    "Description": "Free Enterprise account for Retailers to be able to create content their furloughed or laid-off employees can use to keep in touch, so when things return, employees return.",
+    "Discount": "Free until doors open again",
+    "Does it drive you into a paid account": "Only if they like it once they have returned to business",
+    "Requirement": "Available to retailers currently shut down due to Covid",
+    "Favicon": "",
+    "How to apply (text)": "Just create a basic account and we'll upgrade you free.",
+    "How to apply (URL or email)": "https://info.sellpro.net/free-enterprise-solution-upgrade-for-retailers-sellpro",
     "More info URL": ""
   }
 ]
