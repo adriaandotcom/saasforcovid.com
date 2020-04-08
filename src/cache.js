@@ -2758,18 +2758,18 @@ export const services = [
     "More info URL": ""
   },
   {
-    "Name": "",
+    "Name": "Evidence",
     "Approved": "",
-    "Category": "",
-    "URL": "",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Category": "Website Tools",
+    "URL": "https://evidence.io",
+    "Description": "Convert more visitors using the power of social proof. Help guide site visitors by showing real-time actions and purchases from other site visitors.",
+    "Discount": "100% free for 2 months",
+    "Does it drive you into a paid account": "Yes, but user can cancel in-app at anytime",
+    "Requirement": "None",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Use the promo code saas4covid when creating account",
+    "How to apply (URL or email)": "https://app.evidence.io/register",
+    "More info URL": "https://evidence.io"
   },
   {
     "Name": "",
