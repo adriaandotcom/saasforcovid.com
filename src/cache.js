@@ -2066,7 +2066,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "https://q5g9j9b9.stackpathcdn.com/wp-content/themes/kimp/assets/images/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io/?saasforcovid=discount",
     "More info URL": "https://www.kimp.io/"
@@ -2772,17 +2772,17 @@ export const services = [
     "More info URL": "https://evidence.io"
   },
   {
-    "Name": "",
+    "Name": "Returns Center",
     "Approved": "",
-    "Category": "",
-    "URL": "",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Category": "Delivery management",
+    "URL": "https://www.returnscenter.com/",
+    "Description": "A must-have returns management tool that guarantees a happy post-purchase experience. It helps you build brand loyalty and turn returns into repurchases.",
+    "Discount": "100% (Less than 3 returns per month）",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "Free forever plan (Less than 3 returns per month）",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
+    "How to apply (text)": "Sign up + choose free plan",
+    "How to apply (URL or email)": "https://blog.aftership.com/forever-free-at-returns-center/?utm_source=apply&utm_medium=saasforcovid",
     "More info URL": ""
   },
   {
