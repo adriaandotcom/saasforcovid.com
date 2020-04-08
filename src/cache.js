@@ -750,7 +750,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "./assets/img/brand/favicon.png",
     "How to apply (text)": "Signup and email support@devscore.com",
     "How to apply (URL or email)": "support@devscore.com",
     "More info URL": ""
@@ -2842,13 +2842,27 @@ export const services = [
     "More info URL": ""
   },
   {
+    "Name": "",
+    "Approved": "",
+    "Category": "",
+    "URL": "",
+    "Description": "",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
+  },
+  {
     "Name": "evervault",
     "Approved": "",
     "Category": "Authentication",
     "URL": "https://www.evervault.com/",
-    "Description": "evervault is data privacy infrastructure for developers. evervault auth is anonymous user authentication in a few lines of code.",
+    "Description": "evervault provides data privacy infrastructure for developers. evervault auth enables anonymous user authentication in a few lines of code.",
     "Discount": "Free",
-    "Does it drive you into a paid account": "Invite-only beta. Priority to COVID-19 projects.",
+    "Does it drive you into a paid account": "No",
     "Requirement": "None",
     "Favicon": "",
     "How to apply (text)": "Go to homepage and use COVID-19 banner to create account.",
