@@ -2636,7 +2636,7 @@ export const services = [
     "Approved": "",
     "Category": "Website Tools",
     "URL": "https://netpeaksoftware.com/",
-    "Description": "Netpeak Software develops Netpeak Spider & Checker – tools for SEO specialists and webmasters, that help to solve day-to-day SEO tasks in easy and effective way",
+    "Description": "o",
     "Discount": "Up to 45% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "New and old customers",
