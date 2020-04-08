@@ -1954,7 +1954,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-32x32.png",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
@@ -2024,7 +2024,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, 14 day free trial",
     "Requirement": "None. Works on any website",
-    "Favicon": "https://s3-us-west-2.amazonaws.com/storage.newclick.io/STATIC/IMG/newclick_favicon.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "http://newclick.io/",
     "More info URL": "http://newclick.io/"
@@ -2812,5 +2812,19 @@ export const services = [
     "How to apply (text)": "Sign up & create an account. The offer is already applied by default",
     "How to apply (URL or email)": "https://app.snapshift.co/",
     "More info URL": "https://www.snapshift.co/guide-covid-19"
+  },
+  {
+    "Name": "Reply.io",
+    "Approved": "",
+    "Category": "Sales Tools",
+    "URL": "https://reply.io/relief-offer/",
+    "Description": "At Reply, we understand that businesses experience a downturn in sales in light of COVID-19. To support your business and help you maintain or even grow sales, we are giving away our newly developed unlimited email search for FREE and 20% off on Reply plans for new customers",
+    "Discount": "Free unlimited email search and 20% off on Reply plans for new customers",
+    "Does it drive you into a paid account": "the email search feature will remain free forever, the 20% discount is temporary",
+    "Requirement": "available to new account only",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
