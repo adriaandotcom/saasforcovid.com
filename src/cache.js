@@ -2816,15 +2816,15 @@ export const services = [
   {
     "Name": "Letsignit",
     "Approved": "",
-    "Category": "Management Tools",
+    "Category": "Email signature manager",
     "URL": "www.letsignit.io",
     "Description": "Letsignit is the simplest, centralized email signature manager that allows you to create, attribute and operate harmonized signatures for your entire company. Go further and add targeted campaigns to transform your email into a powerful communication tool. 100% compatible with Office 365, Exchange and G Suite.",
-    "Discount": "",
+    "Discount": "Free emergency kit",
     "Does it drive you into a paid account": "No",
-    "Requirement": "",
+    "Requirement": "None",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
+    "How to apply (text)": "Fill out the form",
+    "How to apply (URL or email)": "https://www.letsignit.io/emergency-kit-contact-form/?utm_source=site&utm_medium=saasforcovid&utm_campaign=solidarity",
     "More info URL": ""
   },
   {
