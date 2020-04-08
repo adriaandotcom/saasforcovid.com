@@ -2206,7 +2206,7 @@ export const services = [
     "Discount": "30% for 3 months",
     "Does it drive you into a paid account": "Maybe, but you get a clear discount so you know upfront.",
     "Requirement": "None",
-    "Favicon": "https://reportei.com/wp-content/uploads/2017/11/favicon-150x150.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon: SAASFORCOVID",
     "How to apply (URL or email)": "https://reportei.com/en/",
     "More info URL": ""
@@ -2828,18 +2828,18 @@ export const services = [
     "More info URL": ""
   },
   {
-    "Name": "",
+    "Name": "Snapshift",
     "Approved": "",
-    "Category": "",
-    "URL": "",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Category": "HR",
+    "URL": "https://www.snapshift.co/",
+    "Description": "Snapshift is a workforce management application for food service and retail companies",
+    "Discount": "100% free",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Sign up & create an account. The offer is already applied by default",
+    "How to apply (URL or email)": "https://app.snapshift.co/",
+    "More info URL": "https://www.snapshift.co/guide-covid-19"
   },
   {
     "Name": "",
