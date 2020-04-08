@@ -428,7 +428,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon code: stayathome",
     "How to apply (URL or email)": "https://readermode.io/premium",
     "More info URL": ""
@@ -2818,7 +2818,7 @@ export const services = [
     "Approved": "",
     "Category": "Management Tools",
     "URL": "www.letsignit.io",
-    "Description": "Letsignit is an email signature manager tool that allows you to create, attribute and managed harmonized signatures for your entire company. Go further and add targeted campaigns to transform your email into a powerful communication tool. The tool is simple and 100% compatible with Office 365, Exchange and G Suite.",
+    "Description": "Letsignit is the simplest, centralized email signature manager that allows you to create, attribute and operate harmonized signatures for your entire company. Go further and add targeted campaigns to transform your email into a powerful communication tool. 100% compatible with Office 365, Exchange and G Suite.",
     "Discount": "",
     "Does it drive you into a paid account": "",
     "Requirement": "",
@@ -2828,18 +2828,18 @@ export const services = [
     "More info URL": ""
   },
   {
-    "Name": "2DAYSMOOD Remote Monitor",
+    "Name": "2DAYSMOOD Remote Experience Monitor",
     "Approved": "",
     "Category": "Management Tools",
     "URL": "https://2daysmood.com/en/remote-experience-monitor/",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
-    "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "Description": "How do you lead Employees, to emerge Stronger from Uncertainty and Change? We want to help you positively influence the impact of social distancing and working remotely. How? Check in with your teams quickly and continuously, Our solution enables you – as an Organizational Leader – to measure and improve the scientifically vetted factors, that now determine your (remote) culture. Employees complete a simple survey within 60 seconds, via email or app, completely anonymously. We developed a free (science based) 8 week continuous measuring program to set a baseline, monitor mood and measure effect.",
+    "Discount": "Free for 2 months",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "For all teams and organizations with 6 or more members! E-mails required, completely secure and anonymous.",
+    "Favicon": "Request via website",
+    "How to apply (text)": "Sign up via website, our experts will help you set up successfully!",
+    "How to apply (URL or email)": "https://2daysmood.com/en/remote-experience-monitor/",
+    "More info URL": "https://2daysmood.com/en/remote-experience-monitor/"
   },
   {
     "Name": "",
