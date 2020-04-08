@@ -78,7 +78,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, but this free plan has no custom domain.",
     "Requirement": "Install add-on",
-    "Favicon": "../img/faviconnew.png",
+    "Favicon": "",
     "How to apply (text)": "Use the button below",
     "How to apply (URL or email)": "https://sheet2site.com/coronavirus",
     "More info URL": ""
@@ -540,7 +540,7 @@ export const services = [
     "Discount": "50% for all packages",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "New customers",
-    "Favicon": "",
+    "Favicon": "https://netnut.io/wp-content/uploads/2019/06/cropped-Favicon-transparent-32x32.png",
     "How to apply (text)": "Email jeffy@netnut.io",
     "How to apply (URL or email)": "https://l.netnut.io/saasforcovid",
     "More info URL": "https://netnut.io/"
@@ -750,7 +750,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./assets/img/brand/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup and email support@devscore.com",
     "How to apply (URL or email)": "support@devscore.com",
     "More info URL": ""
@@ -2840,5 +2840,19 @@ export const services = [
     "How to apply (text)": "Just create a basic account and we'll upgrade you free.",
     "How to apply (URL or email)": "https://info.sellpro.net/free-enterprise-solution-upgrade-for-retailers-sellpro",
     "More info URL": ""
+  },
+  {
+    "Name": "evervault",
+    "Approved": "",
+    "Category": "Authentication",
+    "URL": "https://www.evervault.com/",
+    "Description": "evervault is data privacy infrastructure for developers. evervault auth is anonymous user authentication in a few lines of code.",
+    "Discount": "Free",
+    "Does it drive you into a paid account": "Invite-only beta. Priority to COVID-19 projects.",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Go to homepage and use COVID-19 banner to create account.",
+    "How to apply (URL or email)": "https://app.evervault.com/",
+    "More info URL": "https://www.evervault.com/"
   }
 ]
