@@ -2824,7 +2824,7 @@ export const services = [
     "Requirement": "",
     "Favicon": "",
     "How to apply (text)": "",
-    "How to apply (URL or email)": "https://www.letsignit.io/emergency-kit-contact-form/?utm_source=website&utm_medium=saasforcovid&utm_campaign=solidarity",
+    "How to apply (URL or email)": "",
     "More info URL": ""
   },
   {
@@ -2870,18 +2870,18 @@ export const services = [
     "More info URL": ""
   },
   {
-    "Name": "",
+    "Name": "LostLead",
     "Approved": "",
-    "Category": "",
-    "URL": "",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Category": "Lead generation",
+    "URL": "https://lostlead.com/",
+    "Description": "A tool to generate leads. You can display Live / Custom Notifications, Coupon Alerts, Feedback Forms, Social Proof and even Email / Phone number collectors on your website and blog.",
+    "Discount": "Free",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Just sign up and the discount will be applied",
+    "How to apply (URL or email)": "https://lostlead.com/",
+    "More info URL": "https://lostlead.com/register"
   },
   {
     "Name": "",
