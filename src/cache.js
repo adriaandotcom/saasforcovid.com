@@ -410,7 +410,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://helpwise.io",
-    "Description": "",
+    "Description": "Helpwise is an easy to use shared inbox and email collaboration software for teams to manage team email accounts like help@, sales@, etc. Get Shared Inbox for your team now!",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
@@ -904,7 +904,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://mk0placereynlffhamiu.kinstacdn.com/wp-content/uploads/2018/08/favicon-310x310-150x150.png",
     "How to apply (text)": "Corona correlated retail trend data is available publicly for free.",
     "How to apply (URL or email)": "https://www.placer.ai/covid-19/",
     "More info URL": "https://placer.ai"
