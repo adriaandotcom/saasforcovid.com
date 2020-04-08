@@ -2192,7 +2192,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "You are a hospital/ medical facility",
-    "Favicon": "",
+    "Favicon": "/assets/image/favicon.png",
     "How to apply (text)": "Sign up and request a free account",
     "How to apply (URL or email)": "https://www.yarooms.com/blog/yarooms-offers-free-space-management-for-hospitals/",
     "More info URL": "https://www.yarooms.com/blog/yarooms-offers-free-space-management-for-hospitals/"
@@ -2820,7 +2820,7 @@ export const services = [
     "URL": "www.letsignit.io",
     "Description": "Letsignit is the simplest, centralized email signature manager that allows you to create, attribute and operate harmonized signatures for your entire company. Go further and add targeted campaigns to transform your email into a powerful communication tool. 100% compatible with Office 365, Exchange and G Suite.",
     "Discount": "",
-    "Does it drive you into a paid account": "",
+    "Does it drive you into a paid account": "No",
     "Requirement": "",
     "Favicon": "",
     "How to apply (text)": "",
@@ -2856,10 +2856,10 @@ export const services = [
     "More info URL": ""
   },
   {
-    "Name": "",
+    "Name": "Snapshift",
     "Approved": "",
-    "Category": "",
-    "URL": "",
+    "Category": "HR",
+    "URL": "https://www.snapshift.co/",
     "Description": "",
     "Discount": "",
     "Does it drive you into a paid account": "",
