@@ -596,7 +596,7 @@ export const services = [
     "Discount": "Free during the lockdown",
     "Does it drive you into a paid account": "Maybe, after COVID-19.",
     "Requirement": "",
-    "Favicon": "/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Use the form on the page.",
     "How to apply (URL or email)": "https://jubiwee.com/en/coronavirus",
     "More info URL": ""
@@ -2861,8 +2861,8 @@ export const services = [
     "Category": "HR",
     "URL": "https://www.snapshift.co/",
     "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
+    "Discount": "Free",
+    "Does it drive you into a paid account": "No",
     "Requirement": "",
     "Favicon": "",
     "How to apply (text)": "",
@@ -2884,10 +2884,10 @@ export const services = [
     "More info URL": "https://lostlead.com/register"
   },
   {
-    "Name": "",
+    "Name": "CYCONIA",
     "Approved": "",
-    "Category": "",
-    "URL": "",
+    "Category": "HR",
+    "URL": "monassistantrh.cyconia.io",
     "Description": "",
     "Discount": "",
     "Does it drive you into a paid account": "",
