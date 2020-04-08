@@ -526,7 +526,7 @@ export const services = [
     "Discount": "3 months for €3",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription any time.",
     "Requirement": "",
-    "Favicon": "/favicon-32x32.png",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "Signup, become a pro, use coupon code covid-19",
     "How to apply (URL or email)": "https://saferequest.net/en/pricing",
     "More info URL": ""
@@ -596,7 +596,7 @@ export const services = [
     "Discount": "Free during the lockdown",
     "Does it drive you into a paid account": "Maybe, after COVID-19.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/favicon.ico",
     "How to apply (text)": "Use the form on the page.",
     "How to apply (URL or email)": "https://jubiwee.com/en/coronavirus",
     "More info URL": ""
@@ -2888,14 +2888,14 @@ export const services = [
     "Approved": "",
     "Category": "HR",
     "URL": "monassistantrh.cyconia.io",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Description": "Digital office manager, stop thinking just ask. Whatever you need, feel free to ask Cyconia : personal services, facility management request, HR request. During this Covid Crisis, Cyconia, becomes you're best colleague.",
+    "Discount": "Free",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Just sign and start to ask.",
+    "How to apply (URL or email)": "monassistantrh.cyconia.io",
+    "More info URL": "monassistantrh.cyconia.io"
   },
   {
     "Name": "",
