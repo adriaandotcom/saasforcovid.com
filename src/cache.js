@@ -904,7 +904,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://mk0placereynlffhamiu.kinstacdn.com/wp-content/uploads/2018/08/favicon-310x310-150x150.png",
+    "Favicon": "",
     "How to apply (text)": "Corona correlated retail trend data is available publicly for free.",
     "How to apply (URL or email)": "https://www.placer.ai/covid-19/",
     "More info URL": "https://placer.ai"
@@ -2786,18 +2786,18 @@ export const services = [
     "More info URL": ""
   },
   {
-    "Name": "",
+    "Name": "KIRIM.EMAIL",
     "Approved": "",
-    "Category": "",
-    "URL": "",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Category": "Marketing Automation",
+    "URL": "https://en.kirim.email/",
+    "Description": "The only email marketing services with built-in automated email verifications. Stop paying for broken emails and built relationships with real people on your email list.",
+    "Discount": "50% off on all plan",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Just sign up and use coupon code: WFH",
+    "How to apply (URL or email)": "https://en.kirim.email/",
+    "More info URL": "https://en.kirim.email/"
   },
   {
     "Name": "",
