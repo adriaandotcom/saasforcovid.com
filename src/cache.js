@@ -396,7 +396,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://justcall.io",
-    "Description": "JustCall is a cloud based phone system for your business. Integrates with HubSpot, Intercom, Pipedrive, Salesforce & other CRM/Helpdesk tools. Available on web, mobile and desktop.",
+    "Description": "",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off on subscription plans for 6 months. 70% off 1st month.",
