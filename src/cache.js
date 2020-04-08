@@ -1716,7 +1716,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://www.codetally.com/favicon.ico",
     "How to apply (text)": "Sign in with your Github account.",
     "How to apply (URL or email)": "https://github.com/login/oauth/authorize?client_id=Iv1.28ff997c607a6195&scope=user%20public_repo",
     "More info URL": "https://www.codetally.com/#/help"
@@ -2817,14 +2817,14 @@ export const services = [
     "Name": "Reply.io",
     "Approved": "",
     "Category": "Sales Tools",
-    "URL": "https://reply.io/relief-offer/",
+    "URL": "https://reply.io/",
     "Description": "At Reply, we understand that businesses experience a downturn in sales in light of COVID-19. To support your business and help you maintain or even grow sales, we are giving away our newly developed unlimited email search for FREE and 20% off on Reply plans for new customers",
     "Discount": "Free unlimited email search and 20% off on Reply plans for new customers",
     "Does it drive you into a paid account": "the email search feature will remain free forever, the 20% discount is temporary",
     "Requirement": "available to new account only",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
+    "How to apply (text)": "Install our Chrome extension and use it to create a new Reply account",
+    "How to apply (URL or email)": "https://reply.io/relief-offer/",
     "More info URL": ""
   }
 ]
