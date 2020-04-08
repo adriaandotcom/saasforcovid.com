@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "Remote Leaf aggregates remote jobs in one organised place from tons of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -428,7 +428,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "/favicon-32x32.png",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "Use coupon code: stayathome",
     "How to apply (URL or email)": "https://readermode.io/premium",
     "More info URL": ""
@@ -1268,7 +1268,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://kidpofy.com/assets/img/favicon.png",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://kidpofy.com",
     "More info URL": ""
