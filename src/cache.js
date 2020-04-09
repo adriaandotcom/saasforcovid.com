@@ -1418,7 +1418,7 @@ export const services = [
     "Approved": "",
     "Category": "Lead generation",
     "URL": "https://customfit.ai",
-    "Description": "",
+    "Description": "Convert visitors to quality leads by personalizing website for each visitor",
     "Discount": "15%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
@@ -2868,5 +2868,19 @@ export const services = [
     "How to apply (text)": "Go to homepage and use COVID-19 banner to create account.",
     "How to apply (URL or email)": "https://app.evervault.com/",
     "More info URL": "https://www.evervault.com/"
+  },
+  {
+    "Name": "Element Form",
+    "Approved": "",
+    "Category": "Data collection",
+    "URL": "https://www.elementform.com/",
+    "Description": "We are offering 12 months free secure forms to all medical professionals, healthcare workers, aid workers, governments, nonprofits, individual doctors, nurses and private and government-owned hospitals. Free and unrestricted license without any limitations.",
+    "Discount": "100% Discount",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Just sign up.\nAll accounts are automatically upgraded after you register.",
+    "How to apply (URL or email)": "https://editor.elementform.com/auth/register",
+    "More info URL": "https://www.elementform.com/blog/coronavirus-covid19-free-license-program"
   }
 ]
