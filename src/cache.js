@@ -1030,7 +1030,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid-19 related",
-    "Favicon": "https://coast-wp.imgix.net/img/icons/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Sign up for free",
     "How to apply (URL or email)": "https://coastapp.com",
     "More info URL": ""
@@ -2890,7 +2890,7 @@ export const services = [
     "URL": "https://www.toursolver.com/en/",
     "Description": "TourSolver is a route optimization solution available on the web which\nenables logistics coordinators, planners and any kind of mobile resources to\nsimply define optimized route schedules. 10 to 30% recognized\r\nproductivity gains and benefits!",
     "Discount": "Free for 3 months",
-    "Does it drive you into a paid account": "No",
+    "Does it drive you into a paid account": "Maybe, after 3 months",
     "Requirement": "None",
     "Favicon": "",
     "How to apply (text)": "Fill out the form",
