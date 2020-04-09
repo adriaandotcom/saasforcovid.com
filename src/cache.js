@@ -2858,7 +2858,7 @@ export const services = [
   {
     "Name": "evervault",
     "Approved": "",
-    "Category": "HR",
+    "Category": "Authentication",
     "URL": "https://www.evervault.com/",
     "Description": "evervault provides data privacy infrastructure for developers. evervault auth enables anonymous user authentication in a few lines of code.",
     "Discount": "Free",
@@ -2900,7 +2900,7 @@ export const services = [
   {
     "Name": "easyteo",
     "Approved": "",
-    "Category": "",
+    "Category": "Other (add in tab \"Categories\")",
     "URL": "",
     "Description": "",
     "Discount": "",
