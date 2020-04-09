@@ -1912,7 +1912,7 @@ export const services = [
     "Discount": "$1/mo per location",
     "Does it drive you into a paid account": "Yes, but only $1/month",
     "Requirement": "none",
-    "Favicon": "",
+    "Favicon": "/favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com"
@@ -2886,15 +2886,15 @@ export const services = [
   {
     "Name": "TourSolver",
     "Approved": "",
-    "Category": "",
-    "URL": "",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Category": "Delivery management",
+    "URL": "https://www.toursolver.com/en/",
+    "Description": "TourSolver is a route optimization solution available on the web which\nenables logistics coordinators, planners and any kind of mobile resources to\nsimply define optimized route schedules. 10 to 30% recognized\r\nproductivity gains and benefits!",
+    "Discount": "Free for 3 months",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Fill out the form",
+    "How to apply (URL or email)": "https://www2.geoconcept.com/fr/geoconcept-offre-3-mois-de-sa-solution-toursolver",
+    "More info URL": "https://www.toursolver.com/en/"
   }
 ]
