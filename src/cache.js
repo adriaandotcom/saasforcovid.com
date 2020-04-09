@@ -2874,7 +2874,7 @@ export const services = [
     "Approved": "",
     "Category": "Data collection",
     "URL": "https://www.elementform.com/",
-    "Description": "We are offering 12 months free secure forms to all medical professionals, healthcare workers, aid workers, governments, nonprofits, individual doctors, nurses and private and government-owned hospitals. Free and unrestricted license without any limitations.",
+    "Description": "Secure Online Form Builder.\n\nFree and unrestricted license without any limitations.\n\nWe are offering 12 months free secure forms to all medical professionals, healthcare workers, aid workers, governments, nonprofits, individual doctors, nurses and private and government-owned hospitals.",
     "Discount": "100% Discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
