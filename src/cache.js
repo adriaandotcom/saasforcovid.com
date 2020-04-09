@@ -2904,11 +2904,25 @@ export const services = [
     "URL": "https://www.easyteo.com",
     "Description": "management and accounting software for companies",
     "Discount": "Free",
-    "Does it drive you into a paid account": "Maybe, after mai 31, 2020",
+    "Does it drive you into a paid account": "Yes, after mai 31, 2020",
     "Requirement": "Software editor SaaS",
     "Favicon": "",
     "How to apply (text)": "Sign up and send an email with COVID19 code to contact@easyteo.com",
-    "How to apply (URL or email)": "https://www.easyteo.com/abonnement-solidaire",
-    "More info URL": "https://www.easyteo.com"
+    "How to apply (URL or email)": "contact@easyteo.com",
+    "More info URL": "https://www.easyteo.com/abonnement-solidaire"
+  },
+  {
+    "Name": "Teogest",
+    "Approved": "",
+    "Category": "Other (add in tab \"Categories\")",
+    "URL": "https://teogest.com",
+    "Description": "accounting production tool for accountants and their clients",
+    "Discount": "Free",
+    "Does it drive you into a paid account": "Yes, after mai 31, 2020",
+    "Requirement": "Software editor SaaS",
+    "Favicon": "",
+    "How to apply (text)": "Sign up and send an email with COVID19 code to contact@teogest.com",
+    "How to apply (URL or email)": "contact@teogest.com",
+    "More info URL": "https://www.teogest.com/abonnement-solidaire"
   }
 ]
