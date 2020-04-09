@@ -2882,5 +2882,19 @@ export const services = [
     "How to apply (text)": "Just sign up.\nAll accounts are automatically upgraded after you register.",
     "How to apply (URL or email)": "https://editor.elementform.com/auth/register",
     "More info URL": "https://www.elementform.com/blog/coronavirus-covid19-free-license-program"
+  },
+  {
+    "Name": "TourSolver",
+    "Approved": "",
+    "Category": "",
+    "URL": "",
+    "Description": "",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
