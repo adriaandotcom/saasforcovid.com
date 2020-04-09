@@ -2896,5 +2896,19 @@ export const services = [
     "How to apply (text)": "Fill out the form",
     "How to apply (URL or email)": "https://www2.geoconcept.com/fr/geoconcept-offre-3-mois-de-sa-solution-toursolver",
     "More info URL": "https://www.toursolver.com/en/"
+  },
+  {
+    "Name": "easyteo",
+    "Approved": "",
+    "Category": "",
+    "URL": "",
+    "Description": "",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
