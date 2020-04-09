@@ -2900,15 +2900,15 @@ export const services = [
   {
     "Name": "easyteo",
     "Approved": "",
-    "Category": "Other (add in tab \"Categories\")",
-    "URL": "",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Category": "SOFTWARE EDITOR",
+    "URL": "https://www.easyteo.com",
+    "Description": "management and accounting software for companies",
+    "Discount": "Free",
+    "Does it drive you into a paid account": "Maybe, after mai 31, 2020",
+    "Requirement": "Software editor SaaS",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Sign up and send an email with COVID19 code to contact@easyteo.com",
+    "How to apply (URL or email)": "https://www.easyteo.com/abonnement-solidaire",
+    "More info URL": "https://www.easyteo.com"
   }
 ]
