@@ -652,7 +652,7 @@ export const services = [
     "Discount": "Free",
     "Does it drive you into a paid account": "No",
     "Requirement": "Less than 100 devices.",
-    "Favicon": "",
+    "Favicon": "/favicon.ico?r=124",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://my.zerotier.com",
     "More info URL": "www.zerotier.com"
@@ -750,7 +750,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./assets/img/brand/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup and email support@devscore.com",
     "How to apply (URL or email)": "support@devscore.com",
     "More info URL": ""
@@ -2946,10 +2946,10 @@ export const services = [
     "URL": "https://www.lunsjapp.com/",
     "Description": "Get to know your teammates, grow social connection among colleagues, and build cohesive relationships across your organization - in the office or remote.",
     "Discount": "50%",
-    "Does it drive you into a paid account": "Yes, if beyond the free tier",
+    "Does it drive you into a paid account": "Yes, upgrading to a paid tier",
     "Requirement": "None",
     "Favicon": "",
-    "How to apply (text)": "Get started via our website",
+    "How to apply (text)": "Get started by visiting our website",
     "How to apply (URL or email)": "https://www.lunsjapp.com/",
     "More info URL": "https://www.lunsjapp.com/"
   },
