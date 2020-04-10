@@ -410,7 +410,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://helpwise.io",
-    "Description": "Helpwise is an easy to use shared inbox and email collaboration software for teams to manage team email accounts like help@, sales@, etc. Get Shared Inbox for your team now!",
+    "Description": "",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
@@ -746,7 +746,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://devscore.com",
-    "Description": "DevScore is a Low Code Automation Service for software development teams to automate manual tasks, data synchronizations and reporting of Scrum, CI/CD and Operations.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -2938,5 +2938,19 @@ export const services = [
     "How to apply (text)": "Sign up, and the rest will follow",
     "How to apply (URL or email)": "https://hearapp.co/",
     "More info URL": "https://hearapp.co/"
+  },
+  {
+    "Name": "Lunsj",
+    "Approved": "",
+    "Category": "",
+    "URL": "https://www.lunsjapp.com/",
+    "Description": "",
+    "Discount": "50%",
+    "Does it drive you into a paid account": "",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
