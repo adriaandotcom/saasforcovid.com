@@ -2942,11 +2942,11 @@ export const services = [
   {
     "Name": "Lunsj",
     "Approved": "",
-    "Category": "",
+    "Category": "HR",
     "URL": "https://www.lunsjapp.com/",
     "Description": "",
     "Discount": "50%",
-    "Does it drive you into a paid account": "",
+    "Does it drive you into a paid account": "Yes, if beyond the free tier",
     "Requirement": "None",
     "Favicon": "",
     "How to apply (text)": "",
