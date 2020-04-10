@@ -50,7 +50,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free usage.",
     "Requirement": "It's appreciated to add a link back to divjoy.com (not required). Free for Covid-19 projects.",
-    "Favicon": "/static/images/favicon/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Use chatbot on the page",
     "How to apply (URL or email)": "https://divjoy.com/",
     "More info URL": ""
@@ -2136,7 +2136,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Email support@seowl.co",
     "How to apply (URL or email)": "support@seowl.co",
     "More info URL": "https://www.seowl.co"
@@ -2874,7 +2874,7 @@ export const services = [
     "Approved": "",
     "Category": "Delivery management",
     "URL": "https://www.toursolver.com/en/",
-    "Description": "TourSolver is a route optimization solution available on the web which\nenables logistics coordinators, planners and any kind of mobile resources to\nsimply define optimized route schedules. 10 to 30% recognized\r\nproductivity gains and benefits!",
+    "Description": "TourSolver is a route optimization solution available on the web which\nenables logistics coordinators, planners and any kind of mobile resources to\nsimply define optimized route schedules. 10 to 30% recognized\nproductivity gains and benefits!",
     "Discount": "100% for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months",
     "Requirement": "None",
