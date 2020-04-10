@@ -2966,5 +2966,19 @@ export const services = [
     "How to apply (text)": "just use the application",
     "How to apply (URL or email)": "https://linknge.com",
     "More info URL": "https://linknge.com"
+  },
+  {
+    "Name": "Cascade Strategy",
+    "Approved": "",
+    "Category": "Other (add in tab \"Categories\")",
+    "URL": "https://www.executestrategy.net/freecascade",
+    "Description": "Build your strategic plan and share it with your team - then execute! 3 months FREE!",
+    "Discount": "100%",
+    "Does it drive you into a paid account": "no, you must enter a credit card but can cancel before the 3 FREE months!",
+    "Requirement": "none",
+    "Favicon": "",
+    "How to apply (text)": "https://www.executestrategy.net/freecascade",
+    "How to apply (URL or email)": "https://www.executestrategy.net/freecascade",
+    "More info URL": "https://www.executestrategy.net/"
   }
 ]
