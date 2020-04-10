@@ -652,7 +652,7 @@ export const services = [
     "Discount": "Free",
     "Does it drive you into a paid account": "No",
     "Requirement": "Less than 100 devices.",
-    "Favicon": "/favicon.ico?r=124",
+    "Favicon": "",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://my.zerotier.com",
     "More info URL": "www.zerotier.com"
@@ -1282,7 +1282,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Business/brand has an email newsletter",
-    "Favicon": "https://letterwell.co/wp-content/uploads/2019/10/cropped-7F91324F-2C7C-45C5-9FF4-1FEAE78967E8-32x32.jpeg",
+    "Favicon": "",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://letterwell.co",
     "More info URL": "https://letterwell.co/about"
@@ -2944,13 +2944,27 @@ export const services = [
     "Approved": "",
     "Category": "HR",
     "URL": "https://www.lunsjapp.com/",
-    "Description": "",
+    "Description": "Get to know your teammates, grow social connection among colleagues, and build cohesive relationships across your organization - in the office or remote.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, if beyond the free tier",
     "Requirement": "None",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Get started via our website",
+    "How to apply (URL or email)": "https://www.lunsjapp.com/",
+    "More info URL": "https://www.lunsjapp.com/"
+  },
+  {
+    "Name": "Linknge",
+    "Approved": "",
+    "Category": "Website Tools",
+    "URL": "https://linknge.com",
+    "Description": "Create your own Whatsapp Click to Chat easily, or shorten your URL, and you can see the statistics!",
+    "Discount": "100%",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "just use the application",
+    "How to apply (URL or email)": "https://linknge.com",
+    "More info URL": "https://linknge.com"
   }
 ]
