@@ -1744,7 +1744,7 @@ export const services = [
     "Discount": "Free tier of recruitment softwre",
     "Does it drive you into a paid account": "Maybe, if there's further interest in additional features or tiers",
     "Requirement": "Must have an Applicant Tracking System",
-    "Favicon": "/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://register.joonko.com",
     "More info URL": "https://joonko.co/how-it-works"
@@ -2910,5 +2910,19 @@ export const services = [
     "How to apply (text)": "Contact support",
     "How to apply (URL or email)": "http://www.teogest.com/contact",
     "More info URL": "https://www.teogest.com/abonnement-solidaire"
+  },
+  {
+    "Name": "Kimp.io",
+    "Approved": "",
+    "Category": "Web/Graphic Design",
+    "URL": "https://kimp.io",
+    "Description": "Unlimited Graphic Design, unlimited revisions, unlimited brands. 7-Days free trial. Flat Monthly Fee. Save time and money with a dedicated design team. Kimp is for startups, SMEs, marketers, creative agencies, entrepreneurs.",
+    "Discount": "50%",
+    "Does it drive you into a paid account": "Yes, after 7 days free trial",
+    "Requirement": "First time users",
+    "Favicon": "https://q5g9j9b9.stackpathcdn.com/wp-content/themes/kimp/assets/images/favicon.png",
+    "How to apply (text)": "Just sign up, discount applied already.",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
