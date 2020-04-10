@@ -2980,5 +2980,19 @@ export const services = [
     "How to apply (text)": "https://www.executestrategy.net/freecascade",
     "How to apply (URL or email)": "https://www.executestrategy.net/freecascade",
     "More info URL": "https://www.executestrategy.net/"
+  },
+  {
+    "Name": "Stickies.io",
+    "Approved": "",
+    "Category": "Productivity Tools",
+    "URL": "https://stickies.io/",
+    "Description": "Stickies is a free tool we developed that allows teams to create, move, cluster and upvote stickies in real-time. Perfect for affinity maps, retrospectives and brainstorming sessions.",
+    "Discount": "100%",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Just sign up",
+    "How to apply (URL or email)": "",
+    "More info URL": "https://www.carbonfive.com/"
   }
 ]
