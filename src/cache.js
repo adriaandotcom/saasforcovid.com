@@ -2924,5 +2924,19 @@ export const services = [
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "",
     "More info URL": ""
+  },
+  {
+    "Name": "Hearapp.co",
+    "Approved": "",
+    "Category": "Productivity Tools",
+    "URL": "https://hearapp.co",
+    "Description": "Meeting scheduler with collaborative agenda, actionables & meeting notes. For just $5/month.",
+    "Discount": "50%",
+    "Does it drive you into a paid account": "Yes, after 7 days free trial",
+    "Requirement": "First time users",
+    "Favicon": "",
+    "How to apply (text)": "Sign up, and the rest will follow",
+    "How to apply (URL or email)": "https://hearapp.co/",
+    "More info URL": "https://hearapp.co/"
   }
 ]
