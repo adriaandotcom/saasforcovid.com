@@ -204,7 +204,7 @@ export const services = [
     "Discount": "70%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "https://kedaiweb.co/v4/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & all addon up to 70% discount",
     "How to apply (URL or email)": "https://kedaiweb.co",
     "More info URL": ""
@@ -2890,7 +2890,7 @@ export const services = [
     "URL": "https://www.easyteo.com",
     "Description": "Management and accounting software for companies",
     "Discount": "100%",
-    "Does it drive you into a paid account": "Yes, after mai 31, 2020",
+    "Does it drive you into a paid account": "Yes, after May 31, 2020",
     "Requirement": "New customers",
     "Favicon": "",
     "How to apply (text)": "Contact support",
@@ -2904,7 +2904,7 @@ export const services = [
     "URL": "https://teogest.com",
     "Description": "Accounting production tool for accountants and their clients",
     "Discount": "100%",
-    "Does it drive you into a paid account": "Yes, after mai 31, 2020",
+    "Does it drive you into a paid account": "Yes, after May 31, 2020",
     "Requirement": "New customers",
     "Favicon": "",
     "How to apply (text)": "Contact support",
@@ -2994,19 +2994,5 @@ export const services = [
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "",
     "More info URL": "https://www.carbonfive.com/"
-  },
-  {
-    "Name": "zoho Remotely",
-    "Approved": "",
-    "Category": "",
-    "URL": "",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
-    "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
   }
 ]
