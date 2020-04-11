@@ -2999,14 +2999,14 @@ export const services = [
     "Name": "Vitally",
     "Approved": "",
     "Category": "Analytics",
-    "URL": "https://vitally.io/covid-support/",
+    "URL": "https://vitally.io/",
     "Description": "Customer health is business health. Vitally makes customer retention easy so Customer Success teams can keep both in good standing",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Discount": "100% till July 31, 2020",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "B2B SaaS businesses involved in COVID-19 relief efforts",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Sign up and fill out the form",
+    "How to apply (URL or email)": "https://vitally.io/covid-support/",
+    "More info URL": "https://vitally.io/covid-support/"
   }
 ]
