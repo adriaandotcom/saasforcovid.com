@@ -2994,5 +2994,19 @@ export const services = [
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "",
     "More info URL": "https://www.carbonfive.com/"
+  },
+  {
+    "Name": "zoho Remotely",
+    "Approved": "",
+    "Category": "",
+    "URL": "",
+    "Description": "",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
