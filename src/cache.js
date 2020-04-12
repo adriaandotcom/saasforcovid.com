@@ -204,7 +204,7 @@ export const services = [
     "Discount": "70%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://kedaiweb.co/v4/apple-touch-icon.png",
     "How to apply (text)": "Signup & all addon up to 70% discount",
     "How to apply (URL or email)": "https://kedaiweb.co",
     "More info URL": ""
@@ -3008,5 +3008,19 @@ export const services = [
     "How to apply (text)": "Sign up and fill out the form",
     "How to apply (URL or email)": "https://vitally.io/covid-support/",
     "More info URL": "https://vitally.io/covid-support/"
+  },
+  {
+    "Name": "SaaSketeer",
+    "Approved": "",
+    "Category": "Other (add in tab \"Categories\")",
+    "URL": "https://saasketeer.com/",
+    "Description": "SaaSketeer is a secondary marketplace for prepaid subscription plans where you can list your software subscription plan for sale, and offer it to others at a discounted price.",
+    "Discount": "100%",
+    "Does it drive you into a paid account": "no",
+    "Requirement": "none",
+    "Favicon": "",
+    "How to apply (text)": "We aren’t going to charge any fee on it - it’s completely free to use",
+    "How to apply (URL or email)": "",
+    "More info URL": "https://saasketeer.com/frequently-asked-questions"
   }
 ]
