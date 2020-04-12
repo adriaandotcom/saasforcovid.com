@@ -358,7 +358,7 @@ export const services = [
     "Discount": "30%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "fav.ico",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://tryhoverify.com",
     "More info URL": ""
