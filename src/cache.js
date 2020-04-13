@@ -3022,5 +3022,19 @@ export const services = [
     "How to apply (text)": "We aren’t going to charge any fee on it - it’s completely free to use",
     "How to apply (URL or email)": "",
     "More info URL": "https://saasketeer.com/frequently-asked-questions"
+  },
+  {
+    "Name": "Boost.link",
+    "Approved": "",
+    "Category": "Lead generation",
+    "URL": "https://start.boost.link",
+    "Description": "Boost is a unique email list building tool that uses social network APIs to quickly create opt-in links so you can generate more leads.",
+    "Discount": "We’re giving away 300 1-year licenses for the Pro plan",
+    "Does it drive you into a paid account": "No. The user can choose to continue or not after 1 year.",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Sign-up via form to continue email address",
+    "How to apply (URL or email)": "https://start.boost.link/trial-page/",
+    "More info URL": "https://start.boost.link/plans/"
   }
 ]
