@@ -3036,5 +3036,19 @@ export const services = [
     "How to apply (text)": "Sign-up via form to continue email address",
     "How to apply (URL or email)": "https://start.boost.link/trial-page/",
     "More info URL": "https://start.boost.link/plans/"
+  },
+  {
+    "Name": "Scapic",
+    "Approved": "",
+    "Category": "Lead generation",
+    "URL": "https://scapic.com",
+    "Description": "Scapic is everything you need to make your products 3D and Augmented Reality ready, boosting engagement and increasing conversions.",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
