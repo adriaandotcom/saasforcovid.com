@@ -3084,13 +3084,13 @@ export const services = [
     "Approved": "",
     "Category": "Backup",
     "URL": "https://afi.ai/",
-    "Description": "Modern SaaS backup plaform for Microsoft Office 365 and Google G Suite",
+    "Description": "Modern SaaS backup plaform for Microsoft Office 365 and Google G Suite. afi.ai",
     "Discount": "100% for  6 month",
     "Does it drive you into a paid account": "No. User can choose to stop using the service after 6 month.",
-    "Requirement": "Helthcare and education customers and service providers",
+    "Requirement": "Helthcare and education organizations",
     "Favicon": "",
-    "How to apply (text)": "Sales inquiry",
-    "How to apply (URL or email)": "sales@afi.ai",
+    "How to apply (text)": "Start a trial",
+    "How to apply (URL or email)": "afi.ai",
     "More info URL": "https://afi.ai/"
   }
 ]
