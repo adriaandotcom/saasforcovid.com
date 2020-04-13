@@ -1026,7 +1026,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Productivity Tools",
     "URL": "https://coastapp.com",
-    "Description": "A simple messaging workspace with tools for managers and staff on the go.",
+    "Description": "Coast app is a simple messaging workspace with tools for managers and staff on the go. Make team messaging, task management, and employee scheduling a breeze. Get started for free!",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid-19 related",
@@ -3092,5 +3092,33 @@ export const services = [
     "How to apply (text)": "Sign up.",
     "How to apply (URL or email)": "https://afi.ai/",
     "More info URL": "https://afi.ai/"
+  },
+  {
+    "Name": "",
+    "Approved": "",
+    "Category": "",
+    "URL": "",
+    "Description": "",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
+  },
+  {
+    "Name": "Jostle",
+    "Approved": "",
+    "Category": "Internal Communication",
+    "URL": "https://jostle.me",
+    "Description": "To help support organizations making the switch to remote work, we are offering a new Remote Work Package for free for 60 days",
+    "Discount": "100%",
+    "Does it drive you into a paid account": "Yes, after 60 days but no credit card asked for up front",
+    "Requirement": "New customers",
+    "Favicon": "",
+    "How to apply (text)": "Fill out form",
+    "How to apply (URL or email)": "https://intranet.jostle.me/remote-work-offer",
+    "More info URL": "https://www.jostle.me"
   }
 ]
