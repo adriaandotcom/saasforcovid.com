@@ -904,7 +904,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://mk0placereynlffhamiu.kinstacdn.com/wp-content/uploads/2018/08/favicon-310x310-150x150.png",
     "How to apply (text)": "Corona correlated retail trend data is available publicly for free.",
     "How to apply (URL or email)": "https://www.placer.ai/covid-19/",
     "More info URL": "https://placer.ai"
@@ -3089,7 +3089,7 @@ export const services = [
     "Does it drive you into a paid account": "No. User can choose to stop using the service after 6 month.",
     "Requirement": "Helthcare and education organizations",
     "Favicon": "",
-    "How to apply (text)": "Start a trial",
+    "How to apply (text)": "Sign up.",
     "How to apply (URL or email)": "https://afi.ai/",
     "More info URL": "https://afi.ai/"
   }
