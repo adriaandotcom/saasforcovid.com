@@ -358,7 +358,7 @@ export const services = [
     "Discount": "30%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "fav.ico",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://tryhoverify.com",
     "More info URL": ""
@@ -3084,13 +3084,13 @@ export const services = [
     "Approved": "",
     "Category": "Backup",
     "URL": "https://afi.ai/",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Description": "Modern SaaS backup plaform for Microsoft Office 365 and Google G Suite",
+    "Discount": "100% for  6 month",
+    "Does it drive you into a paid account": "No. User can choose to stop using the service after 6 month.",
+    "Requirement": "Helthcare and education customers and service providers",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Sales inquiry",
+    "How to apply (URL or email)": "sales@afi.ai",
+    "More info URL": "https://afi.ai/"
   }
 ]
