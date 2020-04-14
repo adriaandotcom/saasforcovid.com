@@ -3143,7 +3143,7 @@ export const services = [
     "Description": "Hiver is a team email collaboration tool which helps teams manage group email inboxes like support@, info@, etc., without leaving Gmail. To help aid in the fight against COVID-19, we are offering eligible businesses Hiver free for two months on our elite plan.",
     "Discount": "100% till June 30, 2020",
     "Does it drive you into a paid account": "No. User can choose to stop using the product after 60 days, or choose to sign up for any of our regular plans.",
-    "Requirement": "",
+    "Requirement": "Small businesses which fall into either of the following categories: first responders, public health, hospitals, food/grocery delivery services, PPE providers, NGOs",
     "Favicon": "",
     "How to apply (text)": "Sign up form from the given page",
     "How to apply (URL or email)": "https://hiverhq.com/covid-19?utm_source=saasforcovid&utm_medium=website",
