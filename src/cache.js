@@ -2206,7 +2206,7 @@ export const services = [
     "Discount": "30% for 3 months",
     "Does it drive you into a paid account": "Maybe, but you get a clear discount so you know upfront.",
     "Requirement": "None",
-    "Favicon": "https://reportei.com/wp-content/uploads/2017/11/favicon-150x150.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon: SAASFORCOVID",
     "How to apply (URL or email)": "https://reportei.com/en/",
     "More info URL": ""
@@ -3134,5 +3134,33 @@ export const services = [
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://hygiene.badrap.io/remote-work/",
     "More info URL": ""
+  },
+  {
+    "Name": "Hiver",
+    "Approved": "",
+    "Category": "Email",
+    "URL": "https://hiverhq.com/covid-19?utm_source=saasforcovid&utm_medium=website",
+    "Description": "Hiver is a team email collaboration tool which helps teams manage group email inboxes like support@, info@, etc., without leaving Gmail. To help aid in the fight against COVID-19, we are offering eligible businesses Hiver free for two months on our elite plan.",
+    "Discount": "100% till June 30, 2020",
+    "Does it drive you into a paid account": "No. User can choose to stop using the product after 60 days, or choose to sign up for any of our regular plans.",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "Sign up form from the given page",
+    "How to apply (URL or email)": "https://hiverhq.com/covid-19?utm_source=saasforcovid&utm_medium=website",
+    "More info URL": ""
+  },
+  {
+    "Name": "PPC Protect",
+    "Approved": "",
+    "Category": "Cybersecurity",
+    "URL": "https://ppcprotect.com",
+    "Description": "Next generation click fraud protection for Google Ads advertisers",
+    "Discount": "100% for 3 months",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "New customers only",
+    "Favicon": "",
+    "How to apply (text)": "Sign up and reach out to our support team",
+    "How to apply (URL or email)": "https://ppcprotect.com/register",
+    "More info URL": "https://ppcprotect.com"
   }
 ]
