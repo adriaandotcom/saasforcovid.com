@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "Remote Leaf aggregates remote jobs in one organised place from tons of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -1912,7 +1912,7 @@ export const services = [
     "Discount": "$1/mo per location",
     "Does it drive you into a paid account": "Yes, but only $1/month",
     "Requirement": "none",
-    "Favicon": "/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com"
@@ -3120,5 +3120,19 @@ export const services = [
     "How to apply (text)": "Fill out form",
     "How to apply (URL or email)": "https://intranet.jostle.me/remote-work-offer",
     "More info URL": "https://www.jostle.me"
+  },
+  {
+    "Name": "Badrap",
+    "Approved": "",
+    "Category": "Cybersecurity",
+    "URL": "https://hygiene.badrap.io/remote-work/",
+    "Description": "We're making our cybersecurity course totally free for individuals and small companies. Many of us are now working from home like never before. Fortunately, you have social superpowers: Communication, Collaboration, and Community. You can use them to stay safe online and work safely.",
+    "Discount": "100%",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "Individuals and small companies",
+    "Favicon": "",
+    "How to apply (text)": "Just sign up",
+    "How to apply (URL or email)": "https://hygiene.badrap.io/remote-work/",
+    "More info URL": ""
   }
 ]
