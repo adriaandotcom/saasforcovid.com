@@ -778,7 +778,7 @@ export const services = [
     "Discount": "Free during lockdown",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "",
-    "Favicon": "https://assets.calendly.com/assets/touch-icon-iphone-1505f4afb6438bd528bbce368a44a76d03bd0882a99fee0dd7e580619a51d90b.png",
+    "Favicon": "",
     "How to apply (text)": "Just create a free account and you have immediate access.",
     "How to apply (URL or email)": "https://calendly.com/",
     "More info URL": "https://blog.calendly.com/meeting-integration-update/"
@@ -3162,5 +3162,19 @@ export const services = [
     "How to apply (text)": "Sign up and reach out to our support team",
     "How to apply (URL or email)": "https://ppcprotect.com/register",
     "More info URL": "https://ppcprotect.com"
+  },
+  {
+    "Name": "Hotjar",
+    "Approved": "",
+    "Category": "Analytics",
+    "URL": "https://www.hotjar.com",
+    "Description": "Hotjar is Behavior Analytics software that makes it easy to go beyond traditional web analytics and understand what users are really doing on your site.",
+    "Discount": "90-day free Business trial",
+    "Does it drive you into a paid account": "No. The user can choose to continue or not after 3 Months and will have access to the Basic version.",
+    "Requirement": "New customers only",
+    "Favicon": "",
+    "How to apply (text)": "Use the link provided in the next column :)",
+    "How to apply (URL or email)": "https://htjr.io/saasforcovid",
+    "More info URL": "https://htjr.io/saasforcovid"
   }
 ]
