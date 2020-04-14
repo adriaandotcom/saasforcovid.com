@@ -1534,7 +1534,7 @@ export const services = [
     "Discount": "Free for the rest of 2020",
     "Does it drive you into a paid account": "No, no need for payment information and free for the rest of 2020",
     "Requirement": "Healthcare organisations",
-    "Favicon": "",
+    "Favicon": "https://www.kernelcare.com/wp-content/uploads/2019/09/index-150x150.png",
     "How to apply (text)": "Sign up and we will jump in to help with deployment on all your servers",
     "How to apply (URL or email)": "https://lp.kernelcare.com/kernelcare-for-free-for-healthcare",
     "More info URL": "https://www.kernelcare.com/product/"
@@ -3176,5 +3176,19 @@ export const services = [
     "How to apply (text)": "Use the link provided in the next column :)",
     "How to apply (URL or email)": "https://htjr.io/saasforcovid",
     "More info URL": "https://htjr.io/saasforcovid"
+  },
+  {
+    "Name": "LiveChat",
+    "Approved": "",
+    "Category": "Marketing/ LiveChat",
+    "URL": "https://www.livechat.com",
+    "Description": "",
+    "Discount": "50% of annual payment + custom extended trial according to company's needs",
+    "Does it drive you into a paid account": "Maybe. No credit card details required, but you might want to subscribe.",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Sign up; you can reach up for our chat support anytime for more details.",
+    "How to apply (URL or email)": "https://www.livechat.com",
+    "More info URL": "www.livechat.com/success/we-are-ready-to-support-you/"
   }
 ]
