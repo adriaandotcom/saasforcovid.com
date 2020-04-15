@@ -106,7 +106,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you get an extended free trial (6 months), no credit card needed.",
     "Requirement": "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
-    "Favicon": "https://mindwave.app/assets/favicons/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Email: support@mindwave.app",
     "How to apply (URL or email)": "support@mindwave.app",
     "More info URL": "https://mindwave.app/stories/covid-19-and-my-tiny-contribution-LVjv0V"
@@ -652,7 +652,7 @@ export const services = [
     "Discount": "Free",
     "Does it drive you into a paid account": "No",
     "Requirement": "Less than 100 devices.",
-    "Favicon": "",
+    "Favicon": "/favicon.ico?r=124",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://my.zerotier.com",
     "More info URL": "www.zerotier.com"
@@ -1268,7 +1268,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://kidpofy.com/assets/img/favicon.png",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://kidpofy.com",
     "More info URL": ""
@@ -2789,21 +2789,21 @@ export const services = [
     "Name": "Document360",
     "Approved": "",
     "Category": "Writing Tools",
-    "URL": "https://document360.io/",
+    "URL": "https://document360.io",
     "Description": "Document360 is a standalone Knowledge base platform for creating internal and customer-facing Knowledgebase",
     "Discount": "70% on all plans for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months",
     "Requirement": "None",
     "Favicon": "",
     "How to apply (text)": "Sign up and send an email with COVID19 discount code to support@document360.io",
-    "How to apply (URL or email)": "",
+    "How to apply (URL or email)": "https://document360.io/signup/",
     "More info URL": ""
   },
   {
     "Name": "Snapshift",
     "Approved": "",
     "Category": "HR",
-    "URL": "https://www.snapshift.co/",
+    "URL": "https://www.snapshift.co",
     "Description": "Snapshift is a workforce management application for food service and retail companies",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
@@ -2922,7 +2922,7 @@ export const services = [
     "Requirement": "First time users",
     "Favicon": "https://q5g9j9b9.stackpathcdn.com/wp-content/themes/kimp/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
-    "How to apply (URL or email)": "",
+    "How to apply (URL or email)": "https://kimp.io",
     "More info URL": ""
   },
   {
@@ -2992,7 +2992,7 @@ export const services = [
     "Requirement": "None",
     "Favicon": "",
     "How to apply (text)": "Just sign up",
-    "How to apply (URL or email)": "",
+    "How to apply (URL or email)": "https://stickies.io/",
     "More info URL": "https://www.carbonfive.com/"
   },
   {
@@ -3020,7 +3020,7 @@ export const services = [
     "Requirement": "none",
     "Favicon": "",
     "How to apply (text)": "We aren’t going to charge any fee on it - it’s completely free to use",
-    "How to apply (URL or email)": "",
+    "How to apply (URL or email)": "https://saasketeer.com/",
     "More info URL": "https://saasketeer.com/frequently-asked-questions"
   },
   {
@@ -3066,20 +3066,6 @@ export const services = [
     "More info URL": "https://limecall.com/covid"
   },
   {
-    "Name": "",
-    "Approved": "",
-    "Category": "",
-    "URL": "",
-    "Description": "",
-    "Discount": "Offer 2 - 75% off for 6 months",
-    "Does it drive you into a paid account": "",
-    "Requirement": "everyone, on pro plan",
-    "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
-  },
-  {
     "Name": "Afi SaaS backup",
     "Approved": "",
     "Category": "Backup",
@@ -3092,20 +3078,6 @@ export const services = [
     "How to apply (text)": "Sign up.",
     "How to apply (URL or email)": "https://afi.ai/",
     "More info URL": "https://afi.ai/"
-  },
-  {
-    "Name": "",
-    "Approved": "",
-    "Category": "",
-    "URL": "",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
-    "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
   },
   {
     "Name": "Jostle",
@@ -3189,6 +3161,20 @@ export const services = [
     "Favicon": "",
     "How to apply (text)": "Sign up; you can reach up for our chat support anytime for more details.",
     "How to apply (URL or email)": "https://www.livechat.com",
-    "More info URL": "www.livechat.com/success/we-are-ready-to-support-you/"
+    "More info URL": "https://www.livechat.com/success/we-are-ready-to-support-you/"
+  },
+  {
+    "Name": "AfterShip",
+    "Approved": "",
+    "Category": "Delivery management",
+    "URL": "https://www.aftership.com/",
+    "Description": "The #1 Tracking Solution for eCommerce Businesses. Track and trace all shipments across 666+ carriers worldwide in one place.",
+    "Discount": "100%",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "Free forever plan (less than 50 trackings per month）",
+    "Favicon": "Just signup.",
+    "How to apply (text)": "Just signup.",
+    "How to apply (URL or email)": "https://www.aftership.com",
+    "More info URL": "https://blog.aftership.com/forever-free-plan-covid-19/"
   }
 ]
