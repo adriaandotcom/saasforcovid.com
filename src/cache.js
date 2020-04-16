@@ -3204,5 +3204,19 @@ export const services = [
     "How to apply (text)": "Sign up on page",
     "How to apply (URL or email)": "https://offers.hubspot.com/customer-changes-march-2020",
     "More info URL": "https://offers.hubspot.com/customer-changes-march-2020"
+  },
+  {
+    "Name": "Instabug",
+    "Approved": "",
+    "Category": "Developer Tools",
+    "URL": "https://instabug.com/",
+    "Description": "Catch bugs as soon as they happen and know exactly why a crash occurred. With Instabug you will automatically receive device data, network logs, and reproduction steps with every bug and crash report. It only takes a line of code to integrate. Signup now for free.",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
