@@ -3218,5 +3218,19 @@ export const services = [
     "How to apply (text)": "Use Promocode: SaaSForCovid19",
     "How to apply (URL or email)": "https://instabug.com/",
     "More info URL": ""
+  },
+  {
+    "Name": "Omnisend",
+    "Approved": "",
+    "Category": "Email",
+    "URL": "https://www.omnisend.com/",
+    "Description": "Omnisend is an all-in-one email marketing automation platform built for growth-focused ecommerce brands. Convert visitors into customers, create personalized emails in minutes, and automate your email marketing.",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
