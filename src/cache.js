@@ -3176,5 +3176,19 @@ export const services = [
     "How to apply (text)": "Just signup.",
     "How to apply (URL or email)": "https://www.aftership.com",
     "More info URL": "https://blog.aftership.com/forever-free-plan-covid-19/"
+  },
+  {
+    "Name": "Canva",
+    "Approved": "",
+    "Category": "Web/Graphic Design",
+    "URL": "https://www.canva.com/enterprise/remote-work-offer/",
+    "Description": "Canva is now extending their 30 day Enterprise free trial to 6 months free for teams with 10 people. Canva is a design tool that helps everyone create and collaborate on beautiful designs. The Enterprise offering includes advanced features for productivity, customization, collaboration and brand management. Choose from over 60,000 templates and millions of free photos and graphics to create more than 100 different types of designs on Canva today.",
+    "Discount": "6 months of Canva Enterprise free",
+    "Does it drive you into a paid account": "",
+    "Requirement": "Max 10 people per team",
+    "Favicon": "",
+    "How to apply (text)": "Visit https://www.canva.com/enterprise/remote-work-offer/",
+    "How to apply (URL or email)": "https://www.canva.com/enterprise/remote-work-offer/",
+    "More info URL": "https://www.canva.com/enterprise/remote-work-offer/"
   }
 ]
