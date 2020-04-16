@@ -904,7 +904,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://mk0placereynlffhamiu.kinstacdn.com/wp-content/uploads/2018/08/favicon-310x310-150x150.png",
+    "Favicon": "",
     "How to apply (text)": "Corona correlated retail trend data is available publicly for free.",
     "How to apply (URL or email)": "https://www.placer.ai/covid-19/",
     "More info URL": "https://placer.ai"
@@ -1912,7 +1912,7 @@ export const services = [
     "Discount": "$1/mo per location",
     "Does it drive you into a paid account": "Yes, but only $1/month",
     "Requirement": "none",
-    "Favicon": "",
+    "Favicon": "/favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com"
@@ -3195,14 +3195,14 @@ export const services = [
     "Name": "HubSpot",
     "Approved": "",
     "Category": "Marketing Automation",
-    "URL": "https://offers.hubspot.com/customer-changes-march-2020",
+    "URL": "www.hubspot.com",
     "Description": "HubSpot offers a full platform of marketing, sales, customer service, and CRM software — plus the methodology, resources, and support - to help businesses grow better. Our top priority is the health and safety of our employees and of the communities we serve, including our customers, partners, prospects, and candidates. This page outlines details of the support measures we’ve introduced so far that we hope will help you to adapt to these times.",
     "Discount": "55% off for 12 months, plus additional unlocked features in the free version of our tools and increased usage limits for 90 days",
     "Does it drive you into a paid account": "Yes, but we have a free version of our product suite that will have enhanced functionality for 90 days",
-    "Requirement": "",
+    "Requirement": "Listed on page",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Sign up on page",
+    "How to apply (URL or email)": "https://offers.hubspot.com/customer-changes-march-2020",
+    "More info URL": "https://offers.hubspot.com/customer-changes-march-2020"
   }
 ]
