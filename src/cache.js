@@ -1576,7 +1576,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "/pwa/apple-icon-180.png?vv2373",
+    "Favicon": "/pwa/apple-icon-180.png?vv2374",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
@@ -3178,14 +3178,14 @@ export const services = [
     "More info URL": "https://blog.aftership.com/forever-free-plan-covid-19/"
   },
   {
-    "Name": "Canva",
+    "Name": "Canva for Enterprise",
     "Approved": "",
     "Category": "Web/Graphic Design",
     "URL": "https://www.canva.com/enterprise/remote-work-offer/",
-    "Description": "Canva is now extending their 30 day Enterprise free trial to 6 months free for teams with 10 people. Canva is a design tool that helps everyone create and collaborate on beautiful designs. The Enterprise offering includes advanced features for productivity, customization, collaboration and brand management. Choose from over 60,000 templates and millions of free photos and graphics to create more than 100 different types of designs on Canva today.",
-    "Discount": "6 months of Canva Enterprise free",
-    "Does it drive you into a paid account": "",
-    "Requirement": "Max 10 people per team",
+    "Description": "Canva for Enterprise is a design tool that helps everyone create and collaborate on beautiful designs from over 60,000 templates and millions of free photos and graphics as well as features for productivity, customization, collaboration and brand management.",
+    "Discount": "6 months free",
+    "Does it drive you into a paid account": "Yes, after 6 months",
+    "Requirement": "10 team members required",
     "Favicon": "",
     "How to apply (text)": "Visit https://www.canva.com/enterprise/remote-work-offer/",
     "How to apply (URL or email)": "https://www.canva.com/enterprise/remote-work-offer/",
