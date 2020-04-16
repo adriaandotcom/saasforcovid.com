@@ -3210,13 +3210,13 @@ export const services = [
     "Approved": "",
     "Category": "Developer Tools",
     "URL": "https://instabug.com/",
-    "Description": "Catch bugs as soon as they happen and know exactly why a crash occurred. With Instabug you will automatically receive device data, network logs, and reproduction steps with every bug and crash report. It only takes a line of code to integrate. Signup now for free.",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Description": "The #1 SDK Delivering Real-Time Contextual Insights throughout the entire mobile app lifecycle, empowering mobile teams to accelerate their workflow and release with confidence. Crash reporting + Bug reporting + Customizable in-app surveys all in one SDK.",
+    "Discount": "100% for 3 Months",
+    "Does it drive you into a paid account": "yes",
+    "Requirement": "None",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
+    "How to apply (text)": "Use Promocode: SaaSForCovid19",
+    "How to apply (URL or email)": "https://instabug.com/",
     "More info URL": ""
   }
 ]
