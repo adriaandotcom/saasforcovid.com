@@ -424,7 +424,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Productivity Tools",
     "URL": "https://readermode.io",
-    "Description": "A feature-packed Reader Mode chrome extension with dyslexia support. Remove all clutter and view any article in a distraction-free readermode.",
+    "Description": "",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -3225,12 +3225,12 @@ export const services = [
     "Category": "Email",
     "URL": "https://www.omnisend.com/",
     "Description": "Omnisend is an all-in-one email marketing automation platform built for growth-focused ecommerce brands. Convert visitors into customers, create personalized emails in minutes, and automate your email marketing.",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Discount": "50% for 2 months for Standard plan, valid until June 30",
+    "Does it drive you into a paid account": "YES",
+    "Requirement": "New customers only",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Use Promocode: INTHISTOGETHER50X2",
+    "How to apply (URL or email)": "https://www.omnisend.com/",
+    "More info URL": "https://www.omnisend.com/blog/crisis-marketing/"
   }
 ]
