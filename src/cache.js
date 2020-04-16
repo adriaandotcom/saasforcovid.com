@@ -8,7 +8,7 @@ export const services = [
     "Discount": "$1,000",
     "Does it drive you into a paid account": "Maybe, but you can get pretty far with $1000.",
     "Requirement": "Expires one year after it is issued",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "Fill in their form on a special page",
     "How to apply (URL or email)": "https://www.digitalocean.com/community/pages/covid-19",
     "More info URL": ""
@@ -284,7 +284,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://burnermail.io",
-    "Description": "One-click burner email addresses that you can use when signing up on websites to protect your identity and prevent your personal email address from being sold or spammed.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe, the discount is only applied to the first charge but it's possible to select 3 years.",
     "Requirement": "",
@@ -3190,5 +3190,19 @@ export const services = [
     "How to apply (text)": "Visit https://www.canva.com/enterprise/remote-work-offer/",
     "How to apply (URL or email)": "https://www.canva.com/enterprise/remote-work-offer/",
     "More info URL": "https://www.canva.com/enterprise/remote-work-offer/"
+  },
+  {
+    "Name": "HubSpot",
+    "Approved": "",
+    "Category": "Marketing Automation",
+    "URL": "https://offers.hubspot.com/customer-changes-march-2020",
+    "Description": "HubSpot offers a full platform of marketing, sales, customer service, and CRM software — plus the methodology, resources, and support - to help businesses grow better. Our top priority is the health and safety of our employees and of the communities we serve, including our customers, partners, prospects, and candidates. This page outlines details of the support measures we’ve introduced so far that we hope will help you to adapt to these times.",
+    "Discount": "55% off for 12 months, plus additional unlocked features in the free version of our tools and increased usage limits for 90 days",
+    "Does it drive you into a paid account": "Yes, but we have a free version of our product suite that will have enhanced functionality for 90 days",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
