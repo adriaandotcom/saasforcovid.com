@@ -3244,7 +3244,7 @@ export const services = [
     "Requirement": "None",
     "Favicon": "",
     "How to apply (text)": "Via the COVID-19 page contact form",
-    "How to apply (URL or email)": "https://www.getpequity.com/covid-19.html",
+    "How to apply (URL or email)": "https://www.getpequity.com/covid-19.html#section_contact",
     "More info URL": "https://www.getpequity.com/covid-19.html"
   }
 ]
