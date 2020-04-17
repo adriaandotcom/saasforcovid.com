@@ -1660,7 +1660,7 @@ export const services = [
     "Discount": "Free for 1st year",
     "Does it drive you into a paid account": "No, first year free and no credit card required",
     "Requirement": "New K-12 customers",
-    "Favicon": "/favicon-f99f13ec.ico",
+    "Favicon": "",
     "How to apply (text)": "Complete request trial form",
     "How to apply (URL or email)": "https://www.qualified.io/signup",
     "More info URL": "https://www.qualified.io/blog/posts/qualified-and-codewars-are-free-for-k-12-teachers-and-students"
@@ -3288,5 +3288,19 @@ export const services = [
     "How to apply (text)": "Use the chat widget to discuss the discount",
     "How to apply (URL or email)": "https://www.pipefy.com/remote-workflow-process-management/",
     "More info URL": ""
+  },
+  {
+    "Name": "GoCRM",
+    "Approved": "",
+    "Category": "CRM",
+    "URL": "https://gocrm.io/",
+    "Description": "Get a complete view of your customers, including activity history, key contacts, customer communications, and internal account discussions.",
+    "Discount": "Free for 5 users for 90 days.",
+    "Does it drive you into a paid account": "No, after 90-day free trial expires and it will then prompt for payment information.",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Just signup, write to support and mention Covid.",
+    "How to apply (URL or email)": "https://gocrm.io/covid19",
+    "More info URL": "https://gocrm.io/covid19"
   }
 ]
