@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "Remote Leaf aggregates remote jobs in one organised place from tons of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -3302,5 +3302,19 @@ export const services = [
     "How to apply (text)": "Just signup, write to support and mention Covid.",
     "How to apply (URL or email)": "https://gocrm.io/covid19",
     "More info URL": "https://gocrm.io/covid19"
+  },
+  {
+    "Name": "ProjectSet",
+    "Approved": "",
+    "Category": "Edtech",
+    "URL": "https://projectset.com/",
+    "Description": "Conduct internships and curriculum-based projecs remotely on our online platform. Enjoy free access to project tools (e.g. workplans, messaging, file-sharing, etc.) and the option to involve mentors.",
+    "Discount": "100%",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Sign up online",
+    "How to apply (URL or email)": "https://projectset.com/login",
+    "More info URL": "https://projectset.com/faq"
   }
 ]
