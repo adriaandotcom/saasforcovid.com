@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "Remote Leaf aggregates remote jobs in one organised place from tons of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -358,7 +358,7 @@ export const services = [
     "Discount": "30%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "fav.ico",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://tryhoverify.com",
     "More info URL": ""
@@ -3246,5 +3246,19 @@ export const services = [
     "How to apply (text)": "Via the COVID-19 page contact form",
     "How to apply (URL or email)": "https://www.getpequity.com/covid-19.html#section_contact",
     "More info URL": "https://www.getpequity.com/covid-19.html"
+  },
+  {
+    "Name": "Postmen",
+    "Approved": "",
+    "Category": "Delivery management",
+    "URL": "https://www.postmen.com/",
+    "Description": "Scalable shipping software & API for eCommerce businesses. Enjoy the lowest USPS shipping rates for free.",
+    "Discount": "100%",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "Free forever plan",
+    "Favicon": "Just signup",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
