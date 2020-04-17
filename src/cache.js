@@ -1912,7 +1912,7 @@ export const services = [
     "Discount": "$1/mo per location",
     "Does it drive you into a paid account": "Yes, but only $1/month",
     "Requirement": "none",
-    "Favicon": "",
+    "Favicon": "/favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com"
@@ -3260,5 +3260,19 @@ export const services = [
     "How to apply (text)": "Just signup",
     "How to apply (URL or email)": "https://secure.postmen.com/login?utm_source=covid19&utm_medium=saasforcovid",
     "More info URL": "https://www.postmen.com/pricing"
+  },
+  {
+    "Name": "MightyForms",
+    "Approved": "",
+    "Category": "Data collection",
+    "URL": "https://www.mightyforms.com/coronavirus-response-offer/",
+    "Description": "We’re in this together. MightyForms wants to help you help more people. Unlimited forms and features for not-for-profit Coronavirus related projects or campaigns.",
+    "Discount": "Free, until October 1st, 2020",
+    "Does it drive you into a paid account": "Maybe. After October 1st.",
+    "Requirement": "Nonprofit Covid-19 response project",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
