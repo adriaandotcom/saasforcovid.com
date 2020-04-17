@@ -64,7 +64,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://leverice.com/wp-content/uploads/2020/03/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Click on \"Get Started\" or \"Try Now\" button on homepage.",
     "How to apply (URL or email)": "https://leverice.com",
     "More info URL": ""
@@ -1660,7 +1660,7 @@ export const services = [
     "Discount": "Free for 1st year",
     "Does it drive you into a paid account": "No, first year free and no credit card required",
     "Requirement": "New K-12 customers",
-    "Favicon": "",
+    "Favicon": "/favicon-f99f13ec.ico",
     "How to apply (text)": "Complete request trial form",
     "How to apply (URL or email)": "https://www.qualified.io/signup",
     "More info URL": "https://www.qualified.io/blog/posts/qualified-and-codewars-are-free-for-k-12-teachers-and-students"
@@ -3232,5 +3232,19 @@ export const services = [
     "How to apply (text)": "Use Promocode: INTHISTOGETHER50X2",
     "How to apply (URL or email)": "https://www.omnisend.com/",
     "More info URL": "https://www.omnisend.com/blog/crisis-marketing/"
+  },
+  {
+    "Name": "Pequity",
+    "Approved": "",
+    "Category": "HR",
+    "URL": "https://www.getpequity.com/",
+    "Description": "Pequity makes pay and equity easy, with a single hub for managing pay philosophy and ranges, making data-driven pay decisions, optimizing offer workflows, and flagging pay inequalities.",
+    "Discount": "for companies, recruiters, and compensation teams that are impacted by COVID-19.",
+    "Does it drive you into a paid account": "Yes",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Via the COVID-19 page contact form",
+    "How to apply (URL or email)": "https://www.getpequity.com/covid-19.html",
+    "More info URL": "https://www.getpequity.com/covid-19.html"
   }
 ]
