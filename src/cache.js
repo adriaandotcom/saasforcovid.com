@@ -204,7 +204,7 @@ export const services = [
     "Discount": "70%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "https://kedaiweb.co/v4/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & all addon up to 70% discount",
     "How to apply (URL or email)": "https://kedaiweb.co",
     "More info URL": ""
@@ -3272,6 +3272,20 @@ export const services = [
     "Requirement": "Nonprofit Covid-19 response project",
     "Favicon": "",
     "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
+  },
+  {
+    "Name": "Pipefy",
+    "Approved": "",
+    "Category": "Productivity Tools",
+    "URL": "https://www.pipefy.com/remote-workflow-process-management/",
+    "Description": "Pipefy is the collaborative workflow management tool that keeps everyone in the loop for every process while working remote.",
+    "Discount": "10% off first 3 months. Free for NGO's.",
+    "Does it drive you into a paid account": "We have a free version of our product and can upgrade for paid for more features",
+    "Requirement": "New customers only",
+    "Favicon": "",
+    "How to apply (text)": "Use the chat",
     "How to apply (URL or email)": "",
     "More info URL": ""
   }
