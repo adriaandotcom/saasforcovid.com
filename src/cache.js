@@ -932,7 +932,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Scaling Plan only. Non-profit working on Covid-19 related response",
-    "Favicon": "",
+    "Favicon": "https://tettra.com/wp-content/uploads/2018/11/cropped-favicon-32x32.png",
     "How to apply (text)": "Sign up and reach out over chat",
     "How to apply (URL or email)": "https://app.tettra.co/create-team",
     "More info URL": ""
@@ -3316,5 +3316,19 @@ export const services = [
     "How to apply (text)": "Sign up online",
     "How to apply (URL or email)": "https://projectset.com/login",
     "More info URL": "https://projectset.com/faq"
+  },
+  {
+    "Name": "Kintell",
+    "Approved": "",
+    "Category": "Edtech",
+    "URL": "https://kintell.com/",
+    "Description": "Kintell connects people looking for advice with those qualified to give it, via paid or Pro Bono video sessions.",
+    "Discount": "$20 credit upon signup",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "New users only",
+    "Favicon": "",
+    "How to apply (text)": "Join Kintell (takes 60 seconds)",
+    "How to apply (URL or email)": "https://kintell.com/join-now",
+    "More info URL": ""
   }
 ]
