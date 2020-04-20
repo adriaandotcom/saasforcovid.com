@@ -32,7 +32,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://airtable.com",
-    "Description": "Airtable works like a spreadsheet but gives you the power of a database to organize anything. Sign up for free.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free trial",
     "Requirement": "Airtable is making Airtable Pro available for free to any non-political humanitarian group that is working on COVID-19 relief efforts.",
@@ -347,20 +347,6 @@ export const services = [
     "Favicon": "/img/favicons/apple-icon-57x57.png",
     "How to apply (text)": "Coupon: PROXYMAN_STAY_SAFE_STAY_HEALTHY",
     "How to apply (URL or email)": "https://proxyman.io/pricing",
-    "More info URL": ""
-  },
-  {
-    "Name": "Hoverify",
-    "Approved": "Yes",
-    "Category": "Developer Tools",
-    "URL": "https://tryhoverify.com",
-    "Description": "Hoverify makes inspecting, editing, copying HTML and CSS super easy by just hovering over the element. It also include various tools which lets you Hide and remove elements, Search, Pick colors and capture screenshots.",
-    "Discount": "30%",
-    "Does it drive you into a paid account": "Maybe",
-    "Requirement": "",
-    "Favicon": "fav.ico",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "https://tryhoverify.com",
     "More info URL": ""
   },
   {
@@ -1898,7 +1884,7 @@ export const services = [
     "Discount": "$0.01 for earch search",
     "Does it drive you into a paid account": "Yes, but only $0.01",
     "Requirement": "None.",
-    "Favicon": "",
+    "Favicon": "/assets/icons/apple-icon-120x120.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "http://unicorn-nest.com/",
     "More info URL": ""
