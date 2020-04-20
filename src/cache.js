@@ -3344,5 +3344,19 @@ export const services = [
     "How to apply (text)": "Start a free trial at www.hrpartner.io, then use coupon code \"COVID50\" to get this discount",
     "How to apply (URL or email)": "https://app.hrpartner.io/user/signup",
     "More info URL": "https://www.hrpartner.io/"
+  },
+  {
+    "Name": "PC Matic",
+    "Approved": "",
+    "Category": "Cybersecurity",
+    "URL": "www.pcmatic.com/covid19",
+    "Description": "PC Matic is offering free cybersecurity and remote management tools for businesses, government entities and educational insitutions.",
+    "Discount": "100%",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "Businesses with more than five endpoints, or be a managed service provider.",
+    "Favicon": "",
+    "How to apply (text)": "Sign up at www.pcmatic.com/covid19",
+    "How to apply (URL or email)": "www.pcmatic.com/covid19",
+    "More info URL": "www.pcmatic.com/covid19"
   }
 ]
