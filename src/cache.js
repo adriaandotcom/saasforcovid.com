@@ -3302,5 +3302,33 @@ export const services = [
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kintell.com/join-now",
     "More info URL": "https://kintell.com/pricing"
+  },
+  {
+    "Name": "Rentman",
+    "Approved": "",
+    "Category": "Project Management",
+    "URL": "https://rentman.io",
+    "Description": "Modern rental software to run your live event rentals and productions. Manage and plan resources, scheduling, and communication from a single platform. Get started for free.",
+    "Discount": "100% off for 3 months",
+    "Does it drive you into a paid account": "No, the 3 free months end by themselves unless you activate your account.",
+    "Requirement": "New users only",
+    "Favicon": "",
+    "How to apply (text)": "Just sign up",
+    "How to apply (URL or email)": "https://rentman.io",
+    "More info URL": ""
+  },
+  {
+    "Name": "MeeroDrop",
+    "Approved": "",
+    "Category": "Remote Work",
+    "URL": "https://www.meerodrop.com",
+    "Description": "MeeroDrop is a free file sharing platform, particularly suited for visual content.\nTransfers up to 10 Gb and stored for 90 days (vs. 5 Gb and 30 days usually)",
+    "Discount": "100%",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Just go on www.meerodrop.com",
+    "How to apply (URL or email)": "https://www.meerodrop.com",
+    "More info URL": "https://www.meerodrop.com/en/about"
   }
 ]
