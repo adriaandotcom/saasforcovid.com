@@ -3330,5 +3330,19 @@ export const services = [
     "How to apply (text)": "Just go on www.meerodrop.com",
     "How to apply (URL or email)": "https://www.meerodrop.com",
     "More info URL": "https://www.meerodrop.com/en/about"
+  },
+  {
+    "Name": "HR Partner",
+    "Approved": "",
+    "Category": "HR",
+    "URL": "https://www.hrpartner.io/",
+    "Description": "HR Partner is the HR system for businesses with 20-500 employees. It manages employee records, onboarding, recruiting, leave requests and more.",
+    "Discount": "50% off for 6 months",
+    "Does it drive you into a paid account": "Yes,",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
