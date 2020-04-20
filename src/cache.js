@@ -3338,11 +3338,11 @@ export const services = [
     "URL": "https://www.hrpartner.io/",
     "Description": "HR Partner is the HR system for businesses with 20-500 employees. It manages employee records, onboarding, recruiting, leave requests and more.",
     "Discount": "50% off for 6 months",
-    "Does it drive you into a paid account": "Yes,",
-    "Requirement": "",
+    "Does it drive you into a paid account": "Maybe, if they continue after their first 6 months",
+    "Requirement": "None",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Start a free trial at www.hrpartner.io, then use coupon code \"COVID50\" to get this discount",
+    "How to apply (URL or email)": "https://app.hrpartner.io/user/signup",
+    "More info URL": "https://www.hrpartner.io/"
   }
 ]
