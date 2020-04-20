@@ -476,6 +476,18 @@
           >TailwindToolbox.com</a
         >
       </p>
+
+      <div class="mb-4 mt-8 flex w-full justify-center">
+        <a
+          href="https://simpleanalytics.com/saasforcovid.com?utm_source=saasforcovid.com&utm_content=badge"
+          referrerpolicy="origin"
+          ><img
+            src="https://simpleanalyticsbadge.com/saasforcovid.com"
+            loading="lazy"
+            referrerpolicy="no-referrer"
+            crossorigin="anonymous"
+        /></a>
+      </div>
     </section>
 
     <div class="fixed bottom-0 right-0">
