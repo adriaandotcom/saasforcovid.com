@@ -482,7 +482,7 @@
           href="https://simpleanalytics.com/saasforcovid.com?utm_source=saasforcovid.com&utm_content=badge"
           referrerpolicy="origin"
           ><img
-            src="https://simpleanalyticsbadge.com/saasforcovid.com"
+            src="https://simpleanalyticsbadge.com/saasforcovid.com?background=%23f8fafc&logo=%23ed7c86"
             loading="lazy"
             referrerpolicy="no-referrer"
             crossorigin="anonymous"
