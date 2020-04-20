@@ -32,7 +32,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://airtable.com",
-    "Description": "",
+    "Description": "Airtable works like a spreadsheet but gives you the power of a database to organize anything. Sign up for free.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free trial",
     "Requirement": "Airtable is making Airtable Pro available for free to any non-political humanitarian group that is working on COVID-19 relief efforts.",
@@ -836,8 +836,8 @@ export const services = [
     "Requirement": "Covid19 Related project.",
     "Favicon": "https://www.algolia.com/icons/icon-72x72.png",
     "How to apply (text)": "Email support@algolia.com with \"COVID-19 Request\" subject",
-    "How to apply (URL or email)": "support@algolia.com",
-    "More info URL": "https://blog.algolia.com/supporting-our-communities-during-this-time-of-need/"
+    "How to apply (URL or email)": "https://www.algolia.com/covid-19/",
+    "More info URL": ""
   },
   {
     "Name": "DocSpring",
@@ -3170,7 +3170,7 @@ export const services = [
     "URL": "https://www.canva.com/enterprise/remote-work-offer/",
     "Description": "Canva for Enterprise is a design tool that helps everyone create and collaborate on beautiful designs from over 60,000 templates and millions of free photos and graphics as well as features for productivity, customization, collaboration and brand management.",
     "Discount": "6 months free",
-    "Does it drive you into a paid account": "Maybe, after 6 months",
+    "Does it drive you into a paid account": "Yes, after 6 months and heavy requirements (including card on file)",
     "Requirement": "10 team members required",
     "Favicon": "",
     "How to apply (text)": "Just signup via button below",
@@ -3276,20 +3276,6 @@ export const services = [
     "More info URL": ""
   },
   {
-    "Name": "GoCRM",
-    "Approved": "",
-    "Category": "CRM",
-    "URL": "https://gocrm.io/",
-    "Description": "Get a complete view of your customers, including activity history, key contacts, customer communications, and internal account discussions.",
-    "Discount": "Free for 5 users for 90 days.",
-    "Does it drive you into a paid account": "No, after 90-day free trial expires and it will then prompt for payment information.",
-    "Requirement": "None",
-    "Favicon": "",
-    "How to apply (text)": "Just signup, write to support and mention Covid.",
-    "How to apply (URL or email)": "https://gocrm.io/covid19",
-    "More info URL": "https://gocrm.io/covid19"
-  },
-  {
     "Name": "ProjectSet",
     "Approved": "",
     "Category": "Edtech",
@@ -3310,7 +3296,7 @@ export const services = [
     "URL": "https://kintell.com/",
     "Description": "Kintell connects people looking for advice with those qualified to give it, via paid or Pro Bono video sessions.",
     "Discount": "$20 credit upon signup",
-    "Does it drive you into a paid account": "No",
+    "Does it drive you into a paid account": "Maybe, it's a credit",
     "Requirement": "New users only",
     "Favicon": "",
     "How to apply (text)": "Just sign up, discount applied already.",
