@@ -596,7 +596,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "Healthcare organizations only.",
-    "Favicon": "/img/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Just signup",
     "How to apply (URL or email)": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/",
     "More info URL": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/"
@@ -3400,5 +3400,19 @@ export const services = [
     "How to apply (text)": "Just go to virushee.com",
     "How to apply (URL or email)": "https://virushee.com",
     "More info URL": "https://virushee.com"
+  },
+  {
+    "Name": "Starred",
+    "Approved": "",
+    "Category": "HR",
+    "URL": "https://www.starred.com",
+    "Description": "Starred is a feedback software for HR and Talent Acquisition to gather actionable insights into the experiences of employees and candidates.",
+    "Discount": "Free during COVID-19",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Get your access on the website",
+    "How to apply (URL or email)": "https://www.starred.com/debra-corey-engagement-survey",
+    "More info URL": ""
   }
 ]
