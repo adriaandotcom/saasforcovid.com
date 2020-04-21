@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -358,7 +358,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 6 months free usage.",
     "Requirement": "To use for a covid-related site or tool, link back appreciated.",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=9ac1f3fc4286e7d9318862f69ebc6f89",
     "How to apply (text)": "Email: support@polypane.app",
     "How to apply (URL or email)": "support@polypane.app",
     "More info URL": "https://polypane.app"
@@ -732,7 +732,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://devscore.com",
-    "Description": "",
+    "Description": "DevScore is a Low Code Automation Service for software development teams to automate manual tasks, data synchronizations and reporting of Scrum, CI/CD and Operations.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -876,7 +876,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project",
-    "Favicon": "",
+    "Favicon": "/favicon-196x196.png",
     "How to apply (text)": "Email info@vectorspace.ai or visit https://vectorspace.ai",
     "How to apply (URL or email)": "info@vectorspace.ai",
     "More info URL": "https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html?tc=eml_cleartime"
@@ -1408,7 +1408,7 @@ export const services = [
     "Discount": "15%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://cdn.landen.co/29al446fkkuj/assets/fygh642g.png",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://customfit.ai/demo",
     "More info URL": "https://customfit.ai/playbook"
@@ -1436,7 +1436,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://uploads-ssl.webflow.com/5c6bb8ab3620cfc71f70b984/5d505e5b493b0583b831a834_webclip-favicon.png",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://www.trywingman.com/going-remote",
     "More info URL": ""
@@ -2206,7 +2206,7 @@ export const services = [
     "Discount": "25%",
     "Does it drive you into a paid account": "Maybe, but you get a clear discount so you know upfront.",
     "Requirement": "COVID-19 projects.",
-    "Favicon": "",
+    "Favicon": "fbrfg/apple-touch-icon.png",
     "How to apply (text)": "Contact support (can be in Dutch or English)",
     "How to apply (URL or email)": "https://www.intention.nl/direct-jouw-vraag-stellen",
     "More info URL": ""
@@ -2444,7 +2444,7 @@ export const services = [
     "Discount": "250$ credit",
     "Does it drive you into a paid account": "Maybe, but it's a clear discount.",
     "Requirement": "None.",
-    "Favicon": "//d2p3olkzjojwnw.cloudfront.net/app/themes/postaffiliatepro/assets/images/favicon/apple-touch-icon-180x180.png",
+    "Favicon": "https://www.postaffiliatepro.com/app/themes/postaffiliatepro/assets/images/favicon/apple-touch-icon-180x180.png",
     "How to apply (text)": "Send us a message to: andy@postaffiliatepro.com with subject \"SaaS4Covid",
     "How to apply (URL or email)": "https://www.postaffiliatepro.com/trial/",
     "More info URL": "https://www.postaffiliatepro.com/affiliate-marketing-software/"
