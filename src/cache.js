@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "/spike-badge-180.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -3372,5 +3372,19 @@ export const services = [
     "How to apply (text)": "Just signup via button below",
     "How to apply (URL or email)": "https://www.userback.io/?c=covidsupport",
     "More info URL": "https://www.userback.io"
+  },
+  {
+    "Name": "Reallusion Software",
+    "Approved": "",
+    "Category": "Software editor",
+    "URL": "https://www.reallusion.com/COVID-19.html",
+    "Description": "",
+    "Discount": "A 50% discount on all packages in the Reallusion Software Store",
+    "Does it drive you into a paid account": "No.",
+    "Requirement": "New and existing members. Valid through April 30th, 2020.",
+    "Favicon": "",
+    "How to apply (text)": "Sign up via button below and enter the 50% off coupon code “COVID19STAYSAFE” during checkout.",
+    "How to apply (URL or email)": "https://www.reallusion.com/COVID-19.html",
+    "More info URL": "https://www.reallusion.com/COVID-19.html"
   }
 ]
