@@ -3386,5 +3386,19 @@ export const services = [
     "How to apply (text)": "Sign up via button below and enter the 50% off coupon code “COVID19STAYSAFE” during checkout.",
     "How to apply (URL or email)": "https://www.reallusion.com/COVID-19.html",
     "More info URL": "https://www.reallusion.com/COVID-19.html"
+  },
+  {
+    "Name": "Virushee",
+    "Approved": "",
+    "Category": "Cybersecurity",
+    "URL": "https://virushee.com",
+    "Description": "Privacy-oriented file scanning service enchanted by AI and Heuristic Engines. Additional, dynamic sandbox analysis available. Allows integration via REST API.",
+    "Discount": "Free during COVID-19",
+    "Does it drive you into a paid account": "No.",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
