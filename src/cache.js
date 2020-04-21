@@ -1212,7 +1212,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related for educational institutions and teachers",
-    "Favicon": "https://www.mindmeister.com/mm_favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Submit a request via a form",
     "How to apply (URL or email)": "https://docs.google.com/forms/d/e/1FAIpQLSeDB4wwXfF50axq-f--NRQUhwgjUgweMPKlSRQI9ul9rJ8gVA/viewform",
     "More info URL": "https://www.meisterlabs.com/meister-for-educators/"
@@ -3358,5 +3358,19 @@ export const services = [
     "How to apply (text)": "Sign up at www.pcmatic.com/covid19",
     "How to apply (URL or email)": "www.pcmatic.com/covid19",
     "More info URL": "www.pcmatic.com/covid19"
+  },
+  {
+    "Name": "Userback",
+    "Approved": "",
+    "Category": "Website Tools",
+    "URL": "https://www.userback.io",
+    "Description": "Userback is a visual feedback tool that makes it easy to collect feedback from any webpage. It's like seeing a website through your customer's eyes with screenshots and annotations.",
+    "Discount": "50% off all annual plans",
+    "Does it drive you into a paid account": "Maybe, it's a discount. However we also have a free plan.",
+    "Requirement": "New customers only",
+    "Favicon": "",
+    "How to apply (text)": "Just signup via button below",
+    "How to apply (URL or email)": "https://www.userback.io/?c=covidsupport",
+    "More info URL": "https://www.userback.io"
   }
 ]
