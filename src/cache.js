@@ -3414,5 +3414,19 @@ export const services = [
     "How to apply (text)": "Get your access on the website",
     "How to apply (URL or email)": "https://www.starred.com/debra-corey-engagement-survey",
     "More info URL": ""
+  },
+  {
+    "Name": "Simplicité Software",
+    "Approved": "",
+    "Category": "Low-Code/No-Code",
+    "URL": "https://simplicitesoftware.com",
+    "Description": "Simplicité is a universal Low-code platform designed to easily and quickly create custom enterprise applications and scalable SaaS services.",
+    "Discount": "100% for 3 months",
+    "Does it drive you into a paid account": "No.",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Just go to url and \"start now",
+    "How to apply (URL or email)": "https://simplicitesoftware.com/platform/pricing/",
+    "More info URL": "https://simplicitesoftware.com"
   }
 ]
