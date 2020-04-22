@@ -3428,5 +3428,19 @@ export const services = [
     "How to apply (text)": "Just go to url and \"start now",
     "How to apply (URL or email)": "https://simplicitesoftware.com/platform/pricing/",
     "More info URL": "https://simplicitesoftware.com"
+  },
+  {
+    "Name": "CotractNow",
+    "Approved": "",
+    "Category": "Contract Management",
+    "URL": "https://www.contractnow.com/",
+    "Description": "ContractNow is a simple, powerful contract management solution specifically designed to answer the business’s key contracting questions during COVID-19 and beyond. It’s currently offered completely free of charge until 1st September 2020.",
+    "Discount": "100% Free Until Sept 1st 2020",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Visit www.contractnow.com and request access",
+    "How to apply (URL or email)": "https://www.contractnow.com/",
+    "More info URL": "https://www.contractnow.com/"
   }
 ]
