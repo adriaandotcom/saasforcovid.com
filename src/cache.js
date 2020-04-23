@@ -50,7 +50,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free usage.",
     "Requirement": "It's appreciated to add a link back to divjoy.com (not required). Free for Covid-19 projects.",
-    "Favicon": "/static/images/favicon/favicon-16x16.png",
+    "Favicon": "/static/images/favicon/apple-touch-icon.png",
     "How to apply (text)": "Use chatbot on the page",
     "How to apply (URL or email)": "https://divjoy.com/",
     "More info URL": ""
@@ -130,7 +130,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Incident Management",
     "URL": "https://spike.sh",
-    "Description": "Spike is a simple incident management platform that alerts via slack, phone and email and automatic escalations to help teams fix infrastructure problems.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
@@ -410,7 +410,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Productivity Tools",
     "URL": "https://readermode.io",
-    "Description": "A feature-packed Reader Mode chrome extension with dyslexia support. Remove all clutter and view any article in a distraction-free readermode.",
+    "Description": "A feature-packed Reader Mode chrome extension with dyslexia support. Remove all clutter and view any article in a distraction-free reader mode.",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -890,7 +890,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://mk0placereynlffhamiu.kinstacdn.com/wp-content/uploads/2018/08/favicon-310x310-150x150.png",
+    "Favicon": "",
     "How to apply (text)": "Corona correlated retail trend data is available publicly for free.",
     "How to apply (URL or email)": "https://www.placer.ai/covid-19/",
     "More info URL": "https://placer.ai"
@@ -3470,5 +3470,19 @@ export const services = [
     "How to apply (text)": "Sign Up",
     "How to apply (URL or email)": "https://www.satismeter.com/covid19/",
     "More info URL": "https://www.satismeter.com/covid19/"
+  },
+  {
+    "Name": "Joomla51",
+    "Approved": "",
+    "Category": "CMS",
+    "URL": "joomla51.com/",
+    "Description": "Joomla51.com provide professional templates and extensions. For 10 years, users have enjoyed our great designs and excellent support.",
+    "Discount": "30%",
+    "Does it drive you into a paid account": "NO",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Coupon code: \tCOVIDRELIEF",
+    "How to apply (URL or email)": "joomla51.com/",
+    "More info URL": "joomla51.com/"
   }
 ]
