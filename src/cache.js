@@ -3456,5 +3456,19 @@ export const services = [
     "How to apply (text)": "Use offer code: letushelp90",
     "How to apply (URL or email)": "https://www.shipstation.com/let-shipstation-help/",
     "More info URL": "https://www.shipstation.com/covid-19/"
+  },
+  {
+    "Name": "SatisMeter",
+    "Approved": "",
+    "Category": "Customer Feedback",
+    "URL": "https://www.satismeter.com/",
+    "Description": "Worried about losing customers during the coronavirus outbreak? Use our FREE COVID-19 Survey  and get a customer health report to help you take action and plan better.",
+    "Discount": "100%",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Sign Up",
+    "How to apply (URL or email)": "https://www.satismeter.com/covid19/",
+    "More info URL": "https://www.satismeter.com/covid19/"
   }
 ]
