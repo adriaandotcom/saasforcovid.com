@@ -1660,7 +1660,7 @@ export const services = [
     "Discount": "Free for 1st month",
     "Does it drive you into a paid account": "Yes, but you can cancel the subscription",
     "Requirement": "None",
-    "Favicon": "i/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon code FREEMONTH during checkout.",
     "How to apply (URL or email)": "https://designmodo.com/freemonth/",
     "More info URL": "https://designmodo.com/freemonth/"
@@ -3442,5 +3442,19 @@ export const services = [
     "How to apply (text)": "Visit www.contractnow.com and request access",
     "How to apply (URL or email)": "https://www.contractnow.com/",
     "More info URL": "https://www.contractnow.com/"
+  },
+  {
+    "Name": "ShipStation",
+    "Approved": "",
+    "Category": "eCommerce Software",
+    "URL": "https://www.shipstation.com/",
+    "Description": "Wherever you sell, however you ship, ShipStation makes you exceptionally efficient at syncing, managing, and shipping your orders.",
+    "Discount": "100% Free for 3 months",
+    "Does it drive you into a paid account": "Yes, after 3 month trial expires",
+    "Requirement": "New customers only",
+    "Favicon": "",
+    "How to apply (text)": "Use offer code: letushelp90",
+    "How to apply (URL or email)": "https://www.shipstation.com/let-shipstation-help/",
+    "More info URL": "https://www.shipstation.com/covid-19/"
   }
 ]
