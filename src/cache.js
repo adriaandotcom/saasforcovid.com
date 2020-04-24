@@ -400,7 +400,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
-    "Favicon": "https://cdn.helpwise.io/assets/images/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & upgrade. Ping support for 20% off for 12 months.",
     "How to apply (URL or email)": "https://helpwise.io",
     "More info URL": ""
@@ -3526,5 +3526,19 @@ export const services = [
     "How to apply (text)": "Sign Up",
     "How to apply (URL or email)": "https://www.socialpilot.co/we-want-to-help?utm_source=saasforcovid.com&utm_medium=Direct&utm_campaign=%241_plan",
     "More info URL": "https://www.socialpilot.co/we-want-to-help?utm_source=saasforcovid.com&utm_medium=Direct&utm_campaign=%241_plan"
+  },
+  {
+    "Name": "Sparkhouse",
+    "Approved": "",
+    "Category": "Marketing Automation",
+    "URL": "https://thesparkhouse.com/support-local/",
+    "Description": "",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
