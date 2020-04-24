@@ -3540,5 +3540,19 @@ export const services = [
     "How to apply (text)": "Fill out our form",
     "How to apply (URL or email)": "https://thesparkhouse.com/support-local/",
     "More info URL": "https://thesparkhouse.com/support-local/"
+  },
+  {
+    "Name": "Lumavate",
+    "Approved": "",
+    "Category": "Mobile App",
+    "URL": "https://www.lumavate.com/",
+    "Description": "We're offering the use of our platform to any company for 90 days at absoutely no charge. Companies can use our platform to build a mobile app to help better communicate with their employees or customers, share content, etc.",
+    "Discount": "100% for 90 days",
+    "Does it drive you into a paid account": "No; Companies can choose to purchase the platform after 90 days if desired or stop using the platform at the end of 90 days.",
+    "Requirement": "New customers only; Must have valid company email address",
+    "Favicon": "",
+    "How to apply (text)": "Fill out form",
+    "How to apply (URL or email)": "",
+    "More info URL": "https://www.lumavate.com/blog/how-we-can-help/"
   }
 ]
