@@ -736,7 +736,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "./assets/img/brand/favicon.png",
     "How to apply (text)": "Signup and email support@devscore.com",
     "How to apply (URL or email)": "support@devscore.com",
     "More info URL": ""
@@ -3517,14 +3517,14 @@ export const services = [
     "Name": "SocialPilot",
     "Approved": "",
     "Category": "Marketing Automation",
-    "URL": "",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "URL": "https://www.socialpilot.co/",
+    "Description": "Simple & Cost-Effective Social Media Marketing Tool for Teams and Agencies",
+    "Discount": "$1/month",
+    "Does it drive you into a paid account": "Yes, but only $1/month",
+    "Requirement": "New customers only",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Sign Up",
+    "How to apply (URL or email)": "https://app.socialpilot.co/offer/register?hsCtaTracking=46f5adea-9c77-463b-b197-20cdcf27003f%7C5712a252-59c3-4a40-ab7c-0a621e06b828",
+    "More info URL": "https://www.socialpilot.co/we-want-to-help"
   }
 ]
