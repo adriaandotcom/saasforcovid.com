@@ -736,7 +736,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./assets/img/brand/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup and email support@devscore.com",
     "How to apply (URL or email)": "support@devscore.com",
     "More info URL": ""
@@ -1660,7 +1660,7 @@ export const services = [
     "Discount": "Free for 1st month",
     "Does it drive you into a paid account": "Yes, but you can cancel the subscription",
     "Requirement": "None",
-    "Favicon": "i/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon code FREEMONTH during checkout.",
     "How to apply (URL or email)": "https://designmodo.com/freemonth/",
     "More info URL": "https://designmodo.com/freemonth/"
@@ -3498,5 +3498,19 @@ export const services = [
     "How to apply (text)": "Fill out our form",
     "How to apply (URL or email)": "https://blog.trustedsite.com/2020/04/23/trustedsites-support-for-covid-19-response-efforts/",
     "More info URL": ""
+  },
+  {
+    "Name": "CheckMarket",
+    "Approved": "",
+    "Category": "HR",
+    "URL": "https://www.checkmarket.com/covid-19-screening-form-template/",
+    "Description": "Use our Coronavirus screening questionnaire and reporting template to quickly setup pre-shift screening of your employees or visitors. No software to install. Runs in the browser on PCs, tablets and smartphones.",
+    "Discount": "50%",
+    "Does it drive you into a paid account": "Maybe",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Sign up and chose COVID-19 form template",
+    "How to apply (URL or email)": "https://www.checkmarket.com/covid-19-screening-form-template/",
+    "More info URL": "https://www.checkmarket.com/covid-19-screening-form-template/"
   }
 ]
