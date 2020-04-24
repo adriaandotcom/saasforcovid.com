@@ -18,7 +18,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://intercom.com",
-    "Description": "",
+    "Description": "We make customer messaging apps for sales, marketing, and support, connected on one platform. Our mission is to make business personal again.",
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, you need to enter payment information and will be charged automatically after 2 years.",
     "Requirement": "Free of charge to any company or institution fighting COVID-19 and its impact on society, or working to help those affected.",
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from tons of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -410,7 +410,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Productivity Tools",
     "URL": "https://readermode.io",
-    "Description": "Reader Mode is an online reader chrome extension with dyslexia support and research tools. Remove clutter and view any article in a distraction-free reader mode.",
+    "Description": "Reader Mode is a distraction-free online reader chrome extension with dyslexia support, text to speech and research tools. Remove clutter and read any article in a distraction-free reader mode.",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -1562,7 +1562,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "/pwa/apple-icon-180.png?vv2389",
+    "Favicon": "/pwa/apple-icon-180.png?vv2390",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
@@ -1828,7 +1828,7 @@ export const services = [
     "Discount": "100% discount for 3 months",
     "Does it drive you into a paid account": "Yes. Email support@coda.io for full details.",
     "Requirement": "Available to new and existing users for COVID-19 related purposes (see description)",
-    "Favicon": "https://cdn.coda.io/icons/png/color/coda-apple-120.png",
+    "Favicon": "",
     "How to apply (text)": "Email support@coda.io",
     "How to apply (URL or email)": "support@coda.io",
     "More info URL": ""
@@ -2122,7 +2122,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/favicon.ico",
     "How to apply (text)": "Email support@seowl.co",
     "How to apply (URL or email)": "support@seowl.co",
     "More info URL": "https://www.seowl.co"
@@ -2178,7 +2178,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "You are a hospital/ medical facility",
-    "Favicon": "/assets/image/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up and request a free account",
     "How to apply (URL or email)": "https://www.yarooms.com/blog/yarooms-offers-free-space-management-for-hospitals/",
     "More info URL": "https://www.yarooms.com/blog/yarooms-offers-free-space-management-for-hospitals/"
@@ -2206,7 +2206,7 @@ export const services = [
     "Discount": "25%",
     "Does it drive you into a paid account": "Maybe, but you get a clear discount so you know upfront.",
     "Requirement": "COVID-19 projects.",
-    "Favicon": "fbrfg/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Contact support (can be in Dutch or English)",
     "How to apply (URL or email)": "https://www.intention.nl/direct-jouw-vraag-stellen",
     "More info URL": ""
@@ -2318,7 +2318,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after July",
     "Requirement": "Covid-19 related projects (website, apps, iniatives looking for sponsors, online events to support artists...)",
-    "Favicon": "https://assets.website-files.com/img/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Sign Up and contact us using the chat.",
     "How to apply (URL or email)": "contact@sponseasy.com",
     "More info URL": "https://sponseasy.com/#covidhelp"
@@ -3546,13 +3546,13 @@ export const services = [
     "Approved": "",
     "Category": "Mobile App",
     "URL": "https://www.lumavate.com/",
-    "Description": "We're offering the use of our platform to any company for 90 days at absoutely no charge. Companies can use our platform to build a mobile app to help better communicate with their employees or customers, share content, etc.",
+    "Description": "Lumavate is a leading low-code mobile app platform for marketers. Lumavate enables marketers to quickly build and publish mobile apps with no code required. All mobile apps built in Lumavate are delivered as progressive web apps (PWAs).",
     "Discount": "100% for 90 days",
     "Does it drive you into a paid account": "No; Companies can choose to purchase the platform after 90 days if desired or stop using the platform at the end of 90 days.",
     "Requirement": "New customers only; Must have valid company email address",
     "Favicon": "",
     "How to apply (text)": "Fill out form",
-    "How to apply (URL or email)": "",
-    "More info URL": "https://www.lumavate.com/blog/how-we-can-help/"
+    "How to apply (URL or email)": "https://www.lumavate.com/offers/",
+    "More info URL": "https://www.lumavate.com/offers/"
   }
 ]
