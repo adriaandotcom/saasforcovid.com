@@ -3512,5 +3512,19 @@ export const services = [
     "How to apply (text)": "Sign up and chose COVID-19 form template",
     "How to apply (URL or email)": "https://www.checkmarket.com/covid-19-screening-form-template/",
     "More info URL": "https://www.checkmarket.com/covid-19-screening-form-template/"
+  },
+  {
+    "Name": "SocialPilot",
+    "Approved": "",
+    "Category": "Marketing Automation",
+    "URL": "",
+    "Description": "",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
