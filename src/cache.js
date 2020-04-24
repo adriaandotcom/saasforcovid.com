@@ -596,7 +596,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "Healthcare organizations only.",
-    "Favicon": "/img/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Just signup",
     "How to apply (URL or email)": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/",
     "More info URL": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/"
@@ -3517,14 +3517,14 @@ export const services = [
     "Name": "SocialPilot",
     "Approved": "",
     "Category": "Marketing Automation",
-    "URL": "https://www.socialpilot.co/",
+    "URL": "https://www.socialpilot.co/?utm_source=saasforcovid.com&utm_medium=Direct&utm_campaign=%241_plan",
     "Description": "Simple & Cost-Effective Social Media Marketing Tool for Teams and Agencies",
     "Discount": "$1/month",
-    "Does it drive you into a paid account": "Yes, but only $1/month",
+    "Does it drive you into a paid account": "Yes, after first 2 months.",
     "Requirement": "New customers only",
     "Favicon": "",
     "How to apply (text)": "Sign Up",
-    "How to apply (URL or email)": "https://app.socialpilot.co/offer/register?hsCtaTracking=46f5adea-9c77-463b-b197-20cdcf27003f%7C5712a252-59c3-4a40-ab7c-0a621e06b828",
-    "More info URL": "https://www.socialpilot.co/we-want-to-help"
+    "How to apply (URL or email)": "https://www.socialpilot.co/we-want-to-help?utm_source=saasforcovid.com&utm_medium=Direct&utm_campaign=%241_plan",
+    "More info URL": "https://www.socialpilot.co/we-want-to-help?utm_source=saasforcovid.com&utm_medium=Direct&utm_campaign=%241_plan"
   }
 ]
