@@ -732,7 +732,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://devscore.com",
-    "Description": "",
+    "Description": "DevScore is a Low Code Automation Service for software development teams to automate manual tasks, data synchronizations and reporting of Scrum, CI/CD and Operations.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -1548,7 +1548,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "100% free for COVID-related data projects",
     "Requirement": "100% free for COVID-related data projects",
-    "Favicon": "",
+    "Favicon": "https://databand.ai/wp-content/uploads/2019/11/Databand-Icon-150x150.png",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://databand.ai/request-demo/",
     "More info URL": ""
@@ -1828,7 +1828,7 @@ export const services = [
     "Discount": "100% discount for 3 months",
     "Does it drive you into a paid account": "Yes. Email support@coda.io for full details.",
     "Requirement": "Available to new and existing users for COVID-19 related purposes (see description)",
-    "Favicon": "https://cdn.coda.io/icons/png/color/coda-32.png",
+    "Favicon": "https://cdn.coda.io/icons/png/color/coda-apple-120.png",
     "How to apply (text)": "Email support@coda.io",
     "How to apply (URL or email)": "support@coda.io",
     "More info URL": ""
