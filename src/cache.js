@@ -3554,5 +3554,19 @@ export const services = [
     "How to apply (text)": "Fill out form",
     "How to apply (URL or email)": "https://www.lumavate.com/offers/",
     "More info URL": "https://www.lumavate.com/offers/"
+  },
+  {
+    "Name": "Gmelius",
+    "Approved": "",
+    "Category": "Remote Work",
+    "URL": "https://gmelius.com",
+    "Description": "Gmelius is the first collaboration platform that integrates with your tools and connects your teams. No more data migration, Bcc, forward, endless copy-pasting.",
+    "Discount": "3 months of Gmelius Plus for Free",
+    "Does it drive you into a paid account": "Yes, after first 3 months",
+    "Requirement": "Any non-political humanitarian group that is working on COVID-19 relief efforts.",
+    "Favicon": "",
+    "How to apply (text)": "Sign up",
+    "How to apply (URL or email)": "contact success@gmelius.com",
+    "More info URL": "https://community.gmelius.com/t/working-on-covid-19-relief-efforts-use-gmelius-for-free"
   }
 ]
