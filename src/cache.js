@@ -1548,7 +1548,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "100% free for COVID-related data projects",
     "Requirement": "100% free for COVID-related data projects",
-    "Favicon": "https://databand.ai/wp-content/uploads/2019/11/Databand-Icon-150x150.png",
+    "Favicon": "",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://databand.ai/request-demo/",
     "More info URL": ""
@@ -3568,5 +3568,19 @@ export const services = [
     "How to apply (text)": "Sign up",
     "How to apply (URL or email)": "contact success@gmelius.com",
     "More info URL": "https://community.gmelius.com/t/working-on-covid-19-relief-efforts-use-gmelius-for-free"
+  },
+  {
+    "Name": "Appify",
+    "Approved": "",
+    "Category": "Restaurant Online Ordering",
+    "URL": "https://www.wurk.com.au/appify",
+    "Description": "Online Ordering Software built for local restaurants and takeaways that dont want to pay high commissions.",
+    "Discount": "100% free for 3 months",
+    "Does it drive you into a paid account": "Yes, after first 3 months",
+    "Requirement": "New Customers Only",
+    "Favicon": "",
+    "How to apply (text)": "Signup",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
