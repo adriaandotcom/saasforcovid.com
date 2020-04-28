@@ -1212,7 +1212,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related for educational institutions and teachers",
-    "Favicon": "https://www.mindmeister.com/mm_favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Submit a request via a form",
     "How to apply (URL or email)": "https://docs.google.com/forms/d/e/1FAIpQLSeDB4wwXfF50axq-f--NRQUhwgjUgweMPKlSRQI9ul9rJ8gVA/viewform",
     "More info URL": "https://www.meisterlabs.com/meister-for-educators/"
@@ -1268,7 +1268,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Business/brand has an email newsletter",
-    "Favicon": "",
+    "Favicon": "https://letterwell.co/wp-content/uploads/2019/10/cropped-7F91324F-2C7C-45C5-9FF4-1FEAE78967E8-180x180.jpeg",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://letterwell.co",
     "More info URL": "https://letterwell.co/about"
@@ -3604,8 +3604,8 @@ export const services = [
     "URL": "https://www.netlify.com/",
     "Description": "CDN, Continuous deployment, 1-click HTTPS, and more for static websites.",
     "Discount": "100% Free Pro Plan for 6 months",
-    "Does it drive you into a paid account": "Yes, after 6 months",
-    "Requirement": "Free services to those who are creating sites, apps, and tools that help people understand this virus",
+    "Does it drive you into a paid account": "Maybe, reverts to free plan after 6 months",
+    "Requirement": "Free services for those who are creating sites, apps, and tools that help people understand this virus",
     "Favicon": "",
     "How to apply (text)": "Fill out the COVID-19 application form",
     "How to apply (URL or email)": "https://covid19-support.netlify.com/",
