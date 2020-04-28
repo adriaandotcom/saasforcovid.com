@@ -3546,7 +3546,7 @@ export const services = [
     "Approved": "",
     "Category": "Mobile App",
     "URL": "https://www.lumavate.com/",
-    "Description": "Lumavate is a leading low-code mobile app platform for marketers. Lumavate enables marketers to quickly build and publish mobile apps with no code required. All mobile apps built in Lumavate are delivered as progressive web apps (PWAs).",
+    "Description": "",
     "Discount": "100% for 90 days",
     "Does it drive you into a paid account": "No; Companies can choose to purchase the platform after 90 days if desired or stop using the platform at the end of 90 days.",
     "Requirement": "New customers only; Must have valid company email address",
