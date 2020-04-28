@@ -1212,7 +1212,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related for educational institutions and teachers",
-    "Favicon": "",
+    "Favicon": "https://www.mindmeister.com/mm_favicon.ico",
     "How to apply (text)": "Submit a request via a form",
     "How to apply (URL or email)": "https://docs.google.com/forms/d/e/1FAIpQLSeDB4wwXfF50axq-f--NRQUhwgjUgweMPKlSRQI9ul9rJ8gVA/viewform",
     "More info URL": "https://www.meisterlabs.com/meister-for-educators/"
@@ -3582,5 +3582,19 @@ export const services = [
     "How to apply (text)": "Signup",
     "How to apply (URL or email)": "https://www.wurk.com.au/hubspot-referral",
     "More info URL": "https://www.wurk.com.au/appify"
+  },
+  {
+    "Name": "Pulno",
+    "Approved": "",
+    "Category": "Website Tools",
+    "URL": "https://www.pulno.com",
+    "Description": "SEO Audit tool with backlink monitoring, changes monitoring and thin content detection",
+    "Discount": "100% free during pandemic",
+    "Does it drive you into a paid account": "no",
+    "Requirement": "none",
+    "Favicon": "",
+    "How to apply (text)": "contact support@pulno.com for a plan upgrade",
+    "How to apply (URL or email)": "support@pulno.com",
+    "More info URL": "https://www.pulno.com"
   }
 ]
