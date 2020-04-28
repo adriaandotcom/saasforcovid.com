@@ -3596,5 +3596,19 @@ export const services = [
     "How to apply (text)": "contact support@pulno.com for a plan upgrade",
     "How to apply (URL or email)": "support@pulno.com",
     "More info URL": "https://www.pulno.com"
+  },
+  {
+    "Name": "Netlify",
+    "Approved": "",
+    "Category": "Hosting",
+    "URL": "https://www.netlify.com/",
+    "Description": "CDN, Continuous deployment, 1-click HTTPS, and more for static websites.",
+    "Discount": "100% Free Pro Plan for 6 months",
+    "Does it drive you into a paid account": "Yes, after 6 months",
+    "Requirement": "Free services to those who are creating sites, apps, and tools that help people understand this virus",
+    "Favicon": "",
+    "How to apply (text)": "Fill out the COVID-19 application form",
+    "How to apply (URL or email)": "https://covid19-support.netlify.com/",
+    "More info URL": "https://www.netlify.com/blog/2020/03/22/coronavirus/covid-19-support/"
   }
 ]
