@@ -3637,7 +3637,7 @@ export const services = [
     "Favicon": "",
     "How to apply (text)": "Sign up",
     "How to apply (URL or email)": "https://www.foleon.com/get-started",
-    "More info URL": "https://www.foleon.com/"
+    "More info URL": "https://www.foleon.com/blog/how-the-new-normal-can-be-a-catalyst-for-upgrading-for-your-content-strategy"
   },
   {
     "Name": "VBOUT",
@@ -3650,7 +3650,7 @@ export const services = [
     "Requirement": "For any businesses impacted by COVID-19",
     "Favicon": "",
     "How to apply (text)": "Sign up",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (URL or email)": "https://lp.vbt.site/10726/marketing-support-for-businesses-affected-by-coronavirus/",
+    "More info URL": "https://lp.vbt.site/10726/marketing-support-for-businesses-affected-by-coronavirus/"
   }
 ]
