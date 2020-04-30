@@ -8,7 +8,7 @@ export const services = [
     "Discount": "$1,000",
     "Does it drive you into a paid account": "Maybe, but you can get pretty far with $1000.",
     "Requirement": "Expires one year after it is issued",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "Fill in their form on a special page",
     "How to apply (URL or email)": "https://www.digitalocean.com/community/pages/covid-19",
     "More info URL": ""
@@ -3633,10 +3633,24 @@ export const services = [
     "Description": "The content experience platform Foleon offers a Free COVID-19 communications template, 2 free users, and a discount on creative services",
     "Discount": "2 free users and 20% on creative services until the 1st of June",
     "Does it drive you into a paid account": "Yes",
-    "Requirement": "For customers of Foleon",
+    "Requirement": "For customers",
     "Favicon": "",
     "How to apply (text)": "Sign up",
     "How to apply (URL or email)": "https://www.foleon.com/get-started",
     "More info URL": "https://www.foleon.com/"
+  },
+  {
+    "Name": "VBOUT",
+    "Approved": "",
+    "Category": "Marketing Automation",
+    "URL": "www.vbout.com",
+    "Description": "VBOUT is an adaptive marketing automation stack for lean marketing teams.",
+    "Discount": "A free plan during 3 months.",
+    "Does it drive you into a paid account": "Yes, after 3 months.",
+    "Requirement": "For any businesses impacted by COVID-19",
+    "Favicon": "",
+    "How to apply (text)": "Sign up",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
