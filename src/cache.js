@@ -8,7 +8,7 @@ export const services = [
     "Discount": "$1,000",
     "Does it drive you into a paid account": "Maybe, but you can get pretty far with $1000.",
     "Requirement": "Expires one year after it is issued",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Fill in their form on a special page",
     "How to apply (URL or email)": "https://www.digitalocean.com/community/pages/covid-19",
     "More info URL": ""
@@ -46,7 +46,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://divjoy.com",
-    "Description": "",
+    "Description": "Divjoy helps you create the perfect codebase and UI for your next React project.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free usage.",
     "Requirement": "It's appreciated to add a link back to divjoy.com (not required). Free for Covid-19 projects.",
@@ -3624,5 +3624,19 @@ export const services = [
     "How to apply (text)": "Automatic",
     "How to apply (URL or email)": "",
     "More info URL": "https://www.taskade.com/new"
+  },
+  {
+    "Name": "Foleon",
+    "Approved": "",
+    "Category": "Content Marketing",
+    "URL": "https://www.foleon.com",
+    "Description": "The content experience platform Foleon offers a Free COVID-19 communications template, 2 free users, and a discount on creative services",
+    "Discount": "2 free users and 20% on creative services until the 1st of June",
+    "Does it drive you into a paid account": "Yes",
+    "Requirement": "For customers of Foleon",
+    "Favicon": "",
+    "How to apply (text)": "Sign up",
+    "How to apply (URL or email)": "https://www.foleon.com/get-started",
+    "More info URL": "https://www.foleon.com/"
   }
 ]
