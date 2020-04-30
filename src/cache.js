@@ -400,7 +400,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
-    "Favicon": "https://cdn.helpwise.io/assets/images/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & upgrade. Ping support for 20% off for 12 months.",
     "How to apply (URL or email)": "https://helpwise.io",
     "More info URL": ""
@@ -2248,7 +2248,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Must be a non-profit helping to in the Covid-19 effort",
-    "Favicon": "/touch-icon/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Just register and contact support via the live chat to get access to the dicount",
     "How to apply (URL or email)": "https://superpayit.com/",
     "More info URL": ""
