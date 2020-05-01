@@ -1548,7 +1548,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "100% free for COVID-related data projects",
     "Requirement": "100% free for COVID-related data projects",
-    "Favicon": "https://databand.ai/wp-content/uploads/2019/11/Databand-Icon-150x150.png",
+    "Favicon": "",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://databand.ai/request-demo/",
     "More info URL": ""
@@ -3492,7 +3492,7 @@ export const services = [
     "URL": "https://www.trustedsite.com/",
     "Description": "TrustedSite certifications help to convert customers at every stage of the sales funnel. Each of our trustmarks are tailored to increase a specific type of conversion, from lead generation to ecommerce sales.",
     "Discount": "Free through the end of 2020.",
-    "Does it drive you into a paid account": "Yes, after trial expires.",
+    "Does it drive you into a paid account": "No, subscription will be canceled 12/31/2020.",
     "Requirement": "Nonprofit providing COVID-19 relief.",
     "Favicon": "",
     "How to apply (text)": "Fill out our form",
