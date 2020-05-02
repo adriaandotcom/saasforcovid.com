@@ -778,7 +778,7 @@ export const services = [
     "Discount": "Free for 3 months for SMBs",
     "Does it drive you into a paid account": "No, you are welcome to sign up if you end up loving it, though.",
     "Requirement": "Having less than 20 agents.",
-    "Favicon": "/img/graphics/favicon20150812.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up for a demo, then tell the rep you want the 3 months free plan.",
     "How to apply (URL or email)": "https://www.queuemetrics-live.com/landing/covid19.jsp",
     "More info URL": ""
@@ -3652,5 +3652,19 @@ export const services = [
     "How to apply (text)": "Sign up",
     "How to apply (URL or email)": "https://lp.vbt.site/10726/marketing-support-for-businesses-affected-by-coronavirus/",
     "More info URL": "https://lp.vbt.site/10726/marketing-support-for-businesses-affected-by-coronavirus/"
+  },
+  {
+    "Name": "Techsign DOC",
+    "Approved": "",
+    "Category": "Contract Management",
+    "URL": "https://www.techsigndoc.com/en/",
+    "Description": "Techsign DOC is a document signing platform for businesses of all sizes. The Agreement Cloud provides verifiable and legally binding digital signing options and a comprehensive tool set for document management proposing the values listed below:",
+    "Discount": "100% free during pandemic",
+    "Does it drive you into a paid account": "No; Companies can choose to purchase the platform after 90 days if desired or stop using the platform at the end of 90 days.",
+    "Requirement": "New customers only",
+    "Favicon": "",
+    "How to apply (text)": "Register regularly",
+    "How to apply (URL or email)": "https://www.techsigndoc.com/register.html",
+    "More info URL": "https://www.techsigndoc.com/en/blog/a-quick-look-at-electronic-signatures-in-covid-19-times"
   }
 ]
