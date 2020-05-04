@@ -2304,7 +2304,7 @@ export const services = [
     "Discount": "60%",
     "Does it drive you into a paid account": "Maybe, after September",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "/assets/icon/app-icon-16x16.f3ed4acd5a864340b26b0b23b922b64a7439724e.png",
+    "Favicon": "/assets/icon/app-icon-16x16.b38f381fa294293dc534bb555ac2f0d3784ada0b.png",
     "How to apply (text)": "Just sign up or open chat on pricing page.",
     "How to apply (URL or email)": "https://ideanote.it",
     "More info URL": "https://ideanote.io"
