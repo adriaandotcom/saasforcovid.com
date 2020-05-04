@@ -3680,5 +3680,19 @@ export const services = [
     "How to apply (text)": "Online form",
     "How to apply (URL or email)": "https://www.cidewalk.com/freeads.html",
     "More info URL": "https://www.cidewalk.com/"
+  },
+  {
+    "Name": "Eunimart",
+    "Approved": "",
+    "Category": "eCommerce Software",
+    "URL": "www.vdezi.com",
+    "Description": "Eunimart is a SaaS based crossborder ecommerce company helping businesses scale internationally using its AI based platform Vdezi",
+    "Discount": "100% Free. Restrictions removed on All Paid Premium Features",
+    "Does it drive you into a paid account": "Maybe, after 2 months",
+    "Requirement": "New customers",
+    "Favicon": "",
+    "How to apply (text)": "Sign up",
+    "How to apply (URL or email)": "go.vdezi.com/signup",
+    "More info URL": "www.vdezi.com"
   }
 ]
