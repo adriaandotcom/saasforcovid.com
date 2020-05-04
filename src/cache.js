@@ -92,7 +92,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "resources/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Email: erwin@sparklybot.com",
     "How to apply (URL or email)": "erwin@sparklybot.com",
     "More info URL": "https://sparklybot.com"
@@ -1646,7 +1646,7 @@ export const services = [
     "Discount": "Free for 1st year",
     "Does it drive you into a paid account": "No, first year free and no credit card required",
     "Requirement": "New K-12 customers",
-    "Favicon": "",
+    "Favicon": "/favicon-f99f13ec.ico",
     "How to apply (text)": "Complete request trial form",
     "How to apply (URL or email)": "https://www.qualified.io/signup",
     "More info URL": "https://www.qualified.io/blog/posts/qualified-and-codewars-are-free-for-k-12-teachers-and-students"
@@ -3666,5 +3666,19 @@ export const services = [
     "How to apply (text)": "Register regularly",
     "How to apply (URL or email)": "https://www.techsigndoc.com/register.html",
     "More info URL": "https://www.techsigndoc.com/en/blog/a-quick-look-at-electronic-signatures-in-covid-19-times"
+  },
+  {
+    "Name": "Cidewalk",
+    "Approved": "",
+    "Category": "Ads",
+    "URL": "https://www.cidewalk.com/freeads.html",
+    "Description": "FREE Gift Card Promotion (value $100. Now free) Consumers across the nation are showing support for their favorite local businesses by purchasing online gift certificates. CIdewalk is giving businesses a chance to promote their gift card",
+    "Discount": "100% free. 1 month of free ads.",
+    "Does it drive you into a paid account": "Yes",
+    "Requirement": "New customers.",
+    "Favicon": "",
+    "How to apply (text)": "Online form",
+    "How to apply (URL or email)": "https://www.cidewalk.com/freeads.html",
+    "More info URL": "https://www.cidewalk.com/"
   }
 ]
