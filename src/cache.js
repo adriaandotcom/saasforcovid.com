@@ -764,7 +764,7 @@ export const services = [
     "Discount": "Free during lockdown",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://assets.calendly.com/assets/touch-icon-iphone-1505f4afb6438bd528bbce368a44a76d03bd0882a99fee0dd7e580619a51d90b.png",
     "How to apply (text)": "Just create a free account and you have immediate access.",
     "How to apply (URL or email)": "https://calendly.com/",
     "More info URL": "https://blog.calendly.com/meeting-integration-update/"
@@ -942,7 +942,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Productivity Tools",
     "URL": "https://shiftx.com",
-    "Description": "",
+    "Description": "Collaborate on business processes with a visual language that everyone understands.",
     "Discount": "Free 3 month 5 person business plan",
     "Does it drive you into a paid account": "Maybe, after 3 months or more than 5 persons",
     "Requirement": "Organizations with 50+ employees/volunteers and 30 minute on-boarding required",
@@ -3702,11 +3702,11 @@ export const services = [
     "URL": "https://iterative.ly/",
     "Description": "Collaborate with your entire team to ship high-quality analytics faster and be confident in the results.",
     "Discount": "Free plan with 25 users.",
-    "Does it drive you into a paid account": "No.",
-    "Requirement": "",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "For anyone who's impacted by Covid19, we want to help them with accurate analytics & enable them to make better business decisions.",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
+    "How to apply (text)": "Sign-up",
+    "How to apply (URL or email)": "https://app.iterative.ly/signup",
     "More info URL": ""
   }
 ]
