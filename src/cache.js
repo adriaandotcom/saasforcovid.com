@@ -3694,5 +3694,19 @@ export const services = [
     "How to apply (text)": "Sign up",
     "How to apply (URL or email)": "go.vdezi.com/signup",
     "More info URL": "www.vdezi.com"
+  },
+  {
+    "Name": "Iteratively",
+    "Approved": "",
+    "Category": "Analytics",
+    "URL": "https://iterative.ly/",
+    "Description": "Collaborate with your entire team to ship high-quality analytics faster and be confident in the results.",
+    "Discount": "Free plan with 25 users.",
+    "Does it drive you into a paid account": "No.",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
