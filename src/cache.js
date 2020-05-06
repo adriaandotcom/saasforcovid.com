@@ -64,7 +64,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://leverice.com/wp-content/uploads/2020/03/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Click on \"Get Started\" or \"Try Now\" button on homepage.",
     "How to apply (URL or email)": "https://leverice.com",
     "More info URL": ""
@@ -3707,6 +3707,20 @@ export const services = [
     "Favicon": "",
     "How to apply (text)": "Sign-up",
     "How to apply (URL or email)": "https://app.iterative.ly/signup",
+    "More info URL": ""
+  },
+  {
+    "Name": "Netcore Smartech",
+    "Approved": "",
+    "Category": "eCommerce Software",
+    "URL": "https://netcoresmartech.com/covid19",
+    "Description": "6 Months Free for Product Recommendations and Personalization like the big guys. The AI based platform let you throw dynamic web and app experiences",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
     "More info URL": ""
   }
 ]
