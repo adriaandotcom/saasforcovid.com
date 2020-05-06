@@ -396,7 +396,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://helpwise.io",
-    "Description": "",
+    "Description": "Helpwise is an easy to use shared inbox and email collaboration software for teams to manage team email accounts like help@, sales@, etc. Get Shared Inbox for your team now!",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
@@ -3714,13 +3714,13 @@ export const services = [
     "Approved": "",
     "Category": "eCommerce Software",
     "URL": "https://netcoresmartech.com/covid19",
-    "Description": "6 Months Free for Product Recommendations and Personalization like the big guys. The AI based platform let you throw dynamic web and app experiences",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Description": "6 Months Free for Product Recommendations and Personalization like the big guys. The AI-based platform lets you deliver dynamic web and app experiences based on real-time and past behaviour tracking of every unique user.",
+    "Discount": "100% free till Sept '20.",
+    "Does it drive you into a paid account": "Maybe, after 5 months.",
+    "Requirement": "Any business that cas use AI based recommendations to boost conversions and deliver personalized experiences.",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Online form",
+    "How to apply (URL or email)": "https://netcoresmartech.com/covid19",
+    "More info URL": "https://netcoresmartech.com/features/dynamic-website-personalization"
   }
 ]
