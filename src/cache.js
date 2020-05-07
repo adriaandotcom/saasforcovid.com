@@ -3722,5 +3722,19 @@ export const services = [
     "How to apply (text)": "Online form",
     "How to apply (URL or email)": "https://netcoresmartech.com/covid19?source=saasforcovid",
     "More info URL": "https://netcoresmartech.com/features/dynamic-website-personalization?source=saasforcovid"
+  },
+  {
+    "Name": "Super Monitoring",
+    "Approved": "",
+    "Category": "Monitoring",
+    "URL": "https://www.supermonitoring.com",
+    "Description": "Monitoring commercial websites for their uptime (availability), content, loading speed, functions, domain & SSL certificate expiration and more. Immediate email & SMS alerts, cyclic & custom reports. Integrates directly with WordPress, Drupal, Joomla, Magento and PrestaShop. API available.",
+    "Discount": "Extra\" subscription plan free for 3 months for SMBs affected by the pandemic.",
+    "Does it drive you into a paid account": "Yes, after 3 months. But we don't charge automatically (no credit card required for the free offer).",
+    "Requirement": "Small & Medium Businesses, affected by the COVID-19 pandemic.",
+    "Favicon": "",
+    "How to apply (text)": "Sign up & contact us via online form",
+    "How to apply (URL or email)": "https://www.supermonitoring.com/p/covid-19",
+    "More info URL": "https://www.supermonitoring.com/p/covid-19"
   }
 ]
