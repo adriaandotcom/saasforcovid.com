@@ -732,7 +732,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://devscore.com",
-    "Description": "",
+    "Description": "DevScore is a Low Code Automation Service for software development teams to automate manual tasks, data synchronizations and reporting of Scrum, CI/CD and Operations.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -1562,7 +1562,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "/favicon-32x32.png?v=v2403",
+    "Favicon": "/pwa/apple-icon-180.png?vv2403",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
@@ -3750,5 +3750,19 @@ export const services = [
     "How to apply (text)": "Checkout with discount code STAYHOME",
     "How to apply (URL or email)": "https://howuku.com",
     "More info URL": "https://howuku.com"
+  },
+  {
+    "Name": "Inleven",
+    "Approved": "",
+    "Category": "URL Shortener",
+    "URL": "https://inleven.com/covid19/",
+    "Description": "A new and better way to shorten, track and share links with your team.",
+    "Discount": "60% discount to all plans",
+    "Does it drive you into a paid account": "Yes",
+    "Requirement": "Anyone",
+    "Favicon": "",
+    "How to apply (text)": "Just sign up and use the Code  COVID-HELP",
+    "How to apply (URL or email)": "https://inleven.com/covid19/",
+    "More info URL": "https://inleven.com/"
   }
 ]
