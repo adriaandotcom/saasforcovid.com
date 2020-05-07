@@ -8,7 +8,7 @@ export const services = [
     "Discount": "$1,000",
     "Does it drive you into a paid account": "Maybe, but you can get pretty far with $1000.",
     "Requirement": "Expires one year after it is issued",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "Fill in their form on a special page",
     "How to apply (URL or email)": "https://www.digitalocean.com/community/pages/covid-19",
     "More info URL": ""
@@ -1404,7 +1404,7 @@ export const services = [
     "Approved": "",
     "Category": "Lead generation",
     "URL": "https://customfit.ai",
-    "Description": "",
+    "Description": "Convert visitors to quality leads by personalizing website for each visitor",
     "Discount": "15%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
@@ -3740,15 +3740,15 @@ export const services = [
   {
     "Name": "Howuku Analytics",
     "Approved": "",
-    "Category": "",
+    "Category": "Analytics",
     "URL": "https://howuku.con",
-    "Description": "",
-    "Discount": "50% off using discount code STAYHOME",
+    "Description": "All-in-one feedback and analytics platform to help you truly understand your website visitors.",
+    "Discount": "50% discount to all plans",
     "Does it drive you into a paid account": "Yes",
-    "Requirement": "",
+    "Requirement": "New customers",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "Checkout with discount code STAYHOME",
+    "How to apply (URL or email)": "https://howuku.com",
+    "More info URL": "https://howuku.com"
   }
 ]
