@@ -3764,5 +3764,19 @@ export const services = [
     "How to apply (text)": "Just sign up and use the Code  COVID-HELP",
     "How to apply (URL or email)": "https://inleven.com/covid19/",
     "More info URL": "https://inleven.com/"
+  },
+  {
+    "Name": "Inkybay ‑ Product Customizer",
+    "Approved": "",
+    "Category": "Sales Tools",
+    "URL": "",
+    "Description": "",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
