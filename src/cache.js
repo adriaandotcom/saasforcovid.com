@@ -78,7 +78,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, but this free plan has no custom domain.",
     "Requirement": "Install add-on",
-    "Favicon": "../img/faviconnew.png",
+    "Favicon": "",
     "How to apply (text)": "Use the button below",
     "How to apply (URL or email)": "https://sheet2site.com/coronavirus",
     "More info URL": ""
@@ -284,7 +284,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://burnermail.io",
-    "Description": "",
+    "Description": "One-click burner email addresses that you can use when signing up on websites to protect your identity and prevent your personal email address from being sold or spammed.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe, the discount is only applied to the first charge but it's possible to select 3 years. It will renew with normal pricing.",
     "Requirement": "",
@@ -400,7 +400,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
-    "Favicon": "//cdn.helpwise.io/assets/images/favicon.png",
+    "Favicon": "https://cdn.helpwise.io/assets/images/favicon.png",
     "How to apply (text)": "Signup & upgrade. Ping support for 20% off for 12 months.",
     "How to apply (URL or email)": "https://helpwise.io",
     "More info URL": ""
@@ -732,7 +732,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://devscore.com",
-    "Description": "",
+    "Description": "DevScore is a Low Code Automation Service for software development teams to automate manual tasks, data synchronizations and reporting of Scrum, CI/CD and Operations.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -3778,5 +3778,19 @@ export const services = [
     "How to apply (text)": "Just install the app in your Shopify store",
     "How to apply (URL or email)": "https://apps.shopify.com/productsdesigner",
     "More info URL": "https://www.productsdesigner.com/blog/inkybay-offers-extended-trial-during-covid-19/"
+  },
+  {
+    "Name": "Quick Base",
+    "Approved": "",
+    "Category": "Low-Code/No-Code",
+    "URL": "https://www.quickbase.com/crisis-response",
+    "Description": "A popular no-code/low-code platform to build custom applications including dashboards, project managent, field services management, HR and operations mangement",
+    "Discount": "Free Access to Platform; Free Certification",
+    "Does it drive you into a paid account": "Maybe, after 6 months.",
+    "Requirement": "For healthcare providers, governments, educaional instituions, no profits",
+    "Favicon": "",
+    "How to apply (text)": "Signup",
+    "How to apply (URL or email)": "https://www.quickbase.com/crisis-response#s9",
+    "More info URL": "https://www.quickbase.com/about-us/media/quick-base-offers-free-solutions-and-expertise-to-help-organizations-deal-with-covid-19-disruption"
   }
 ]
