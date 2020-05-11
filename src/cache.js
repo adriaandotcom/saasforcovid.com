@@ -3792,5 +3792,19 @@ export const services = [
     "How to apply (text)": "Signup",
     "How to apply (URL or email)": "https://www.quickbase.com/crisis-response#s9",
     "More info URL": "https://www.quickbase.com/about-us/media/quick-base-offers-free-solutions-and-expertise-to-help-organizations-deal-with-covid-19-disruption"
+  },
+  {
+    "Name": "Oaky",
+    "Approved": "",
+    "Category": "Sales Tools",
+    "URL": "https://www.oaky.com/free-oaky-corona",
+    "Description": "The #1 Upselling Tool For Hotels. Integrates with the most popular PMS:es.",
+    "Discount": "100% Free for 90 days.",
+    "Does it drive you into a paid account": "No, no automatic extension.",
+    "Requirement": "Anyone",
+    "Favicon": "",
+    "How to apply (text)": "Sign up via Link",
+    "How to apply (URL or email)": "https://www.oaky.com/free-oaky-corona",
+    "More info URL": "https://www.oaky.com/free-oaky-corona"
   }
 ]
