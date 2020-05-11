@@ -3806,5 +3806,19 @@ export const services = [
     "How to apply (text)": "Sign up via Link",
     "How to apply (URL or email)": "https://www.oaky.com/free-oaky-corona",
     "More info URL": "https://www.oaky.com/free-oaky-corona"
+  },
+  {
+    "Name": "ParrotPolls.com",
+    "Approved": "",
+    "Category": "Remote Work",
+    "URL": "https://www.parrotpolls.com/app/signup",
+    "Description": "Missing the water-cooler while working remotely? Find out how your team is doing while working from home, and collect anonymous feedback.",
+    "Discount": "12 month free. Ends automatically.",
+    "Does it drive you into a paid account": "No, ends after 12 months.",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Just sign up via the link",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
