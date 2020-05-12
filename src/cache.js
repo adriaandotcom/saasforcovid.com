@@ -64,7 +64,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://leverice.com/wp-content/uploads/2020/03/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Click on \"Get Started\" or \"Try Now\" button on homepage.",
     "How to apply (URL or email)": "https://leverice.com",
     "More info URL": ""
@@ -1562,7 +1562,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "/pwa/apple-icon-180.png?vv2431",
+    "Favicon": "/pwa/apple-icon-180.png?vv2432",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
