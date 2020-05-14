@@ -3820,5 +3820,19 @@ export const services = [
     "How to apply (text)": "Just sign up via the link",
     "How to apply (URL or email)": "https://www.parrotpolls.com/app/signup",
     "More info URL": "https://www.parrotpolls.com"
+  },
+  {
+    "Name": "Nifty PM",
+    "Approved": "",
+    "Category": "Project Management",
+    "URL": "https://niftypm.com",
+    "Description": "Nifty is your collaboration hub that makes tasks, timelines, and workloads clear to your team and clients.",
+    "Discount": "Nifty is offering 50% off of all pricing plans for four months",
+    "Does it drive you into a paid account": "No.",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "SignUp",
+    "How to apply (URL or email)": "https://niftypm.com",
+    "More info URL": ""
   }
 ]
