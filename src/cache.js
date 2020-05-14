@@ -3831,7 +3831,7 @@ export const services = [
     "Does it drive you into a paid account": "No.",
     "Requirement": "None",
     "Favicon": "",
-    "How to apply (text)": "SignUp",
+    "How to apply (text)": "Sign up and use code: REMOTE50",
     "How to apply (URL or email)": "https://niftypm.com",
     "More info URL": ""
   }
