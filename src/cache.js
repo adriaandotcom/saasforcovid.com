@@ -3834,5 +3834,19 @@ export const services = [
     "How to apply (text)": "Sign up and use code: REMOTE50",
     "How to apply (URL or email)": "https://niftypm.com",
     "More info URL": ""
+  },
+  {
+    "Name": "Breezy HR",
+    "Approved": "",
+    "Category": "Recruitment",
+    "URL": "https://breezy.hr",
+    "Description": "End-to-end recruiting software to help you attract & hire great employees with less effort",
+    "Discount": "Free Video Interviewing and video assessments on all plans",
+    "Does it drive you into a paid account": "No",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Sign up",
+    "How to apply (URL or email)": "https://app.breezy.hr/signup",
+    "More info URL": "https://breezy.hr/blog/covid-19-hiring-remote-video-interviews-assessments"
   }
 ]
