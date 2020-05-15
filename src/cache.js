@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://clinq.com/wp-content/uploads/2018/11/cropped-36690336_225704894712047_3459899901310140416_n-1-32x32.png",
+    "Favicon": "",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
