@@ -32,7 +32,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://airtable.com",
-    "Description": "",
+    "Description": "Airtable works like a spreadsheet but gives you the power of a database to organize anything. Sign up for free.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free trial",
     "Requirement": "Airtable is making Airtable Pro available for free to any non-political humanitarian group that is working on COVID-19 relief efforts.",
@@ -64,7 +64,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://leverice.com/wp-content/uploads/2020/03/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Click on \"Get Started\" or \"Try Now\" button on homepage.",
     "How to apply (URL or email)": "https://leverice.com",
     "More info URL": ""
@@ -106,7 +106,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you get an extended free trial (6 months), no credit card needed.",
     "Requirement": "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
-    "Favicon": "https://mindwave.app/assets/favicons/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Email: support@mindwave.app",
     "How to apply (URL or email)": "support@mindwave.app",
     "More info URL": "https://mindwave.app/stories/covid-19-and-my-tiny-contribution-LVjv0V"
@@ -204,7 +204,7 @@ export const services = [
     "Discount": "70%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "https://kedaiweb.co/v4/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & all addon up to 70% discount",
     "How to apply (URL or email)": "https://kedaiweb.co",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -736,7 +736,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./assets/img/brand/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup and email support@devscore.com",
     "How to apply (URL or email)": "support@devscore.com",
     "More info URL": ""
@@ -862,7 +862,7 @@ export const services = [
     "Discount": "Free for 3 months (personal), unlimited free for nonprofits",
     "Does it drive you into a paid account": "Yes, after 3 months",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://d1eub78dsdxite.cloudfront.net/assets/apple-touch-icon-6dc31f0a5752aaf0b6ae01a26b4976e5f1fccf3cd8ea74602c3e306a9672cd59.png",
     "How to apply (text)": "Signup and email support@tefter.io or use the covid-19 code (for personal accounts only)",
     "How to apply (URL or email)": "https://tefter.io/users/sign_up?promocode=covid-19",
     "More info URL": ""
@@ -946,7 +946,7 @@ export const services = [
     "Discount": "Free 3 month 5 person business plan",
     "Does it drive you into a paid account": "Maybe, after 3 months or more than 5 persons",
     "Requirement": "Organizations with 50+ employees/volunteers and 30 minute on-boarding required",
-    "Favicon": "//shiftx.imgix.net/images/public/favicon.pdf?fm=png&w=57&h=57",
+    "Favicon": "",
     "How to apply (text)": "Chat bubble on https://shiftx.com or support@shiftx.com",
     "How to apply (URL or email)": "support@shiftx.com",
     "More info URL": ""
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/favicon-32x32.png",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
@@ -2108,7 +2108,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "https://hellonext.co/favicons/favicon-152-precomposed.png",
+    "Favicon": "",
     "How to apply (text)": "Just ping us on chat on the website.",
     "How to apply (URL or email)": "https://hellonext.co",
     "More info URL": "https://hellonext.co"
@@ -2220,7 +2220,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "assets/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "When you upgrade to pro add promo code \"BeSafe",
     "How to apply (URL or email)": "https://widebot.net",
     "More info URL": ""
