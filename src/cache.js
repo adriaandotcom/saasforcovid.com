@@ -2220,7 +2220,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "assets/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "When you upgrade to pro add promo code \"BeSafe",
     "How to apply (URL or email)": "https://widebot.net",
     "More info URL": ""
@@ -3848,5 +3848,19 @@ export const services = [
     "How to apply (text)": "Sign up",
     "How to apply (URL or email)": "https://app.breezy.hr/signup",
     "More info URL": "https://breezy.hr/blog/covid-19-hiring-remote-video-interviews-assessments"
+  },
+  {
+    "Name": "Retro Rabbit",
+    "Approved": "",
+    "Category": "Remote Work",
+    "URL": "https://retrorabbit.io",
+    "Description": "Slack-First Retrospective Tool for teams working remotely. Add retro notes, action items, and run retrospective meetings.",
+    "Discount": "25%",
+    "Does it drive you into a paid account": "After 2 free retros, for teams larger than 5.",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Email support@retrorabbit.io",
+    "How to apply (URL or email)": "support@retrorabbit.io",
+    "More info URL": ""
   }
 ]
