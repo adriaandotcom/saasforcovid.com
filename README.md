@@ -1,4 +1,8 @@
+# saasforcovid.com	
 
+Fight COVID-19 together with discounts for these SaaS products.	
+
+Use the provided discounts of the following SaaS products and build amazing tools to fight COVID-19. 
 It's linked to this [public Google Sheets](https://docs.google.com/spreadsheets/d/1QdMr6TYlPLgc8nip165CyuDrr5WPcxnzqxJBJK_EfJ0/edit#gid=0) file.
 
 ## Project setup
