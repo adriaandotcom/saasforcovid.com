@@ -284,7 +284,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://burnermail.io",
-    "Description": "",
+    "Description": "One-click burner email addresses that you can use when signing up on websites to protect your identity and prevent your personal email address from being sold or spammed.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe, the discount is only applied to the first charge but it's possible to select 3 years. It will renew with normal pricing.",
     "Requirement": "",
@@ -932,7 +932,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months can cancel subscription or upgrade",
     "Requirement": "Non-profit working on Covid-19 related response",
-    "Favicon": "",
+    "Favicon": "https://uploads-ssl.webflow.com/59a7997fdd2379000163012d/59ab48202231fd0001f39587_Artboard.png",
     "How to apply (text)": "Sign up and contact support@cozycal.com for coupon code",
     "How to apply (URL or email)": "support@cozycal.com",
     "More info URL": "https://www.cozycal.com/"
@@ -3862,5 +3862,19 @@ export const services = [
     "How to apply (text)": "Email support@retrorabbit.io",
     "How to apply (URL or email)": "support@retrorabbit.io",
     "More info URL": ""
+  },
+  {
+    "Name": "Sam Weber",
+    "Approved": "",
+    "Category": "Brand Marketing",
+    "URL": "https://1brand.co",
+    "Description": "Custom brand guidelines built from your website in moments. Customized by you in minutes.",
+    "Discount": "20% off for the first 2 years.",
+    "Does it drive you into a paid account": "Freemium model with advanced customization unlocked through a subscription.",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Sign up and use the code: 2YearsTogether",
+    "How to apply (URL or email)": "https://1brand.co",
+    "More info URL": "https://1brand.co"
   }
 ]
