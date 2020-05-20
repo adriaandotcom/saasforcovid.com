@@ -292,7 +292,7 @@
                     ? 'bg-custom-pink text-white'
                     : 'text-custom-pink bg-gray-300'
                 }`"
-                @click="toggle('CRM')"
+                @click="toggle('crm')"
                 >CRM</a
               >
             </li>
@@ -369,7 +369,7 @@
                     ? 'bg-custom-pink text-white'
                     : 'text-custom-pink bg-gray-300'
                 }`"
-                @click="toggle('eCommerce software')"
+                @click="toggle('ecommerce software')"
                 >eCommerce Software</a
               >
             </li>
@@ -792,8 +792,7 @@
               >
             </li>
           </ul>
-        </div>
-        
+        </div>      
 
         <div class="px-4 w-full my-2" v-if="error">
           <p class="border-2 border-red-400 rounded inline p-2 text-red-600">
@@ -1231,7 +1230,8 @@ export default {
               : ".";
           }
           
-                    if (categorychoice) {
+           if (categorychoice) {
+            // console.log(categorychoice);
             if (/^ads/i.test(categorychoice)) {
               service.selectedCategory = "ads";
             } else if (/^affiliate marketing/i.test(categorychoice)) {
@@ -1269,17 +1269,20 @@ export default {
             } else if (
               /^diagramming and collaboration tool/i.test(categorychoice)
             ) {
-              service.selectedCategory = "diagramming and collaboration tools";
+              service.selectedCategory = "diagramming and collaboration tool";
             } else if (/^domain names/i.test(categorychoice)) {
               service.selectedCategory = "domain names";
             } else if (/^ecommerce software/i.test(categorychoice)) {
               service.selectedCategory = "ecommerce software";
             } else if (/^edtech/i.test(categorychoice)) {
               service.selectedCategory = "edtech";
-            } else if (/^email/i.test(categorychoice)) {
-              service.selectedCategory = "email";
             } else if (/^email signature manager/i.test(categorychoice)) {
               service.selectedCategory = "email signature manager";
+              // console.log(service.selectedCategory);
+              //was having issues with this being properly alocated when "email" was above this, as this category was being allocated in that if instead. So, I've changed the order.
+            } else if (/^email/i.test(categorychoice)) {
+              service.selectedCategory = "email";
+              // console.log(service.selectedCategory);
             } else if (/^finance/i.test(categorychoice)) {
               service.selectedCategory = "finance";
             } else if (/^health records/i.test(categorychoice)) {
@@ -1296,8 +1299,8 @@ export default {
               service.selectedCategory = "internal communication";
             } else if (/^lead generation/i.test(categorychoice)) {
               service.selectedCategory = "lead generation";
-            } else if (/^live presentation/i.test(categorychoice)) {
-              service.selectedCategory = "live presentation";
+            } else if (/^live presentations/i.test(categorychoice)) {
+              service.selectedCategory = "live presentations";
             } else if (/^low-code\/no-code/i.test(categorychoice)) {
               service.selectedCategory = "low-code/no-code";
             } else if (/^management tools/i.test(categorychoice)) {
@@ -1306,8 +1309,8 @@ export default {
               service.selectedCategory = "marketing automation";
             } else if (/^marketing\/ livechat/i.test(categorychoice)) {
               service.selectedCategory = "marketing/ livechat";
-            } else if (/^maonitoring/i.test(categorychoice)) {
-              service.selectedCategory = "maonitoring";
+            } else if (/^monitoring/i.test(categorychoice)) {
+              service.selectedCategory = "monitoring";
             } else if (/^people management/i.test(categorychoice)) {
               service.selectedCategory = "people management";
             } else if (/^productivity tools/i.test(categorychoice)) {
@@ -1338,16 +1341,22 @@ export default {
               service.selectedCategory = "website builder";
             } else if (/^website tools/i.test(categorychoice)) {
               service.selectedCategory = "website tools";
+            } else if (/^writing tools/i.test(categorychoice)) {
+              service.selectedCategory = "writing tools";
             } else if (/^shipping software/i.test(categorychoice)) {
               service.selectedCategory = "shipping software";
             } else if (/^customer feedback/i.test(categorychoice)) {
               service.selectedCategory = "customer feedback";
             } else if (/^mobile app/i.test(categorychoice)) {
               service.selectedCategory = "mobile app";
+              // console.log(service.selectedCategory);
+              // this one did not render because description is missing
             } else if (/^restaurant online ordering/i.test(categorychoice)) {
               service.selectedCategory = "restaurant online ordering";
             } else if (/^url shortener/i.test(categorychoice)) {
               service.selectedCategory = "url shortener";
+            } else {
+              service.selectedCategory = "other";
             }
           }
          
