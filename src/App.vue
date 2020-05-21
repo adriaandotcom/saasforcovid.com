@@ -147,6 +147,652 @@
             </li>
           </ul>
         </div>
+        
+        <div
+          class="mx-auto my-0 mb-8 py-4 px-6 bg-white shadow border rounded flex items-center justify-center w-full"
+        >
+          <!-- <p class="mr-4"></p> -->
+          <ul class="flex flex-wrap justify-center">
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('ads')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('ads')"
+                >Ads</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('affiliate marketing')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('affiliate marketing')"
+                >Affiliate Marketing</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('analytics')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('analytics')"
+                >Analytics</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('app store optimisation')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('app store optimisation')"
+                >App Store Optimisation</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('assessments')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('assessments')"
+                >Assessments</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('authentication')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('authentication')"
+                >Authentication</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('backup')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('backup')"
+                >Backup</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('business intelligence')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('business intelligence')"
+                >Business Intelligence</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('cartography')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('cartography')"
+                >Cartography</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('cms')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('cms')"
+                >CMS</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('content marketing')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('content marketing')"
+                >Content Marketing</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('contract management')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('contract management')"
+                >Contract Management</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('CRM')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('crm')"
+                >CRM</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('cybersecurity')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('cybersecurity')"
+                >Cybersecurity</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('data collection')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('data collection')"
+                >Data Collection</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('delivery management')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('delivery management')"
+                >Delivery Management</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('developer tools')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('developer tools')"
+                >Developer Tools</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('diagramming and collaboration tool')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('diagramming and collaboration tool')"
+                >Diagramming and Collaboration Tool</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('domain names')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('domain names')"
+                >Domain Names</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('eCommerce software')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('ecommerce software')"
+                >eCommerce Software</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('edtech')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('edtech')"
+                >Edtech</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('email')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('email')"
+                >Email</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('email signature manager')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('email signature manager')"
+                >Email signature manager</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('finance')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('finance')"
+                >Finance</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('health records')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('health records')"
+                >Health Records</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('help desk software')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('help desk software')"
+                >Help Desk Software</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('hosting')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('hosting')"
+                >Hosting</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('hr')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('hr')"
+                >HR</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('incident management')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('incident management')"
+                >Incident Management</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('internal communication')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('internal communication')"
+                >Internal Communication</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('lead generation')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('lead generation')"
+                >Lead generation</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('live presentations')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('live presentations')"
+                >Live Presentations</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('low-code/no-code')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('low-code/no-code')"
+                >Low-Code/No-Code</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('management tools')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('management tools')"
+                >Management Tools</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('marketing automation')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('marketing automation')"
+                >Marketing Automation</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('marketing/ livechat')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('marketing/ livechat')"
+                >Marketing/ LiveChat</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('monitoring')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('monitoring')"
+                >Monitoring</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('people management')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('people management')"
+                >People Management</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('productivity tools')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('productivity tools')"
+                >Productivity Tools</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('project management')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('project management')"
+                >Project Management</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('recruitment')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('recruitment')"
+                >Recruitment</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('remote work')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('remote work')"
+                >Remote Work</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('reporting')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('reporting')"
+                >Reporting</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('sales tools')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('sales tools')"
+                >Sales Tools</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('slack app')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('slack app')"
+                >Slack App</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('software editor')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('software editor')"
+                >Software Editor</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('spreadsheets')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('spreadsheets')"
+                >Spreadsheets</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('video & music')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('video & music')"
+                >Video & Music</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('vpn')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('vpn')"
+                >VPN</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('web/graphic design')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('web/graphic design')"
+                >Web/Graphic Design</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('website builder')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('website builder')"
+                >Website Builder</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('website tools')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('website tools')"
+                >Website Tools</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('writing tools')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('writing tools')"
+                >Writing Tools</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('shipping software')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('shipping software')"
+                >Shipping Software</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('customer feedback')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('customer feedback')"
+                >Customer Feedback</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('mobile app')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('mobile app')"
+                >Mobile App</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('restaurant online ordering')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('restaurant online ordering')"
+                >Restaurant Online Ordering</a
+              >
+            </li>
+            <li class="mr-2 mb-3">
+              <a
+                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                  show.includes('url shortener')
+                    ? 'bg-custom-pink text-white'
+                    : 'text-custom-pink bg-gray-300'
+                }`"
+                @click="toggle('url shortener')"
+                >URL Shortener</a
+              >
+            </li>
+          </ul>
+        </div>      
 
         <div class="px-4 w-full my-2" v-if="error">
           <p class="border-2 border-red-400 rounded inline p-2 text-red-600">
@@ -505,10 +1151,8 @@
 <script>
 import { services } from "./cache";
 import { format } from "timeago.js";
-
 const BUILD_DATE = process.env.VUE_APP_BUILD_DATE;
 const COMMIT_HASH = process.env.VUE_APP_COMMIT_HASH;
-
 export default {
   name: "App",
   data() {
@@ -519,14 +1163,13 @@ export default {
       loading: true,
       buildDate: BUILD_DATE ? format(BUILD_DATE) : null,
       commitHash: COMMIT_HASH,
-      show: ["maybe", "no"],
+      show: ["maybe", "no", "ads"],
+      category: null,
     };
   },
-
   computed: {
     showServices() {
       if (!this.json) return [];
-
       const clean = this.json.map((service) => {
         return Object.keys(service).reduce((c, k) => {
           const key = this.cleanKey(k);
@@ -534,15 +1177,17 @@ export default {
           return c;
         }, {});
       });
-
       const showServices = clean
-        .filter(
-          ({ description, name, category }) => description && name && category
-        )
+        .filter(({ description, name, category }) => {
+          if (!description || !name || !category) return false;
+          if (this.category) return category === this.category;
+          return true;
+        })
         .map((service) => {
           const {
             does_it_drive_you_into_a_paid_account: paid,
             favicon,
+            category: categorychoice,
           } = service;
           if (favicon) {
             const url = !service.url.startsWith("http")
@@ -561,7 +1206,6 @@ export default {
                 : null;
             }
           }
-
           if (paid) {
             if (/^maybe/i.test(paid)) {
               service.driveToPaid = "maybe";
@@ -585,11 +1229,140 @@ export default {
               ? ", " + paid.split(",")[1].trim()
               : ".";
           }
-
+          
+           if (categorychoice) {
+            // console.log(categorychoice);
+            if (/^ads/i.test(categorychoice)) {
+              service.selectedCategory = "ads";
+            } else if (/^affiliate marketing/i.test(categorychoice)) {
+              service.selectedCategory = "affiliate marketing";
+            } else if (/^analytics/i.test(categorychoice)) {
+              service.selectedCategory = "analytics";
+            } else if (/^app store optimisation/i.test(categorychoice)) {
+              service.selectedCategory = "app store optimisation";
+            } else if (/^assessments/i.test(categorychoice)) {
+              service.selectedCategory = "assessments";
+            } else if (/^authentication/i.test(categorychoice)) {
+              service.selectedCategory = "authentication";
+            } else if (/^backup/i.test(categorychoice)) {
+              service.selectedCategory = "backup";
+            } else if (/^business intelligence/i.test(categorychoice)) {
+              service.selectedCategory = "business intelligence";
+            } else if (/^cartography/i.test(categorychoice)) {
+              service.selectedCategory = "cartography";
+            } else if (/^cms/i.test(categorychoice)) {
+              service.selectedCategory = "cms";
+            } else if (/^content marketing/i.test(categorychoice)) {
+              service.selectedCategory = "content marketing";
+            } else if (/^contract management/i.test(categorychoice)) {
+              service.selectedCategory = "contract management";
+            } else if (/^crm/i.test(categorychoice)) {
+              service.selectedCategory = "crm";
+            } else if (/^cybersecurity/i.test(categorychoice)) {
+              service.selectedCategory = "cybersecurity";
+            } else if (/^data collection/i.test(categorychoice)) {
+              service.selectedCategory = "data collection";
+            } else if (/^delivery management/i.test(categorychoice)) {
+              service.selectedCategory = "delivery management";
+            } else if (/^developer tools/i.test(categorychoice)) {
+              service.selectedCategory = "developer tools";
+            } else if (
+              /^diagramming and collaboration tool/i.test(categorychoice)
+            ) {
+              service.selectedCategory = "diagramming and collaboration tool";
+            } else if (/^domain names/i.test(categorychoice)) {
+              service.selectedCategory = "domain names";
+            } else if (/^ecommerce software/i.test(categorychoice)) {
+              service.selectedCategory = "ecommerce software";
+            } else if (/^edtech/i.test(categorychoice)) {
+              service.selectedCategory = "edtech";
+            } else if (/^email signature manager/i.test(categorychoice)) {
+              service.selectedCategory = "email signature manager";
+              // console.log(service.selectedCategory);
+              //was having issues with this being properly alocated when "email" was above this, as this category was being allocated in that if instead. So, I've changed the order.
+            } else if (/^email/i.test(categorychoice)) {
+              service.selectedCategory = "email";
+              // console.log(service.selectedCategory);
+            } else if (/^finance/i.test(categorychoice)) {
+              service.selectedCategory = "finance";
+            } else if (/^health records/i.test(categorychoice)) {
+              service.selectedCategory = "health records";
+            } else if (/^help desk software/i.test(categorychoice)) {
+              service.selectedCategory = "help desk software";
+            } else if (/^hosting/i.test(categorychoice)) {
+              service.selectedCategory = "hosting";
+            } else if (/^hr/i.test(categorychoice)) {
+              service.selectedCategory = "hr";
+            } else if (/^incident management/i.test(categorychoice)) {
+              service.selectedCategory = "incident management";
+            } else if (/^internal communication/i.test(categorychoice)) {
+              service.selectedCategory = "internal communication";
+            } else if (/^lead generation/i.test(categorychoice)) {
+              service.selectedCategory = "lead generation";
+            } else if (/^live presentations/i.test(categorychoice)) {
+              service.selectedCategory = "live presentations";
+            } else if (/^low-code\/no-code/i.test(categorychoice)) {
+              service.selectedCategory = "low-code/no-code";
+            } else if (/^management tools/i.test(categorychoice)) {
+              service.selectedCategory = "management tools";
+            } else if (/^marketing automation/i.test(categorychoice)) {
+              service.selectedCategory = "marketing automation";
+            } else if (/^marketing\/ livechat/i.test(categorychoice)) {
+              service.selectedCategory = "marketing/ livechat";
+            } else if (/^monitoring/i.test(categorychoice)) {
+              service.selectedCategory = "monitoring";
+            } else if (/^people management/i.test(categorychoice)) {
+              service.selectedCategory = "people management";
+            } else if (/^productivity tools/i.test(categorychoice)) {
+              service.selectedCategory = "productivity tools";
+            } else if (/^project management/i.test(categorychoice)) {
+              service.selectedCategory = "project management";
+            } else if (/^recruitment/i.test(categorychoice)) {
+              service.selectedCategory = "recruitment";
+            } else if (/^remote work/i.test(categorychoice)) {
+              service.selectedCategory = "remote work";
+            } else if (/^reporting/i.test(categorychoice)) {
+              service.selectedCategory = "reporting";
+            } else if (/^sales tools/i.test(categorychoice)) {
+              service.selectedCategory = "sales tools";
+            } else if (/^slack app/i.test(categorychoice)) {
+              service.selectedCategory = "slack app";
+            } else if (/^software editor/i.test(categorychoice)) {
+              service.selectedCategory = "software editor";
+            } else if (/^spreadsheets/i.test(categorychoice)) {
+              service.selectedCategory = "spreadsheets";
+            } else if (/^video & music/i.test(categorychoice)) {
+              service.selectedCategory = "video & music";
+            } else if (/^vpn/i.test(categorychoice)) {
+              service.selectedCategory = "vpn";
+            } else if (/^web\/graphic design/i.test(categorychoice)) {
+              service.selectedCategory = "web/graphic design";
+            } else if (/^website builder/i.test(categorychoice)) {
+              service.selectedCategory = "website builder";
+            } else if (/^website tools/i.test(categorychoice)) {
+              service.selectedCategory = "website tools";
+            } else if (/^writing tools/i.test(categorychoice)) {
+              service.selectedCategory = "writing tools";
+            } else if (/^shipping software/i.test(categorychoice)) {
+              service.selectedCategory = "shipping software";
+            } else if (/^customer feedback/i.test(categorychoice)) {
+              service.selectedCategory = "customer feedback";
+            } else if (/^mobile app/i.test(categorychoice)) {
+              service.selectedCategory = "mobile app";
+              // console.log(service.selectedCategory);
+              // this one did not render because description is missing
+            } else if (/^restaurant online ordering/i.test(categorychoice)) {
+              service.selectedCategory = "restaurant online ordering";
+            } else if (/^url shortener/i.test(categorychoice)) {
+              service.selectedCategory = "url shortener";
+            } else {
+              service.selectedCategory = "other";
+            }
+          }
+         
           service.useEmail =
             service.how_to_apply_url_or_email &&
             service.how_to_apply_url_or_email.includes("@");
-
           return service;
         })
         .sort(({ name: left }, { name: right }) => {
@@ -602,13 +1375,14 @@ export default {
           if (left === "maybe" && ["no"].includes(right)) return 1;
           return 0;
         });
-
       return showServices.filter(({ driveToPaid }) => {
         return this.show.includes(driveToPaid);
+      })
+      .filter(({ selectedCategory }) => {
+        return this.show.includes(selectedCategory);
       });
     },
   },
-
   methods: {
     cleanKey(key) {
       return key
