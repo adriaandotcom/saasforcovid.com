@@ -288,7 +288,7 @@
             <li class="mr-2 mb-3">
               <a
                 :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('CRM')
+                  show.includes('crm')
                     ? 'bg-custom-pink text-white'
                     : 'text-custom-pink bg-gray-300'
                 }`"
@@ -365,7 +365,7 @@
             <li class="mr-2 mb-3">
               <a
                 :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('eCommerce software')
+                  show.includes('ecommerce software')
                     ? 'bg-custom-pink text-white'
                     : 'text-custom-pink bg-gray-300'
                 }`"
