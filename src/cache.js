@@ -736,7 +736,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./assets/img/brand/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup and email support@devscore.com",
     "How to apply (URL or email)": "support@devscore.com",
     "More info URL": ""
@@ -3890,5 +3890,19 @@ export const services = [
     "How to apply (text)": "Get in touch with us (Contact us form, Email, WhatsApp, Call)",
     "How to apply (URL or email)": "https://www.sprintcube.com/webflow-design/",
     "More info URL": "https://www.sprintcube.com/webflow-design/"
+  },
+  {
+    "Name": "DigitalMaas",
+    "Approved": "",
+    "Category": "Marketing/ LiveChat",
+    "URL": "",
+    "Description": "",
+    "Discount": "Free till 12th August 2020",
+    "Does it drive you into a paid account": "if you wish, but not a requirement to claim support",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Visit the website and claim your free support",
+    "How to apply (URL or email)": "https://www.digitalmaas.com/small-business-support-package/",
+    "More info URL": ""
   }
 ]
