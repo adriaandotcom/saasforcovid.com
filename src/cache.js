@@ -130,7 +130,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Incident Management",
     "URL": "https://spike.sh",
-    "Description": "Spike is a simple incident management platform that alerts via slack, phone and email and automatic escalations to help teams fix infrastructure problems.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
@@ -3876,5 +3876,19 @@ export const services = [
     "How to apply (text)": "Sign up and use the code: 2YearsTogether",
     "How to apply (URL or email)": "https://1brand.co",
     "More info URL": "https://1brand.co"
+  },
+  {
+    "Name": "SprintCube",
+    "Approved": "",
+    "Category": "Website Builder",
+    "URL": "https://www.sprintcube.com/webflow-design/",
+    "Description": "Hire our team to build powerful websites, faster! We help professionals, startups, SME to save tons of hours in website production with our web design and Webflow skills.",
+    "Discount": "Up to 33% off on a website",
+    "Does it drive you into a paid account": "Yes",
+    "Requirement": "We will help you with your website requirements based on your profession, business, goals.",
+    "Favicon": "",
+    "How to apply (text)": "Get in touch with us (Contact us form, Email, WhatsApp, Call)",
+    "How to apply (URL or email)": "https://www.sprintcube.com/webflow-design/",
+    "More info URL": "https://www.sprintcube.com/webflow-design/"
   }
 ]
