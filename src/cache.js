@@ -284,7 +284,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://burnermail.io",
-    "Description": "",
+    "Description": "One-click burner email addresses that you can use when signing up on websites to protect your identity and prevent your personal email address from being sold or spammed.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe, the discount is only applied to the first charge but it's possible to select 3 years. It will renew with normal pricing.",
     "Requirement": "",
@@ -2192,7 +2192,7 @@ export const services = [
     "Discount": "30% for 3 months",
     "Does it drive you into a paid account": "Maybe, but you get a clear discount so you know upfront.",
     "Requirement": "None",
-    "Favicon": "https://reportei.com/wp-content/uploads/2017/11/favicon-150x150.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon: SAASFORCOVID",
     "How to apply (URL or email)": "https://reportei.com/en/",
     "More info URL": ""
@@ -3894,15 +3894,15 @@ export const services = [
   {
     "Name": "DigitalMaas",
     "Approved": "",
-    "Category": "Marketing/ LiveChat",
-    "URL": "",
-    "Description": "",
+    "Category": "Local Marketing Platform",
+    "URL": "https://www.digitalmaas.com/",
+    "Description": "Free Local Marketing Platform to help you manage your Google My Business Listings. Update information, reply to reviews, post covid updates to your cleints all in one place. Also integrates with Apple, Bing, Facebook , Instagram and others to ensure information is accurate across all these tools.",
     "Discount": "Free till 12th August 2020",
     "Does it drive you into a paid account": "if you wish, but not a requirement to claim support",
     "Requirement": "None",
     "Favicon": "",
     "How to apply (text)": "Visit the website and claim your free support",
     "How to apply (URL or email)": "https://www.digitalmaas.com/small-business-support-package/",
-    "More info URL": ""
+    "More info URL": "https://www.digitalmaas.com/small-business-support-package/"
   }
 ]
