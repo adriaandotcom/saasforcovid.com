@@ -3904,5 +3904,19 @@ export const services = [
     "How to apply (text)": "Visit the website and claim your free support",
     "How to apply (URL or email)": "https://www.digitalmaas.com/small-business-support-package/",
     "More info URL": "https://www.digitalmaas.com/small-business-support-package/"
+  },
+  {
+    "Name": "Parsey",
+    "Approved": "",
+    "Category": "Marketing Automation",
+    "URL": "parsey.com",
+    "Description": "Many businesses struggle getting data from one platform to another. Often, this data is transactional, meaning it comes to them after an important event occurs. Examples are new leads or e-commerce order. Unless their platform has andative integration, this transactional data is sent to the business using a webhook or email. The business owner then must manually enter the data into their CRM or other application. \nParsey is an email and webhook parser that can automate this entire process, eliminating errors and costs associated with manual data entry. Now a business can direct transactional emails and webhooks to Parsey, which will extract and properly format the data, then send it to their preferred CRM or other sales and marketing applications.",
+    "Discount": "2 Months free.",
+    "Does it drive you into a paid account": "If you wish, but that is not required.",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Sign up for a free account at Parsey.com. The free account limits you to 100 total events. Once your account is created, contact support and tell them you'd like your COVID-19 2-month free account.",
+    "How to apply (URL or email)": "https://parsey.com or support@parsey.com",
+    "More info URL": ""
   }
 ]
