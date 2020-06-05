@@ -2262,7 +2262,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 10 employees",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://brizy.b-cdn.net/media/iW=32&iH=any/2709489d7751ac04ef974e8c86e4e74a.png",
     "How to apply (text)": "Signup online",
     "How to apply (URL or email)": "https://bundy.io",
     "More info URL": "https://bundy.io"
@@ -2374,7 +2374,7 @@ export const services = [
     "Discount": "100% for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "None.",
-    "Favicon": "",
+    "Favicon": "/android-icon-192x192.png",
     "How to apply (text)": "Just send us a message.",
     "How to apply (URL or email)": "https://www.callto.shop",
     "More info URL": ""
