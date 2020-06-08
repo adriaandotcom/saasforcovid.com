@@ -162,7 +162,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for Slack groups helping with COVID-19",
-    "Favicon": "/favicon-32x32.png?v=05a3656187841821cd75a712f3a749c2",
+    "Favicon": "/icons/icon-48x48.png?v=05a3656187841821cd75a712f3a749c2",
     "How to apply (text)": "Sign up and then send us an email.",
     "How to apply (URL or email)": "https://getlowdown.com/covid-19/",
     "More info URL": ""
@@ -1254,7 +1254,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://kidpofy.com/assets/img/favicon.png",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://kidpofy.com",
     "More info URL": ""
@@ -2374,7 +2374,7 @@ export const services = [
     "Discount": "100% for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "None.",
-    "Favicon": "/android-icon-192x192.png",
+    "Favicon": "/apple-icon-57x57.png",
     "How to apply (text)": "Just send us a message.",
     "How to apply (URL or email)": "https://www.callto.shop",
     "More info URL": ""
