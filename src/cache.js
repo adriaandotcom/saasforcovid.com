@@ -1362,7 +1362,7 @@ export const services = [
     "Approved": "",
     "Category": "Finance",
     "URL": "https://upflow.io",
-    "Description": "",
+    "Description": "Manage your invoices, from creation to payment, and collect 100% of your turnover",
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
