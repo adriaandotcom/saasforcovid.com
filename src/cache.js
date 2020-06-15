@@ -358,7 +358,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 6 months free usage.",
     "Requirement": "To use for a covid-related site or tool, link back appreciated.",
-    "Favicon": "/favicon-32x32.png?v=9ac1f3fc4286e7d9318862f69ebc6f89",
+    "Favicon": "/icons/icon-48x48.png?v=9ac1f3fc4286e7d9318862f69ebc6f89",
     "How to apply (text)": "Email: support@polypane.app",
     "How to apply (URL or email)": "support@polypane.app",
     "More info URL": "https://polypane.app"
