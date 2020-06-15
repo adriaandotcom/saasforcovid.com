@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -302,7 +302,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://www.darwinmail.app/mail/lib/manifest/apple-touch-icon.png",
     "How to apply (text)": "Sign up and then send us an email.",
     "How to apply (URL or email)": "https://www.darwinmail.app/mail",
     "More info URL": ""
@@ -358,7 +358,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 6 months free usage.",
     "Requirement": "To use for a covid-related site or tool, link back appreciated.",
-    "Favicon": "",
+    "Favicon": "/favicon-32x32.png?v=9ac1f3fc4286e7d9318862f69ebc6f89",
     "How to apply (text)": "Email: support@polypane.app",
     "How to apply (URL or email)": "support@polypane.app",
     "More info URL": "https://polypane.app"
@@ -596,7 +596,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "Healthcare organizations only.",
-    "Favicon": "",
+    "Favicon": "/img/favicon.ico",
     "How to apply (text)": "Just signup",
     "How to apply (URL or email)": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/",
     "More info URL": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/"
@@ -680,7 +680,7 @@ export const services = [
     "Discount": "Free for two months",
     "Does it drive you into a paid account": "Maybe, after two months.",
     "Requirement": "SafetyAmp is making its platform available free for two months for teams needing COVID-19 auditing capabilities",
-    "Favicon": "",
+    "Favicon": "https://safetyamp.com/wp-content/themes/hrdltheme/assets/img/favicon16.png",
     "How to apply (text)": "Email sales@safetyamp.com",
     "How to apply (URL or email)": "https://safetyamp.com/covid19/",
     "More info URL": ""
@@ -778,7 +778,7 @@ export const services = [
     "Discount": "Free for 3 months for SMBs",
     "Does it drive you into a paid account": "No, you are welcome to sign up if you end up loving it, though.",
     "Requirement": "Having less than 20 agents.",
-    "Favicon": "",
+    "Favicon": "/img/graphics/favicon20150812.png",
     "How to apply (text)": "Sign up for a demo, then tell the rep you want the 3 months free plan.",
     "How to apply (URL or email)": "https://www.queuemetrics-live.com/landing/covid19.jsp",
     "More info URL": ""
@@ -1170,7 +1170,7 @@ export const services = [
     "Discount": "Free Enterprise plan for the duration of the COVID-19 pandemic",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid-19 related projects like apps, websites and other digital platforms built on Firebase",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=454696de42794630a1b3a9cc72b943b6",
     "How to apply (text)": "Sign-up for a 14-day free trial and contact our support team",
     "How to apply (URL or email)": "https://app.flamelink.io/register",
     "More info URL": ""
@@ -1408,7 +1408,7 @@ export const services = [
     "Discount": "15%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://cdn.landen.co/29al446fkkuj/assets/fygh642g.png",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://customfit.ai/demo",
     "More info URL": "https://customfit.ai/playbook"
@@ -1604,7 +1604,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://collegelife.co/work/wp-content/uploads/2019/06/cropped-cropped-Artboard-1-2-1-32x32.png",
     "How to apply (text)": "Sign up and send email with subject \"COVID\" to info@collegelife.co",
     "How to apply (URL or email)": "info@collegelife.co",
     "More info URL": "https://collegelife.co/nl/employers/"
@@ -1912,7 +1912,7 @@ export const services = [
     "Discount": "40% Discount",
     "Does it drive you into a paid account": "Yes, but you get a lot of value for a fair price.",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "fav/favicon-32x32.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://rulecontent.com/?cov=1",
     "More info URL": "https://rulecontent.com/?cov=1"
@@ -1954,7 +1954,7 @@ export const services = [
     "Discount": "Free meetings during COVID, Webinars 20% Discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/favicon-32x32.png?v=allejJnzBp",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://livestorm.co/blog/livestorm-and-covid-19/",
     "More info URL": "https://livestorm.co/"
