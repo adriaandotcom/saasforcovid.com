@@ -106,7 +106,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you get an extended free trial (6 months), no credit card needed.",
     "Requirement": "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
-    "Favicon": "",
+    "Favicon": "https://mindwave.app/assets/favicons/apple-touch-icon.png",
     "How to apply (text)": "Email: support@mindwave.app",
     "How to apply (URL or email)": "support@mindwave.app",
     "More info URL": "https://mindwave.app/stories/covid-19-and-my-tiny-contribution-LVjv0V"
@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "",
+    "Favicon": "/assets/icon128-53d136bb0aa1c128a1a32fc3630d28eb4d3659aaa9fc748839e8d489221fe2f9.png",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from 60+ remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -414,7 +414,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon code: stayathome",
     "How to apply (URL or email)": "https://readermode.io/premium",
     "More info URL": ""
@@ -1012,7 +1012,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Productivity Tools",
     "URL": "https://coastapp.com",
-    "Description": "",
+    "Description": "Coast app is a simple messaging workspace with tools for managers and staff on the go. Make team messaging, task management, and employee scheduling a breeze. Get started for free!",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid-19 related",
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
@@ -2066,7 +2066,7 @@ export const services = [
     "Discount": "50% on Team Plan",
     "Does it drive you into a paid account": "Free version comprises of 5 diagrams",
     "Requirement": "None",
-    "Favicon": "/static/assets/common/icons/favicons-next/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Use the discount code at the time of purchase",
     "How to apply (URL or email)": "https://creately.com/remote-working-guide/",
     "More info URL": "https://creately.com/"
@@ -2332,7 +2332,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free education plan for all k-12 and higher ed students and educators, 30% off team plan for nonprofits and 100% off for nonprofits working on COVID-19 initiatives.",
-    "Favicon": "/static/favicons/favicon-32x32.png?v=00zdoEw6N6",
+    "Favicon": "/static/favicons/apple-touch-icon.png?v=00zdoEw6N6",
     "How to apply (text)": "Free forever: sign up. Education and NPO plans: apply for eligibility.",
     "How to apply (URL or email)": "https://miro.com/",
     "More info URL": ""
