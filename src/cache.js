@@ -288,7 +288,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe, the discount is only applied to the first charge but it's possible to select 3 years. It will renew with normal pricing.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://burnermail.io/favicon-196x196.png",
     "How to apply (text)": "Using coupon code: STAYINGHOME",
     "How to apply (URL or email)": "https://burnermail.io",
     "More info URL": ""
@@ -844,7 +844,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://docspring.com",
-    "Description": "",
+    "Description": "Build an API integration in minutes and fill out PDF forms with your data. Set up field positions and data types using our visual PDF template editor. Simply post JSON data to our API, then download a filled-out PDF in seconds.",
     "Discount": "Free for up to 10,000 PDFs / mo, then an 85% discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 related project (not-for-profit)",
@@ -988,7 +988,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 response and recovery management",
-    "Favicon": "https://www.senseilabs.com/wp-content/themes/senseilabs/favicon-16x16.png",
+    "Favicon": "",
     "How to apply (text)": "Fill in the form and we'll get you setup",
     "How to apply (URL or email)": "https://hello.senseilabs.com/conductor-for-covid19",
     "More info URL": "https://www.senseilabs.com/conductor/conductor-for-covid-19/"
@@ -1702,7 +1702,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "https://www.codetally.com/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Sign in with your Github account.",
     "How to apply (URL or email)": "https://github.com/login/oauth/authorize?client_id=Iv1.28ff997c607a6195&scope=user%20public_repo",
     "More info URL": "https://www.codetally.com/#/help"
@@ -2080,7 +2080,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for charities, heavy discounts for restaurants etc",
-    "Favicon": "",
+    "Favicon": "images/webclip.png",
     "How to apply (text)": "Sign up and then contact them via the chat inside the app",
     "How to apply (URL or email)": "https://getcircuit.com/blog/covid-19-free-for-charities-90-off-for-restaurants/",
     "More info URL": "https://getcircuit.com/team/"
@@ -2262,7 +2262,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 10 employees",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://brizy.b-cdn.net/media/iW=32&iH=any/2709489d7751ac04ef974e8c86e4e74a.png",
     "How to apply (text)": "Signup online",
     "How to apply (URL or email)": "https://bundy.io",
     "More info URL": "https://bundy.io"
