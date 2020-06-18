@@ -3712,7 +3712,7 @@ export const services = [
   {
     "Name": "Netcore Smartech",
     "Approved": "",
-    "Category": "eCommerce Software",
+    "Category": "Marketing Automation",
     "URL": "https://netcoresmartech.com/covid19?source=saasforcovid",
     "Description": "Product Recommendations and Personalization like the big guys. The AI-based platform lets you deliver dynamic web and app experiences based on real-time and past behaviour tracking of every unique user. Proven conversion jump of 8 to 13%.",
     "Discount": "100% free till Sept '20.",
