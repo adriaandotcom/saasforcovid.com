@@ -32,7 +32,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://airtable.com",
-    "Description": "",
+    "Description": "Airtable works like a spreadsheet but gives you the power of a database to organize anything. Sign up for free.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free trial",
     "Requirement": "Airtable is making Airtable Pro available for free to any non-political humanitarian group that is working on COVID-19 relief efforts.",
@@ -792,7 +792,7 @@ export const services = [
     "Discount": "Free for up to 10 users or build minutes (incase of Bitbucket Pipelines etc)",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Just signup through the link",
     "How to apply (URL or email)": "https://www.atlassian.com/software/free",
     "More info URL": "https://www.atlassian.com/remote"
@@ -872,7 +872,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Analytics",
     "URL": "https://vectorspace.ai",
-    "Description": "",
+    "Description": "NLP/NLU Datasets by Vectorspace AI",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project",
@@ -1702,7 +1702,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "https://www.codetally.com/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Sign in with your Github account.",
     "How to apply (URL or email)": "https://github.com/login/oauth/authorize?client_id=Iv1.28ff997c607a6195&scope=user%20public_repo",
     "More info URL": "https://www.codetally.com/#/help"
@@ -1828,7 +1828,7 @@ export const services = [
     "Discount": "100% discount for 3 months",
     "Does it drive you into a paid account": "Yes. Email support@coda.io for full details.",
     "Requirement": "Available to new and existing users for COVID-19 related purposes (see description)",
-    "Favicon": "https://cdn.coda.io/icons/png/color/coda-apple-120.png",
+    "Favicon": "",
     "How to apply (text)": "Email support@coda.io",
     "How to apply (URL or email)": "support@coda.io",
     "More info URL": ""
@@ -1954,7 +1954,7 @@ export const services = [
     "Discount": "Free meetings during COVID, Webinars 20% Discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon-57x57.png?v=allejJnzBp",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://livestorm.co/blog/livestorm-and-covid-19/",
     "More info URL": "https://livestorm.co/"
