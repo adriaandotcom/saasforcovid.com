@@ -2094,7 +2094,7 @@ export const services = [
     "Discount": "45 days FREE for existing paid customers",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "You have to be an existing paid user of Automate.io. If you downgrade to the free plan, you can avail the 45-day FREE offer.",
-    "Favicon": "/assets/img/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "In the 'Downgrade to Free Plan' page in your account, select the reason for cancellation as Coronavirus/Covid-19 and click 'Avail 45-day Free Offer'",
     "How to apply (URL or email)": "help@automate.io",
     "More info URL": ""
@@ -3931,6 +3931,20 @@ export const services = [
     "Favicon": "",
     "How to apply (text)": "To get started, simply create an account with us and select COVID-19 as your organization type – if you qualify, we'll follow up with you in an email.",
     "How to apply (URL or email)": "https://www.wildapricot.com/covid19",
+    "More info URL": ""
+  },
+  {
+    "Name": "IdeaBuddy",
+    "Approved": "",
+    "Category": "Business Planning",
+    "URL": "https://ideabuddy.com/pricing/",
+    "Description": "IdeaBuddy is an application that offers guidance from the initial stage of business idea development, business model setup, financial forecast, competition comparison, business plan, one-page plan (business model canvas), and validation of the model. Guides and examples are included.",
+    "Discount": "A yearly Founder plan with 3 ideas for only $49/year \n(regularly priced at $216/year)",
+    "Does it drive you into a paid account": "Yes",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "Head over to our pricing page\nSwitch to the yearly subscription\nSelect Founder plan with 3 ideas\nUse coupon FOUNDER3Y before checkout\nThis is a limited-time offer, so better hurry up",
+    "How to apply (URL or email)": "https://ideabuddy.com/pricing/",
     "More info URL": ""
   }
 ]
