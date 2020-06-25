@@ -438,7 +438,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://www.retrospect.team",
-    "Description": "",
+    "Description": "Easily conduct end of sprint and project retrospectives with everyone on your team no matter their location.",
     "Discount": "Lifetime for $48, rather than $4/mo. ongoing.",
     "Does it drive you into a paid account": "No, but you have to pay a one time fee.",
     "Requirement": "",
@@ -568,7 +568,7 @@ export const services = [
     "Discount": "Free 5 hourly monitors, 30% discount above that",
     "Does it drive you into a paid account": "No, no need for payment information and 3 months free usage.",
     "Requirement": "Free for Covid-19 projects or if you've been laid off.\nDiscount open to everyone.",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon.png?v=ngJXw5Oder",
     "How to apply (text)": "Email support@monitoro.xyz",
     "How to apply (URL or email)": "support@monitoro.xyz",
     "More info URL": ""
@@ -708,7 +708,7 @@ export const services = [
     "Discount": "Free GPUs",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/images/favicons/apple-touch-icon.png",
     "How to apply (text)": "Signup and email support@paperspace.com",
     "How to apply (URL or email)": "https://www.paperspace.com",
     "More info URL": ""
