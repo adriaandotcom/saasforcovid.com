@@ -92,7 +92,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "resources/favicon.ico",
     "How to apply (text)": "Email: erwin@sparklybot.com",
     "How to apply (URL or email)": "erwin@sparklybot.com",
     "More info URL": "https://sparklybot.com"
@@ -284,7 +284,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://burnermail.io",
-    "Description": "",
+    "Description": "One-click burner email addresses that you can use when signing up on websites to protect your identity and prevent your personal email address from being sold or spammed.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe, the discount is only applied to the first charge but it's possible to select 3 years. It will renew with normal pricing.",
     "Requirement": "",
@@ -638,7 +638,7 @@ export const services = [
     "Discount": "Free",
     "Does it drive you into a paid account": "No",
     "Requirement": "Less than 100 devices.",
-    "Favicon": "/favicon.ico?r=124",
+    "Favicon": "",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://my.zerotier.com",
     "More info URL": "www.zerotier.com"
@@ -1040,7 +1040,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Low-Code/No-Code",
     "URL": "http://www.workato.com",
-    "Description": "",
+    "Description": "Workato, a leader in Gartner MQ, is more than an iPaaS. It's an Intelligent Automation platform that can be used by both Business and IT. It supports thousands of enterprise and workflow usecases so you can automate everything.",
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Covid-19 related, Some partners have offered to help with free/discounted services",
@@ -1436,7 +1436,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
-    "Favicon": "https://uploads-ssl.webflow.com/5c6bb8ab3620cfc71f70b984/5d505e5b493b0583b831a834_webclip-favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://www.trywingman.com/going-remote",
     "More info URL": ""
@@ -1562,7 +1562,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "/pwa/apple-icon-180.png?vv2459",
+    "Favicon": "/pwa/apple-icon-180.png?vv2461",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
@@ -2206,7 +2206,7 @@ export const services = [
     "Discount": "25%",
     "Does it drive you into a paid account": "Maybe, but you get a clear discount so you know upfront.",
     "Requirement": "COVID-19 projects.",
-    "Favicon": "fbrfg/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Contact support (can be in Dutch or English)",
     "How to apply (URL or email)": "https://www.intention.nl/direct-jouw-vraag-stellen",
     "More info URL": ""
