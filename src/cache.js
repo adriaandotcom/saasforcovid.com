@@ -568,7 +568,7 @@ export const services = [
     "Discount": "Free 5 hourly monitors, 30% discount above that",
     "Does it drive you into a paid account": "No, no need for payment information and 3 months free usage.",
     "Requirement": "Free for Covid-19 projects or if you've been laid off.\nDiscount open to everyone.",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon.png?v=ngJXw5Oder",
     "How to apply (text)": "Email support@monitoro.xyz",
     "How to apply (URL or email)": "support@monitoro.xyz",
     "More info URL": ""
@@ -792,7 +792,7 @@ export const services = [
     "Discount": "Free for up to 10 users or build minutes (incase of Bitbucket Pipelines etc)",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png",
     "How to apply (text)": "Just signup through the link",
     "How to apply (URL or email)": "https://www.atlassian.com/software/free",
     "More info URL": "https://www.atlassian.com/remote"
