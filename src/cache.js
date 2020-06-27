@@ -410,7 +410,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Productivity Tools",
     "URL": "https://readermode.io",
-    "Description": "",
+    "Description": "Reader Mode is a Chrome reading extension and web app that removes clutter, ads and distractions, that also includes dyslexia support, read-it-later, highlighter, annotation, text-to-speech, citation generator and many other features all in one tool.",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
