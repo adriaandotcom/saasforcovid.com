@@ -218,7 +218,7 @@ export const services = [
     "Discount": "Job posting for $3",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "Disable logo options to get full discount.",
-    "Favicon": "",
+    "Favicon": "/assets/apple-icon-57x57.png?2",
     "How to apply (text)": "Just post a job",
     "How to apply (URL or email)": "https://remoteok.io/hire-remotely",
     "More info URL": ""
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from 60+ remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -466,7 +466,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Business Intelligence",
     "URL": "https://www.grow.com",
-    "Description": "",
+    "Description": "Business intelligence software that frees the insights you desperately need to fuel growth and transform your business.",
     "Discount": "Free 1 dashboard",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "Free 1 dashboard for 12 months.",
@@ -876,7 +876,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project",
-    "Favicon": "/favicon-196x196.png",
+    "Favicon": "",
     "How to apply (text)": "Email info@vectorspace.ai or visit https://vectorspace.ai",
     "How to apply (URL or email)": "info@vectorspace.ai",
     "More info URL": "https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html?tc=eml_cleartime"
@@ -2150,7 +2150,7 @@ export const services = [
     "Discount": "Free until 1 June",
     "Does it drive you into a paid account": "No, no payment details required.",
     "Requirement": "Businesses heavily impacted by COVID-19",
-    "Favicon": "https://spotonwifi.com/wp-content/uploads/2017/07/cropped-logo-1-180x180.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon: FIGHTCOVID",
     "How to apply (URL or email)": "info@spotonwifi.com",
     "More info URL": "https://spotonwifi.com"
@@ -2318,7 +2318,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after July",
     "Requirement": "Covid-19 related projects (website, apps, iniatives looking for sponsors, online events to support artists...)",
-    "Favicon": "https://assets.website-files.com/img/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Sign Up and contact us using the chat.",
     "How to apply (URL or email)": "contact@sponseasy.com",
     "More info URL": "https://sponseasy.com/#covidhelp"
