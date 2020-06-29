@@ -218,7 +218,7 @@ export const services = [
     "Discount": "Job posting for $3",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "Disable logo options to get full discount.",
-    "Favicon": "",
+    "Favicon": "/assets/apple-icon-57x57.png?2",
     "How to apply (text)": "Just post a job",
     "How to apply (URL or email)": "https://remoteok.io/hire-remotely",
     "More info URL": ""
@@ -778,7 +778,7 @@ export const services = [
     "Discount": "Free for 3 months for SMBs",
     "Does it drive you into a paid account": "No, you are welcome to sign up if you end up loving it, though.",
     "Requirement": "Having less than 20 agents.",
-    "Favicon": "/img/graphics/favicon20150812.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up for a demo, then tell the rep you want the 3 months free plan.",
     "How to apply (URL or email)": "https://www.queuemetrics-live.com/landing/covid19.jsp",
     "More info URL": ""
@@ -928,7 +928,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Remote Work",
     "URL": "https://www.cozycal.com",
-    "Description": "",
+    "Description": "Online scheduling and appointment booking software. A simple, elegant solution that allows your clients to schedule appointments directly on your website.",
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months can cancel subscription or upgrade",
     "Requirement": "Non-profit working on Covid-19 related response",
@@ -1590,7 +1590,7 @@ export const services = [
     "Discount": "Free until 1 June",
     "Does it drive you into a paid account": "No, it cancels automatically at the end of the free period",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/assets/icons/apple-touch-icon.png",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://app.writinganalytics.co/signup/covid-19",
     "More info URL": "https://www.writinganalytics.co/posts/covid-19/"
