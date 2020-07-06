@@ -64,7 +64,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://leverice.com/wp-content/uploads/2020/03/favicon.ico",
     "How to apply (text)": "Click on \"Get Started\" or \"Try Now\" button on homepage.",
     "How to apply (URL or email)": "https://leverice.com",
     "More info URL": ""
@@ -1404,7 +1404,7 @@ export const services = [
     "Approved": "",
     "Category": "Lead generation",
     "URL": "https://customfit.ai",
-    "Description": "",
+    "Description": "Convert visitors to quality leads by personalizing website for each visitor",
     "Discount": "15%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
