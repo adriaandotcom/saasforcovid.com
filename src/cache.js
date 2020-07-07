@@ -162,7 +162,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for Slack groups helping with COVID-19",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=05a3656187841821cd75a712f3a749c2",
     "How to apply (text)": "Sign up and then send us an email.",
     "How to apply (URL or email)": "https://getlowdown.com/covid-19/",
     "More info URL": ""
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from 60+ remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -736,7 +736,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "./assets/img/brand/favicon.png",
     "How to apply (text)": "Signup and email support@devscore.com",
     "How to apply (URL or email)": "support@devscore.com",
     "More info URL": ""
@@ -1310,7 +1310,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "Nonprofit Covid-19 response project",
-    "Favicon": "/static/head/favicon/apple-touch-icon-57x57.png",
+    "Favicon": "",
     "How to apply (text)": "Submit a request form",
     "How to apply (URL or email)": "https://try.typeform.com/covid-19/",
     "More info URL": "https://try.typeform.com/covid-19/"
@@ -1534,7 +1534,7 @@ export const services = [
     "Discount": "Free 2 months of the Business plan",
     "Does it drive you into a paid account": "Yes, but you can cancel at any time and before any payment takes place",
     "Requirement": "Free for Businesses impacted by COVID-1",
-    "Favicon": "https://about.noisli.com/assets/icons/icon-196x196.png",
+    "Favicon": "",
     "How to apply (text)": "Fill in the request form",
     "How to apply (URL or email)": "https://support.noisli.com/coronavirus-response",
     "More info URL": "https://support.noisli.com/coronavirus-response"
@@ -1646,7 +1646,7 @@ export const services = [
     "Discount": "Free for 1st year",
     "Does it drive you into a paid account": "No, first year free and no credit card required",
     "Requirement": "New K-12 customers",
-    "Favicon": "/favicon-f99f13ec.ico",
+    "Favicon": "",
     "How to apply (text)": "Complete request trial form",
     "How to apply (URL or email)": "https://www.qualified.io/signup",
     "More info URL": "https://www.qualified.io/blog/posts/qualified-and-codewars-are-free-for-k-12-teachers-and-students"
