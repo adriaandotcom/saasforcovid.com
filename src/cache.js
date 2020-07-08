@@ -32,7 +32,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://airtable.com",
-    "Description": "Airtable works like a spreadsheet but gives you the power of a database to organize anything. Sign up for free.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free trial",
     "Requirement": "Airtable is making Airtable Pro available for free to any non-political humanitarian group that is working on COVID-19 relief efforts.",
@@ -1660,7 +1660,7 @@ export const services = [
     "Discount": "Free for 1st month",
     "Does it drive you into a paid account": "Yes, but you can cancel the subscription",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "i/favicon.png",
     "How to apply (text)": "Use coupon code FREEMONTH during checkout.",
     "How to apply (URL or email)": "https://designmodo.com/freemonth/",
     "More info URL": "https://designmodo.com/freemonth/"
@@ -1702,7 +1702,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "https://www.codetally.com/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Sign in with your Github account.",
     "How to apply (URL or email)": "https://github.com/login/oauth/authorize?client_id=Iv1.28ff997c607a6195&scope=user%20public_repo",
     "More info URL": "https://www.codetally.com/#/help"
@@ -2178,7 +2178,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "You are a hospital/ medical facility",
-    "Favicon": "",
+    "Favicon": "/assets/image/favicon.png",
     "How to apply (text)": "Sign up and request a free account",
     "How to apply (URL or email)": "https://www.yarooms.com/blog/yarooms-offers-free-space-management-for-hospitals/",
     "More info URL": "https://www.yarooms.com/blog/yarooms-offers-free-space-management-for-hospitals/"
