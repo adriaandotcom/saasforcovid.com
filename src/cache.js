@@ -438,7 +438,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://www.retrospect.team",
-    "Description": "Easily conduct end of sprint and project retrospectives with everyone on your team no matter their location.",
+    "Description": "",
     "Discount": "Lifetime for $48, rather than $4/mo. ongoing.",
     "Does it drive you into a paid account": "No, but you have to pay a one time fee.",
     "Requirement": "",
@@ -1632,7 +1632,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No need for payment information and free forever",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "//assets.cdnpandadoc.com/app/packages/www-merge/img/fav/icon-180-509eb5f708.png",
     "How to apply (text)": "Sign up on the website from this page",
     "How to apply (URL or email)": "https://signup.pandadoc.com/?plan=rec_plans_v4_free",
     "More info URL": "https://www.pandadoc.com/free-electronic-signature-software/"
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/favicon-32x32.png",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-32x32.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
@@ -2332,7 +2332,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free education plan for all k-12 and higher ed students and educators, 30% off team plan for nonprofits and 100% off for nonprofits working on COVID-19 initiatives.",
-    "Favicon": "",
+    "Favicon": "/static/favicons/favicon-32x32.png?v=00zdoEw6N6",
     "How to apply (text)": "Free forever: sign up. Education and NPO plans: apply for eligibility.",
     "How to apply (URL or email)": "https://miro.com/",
     "More info URL": ""
