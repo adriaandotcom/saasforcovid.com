@@ -960,7 +960,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "it is a free template on free plans by all partners",
-    "Favicon": "",
+    "Favicon": "/favicon.ico",
     "How to apply (text)": "free JAMstack-based static website template and hosting in conjunction with our partners, Netlify and Gatsby",
     "How to apply (URL or email)": "https://stopthespread.dev",
     "More info URL": "https://www.contentful.com/blog/2020/03/20/stop-the-spread-covid-19/"
@@ -3945,6 +3945,34 @@ export const services = [
     "Favicon": "",
     "How to apply (text)": "Head over to our pricing page\nSwitch to the yearly subscription\nSelect Founder plan with 3 ideas\nUse coupon FOUNDER3Y before checkout\nThis is a limited-time offer, so better hurry up",
     "How to apply (URL or email)": "https://ideabuddy.com/pricing/",
+    "More info URL": ""
+  },
+  {
+    "Name": "",
+    "Approved": "",
+    "Category": "",
+    "URL": "",
+    "Description": "",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
+  },
+  {
+    "Name": "",
+    "Approved": "",
+    "Category": "Business Intelligence",
+    "URL": "",
+    "Description": "",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
     "More info URL": ""
   }
 ]
