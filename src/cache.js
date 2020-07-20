@@ -1278,7 +1278,7 @@ export const services = [
     "Approved": "",
     "Category": "Remote Work",
     "URL": "https://pukkateam.com",
-    "Description": "PukkaTeam is an always-on, online workplace for your remote team to work together throughout the day, improve communication, team awareness and feel more connected, no matter where they are. Find Out More!",
+    "Description": "",
     "Discount": "60 day trial",
     "Does it drive you into a paid account": "Yes, after 60 days",
     "Requirement": "50% discount on all packages",
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "",
+    "Favicon": "https://prisync.com/wp-content/uploads/2015/03/loggo.png",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
