@@ -582,7 +582,7 @@ export const services = [
     "Discount": "Free during the lockdown",
     "Does it drive you into a paid account": "Maybe, after COVID-19.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/favicon.ico",
     "How to apply (text)": "Use the form on the page.",
     "How to apply (URL or email)": "https://jubiwee.com/en/coronavirus",
     "More info URL": ""
@@ -1156,7 +1156,7 @@ export const services = [
     "Discount": "Free 3 months premium",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "./favicon.ico",
     "How to apply (text)": "Automatic on Sign Up",
     "How to apply (URL or email)": "https://app.startday.dk/createaccount",
     "More info URL": "https://startday.app"
