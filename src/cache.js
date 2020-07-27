@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -302,7 +302,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://www.darwinmail.app/mail/lib/manifest/apple-touch-icon.png",
     "How to apply (text)": "Sign up and then send us an email.",
     "How to apply (URL or email)": "https://www.darwinmail.app/mail",
     "More info URL": ""
@@ -732,7 +732,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://devscore.com",
-    "Description": "",
+    "Description": "DevScore is a Low Code Automation Service for software development teams to automate manual tasks, data synchronizations and reporting of Scrum, CI/CD and Operations.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -1548,7 +1548,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "100% free for COVID-related data projects",
     "Requirement": "100% free for COVID-related data projects",
-    "Favicon": "",
+    "Favicon": "https://databand.ai/wp-content/uploads/2019/11/Databand-Icon-150x150.png",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://databand.ai/request-demo/",
     "More info URL": ""
@@ -1562,7 +1562,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "",
+    "Favicon": "/pwa/apple-icon-180.png?vv2494",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
@@ -2066,7 +2066,7 @@ export const services = [
     "Discount": "50% on Team Plan",
     "Does it drive you into a paid account": "Free version comprises of 5 diagrams",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/static/assets/common/icons/favicons-next/favicon-32x32.png",
     "How to apply (text)": "Use the discount code at the time of purchase",
     "How to apply (URL or email)": "https://creately.com/remote-working-guide/",
     "More info URL": "https://creately.com/"
@@ -2150,7 +2150,7 @@ export const services = [
     "Discount": "Free until 1 June",
     "Does it drive you into a paid account": "No, no payment details required.",
     "Requirement": "Businesses heavily impacted by COVID-19",
-    "Favicon": "",
+    "Favicon": "https://spotonwifi.com/wp-content/uploads/2017/07/cropped-logo-1-32x32.png",
     "How to apply (text)": "Use coupon: FIGHTCOVID",
     "How to apply (URL or email)": "info@spotonwifi.com",
     "More info URL": "https://spotonwifi.com"
