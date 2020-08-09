@@ -396,7 +396,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://helpwise.io",
-    "Description": "",
+    "Description": "Helpwise is an easy to use shared inbox and email collaboration software for teams to manage team email accounts like help@, sales@, etc. Get Shared Inbox for your team now!",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "https://prisync.com/wp-content/uploads/2015/03/loggo.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
