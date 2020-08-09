@@ -1646,7 +1646,7 @@ export const services = [
     "Discount": "Free for 1st year",
     "Does it drive you into a paid account": "No, first year free and no credit card required",
     "Requirement": "New K-12 customers",
-    "Favicon": "",
+    "Favicon": "/favicon-f99f13ec.ico",
     "How to apply (text)": "Complete request trial form",
     "How to apply (URL or email)": "https://www.qualified.io/signup",
     "More info URL": "https://www.qualified.io/blog/posts/qualified-and-codewars-are-free-for-k-12-teachers-and-students"
@@ -2444,7 +2444,7 @@ export const services = [
     "Discount": "250$ credit",
     "Does it drive you into a paid account": "Maybe, but it's a clear discount.",
     "Requirement": "None.",
-    "Favicon": "",
+    "Favicon": "https://d2p3olkzjojwnw.cloudfront.net/app/themes/postaffiliatepro/assets/images/favicon/apple-touch-icon-180x180.png",
     "How to apply (text)": "Send us a message to: andy@postaffiliatepro.com with subject \"SaaS4Covid",
     "How to apply (URL or email)": "https://www.postaffiliatepro.com/trial/",
     "More info URL": "https://www.postaffiliatepro.com/affiliate-marketing-software/"
