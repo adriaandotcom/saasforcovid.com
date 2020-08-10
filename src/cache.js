@@ -2290,7 +2290,7 @@ export const services = [
     "Discount": "6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months, then $15/year",
     "Requirement": "None",
-    "Favicon": "https://static.wixstatic.com/media/f722b2_689398c134714b639e275e1e8ead2555%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/f722b2_689398c134714b639e275e1e8ead2555%7Emv2.png",
+    "Favicon": "",
     "How to apply (text)": "Just Sign up from Homepage or other pages",
     "How to apply (URL or email)": "https://www.hostitor.com/sign-up",
     "More info URL": "https://www.hostitor.com/"
