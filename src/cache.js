@@ -3974,5 +3974,19 @@ export const services = [
     "How to apply (text)": "",
     "How to apply (URL or email)": "",
     "More info URL": ""
+  },
+  {
+    "Name": "Networks.bio",
+    "Approved": "",
+    "Category": "Social Media",
+    "URL": "https://networks.bio",
+    "Description": "",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
