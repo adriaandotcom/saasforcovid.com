@@ -32,7 +32,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://airtable.com",
-    "Description": "",
+    "Description": "Airtable works like a spreadsheet but gives you the power of a database to organize anything. Sign up for free.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free trial",
     "Requirement": "Airtable is making Airtable Pro available for free to any non-political humanitarian group that is working on COVID-19 relief efforts.",
@@ -106,7 +106,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you get an extended free trial (6 months), no credit card needed.",
     "Requirement": "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
-    "Favicon": "https://mindwave.app/assets/favicons/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Email: support@mindwave.app",
     "How to apply (URL or email)": "support@mindwave.app",
     "More info URL": "https://mindwave.app/stories/covid-19-and-my-tiny-contribution-LVjv0V"
@@ -218,7 +218,7 @@ export const services = [
     "Discount": "Job posting for $3",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "Disable logo options to get full discount.",
-    "Favicon": "/assets/apple-icon-57x57.png?2",
+    "Favicon": "",
     "How to apply (text)": "Just post a job",
     "How to apply (URL or email)": "https://remoteok.io/hire-remotely",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -1254,7 +1254,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://kidpofy.com/assets/img/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://kidpofy.com",
     "More info URL": ""
@@ -1674,7 +1674,7 @@ export const services = [
     "Discount": "Buy 3 months, Get 3 months for Free",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://bmaas-web-platform-assets.s3.amazonaws.com/public/assets/favicons/favicon-32.png",
     "How to apply (text)": "Sign up and use code COVID19",
     "How to apply (URL or email)": "https://amaas.adext.ai/register",
     "More info URL": "WWW.ADEXT.AI"
@@ -1758,7 +1758,7 @@ export const services = [
     "Discount": "100% for the Standard plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Only Standard plan and for all companies fighting COVID-19",
-    "Favicon": "",
+    "Favicon": "https://assets.website-files.com/5933fd4773e44b4d95d597e8/5c76a05d245b51182dc5c1e3_remme-favicon-purple.png",
     "How to apply (text)": "Fill out Contact Us form",
     "How to apply (URL or email)": "https://remme.io/contact-us",
     "More info URL": "https://remme.io/keyhub"
@@ -2038,7 +2038,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, but after 6 months you'll move to a lower volume forever free plan",
     "Requirement": "None",
-    "Favicon": "/images/favicons/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Reply to the welcome email + mention COVID-19",
     "How to apply (URL or email)": "https://continual.ly/",
     "More info URL": "https://continual.ly/"
@@ -2304,7 +2304,7 @@ export const services = [
     "Discount": "60%",
     "Does it drive you into a paid account": "Maybe, after September",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "/assets/icon/app-icon-16x16.72f28ae09f4439ca8c38298f62ab89f0a587297b.png",
+    "Favicon": "",
     "How to apply (text)": "Just sign up or open chat on pricing page.",
     "How to apply (URL or email)": "https://ideanote.it",
     "More info URL": "https://ideanote.io"
