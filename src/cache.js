@@ -708,7 +708,7 @@ export const services = [
     "Discount": "Free GPUs",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://assets.website-files.com/5db99670374d1d829291af4f/5f0c831db773eb676c5048a1_Webclip-PaperspaceMixed.png",
+    "Favicon": "",
     "How to apply (text)": "Signup and email support@paperspace.com",
     "How to apply (URL or email)": "https://www.paperspace.com",
     "More info URL": ""
@@ -988,7 +988,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 response and recovery management",
-    "Favicon": "https://www.senseilabs.com/wp-content/themes/senseilabs/favicon-16x16.png",
+    "Favicon": "",
     "How to apply (text)": "Fill in the form and we'll get you setup",
     "How to apply (URL or email)": "https://hello.senseilabs.com/conductor-for-covid19",
     "More info URL": "https://www.senseilabs.com/conductor/conductor-for-covid-19/"
@@ -1884,7 +1884,7 @@ export const services = [
     "Discount": "$0.01 for earch search",
     "Does it drive you into a paid account": "Yes, but only $0.01",
     "Requirement": "None.",
-    "Favicon": "/assets/icons/apple-icon-120x120.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "http://unicorn-nest.com/",
     "More info URL": ""
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
@@ -2192,7 +2192,7 @@ export const services = [
     "Discount": "30% for 3 months",
     "Does it drive you into a paid account": "Maybe, but you get a clear discount so you know upfront.",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://reportei.com/wp-content/uploads/2017/11/favicon-150x150.png",
     "How to apply (text)": "Use coupon: SAASFORCOVID",
     "How to apply (URL or email)": "https://reportei.com/en/",
     "More info URL": ""
