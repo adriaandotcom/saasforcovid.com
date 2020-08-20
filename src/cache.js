@@ -78,7 +78,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, but this free plan has no custom domain.",
     "Requirement": "Install add-on",
-    "Favicon": "",
+    "Favicon": "../img/faviconnew.png",
     "How to apply (text)": "Use the button below",
     "How to apply (URL or email)": "https://sheet2site.com/coronavirus",
     "More info URL": ""
@@ -1334,7 +1334,7 @@ export const services = [
     "Approved": "",
     "Category": "Remote Work",
     "URL": "https://legaler.com",
-    "Description": "",
+    "Description": "Legaler offers free tools to help you schedule, host and archive online meetings securely in your browser with end-to-end encryption for video calls and messaging. Meet Smarter. Meet Legaler.",
     "Discount": "Free for 12 months",
     "Does it drive you into a paid account": "Maybe, after 12 months.",
     "Requirement": "Solo Lawyers, Law firms, Law Students, Legal support",
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "https://prisync.com/wp-content/uploads/2015/03/loggo.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
