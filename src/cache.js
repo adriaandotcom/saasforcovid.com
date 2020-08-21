@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -736,7 +736,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./assets/img/brand/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup and email support@devscore.com",
     "How to apply (URL or email)": "support@devscore.com",
     "More info URL": ""
@@ -848,7 +848,7 @@ export const services = [
     "Discount": "Free for up to 10,000 PDFs / mo, then an 85% discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 related project (not-for-profit)",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up for free, then email support@docspring.com",
     "How to apply (URL or email)": "https://docspring.com",
     "More info URL": ""
@@ -932,7 +932,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months can cancel subscription or upgrade",
     "Requirement": "Non-profit working on Covid-19 related response",
-    "Favicon": "https://uploads-ssl.webflow.com/59a7997fdd2379000163012d/59ab48202231fd0001f39587_Artboard.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up and contact support@cozycal.com for coupon code",
     "How to apply (URL or email)": "support@cozycal.com",
     "More info URL": "https://www.cozycal.com/"
@@ -1404,7 +1404,7 @@ export const services = [
     "Approved": "",
     "Category": "Lead generation",
     "URL": "https://customfit.ai",
-    "Description": "Convert visitors to quality leads by personalizing website for each visitor",
+    "Description": "",
     "Discount": "15%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
@@ -1548,7 +1548,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "100% free for COVID-related data projects",
     "Requirement": "100% free for COVID-related data projects",
-    "Favicon": "https://databand.ai/wp-content/uploads/2019/11/Databand-Icon.png",
+    "Favicon": "",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://databand.ai/request-demo/",
     "More info URL": ""
@@ -2080,7 +2080,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for charities, heavy discounts for restaurants etc",
-    "Favicon": "images/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up and then contact them via the chat inside the app",
     "How to apply (URL or email)": "https://getcircuit.com/blog/covid-19-free-for-charities-90-off-for-restaurants/",
     "More info URL": "https://getcircuit.com/team/"
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "",
+    "Favicon": "https://prisync.com/wp-content/uploads/2015/03/loggo.png",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
