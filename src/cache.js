@@ -400,7 +400,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
-    "Favicon": "https://cdn.helpwise.io/assets/images/favicon.png",
+    "Favicon": "//cdn.helpwise.io/assets/images/favicon.png",
     "How to apply (text)": "Signup & upgrade. Ping support for 20% off for 12 months.",
     "How to apply (URL or email)": "https://helpwise.io",
     "More info URL": ""
@@ -1408,7 +1408,7 @@ export const services = [
     "Discount": "15%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
-    "Favicon": "https://cdn.landen.co/29al446fkkuj/assets/fygh642g.png",
+    "Favicon": "",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://customfit.ai/demo",
     "More info URL": "https://customfit.ai/playbook"
@@ -1828,7 +1828,7 @@ export const services = [
     "Discount": "100% discount for 3 months",
     "Does it drive you into a paid account": "Yes. Email support@coda.io for full details.",
     "Requirement": "Available to new and existing users for COVID-19 related purposes (see description)",
-    "Favicon": "https://cdn.coda.io/icons/png/color/coda-32.png",
+    "Favicon": "https://cdn.coda.io/icons/png/color/coda-apple-120.png",
     "How to apply (text)": "Email support@coda.io",
     "How to apply (URL or email)": "support@coda.io",
     "More info URL": ""
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "https://prisync.com/wp-content/uploads/2015/03/loggo.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
