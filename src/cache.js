@@ -778,7 +778,7 @@ export const services = [
     "Discount": "Free for 3 months for SMBs",
     "Does it drive you into a paid account": "No, you are welcome to sign up if you end up loving it, though.",
     "Requirement": "Having less than 20 agents.",
-    "Favicon": "/img/graphics/favicon20150812.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up for a demo, then tell the rep you want the 3 months free plan.",
     "How to apply (URL or email)": "https://www.queuemetrics-live.com/landing/covid19.jsp",
     "More info URL": ""
@@ -876,7 +876,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project",
-    "Favicon": "",
+    "Favicon": "/favicon-196x196.png",
     "How to apply (text)": "Email info@vectorspace.ai or visit https://vectorspace.ai",
     "How to apply (URL or email)": "info@vectorspace.ai",
     "More info URL": "https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html?tc=eml_cleartime"
@@ -1016,7 +1016,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid-19 related",
-    "Favicon": "https://coast-wp.imgix.net/img/icons/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Sign up for free",
     "How to apply (URL or email)": "https://coastapp.com",
     "More info URL": ""
@@ -1296,7 +1296,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "/static/karen/favicons/apple-icon-57x57.png",
+    "Favicon": "/static/karen/favicons/android-icon-192x192.png",
     "How to apply (text)": "Use code SixMo50 for discount",
     "How to apply (URL or email)": "https://karenapp.io",
     "More info URL": "https://karenapp.io"
