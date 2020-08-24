@@ -92,7 +92,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "resources/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Email: erwin@sparklybot.com",
     "How to apply (URL or email)": "erwin@sparklybot.com",
     "More info URL": "https://sparklybot.com"
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organized place from 60+ remote job boards, company career pages, AngelList, Linkedin, Reddit, Twitter, Facebook groups and Hacker news hiring",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -876,7 +876,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project",
-    "Favicon": "",
+    "Favicon": "/favicon-196x196.png",
     "How to apply (text)": "Email info@vectorspace.ai or visit https://vectorspace.ai",
     "How to apply (URL or email)": "info@vectorspace.ai",
     "More info URL": "https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html?tc=eml_cleartime"
@@ -1404,7 +1404,7 @@ export const services = [
     "Approved": "",
     "Category": "Lead generation",
     "URL": "https://customfit.ai",
-    "Description": "",
+    "Description": "Convert visitors to quality leads by personalizing website for each visitor",
     "Discount": "15%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
@@ -1898,7 +1898,7 @@ export const services = [
     "Discount": "$1/mo per location",
     "Does it drive you into a paid account": "Yes, but only $1/month",
     "Requirement": "none",
-    "Favicon": "",
+    "Favicon": "/favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com"
@@ -1954,7 +1954,7 @@ export const services = [
     "Discount": "Free meetings during COVID, Webinars 20% Discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/favicon.ico",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://livestorm.co/blog/livestorm-and-covid-19/",
     "More info URL": "https://livestorm.co/"
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "https://prisync.com/wp-content/uploads/2015/03/loggo-150x150.png",
+    "Favicon": "https://prisync.com/wp-content/uploads/2015/03/loggo.png",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
@@ -2318,7 +2318,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after July",
     "Requirement": "Covid-19 related projects (website, apps, iniatives looking for sponsors, online events to support artists...)",
-    "Favicon": "https://assets.website-files.com/img/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Sign Up and contact us using the chat.",
     "How to apply (URL or email)": "contact@sponseasy.com",
     "More info URL": "https://sponseasy.com/#covidhelp"
