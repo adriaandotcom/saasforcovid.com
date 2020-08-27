@@ -130,11 +130,11 @@ export const services = [
     "Approved": "Yes",
     "Category": "Incident Management",
     "URL": "https://spike.sh",
-    "Description": "Spike is a simple incident management platform that alerts via slack, phone and email and automatic escalations to help teams fix infrastructure problems.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "/spike-badge-180.png",
+    "Favicon": "/spike-badge-icon.png",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "https://prisync.com/wp-content/uploads/2015/03/loggo-150x150.png",
+    "Favicon": "https://prisync.com/wp-content/uploads/2015/03/loggo.png",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
@@ -2276,7 +2276,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "/img/favicons/favicon-64.ico",
+    "Favicon": "/img/favicons/apple-touch-icon.png",
     "How to apply (text)": "Signup online, use promo code ZACHRANNYKRUH",
     "How to apply (URL or email)": "https://app.freelo.cz/premium/checkout/choose-plan",
     "More info URL": "https://freelo.app/"
