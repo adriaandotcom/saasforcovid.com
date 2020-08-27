@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "/assets/icon128-53d136bb0aa1c128a1a32fc3630d28eb4d3659aaa9fc748839e8d489221fe2f9.png",
+    "Favicon": "",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -1040,7 +1040,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Low-Code/No-Code",
     "URL": "http://www.workato.com",
-    "Description": "",
+    "Description": "Workato, a leader in Gartner MQ, is more than an iPaaS. It's an Intelligent Automation platform that can be used by both Business and IT. It supports thousands of enterprise and workflow usecases so you can automate everything.",
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Covid-19 related, Some partners have offered to help with free/discounted services",
@@ -1674,7 +1674,7 @@ export const services = [
     "Discount": "Buy 3 months, Get 3 months for Free",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://bmaas-web-platform-assets.s3.amazonaws.com/public/assets/favicons/favicon-32.png",
     "How to apply (text)": "Sign up and use code COVID19",
     "How to apply (URL or email)": "https://amaas.adext.ai/register",
     "More info URL": "WWW.ADEXT.AI"
@@ -1898,7 +1898,7 @@ export const services = [
     "Discount": "$1/mo per location",
     "Does it drive you into a paid account": "Yes, but only $1/month",
     "Requirement": "none",
-    "Favicon": "/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com"
