@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -582,7 +582,7 @@ export const services = [
     "Discount": "Free during the lockdown",
     "Does it drive you into a paid account": "Maybe, after COVID-19.",
     "Requirement": "",
-    "Favicon": "/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Use the form on the page.",
     "How to apply (URL or email)": "https://jubiwee.com/en/coronavirus",
     "More info URL": ""
@@ -946,7 +946,7 @@ export const services = [
     "Discount": "Free 3 month 5 person business plan",
     "Does it drive you into a paid account": "Maybe, after 3 months or more than 5 persons",
     "Requirement": "Organizations with 50+ employees/volunteers and 30 minute on-boarding required",
-    "Favicon": "",
+    "Favicon": "//shiftx.imgix.net/images/public/favicon.pdf?fm=png&w=57&h=57",
     "How to apply (text)": "Chat bubble on https://shiftx.com or support@shiftx.com",
     "How to apply (URL or email)": "support@shiftx.com",
     "More info URL": ""
@@ -1128,7 +1128,7 @@ export const services = [
     "Discount": "Free for 4 months",
     "Does it drive you into a paid account": "Maybe, after 4 months.",
     "Requirement": "Eligible for first responders, healthcare workers, and nonprofits that want to help their communities.",
-    "Favicon": "",
+    "Favicon": "//cdn.jotfor.ms/favicon.ico",
     "How to apply (text)": "Applications can be made through a JotForm",
     "How to apply (URL or email)": "https://www.jotform.com/corona-responder-program/apply/#form",
     "More info URL": "https://www.jotform.com/corona-responder-program/"
@@ -1506,7 +1506,7 @@ export const services = [
     "Discount": "Free for 1st month (or as long as needed)",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "No requirement (all customers receive a free month)",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "Sign up on the website and use the code WFH",
     "How to apply (URL or email)": "https://air.inc",
     "More info URL": ""
@@ -1674,7 +1674,7 @@ export const services = [
     "Discount": "Buy 3 months, Get 3 months for Free",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://bmaas-web-platform-assets.s3.amazonaws.com/public/assets/favicons/favicon-32.png",
     "How to apply (text)": "Sign up and use code COVID19",
     "How to apply (URL or email)": "https://amaas.adext.ai/register",
     "More info URL": "WWW.ADEXT.AI"
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "",
+    "Favicon": "https://prisync.com/wp-content/uploads/2015/03/loggo-150x150.png",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
@@ -2192,7 +2192,7 @@ export const services = [
     "Discount": "30% for 3 months",
     "Does it drive you into a paid account": "Maybe, but you get a clear discount so you know upfront.",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://reportei.com/wp-content/uploads/2017/11/favicon-150x150.png",
     "How to apply (text)": "Use coupon: SAASFORCOVID",
     "How to apply (URL or email)": "https://reportei.com/en/",
     "More info URL": ""
