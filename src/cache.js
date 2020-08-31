@@ -190,7 +190,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "Public stats + link in footer of project",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Fill in their contact form or use their chat widget",
     "How to apply (URL or email)": "https://simpleanalytics.com/contact",
     "More info URL": ""
@@ -680,7 +680,7 @@ export const services = [
     "Discount": "Free for two months",
     "Does it drive you into a paid account": "Maybe, after two months.",
     "Requirement": "SafetyAmp is making its platform available free for two months for teams needing COVID-19 auditing capabilities",
-    "Favicon": "",
+    "Favicon": "https://uploads-ssl.webflow.com/5ef3803d773621e809fa8be3/5f11fbceb58409168924702d_iphone.png",
     "How to apply (text)": "Email sales@safetyamp.com",
     "How to apply (URL or email)": "https://safetyamp.com/covid19/",
     "More info URL": ""
@@ -862,7 +862,7 @@ export const services = [
     "Discount": "Free for 3 months (personal), unlimited free for nonprofits",
     "Does it drive you into a paid account": "Yes, after 3 months",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://d1eub78dsdxite.cloudfront.net/assets/apple-touch-icon-af9d74c4734f670b96632b59348c6a5a75ad90bd186296a7faa3395c8c4d2a76.png",
     "How to apply (text)": "Signup and email support@tefter.io or use the covid-19 code (for personal accounts only)",
     "How to apply (URL or email)": "https://tefter.io/users/sign_up?promocode=covid-19",
     "More info URL": ""
@@ -1912,7 +1912,7 @@ export const services = [
     "Discount": "40% Discount",
     "Does it drive you into a paid account": "Yes, but you get a lot of value for a fair price.",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "fav/apple-touch-icon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://rulecontent.com/?cov=1",
     "More info URL": "https://rulecontent.com/?cov=1"
@@ -2136,7 +2136,7 @@ export const services = [
     "Discount": "$6 off on Starter Pack Yearly",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "https://chartsfactory.com/shortcut-11.png",
+    "Favicon": "https://chartsfactory.com/shortcut-01.png",
     "How to apply (text)": "Use coupon code thanksyearly",
     "How to apply (URL or email)": "https://chartsfactory.com/#pricing",
     "More info URL": "https://chartsfactory.com"
