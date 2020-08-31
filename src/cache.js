@@ -2290,7 +2290,7 @@ export const services = [
     "Discount": "6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months, then $15/year",
     "Requirement": "None",
-    "Favicon": "favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Just Sign up from Homepage or other pages",
     "How to apply (URL or email)": "https://www.hostitor.com/sign-up",
     "More info URL": "https://www.hostitor.com/"
