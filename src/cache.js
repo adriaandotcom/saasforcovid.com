@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "",
+    "Favicon": "/spike-badge-180.png",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -144,7 +144,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Writing Tools",
     "URL": "https://www.getoutline.com",
-    "Description": "",
+    "Description": "A modern team knowledge base for your internal documentation, product specs, support answers, meeting notes, onboarding, & more…",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 projects. Discounts available for affected industries",
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -470,7 +470,7 @@ export const services = [
     "Discount": "Free 1 dashboard",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "Free 1 dashboard for 12 months.",
-    "Favicon": "",
+    "Favicon": "https://assets-global.website-files.com/5bc779c7cb6515eacd17ad0f/5be5b664be7e638f340f9531_grow-webclip.png",
     "How to apply (text)": "Fill out form on landing page",
     "How to apply (URL or email)": "https://www.grow.com/free-business-intelligence-spreadsheet-dashboard",
     "More info URL": ""
@@ -596,7 +596,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "Healthcare organizations only.",
-    "Favicon": "",
+    "Favicon": "https://uploads-ssl.webflow.com/img/webclip.png",
     "How to apply (text)": "Just signup",
     "How to apply (URL or email)": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/",
     "More info URL": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/"
@@ -1156,7 +1156,7 @@ export const services = [
     "Discount": "Free 3 months premium",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Automatic on Sign Up",
     "How to apply (URL or email)": "https://app.startday.dk/createaccount",
     "More info URL": "https://startday.app"
@@ -1170,7 +1170,7 @@ export const services = [
     "Discount": "Free Enterprise plan for the duration of the COVID-19 pandemic",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid-19 related projects like apps, websites and other digital platforms built on Firebase",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=454696de42794630a1b3a9cc72b943b6",
     "How to apply (text)": "Sign-up for a 14-day free trial and contact our support team",
     "How to apply (URL or email)": "https://app.flamelink.io/register",
     "More info URL": ""
@@ -1362,7 +1362,7 @@ export const services = [
     "Approved": "",
     "Category": "Finance",
     "URL": "https://upflow.io",
-    "Description": "",
+    "Description": "Stop wasting time and automate customer payments reminders. With Upflow, businesses quickly collect unpaid invoices and reduce overdue payments by 50%.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
@@ -1758,7 +1758,7 @@ export const services = [
     "Discount": "100% for the Standard plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Only Standard plan and for all companies fighting COVID-19",
-    "Favicon": "",
+    "Favicon": "https://assets.website-files.com/5933fd4773e44b4d95d597e8/5c76a05d245b51182dc5c1e3_remme-favicon-purple.png",
     "How to apply (text)": "Fill out Contact Us form",
     "How to apply (URL or email)": "https://remme.io/contact-us",
     "More info URL": "https://remme.io/keyhub"
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "",
+    "Favicon": "https://prisync.com/wp-content/uploads/2015/03/loggo.png",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
