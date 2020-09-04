@@ -1310,7 +1310,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "Nonprofit Covid-19 response project",
-    "Favicon": "/static/head/favicon/apple-touch-icon-57x57.png",
+    "Favicon": "",
     "How to apply (text)": "Submit a request form",
     "How to apply (URL or email)": "https://try.typeform.com/covid-19/",
     "More info URL": "https://try.typeform.com/covid-19/"
@@ -1562,7 +1562,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "/pwa/apple-icon-180.png?vv2570",
+    "Favicon": "/pwa/apple-icon-180.png?vv2571",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
@@ -1604,7 +1604,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months",
     "Requirement": "None",
-    "Favicon": "https://collegelife.co/work/wp-content/uploads/2019/06/cropped-cropped-Artboard-1-2-1-180x180.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up and send email with subject \"COVID\" to info@collegelife.co",
     "How to apply (URL or email)": "info@collegelife.co",
     "More info URL": "https://collegelife.co/nl/employers/"
@@ -2290,7 +2290,7 @@ export const services = [
     "Discount": "6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months, then $15/year",
     "Requirement": "None",
-    "Favicon": "favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Just Sign up from Homepage or other pages",
     "How to apply (URL or email)": "https://www.hostitor.com/sign-up",
     "More info URL": "https://www.hostitor.com/"
