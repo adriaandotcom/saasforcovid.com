@@ -78,7 +78,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, but this free plan has no custom domain.",
     "Requirement": "Install add-on",
-    "Favicon": "../img/faviconnew.png",
+    "Favicon": "",
     "How to apply (text)": "Use the button below",
     "How to apply (URL or email)": "https://sheet2site.com/coronavirus",
     "More info URL": ""
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from tons of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -1828,7 +1828,7 @@ export const services = [
     "Discount": "100% discount for 3 months",
     "Does it drive you into a paid account": "Yes. Email support@coda.io for full details.",
     "Requirement": "Available to new and existing users for COVID-19 related purposes (see description)",
-    "Favicon": "https://cdn.coda.io/icons/png/color/coda-apple-120.png",
+    "Favicon": "",
     "How to apply (text)": "Email support@coda.io",
     "How to apply (URL or email)": "support@coda.io",
     "More info URL": ""
@@ -2038,7 +2038,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, but after 6 months you'll move to a lower volume forever free plan",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/images/favicons/favicon.ico",
     "How to apply (text)": "Reply to the welcome email + mention COVID-19",
     "How to apply (URL or email)": "https://continual.ly/",
     "More info URL": "https://continual.ly/"
