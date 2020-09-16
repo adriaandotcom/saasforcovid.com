@@ -158,7 +158,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://getlowdown.com",
-    "Description": "",
+    "Description": "Stop paying attention to channels that distract from work. Get an email digest of highlights with Lowdown. Coming soon.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for Slack groups helping with COVID-19",
@@ -1212,7 +1212,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related for educational institutions and teachers",
-    "Favicon": "https://www.mindmeister.com/mm_favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Submit a request via a form",
     "How to apply (URL or email)": "https://docs.google.com/forms/d/e/1FAIpQLSeDB4wwXfF50axq-f--NRQUhwgjUgweMPKlSRQI9ul9rJ8gVA/viewform",
     "More info URL": "https://www.meisterlabs.com/meister-for-educators/"
@@ -1380,7 +1380,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=d2c09b48cc97a2e6ba622e1da0d45c2f",
     "How to apply (text)": "There is already 50% discount on yearly subscription https://nocodeapi.com/pricing",
     "How to apply (URL or email)": "https://nocodeapi.com/pricing",
     "More info URL": "https://nocodeapi.com/what-is-nocodeapi"
