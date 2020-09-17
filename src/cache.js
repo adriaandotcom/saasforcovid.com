@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -358,7 +358,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 6 months free usage.",
     "Requirement": "To use for a covid-related site or tool, link back appreciated.",
-    "Favicon": "/favicon-32x32.png?v=5df5528946772487a6ab462ff2125f26",
+    "Favicon": "",
     "How to apply (text)": "Email: support@polypane.app",
     "How to apply (URL or email)": "support@polypane.app",
     "More info URL": "https://polypane.app"
@@ -708,7 +708,7 @@ export const services = [
     "Discount": "Free GPUs",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://assets-global.website-files.com/5db99670374d1d829291af4f/5f0c831db773eb676c5048a1_Webclip-PaperspaceMixed.png",
+    "Favicon": "",
     "How to apply (text)": "Signup and email support@paperspace.com",
     "How to apply (URL or email)": "https://www.paperspace.com",
     "More info URL": ""
@@ -932,7 +932,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months can cancel subscription or upgrade",
     "Requirement": "Non-profit working on Covid-19 related response",
-    "Favicon": "https://uploads-ssl.webflow.com/59a7997fdd2379000163012d/59ab48202231fd0001f39587_Artboard.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up and contact support@cozycal.com for coupon code",
     "How to apply (URL or email)": "support@cozycal.com",
     "More info URL": "https://www.cozycal.com/"
@@ -1268,7 +1268,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Business/brand has an email newsletter",
-    "Favicon": "https://letterwell.co/wp-content/uploads/2019/10/cropped-7F91324F-2C7C-45C5-9FF4-1FEAE78967E8-180x180.jpeg",
+    "Favicon": "",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://letterwell.co",
     "More info URL": "https://letterwell.co/about"
@@ -1478,7 +1478,7 @@ export const services = [
     "Discount": "Free for life; 30% off all paid plans",
     "Does it drive you into a paid account": "Maybe, only if you hit limits of the free Starter Plan",
     "Requirement": "New customers",
-    "Favicon": "https://mlcfk4eggqht.i.optimole.com/QPViMsA-6Ee4w9uC/w:auto/h:auto/q:auto/https://i1.wp.com/foxbound.io/wp-content/uploads/2019/06/cropped-full-Color-Logo-1.png?fit=180%2C180&ssl=1",
+    "Favicon": "",
     "How to apply (text)": "Use the code, REBOUND30, in the Billing area",
     "How to apply (URL or email)": "https://app.foxbound.io/users/sign_up",
     "More info URL": "https://foxbound.io/project-rebound-remote-sales/"
@@ -1562,7 +1562,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "/pwa/apple-icon-180.png?vv2585",
+    "Favicon": "/pwa/apple-icon-180.png?vv2586",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
@@ -2024,7 +2024,7 @@ export const services = [
     "Discount": "25%",
     "Does it drive you into a paid account": "Maybe, but it's one-time payment",
     "Requirement": "",
-    "Favicon": "https://aok4q44obo-flywheel.netdna-ssl.com/wp-content/uploads/cropped-logo-icon-180x180.png",
+    "Favicon": "",
     "How to apply (text)": "License music",
     "How to apply (URL or email)": "https://musicformakers.com/",
     "More info URL": "https://musicformakers.com/"
@@ -2094,7 +2094,7 @@ export const services = [
     "Discount": "45 days FREE for existing paid customers",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "You have to be an existing paid user of Automate.io. If you downgrade to the free plan, you can avail the 45-day FREE offer.",
-    "Favicon": "",
+    "Favicon": "/assets/img/favicon.png",
     "How to apply (text)": "In the 'Downgrade to Free Plan' page in your account, select the reason for cancellation as Coronavirus/Covid-19 and click 'Avail 45-day Free Offer'",
     "How to apply (URL or email)": "help@automate.io",
     "More info URL": ""
@@ -2108,7 +2108,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "https://hellonext.co/favicons/favicon-152-precomposed.png",
+    "Favicon": "",
     "How to apply (text)": "Just ping us on chat on the website.",
     "How to apply (URL or email)": "https://hellonext.co",
     "More info URL": "https://hellonext.co"
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "https://prisync.com/wp-content/uploads/2015/03/loggo-150x150.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
