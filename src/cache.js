@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "",
+    "Favicon": "/spike-badge-180.png",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -190,7 +190,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "Public stats + link in footer of project",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "/favicon-32x32.png",
     "How to apply (text)": "Fill in their contact form or use their chat widget",
     "How to apply (URL or email)": "https://simpleanalytics.com/contact",
     "More info URL": ""
@@ -344,7 +344,7 @@ export const services = [
     "Discount": "30%",
     "Does it drive you into a paid account": "Maybe, it's a discount",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/img/favicons/apple-icon-57x57.png",
     "How to apply (text)": "Coupon: PROXYMAN_STAY_SAFE_STAY_HEALTHY",
     "How to apply (URL or email)": "https://proxyman.io/pricing",
     "More info URL": ""
@@ -2304,7 +2304,7 @@ export const services = [
     "Discount": "60%",
     "Does it drive you into a paid account": "Maybe, after September",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "",
+    "Favicon": "/assets/icon/app-icon-16x16.72f28ae09f4439ca8c38298f62ab89f0a587297b.png",
     "How to apply (text)": "Just sign up or open chat on pricing page.",
     "How to apply (URL or email)": "https://ideanote.it",
     "More info URL": "https://ideanote.io"
