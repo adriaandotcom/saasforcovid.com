@@ -106,7 +106,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you get an extended free trial (6 months), no credit card needed.",
     "Requirement": "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
-    "Favicon": "https://mindwave.app/assets/favicons/apple-touch-icon.png",
+    "Favicon": "https://mindwave.app/assets/favicons/favicon-32x32.png",
     "How to apply (text)": "Email: support@mindwave.app",
     "How to apply (URL or email)": "support@mindwave.app",
     "More info URL": "https://mindwave.app/stories/covid-19-and-my-tiny-contribution-LVjv0V"
@@ -186,7 +186,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Analytics",
     "URL": "https://simpleanalytics.com",
-    "Description": "Simple Analytics gives you the analytics you need without invading the privacy of your users, with a clean interface, and simple integration. GDPR, CCPA and, PECR comliant because we don't handle PII data and set no cookies.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "Public stats + link in footer of project",
@@ -358,7 +358,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 6 months free usage.",
     "Requirement": "To use for a covid-related site or tool, link back appreciated.",
-    "Favicon": "/favicon-32x32.png?v=5df5528946772487a6ab462ff2125f26",
+    "Favicon": "/icons/icon-48x48.png?v=5df5528946772487a6ab462ff2125f26",
     "How to apply (text)": "Email: support@polypane.app",
     "How to apply (URL or email)": "support@polypane.app",
     "More info URL": "https://polypane.app"
@@ -1110,7 +1110,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Low-Code/No-Code",
     "URL": "https://www.crowdbotics.com",
-    "Description": "",
+    "Description": "It's not low-code, it's full code made easy. Build business-ready software, apps, integrations, and more with the Crowdbotics App Builder. Hire certified PMs and developers to help build your project at any time.",
     "Discount": "15 free development hours for health-care related apps supporting the Coronavirus crisis. Waived blueprint fees for restaurant or small business who needs to transition to online orders.",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "Health-care related apps supporting the Coronavirus crisis. Small businesses transitioning to an online business model.",
@@ -1310,7 +1310,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "Nonprofit Covid-19 response project",
-    "Favicon": "/static/head/favicon/favicon-32x32.png",
+    "Favicon": "/static/head/favicon/apple-touch-icon-57x57.png",
     "How to apply (text)": "Submit a request form",
     "How to apply (URL or email)": "https://try.typeform.com/covid-19/",
     "More info URL": "https://try.typeform.com/covid-19/"
@@ -1478,7 +1478,7 @@ export const services = [
     "Discount": "Free for life; 30% off all paid plans",
     "Does it drive you into a paid account": "Maybe, only if you hit limits of the free Starter Plan",
     "Requirement": "New customers",
-    "Favicon": "https://mlcfk4eggqht.i.optimole.com/QPViMsA-6Ee4w9uC/w:auto/h:auto/q:auto/https://i1.wp.com/foxbound.io/wp-content/uploads/2019/06/cropped-full-Color-Logo-1.png?fit=180%2C180&ssl=1",
+    "Favicon": "",
     "How to apply (text)": "Use the code, REBOUND30, in the Billing area",
     "How to apply (URL or email)": "https://app.foxbound.io/users/sign_up",
     "More info URL": "https://foxbound.io/project-rebound-remote-sales/"
@@ -1758,7 +1758,7 @@ export const services = [
     "Discount": "100% for the Standard plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Only Standard plan and for all companies fighting COVID-19",
-    "Favicon": "https://assets.website-files.com/5933fd4773e44b4d95d597e8/5c76a05d245b51182dc5c1e3_remme-favicon-purple.png",
+    "Favicon": "",
     "How to apply (text)": "Fill out Contact Us form",
     "How to apply (URL or email)": "https://remme.io/contact-us",
     "More info URL": "https://remme.io/keyhub"
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/favicon.ico",
+    "Favicon": "/favicon-32x32.png",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
