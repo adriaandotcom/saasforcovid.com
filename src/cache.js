@@ -284,7 +284,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://burnermail.io",
-    "Description": "One-click burner email addresses that you can use when signing up on websites to protect your identity and prevent your personal email address from being sold or spammed.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe, the discount is only applied to the first charge but it's possible to select 3 years. It will renew with normal pricing.",
     "Requirement": "",
@@ -1478,7 +1478,7 @@ export const services = [
     "Discount": "Free for life; 30% off all paid plans",
     "Does it drive you into a paid account": "Maybe, only if you hit limits of the free Starter Plan",
     "Requirement": "New customers",
-    "Favicon": "https://mlcfk4eggqht.i.optimole.com/QPViMsA-6Ee4w9uC/w:auto/h:auto/q:auto/https://i1.wp.com/foxbound.io/wp-content/uploads/2019/06/cropped-full-Color-Logo-1.png?fit=32%2C32&ssl=1",
+    "Favicon": "",
     "How to apply (text)": "Use the code, REBOUND30, in the Billing area",
     "How to apply (URL or email)": "https://app.foxbound.io/users/sign_up",
     "More info URL": "https://foxbound.io/project-rebound-remote-sales/"
