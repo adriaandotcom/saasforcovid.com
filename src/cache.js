@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "",
+    "Favicon": "/spike-badge-icon.png",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -942,7 +942,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Productivity Tools",
     "URL": "https://shiftx.com",
-    "Description": "",
+    "Description": "Collaborate on business processes with a visual language that everyone understands.",
     "Discount": "Free 3 month 5 person business plan",
     "Does it drive you into a paid account": "Maybe, after 3 months or more than 5 persons",
     "Requirement": "Organizations with 50+ employees/volunteers and 30 minute on-boarding required",
@@ -2136,7 +2136,7 @@ export const services = [
     "Discount": "$6 off on Starter Pack Yearly",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://chartsfactory.com/shortcut-11.png",
     "How to apply (text)": "Use coupon code thanksyearly",
     "How to apply (URL or email)": "https://chartsfactory.com/#pricing",
     "More info URL": "https://chartsfactory.com"
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "",
+    "Favicon": "https://prisync.com/wp-content/uploads/2015/03/loggo-150x150.png",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
@@ -2262,7 +2262,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 10 employees",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "./apple-touch-icon.png",
     "How to apply (text)": "Signup online",
     "How to apply (URL or email)": "https://bundy.io",
     "More info URL": "https://bundy.io"
