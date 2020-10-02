@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -1520,7 +1520,7 @@ export const services = [
     "Discount": "Free for the rest of 2020",
     "Does it drive you into a paid account": "No, no need for payment information and free for the rest of 2020",
     "Requirement": "Healthcare organisations",
-    "Favicon": "",
+    "Favicon": "https://www.kernelcare.com/wp-content/uploads/2019/09/index-150x150.png",
     "How to apply (text)": "Sign up and we will jump in to help with deployment on all your servers",
     "How to apply (URL or email)": "https://lp.kernelcare.com/kernelcare-for-free-for-healthcare",
     "More info URL": "https://www.kernelcare.com/product/"
@@ -1618,7 +1618,7 @@ export const services = [
     "Discount": "Free for 2 months",
     "Does it drive you into a paid account": "No, they have an option where no Credit Card is required to start a free-trial.",
     "Requirement": "None",
-    "Favicon": "images/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Email tony@cloudforecast.io with subject COVID",
     "How to apply (URL or email)": "https://app.cloudforecast.io/users/sign_up",
     "More info URL": "www.cloudforecast.io"
@@ -1660,7 +1660,7 @@ export const services = [
     "Discount": "Free for 1st month",
     "Does it drive you into a paid account": "Yes, but you can cancel the subscription",
     "Requirement": "None",
-    "Favicon": "i/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon code FREEMONTH during checkout.",
     "How to apply (URL or email)": "https://designmodo.com/freemonth/",
     "More info URL": "https://designmodo.com/freemonth/"
@@ -2108,7 +2108,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://hellonext.co/favicons/favicon-152-precomposed.png",
     "How to apply (text)": "Just ping us on chat on the website.",
     "How to apply (URL or email)": "https://hellonext.co",
     "More info URL": "https://hellonext.co"
