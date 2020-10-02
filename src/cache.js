@@ -204,7 +204,7 @@ export const services = [
     "Discount": "70%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "https://kedaiweb.co/v4/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & all addon up to 70% discount",
     "How to apply (URL or email)": "https://kedaiweb.co",
     "More info URL": ""
@@ -750,7 +750,7 @@ export const services = [
     "Discount": "Free during lockdown",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "data:image/png;base64,UklGRkYFAABXRUJQVlA4WAoAAAAQAAAAPwAAPwAAQUxQSAUDAAABgEhtWx5sCCGEEEIIQwghhAxCCGEIIYQwhBDe76f3ftsmEBEO3EiKnIEVyUJIz3QPxxeOpyXNcHxaksh0X1qUvzI+rGHKt9Wvj8j1kbkhurRv7BIq6Qur62/VqPjBH6p53FqnfyPOJWzNDghQTXmfptmSoxmUZk8e4/O1y6MbzHFbnzUQ5c/60pH6AyE0UVZoUNIKuNMS1ylQ7M4sygYJtkJM3B8WcGxPCEFEKFTdZupwVYxip/O9Im3z/13eUErGee46N5KprIjcSu1UkXXKNd/J2xYgSPHfGKmSXddu1Xsle8L45JCk25yxrCCSDuu5Dge+lsnZtaRbdsOtFJzHmjBt6HlYKd5oCntR9LvLoPlSnLSA6E41C7dTz1hYJP8IV+11BY8mOY2WKAg3aJnpikiVAwjTaFWQdJLhKq6bsDoL35vRGplcTLpXPQ/91RsUYNsEfPPcVFoWJ/SsUAM6etLnLIHdQh80v4PXWqcY0PEEto+EgzWEC3s6qaGI9icTVodxGQpCR25wSbq1/jxn+aUxaLwK4Ik9gcJaAKugLgZB6PBPBHZFRQLwG8jeMmDrbesYoG9MUCGB0i3sW1+4ts2rfIdV+ECjtGjGRAE97GKUYv6M8DZmiGIQzF1iQ9hTYSy4anX0IbGFA3WfUU2QgJgs3q7L2REpJFR2sHCdgq1yFtV7OFxhGzDQUWJDRUmX+Ffs7a1QT6Vg+DVWzw6KQVGIKwgxULlpmwebiW1ntlEZUfarH7g5R/Y1MYgqu51R7b6RV3Dj1BD4lcxsDGuG/hMEh9kyD2A3nANP2LubYgBa9rVgVcN7K11lIC/PyA2zdapKObubvDsHp2rlR5lbdkcjnyxeBlfzlKezx3guU9NzRRdBZvVGG8lpjrd1lWQjHCGV/leucjr8XwjQdu2PTvhh0POgzrJ/MahCz6Mqd3Y75svceezJ6Hx6WuPTRRzuBXZLsb3muJRcB8KpT69LrNhN8b5we3pkM79zXbWzZpPOp9NcGy9mi29f2csFbPWW96VyAABWUDggGgIAAFALAJ0BKkAAQAA+jTaYR6UjIqEsGq5goBGJbACxH3IMN6h5pVp7YocjrU/VevflRvOM9Z3mL/Xj1ivRF6AH8+/unWFegB5YnsQ/t76UYUAdikshqasmSYh4u1YwtokC2FshAAD+6ZU/+a0RpX4td/c+oGW0O6KrcsjvxlxfMOfTYOy8FTpyj7MVbr6yWTDZzxH4g8TaSV6S9JP/7SYuSt387bjD7Xr+GjxlbUitZhhL62Qg1NO9kpp7vvRykWi8ba0qJsSvABNPyXkHx3i76XZ4FDAfjXFPvJImY5cQ+6Fe7S7GPjoyTKCwkLMCTtKnQRPrY/O5PlbtbGpNVAttBWAEIm17eAdcZO2DrLsBi+zh0CarNHjNPAcycy5iZrer4rlRZhqPkw8iW7ir3zKwCAuZVN1S7+/2Ld9iK//Jvc7/7xc8liA7z170wfcdKguFvODVwEc4nWE2/4AJlafoQNyUS27iF9c8AT82bMLKtzL0IfJXtfF3KryBlwvfg9MKXOxlxUzMyjlTL0qvo06Z+B+8ihHMCMuGeIO6SKH8dLtKonnJxrxtlhC3CZP5Par/+gWHN6XYkBynaocDPdP9kGUTqbH2IFXDKHSBiOfarOMa+3soENQiZdiITmLKzJA69GgS3Q9MML7IJt4jFB+L5l4734MDRm1NeTt8WgzIM16AsQA6+Pi90fjHDe32evOZBSf2tMIpBA0wAAA=",
     "How to apply (text)": "Just tell us you found us here",
     "How to apply (URL or email)": "https://blog.zensors.com/zensors-offers-ai-platform-to-assist-with-covid-19-and-invites-collaborators/",
     "More info URL": ""
