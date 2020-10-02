@@ -130,7 +130,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Incident Management",
     "URL": "https://spike.sh",
-    "Description": "",
+    "Description": "Spike is a simple incident management platform that alerts via slack, phone and email and automatic escalations to help teams fix infrastructure problems.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
@@ -302,7 +302,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "https://www.darwinmail.app/mail/lib/manifest/favicon-32x32.png",
+    "Favicon": "https://www.darwinmail.app/mail/lib/manifest/apple-touch-icon.png",
     "How to apply (text)": "Sign up and then send us an email.",
     "How to apply (URL or email)": "https://www.darwinmail.app/mail",
     "More info URL": ""
@@ -750,7 +750,7 @@ export const services = [
     "Discount": "Free during lockdown",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "data:image/png;base64,UklGRkYFAABXRUJQVlA4WAoAAAAQAAAAPwAAPwAAQUxQSAUDAAABgEhtWx5sCCGEEEIIQwghhAxCCGEIIYQwhBDe76f3ftsmEBEO3EiKnIEVyUJIz3QPxxeOpyXNcHxaksh0X1qUvzI+rGHKt9Wvj8j1kbkhurRv7BIq6Qur62/VqPjBH6p53FqnfyPOJWzNDghQTXmfptmSoxmUZk8e4/O1y6MbzHFbnzUQ5c/60pH6AyE0UVZoUNIKuNMS1ylQ7M4sygYJtkJM3B8WcGxPCEFEKFTdZupwVYxip/O9Im3z/13eUErGee46N5KprIjcSu1UkXXKNd/J2xYgSPHfGKmSXddu1Xsle8L45JCk25yxrCCSDuu5Dge+lsnZtaRbdsOtFJzHmjBt6HlYKd5oCntR9LvLoPlSnLSA6E41C7dTz1hYJP8IV+11BY8mOY2WKAg3aJnpikiVAwjTaFWQdJLhKq6bsDoL35vRGplcTLpXPQ/91RsUYNsEfPPcVFoWJ/SsUAM6etLnLIHdQh80v4PXWqcY0PEEto+EgzWEC3s6qaGI9icTVodxGQpCR25wSbq1/jxn+aUxaLwK4Ik9gcJaAKugLgZB6PBPBHZFRQLwG8jeMmDrbesYoG9MUCGB0i3sW1+4ts2rfIdV+ECjtGjGRAE97GKUYv6M8DZmiGIQzF1iQ9hTYSy4anX0IbGFA3WfUU2QgJgs3q7L2REpJFR2sHCdgq1yFtV7OFxhGzDQUWJDRUmX+Ffs7a1QT6Vg+DVWzw6KQVGIKwgxULlpmwebiW1ntlEZUfarH7g5R/Y1MYgqu51R7b6RV3Dj1BD4lcxsDGuG/hMEh9kyD2A3nANP2LubYgBa9rVgVcN7K11lIC/PyA2zdapKObubvDsHp2rlR5lbdkcjnyxeBlfzlKezx3guU9NzRRdBZvVGG8lpjrd1lWQjHCGV/leucjr8XwjQdu2PTvhh0POgzrJ/MahCz6Mqd3Y75svceezJ6Hx6WuPTRRzuBXZLsb3muJRcB8KpT69LrNhN8b5we3pkM79zXbWzZpPOp9NcGy9mi29f2csFbPWW96VyAABWUDggGgIAAFALAJ0BKkAAQAA+jTaYR6UjIqEsGq5goBGJbACxH3IMN6h5pVp7YocjrU/VevflRvOM9Z3mL/Xj1ivRF6AH8+/unWFegB5YnsQ/t76UYUAdikshqasmSYh4u1YwtokC2FshAAD+6ZU/+a0RpX4td/c+oGW0O6KrcsjvxlxfMOfTYOy8FTpyj7MVbr6yWTDZzxH4g8TaSV6S9JP/7SYuSt387bjD7Xr+GjxlbUitZhhL62Qg1NO9kpp7vvRykWi8ba0qJsSvABNPyXkHx3i76XZ4FDAfjXFPvJImY5cQ+6Fe7S7GPjoyTKCwkLMCTtKnQRPrY/O5PlbtbGpNVAttBWAEIm17eAdcZO2DrLsBi+zh0CarNHjNPAcycy5iZrer4rlRZhqPkw8iW7ir3zKwCAuZVN1S7+/2Ld9iK//Jvc7/7xc8liA7z170wfcdKguFvODVwEc4nWE2/4AJlafoQNyUS27iF9c8AT82bMLKtzL0IfJXtfF3KryBlwvfg9MKXOxlxUzMyjlTL0qvo06Z+B+8ihHMCMuGeIO6SKH8dLtKonnJxrxtlhC3CZP5Par/+gWHN6XYkBynaocDPdP9kGUTqbH2IFXDKHSBiOfarOMa+3soENQiZdiITmLKzJA69GgS3Q9MML7IJt4jFB+L5l4734MDRm1NeTt8WgzIM16AsQA6+Pi90fjHDe32evOZBSf2tMIpBA0wAAA=",
+    "Favicon": "",
     "How to apply (text)": "Just tell us you found us here",
     "How to apply (URL or email)": "https://blog.zensors.com/zensors-offers-ai-platform-to-assist-with-covid-19-and-invites-collaborators/",
     "More info URL": ""
@@ -788,7 +788,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://www.atlassian.com",
-    "Description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+    "Description": "",
     "Discount": "Free for up to 10 users or build minutes (incase of Bitbucket Pipelines etc)",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -960,7 +960,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "it is a free template on free plans by all partners",
-    "Favicon": "/logo192.png",
+    "Favicon": "",
     "How to apply (text)": "free JAMstack-based static website template and hosting in conjunction with our partners, Netlify and Gatsby",
     "How to apply (URL or email)": "https://stopthespread.dev",
     "More info URL": "https://www.contentful.com/blog/2020/03/20/stop-the-spread-covid-19/"
@@ -1184,7 +1184,7 @@ export const services = [
     "Discount": "Unlimited team members, projects and tasks",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5c9232ba9b11949ec40072ed_Webp.net-resizeimage.png",
+    "Favicon": "",
     "How to apply (text)": "Automatic - Sign up via Email",
     "How to apply (URL or email)": "https://app.myhours.com/#/signup/trial/0",
     "More info URL": "https://myhours.com/support"
@@ -1464,7 +1464,7 @@ export const services = [
     "Discount": "500 free user licenses for everyone, Free SaaS for 3 months w/Shopify and BigCommerce",
     "Does it drive you into a paid account": "Yes, but we can base it on a quarterly ROI analysis",
     "Requirement": "",
-    "Favicon": "/static/favicon/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Simply request a demo",
     "How to apply (URL or email)": "https://luxlock.com/demo/",
     "More info URL": "https://www.producthunt.com/posts/luxlock"
@@ -1968,7 +1968,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related projec",
-    "Favicon": "./assets/logos/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://payrequest.io/donation-pages",
     "More info URL": "https://payrequest.io/donation-pages"
@@ -2332,7 +2332,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free education plan for all k-12 and higher ed students and educators, 30% off team plan for nonprofits and 100% off for nonprofits working on COVID-19 initiatives.",
-    "Favicon": "/static/favicons/favicon-32x32.png?v=00zdoEw6N6",
+    "Favicon": "/static/favicons/apple-touch-icon.png?v=00zdoEw6N6",
     "How to apply (text)": "Free forever: sign up. Education and NPO plans: apply for eligibility.",
     "How to apply (URL or email)": "https://miro.com/",
     "More info URL": ""
