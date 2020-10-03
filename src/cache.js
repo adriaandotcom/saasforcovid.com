@@ -162,7 +162,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for Slack groups helping with COVID-19",
-    "Favicon": "/icons/icon-48x48.png?v=73c660cf2a610dbf6dbcfab840534254",
+    "Favicon": "",
     "How to apply (text)": "Sign up and then send us an email.",
     "How to apply (URL or email)": "https://getlowdown.com/covid-19/",
     "More info URL": ""
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -732,7 +732,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://devscore.com",
-    "Description": "",
+    "Description": "DevScore is a Low Code Automation Service for software development teams to automate manual tasks, data synchronizations and reporting of Scrum, CI/CD and Operations.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -862,7 +862,7 @@ export const services = [
     "Discount": "Free for 3 months (personal), unlimited free for nonprofits",
     "Does it drive you into a paid account": "Yes, after 3 months",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://d1eub78dsdxite.cloudfront.net/assets/apple-touch-icon-af9d74c4734f670b96632b59348c6a5a75ad90bd186296a7faa3395c8c4d2a76.png",
     "How to apply (text)": "Signup and email support@tefter.io or use the covid-19 code (for personal accounts only)",
     "How to apply (URL or email)": "https://tefter.io/users/sign_up?promocode=covid-19",
     "More info URL": ""
@@ -918,7 +918,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Scaling Plan only. Non-profit working on Covid-19 related response",
-    "Favicon": "",
+    "Favicon": "https://tettra.com/wp-content/uploads/2018/11/cropped-favicon-180x180.png",
     "How to apply (text)": "Sign up and reach out over chat",
     "How to apply (URL or email)": "https://app.tettra.co/create-team",
     "More info URL": ""
@@ -1310,7 +1310,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "Nonprofit Covid-19 response project",
-    "Favicon": "/static/head/favicon/apple-touch-icon-57x57.png",
+    "Favicon": "",
     "How to apply (text)": "Submit a request form",
     "How to apply (URL or email)": "https://try.typeform.com/covid-19/",
     "More info URL": "https://try.typeform.com/covid-19/"
@@ -1534,7 +1534,7 @@ export const services = [
     "Discount": "Free 2 months of the Business plan",
     "Does it drive you into a paid account": "Yes, but you can cancel at any time and before any payment takes place",
     "Requirement": "Free for Businesses impacted by COVID-1",
-    "Favicon": "https://about.noisli.com/assets/icons/icon-196x196.png",
+    "Favicon": "",
     "How to apply (text)": "Fill in the request form",
     "How to apply (URL or email)": "https://support.noisli.com/coronavirus-response",
     "More info URL": "https://support.noisli.com/coronavirus-response"
