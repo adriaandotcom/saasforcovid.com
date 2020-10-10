@@ -78,7 +78,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, but this free plan has no custom domain.",
     "Requirement": "Install add-on",
-    "Favicon": "../img/faviconnew.png",
+    "Favicon": "",
     "How to apply (text)": "Use the button below",
     "How to apply (URL or email)": "https://sheet2site.com/coronavirus",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -414,7 +414,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon code: stayathome",
     "How to apply (URL or email)": "https://readermode.io/premium",
     "More info URL": ""
@@ -582,7 +582,7 @@ export const services = [
     "Discount": "Free during the lockdown",
     "Does it drive you into a paid account": "Maybe, after COVID-19.",
     "Requirement": "",
-    "Favicon": "/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Use the form on the page.",
     "How to apply (URL or email)": "https://jubiwee.com/en/coronavirus",
     "More info URL": ""
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "https://prisync.com/wp-content/uploads/2015/03/loggo.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
@@ -2304,7 +2304,7 @@ export const services = [
     "Discount": "60%",
     "Does it drive you into a paid account": "Maybe, after September",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "/assets/icon/app-icon-16x16.72f28ae09f4439ca8c38298f62ab89f0a587297b.png",
+    "Favicon": "",
     "How to apply (text)": "Just sign up or open chat on pricing page.",
     "How to apply (URL or email)": "https://ideanote.it",
     "More info URL": "https://ideanote.io"
