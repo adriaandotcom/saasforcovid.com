@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -344,7 +344,7 @@ export const services = [
     "Discount": "30%",
     "Does it drive you into a paid account": "Maybe, it's a discount",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/img/favicons/android-icon-192x192.png",
     "How to apply (text)": "Coupon: PROXYMAN_STAY_SAFE_STAY_HEALTHY",
     "How to apply (URL or email)": "https://proxyman.io/pricing",
     "More info URL": ""
@@ -400,7 +400,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
-    "Favicon": "",
+    "Favicon": "https://cdn.helpwise.io/assets/images/favicon.png",
     "How to apply (text)": "Signup & upgrade. Ping support for 20% off for 12 months.",
     "How to apply (URL or email)": "https://helpwise.io",
     "More info URL": ""
@@ -778,7 +778,7 @@ export const services = [
     "Discount": "Free for 3 months for SMBs",
     "Does it drive you into a paid account": "No, you are welcome to sign up if you end up loving it, though.",
     "Requirement": "Having less than 20 agents.",
-    "Favicon": "/img/graphics/favicon20150812.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up for a demo, then tell the rep you want the 3 months free plan.",
     "How to apply (URL or email)": "https://www.queuemetrics-live.com/landing/covid19.jsp",
     "More info URL": ""
@@ -848,7 +848,7 @@ export const services = [
     "Discount": "Free for up to 10,000 PDFs / mo, then an 85% discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 related project (not-for-profit)",
-    "Favicon": "",
+    "Favicon": "/favicon.ico",
     "How to apply (text)": "Sign up for free, then email support@docspring.com",
     "How to apply (URL or email)": "https://docspring.com",
     "More info URL": ""
@@ -2136,7 +2136,7 @@ export const services = [
     "Discount": "$6 off on Starter Pack Yearly",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://chartsfactory.com/shortcut-01.png",
     "How to apply (text)": "Use coupon code thanksyearly",
     "How to apply (URL or email)": "https://chartsfactory.com/#pricing",
     "More info URL": "https://chartsfactory.com"
@@ -2388,7 +2388,7 @@ export const services = [
     "Discount": "250$ credit",
     "Does it drive you into a paid account": "No",
     "Requirement": "None.",
-    "Favicon": "",
+    "Favicon": "https://cdn.liveagent.com/app/themes/liveagent/assets/images/favicon/apple-touch-icon.png",
     "How to apply (text)": "Send us a message to: andy@liveagent.com with subject \"SaaS4Covid",
     "How to apply (URL or email)": "https://www.liveagent.com/trial/",
     "More info URL": "https://www.liveagent.com/customer-service-during-coronavirus/"
