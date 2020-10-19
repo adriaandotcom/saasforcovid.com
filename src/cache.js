@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://clinq.com/wp-content/uploads/2018/11/cropped-36690336_225704894712047_3459899901310140416_n-1-32x32.png",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
@@ -2220,7 +2220,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://widebot.net/wp-content/uploads/2020/06/Asset-5.png",
     "How to apply (text)": "When you upgrade to pro add promo code \"BeSafe",
     "How to apply (URL or email)": "https://widebot.net",
     "More info URL": ""
