@@ -960,7 +960,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "it is a free template on free plans by all partners",
-    "Favicon": "/favicon.ico",
+    "Favicon": "/logo192.png",
     "How to apply (text)": "free JAMstack-based static website template and hosting in conjunction with our partners, Netlify and Gatsby",
     "How to apply (URL or email)": "https://stopthespread.dev",
     "More info URL": "https://www.contentful.com/blog/2020/03/20/stop-the-spread-covid-19/"
@@ -1450,7 +1450,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Yes, but you can cancel before starting paid subscription.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/static/favicon-196x196-e169fe915369d722a7ef5d3e5375c780.png",
     "How to apply (text)": "Simply fill in form on website, then use coupon strongertogether when subscribing",
     "How to apply (URL or email)": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together",
     "More info URL": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together"
