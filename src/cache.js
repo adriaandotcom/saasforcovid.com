@@ -540,7 +540,7 @@ export const services = [
     "Discount": "12 months hosting",
     "Does it drive you into a paid account": "Maybe, after the 12 months.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5d5595354de4fbdd8c554dba_default_webclip.png",
     "How to apply (text)": "Contact support with details of project for discount code.",
     "How to apply (URL or email)": "https://university.webflow.com/support#contact-form",
     "More info URL": ""
@@ -1180,7 +1180,7 @@ export const services = [
     "Approved": "",
     "Category": "Remote Work",
     "URL": "https://myhours.com",
-    "Description": "Free Time Tracking software with a track record. Time tracked on projects and tasks can be easily turned into shareable reports for your clients or managers. Set hourly rates and generate invoices with ease.",
+    "Description": "",
     "Discount": "Unlimited team members, projects and tasks",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -1562,7 +1562,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "/pwa/apple-icon-180.png?vv2609",
+    "Favicon": "",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
