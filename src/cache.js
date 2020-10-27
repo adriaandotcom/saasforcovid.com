@@ -788,7 +788,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://www.atlassian.com",
-    "Description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+    "Description": "",
     "Discount": "Free for up to 10 users or build minutes (incase of Bitbucket Pipelines etc)",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -1156,7 +1156,7 @@ export const services = [
     "Discount": "Free 3 months premium",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "./favicon.ico",
     "How to apply (text)": "Automatic on Sign Up",
     "How to apply (URL or email)": "https://app.startday.dk/createaccount",
     "More info URL": "https://startday.app"
@@ -1562,7 +1562,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "/pwa/apple-icon-180.png?vv2612",
+    "Favicon": "/pwa/apple-icon-180.png?vv2611",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
@@ -1912,7 +1912,7 @@ export const services = [
     "Discount": "40% Discount",
     "Does it drive you into a paid account": "Yes, but you get a lot of value for a fair price.",
     "Requirement": "None",
-    "Favicon": "fav/favicon-32x32.png",
+    "Favicon": "fav/apple-touch-icon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://rulecontent.com/?cov=1",
     "More info URL": "https://rulecontent.com/?cov=1"
@@ -1954,7 +1954,7 @@ export const services = [
     "Discount": "Free meetings during COVID, Webinars 20% Discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/favicon.svg",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://livestorm.co/blog/livestorm-and-covid-19/",
     "More info URL": "https://livestorm.co/"
@@ -2010,7 +2010,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, 14 day free trial",
     "Requirement": "None. Works on any website",
-    "Favicon": "",
+    "Favicon": "https://s3-us-west-2.amazonaws.com/storage.newclick.io/STATIC/IMG/newclick_favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "http://newclick.io/",
     "More info URL": "http://newclick.io/"
