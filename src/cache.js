@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -792,7 +792,7 @@ export const services = [
     "Discount": "Free for up to 10 users or build minutes (incase of Bitbucket Pipelines etc)",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://wac-cdn.atlassian.com/assets/img/favicons/atlassian/favicon.png",
     "How to apply (text)": "Just signup through the link",
     "How to apply (URL or email)": "https://www.atlassian.com/software/free",
     "More info URL": "https://www.atlassian.com/remote"
@@ -862,7 +862,7 @@ export const services = [
     "Discount": "Free for 3 months (personal), unlimited free for nonprofits",
     "Does it drive you into a paid account": "Yes, after 3 months",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://d1eub78dsdxite.cloudfront.net/assets/apple-touch-icon-af9d74c4734f670b96632b59348c6a5a75ad90bd186296a7faa3395c8c4d2a76.png",
     "How to apply (text)": "Signup and email support@tefter.io or use the covid-19 code (for personal accounts only)",
     "How to apply (URL or email)": "https://tefter.io/users/sign_up?promocode=covid-19",
     "More info URL": ""
@@ -1590,7 +1590,7 @@ export const services = [
     "Discount": "Free until 1 June",
     "Does it drive you into a paid account": "No, it cancels automatically at the end of the free period",
     "Requirement": "None",
-    "Favicon": "/assets/icons/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://app.writinganalytics.co/signup/covid-19",
     "More info URL": "https://www.writinganalytics.co/posts/covid-19/"
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
@@ -2262,7 +2262,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 10 employees",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "./apple-touch-icon.png",
     "How to apply (text)": "Signup online",
     "How to apply (URL or email)": "https://bundy.io",
     "More info URL": "https://bundy.io"
@@ -3308,7 +3308,7 @@ export const services = [
     "Approved": "",
     "Category": "Project Management",
     "URL": "https://rentman.io",
-    "Description": "",
+    "Description": "Modern rental software to run your live event rentals and productions. Manage and plan resources, scheduling, and communication from a single platform. Get started for free.",
     "Discount": "100% off for 3 months",
     "Does it drive you into a paid account": "No, the 3 free months end by themselves unless you activate your account.",
     "Requirement": "New users only",
