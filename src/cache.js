@@ -130,7 +130,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Incident Management",
     "URL": "https://spike.sh",
-    "Description": "",
+    "Description": "Spike is a simple incident management platform that alerts via slack, phone and email and automatic escalations to help teams fix infrastructure problems.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
@@ -554,7 +554,7 @@ export const services = [
     "Discount": "3 months free",
     "Does it drive you into a paid account": "Maybe, after the 3 months.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "//www.ibm.com/favicon.ico",
     "How to apply (text)": "Use the form on their page.",
     "How to apply (URL or email)": "https://www.ibm.com/account/reg/us-en/signup?formid=urx-43430",
     "More info URL": "https://www.ibm.com/thought-leadership/covid19/?lnk=ushpv18l1"
@@ -1100,7 +1100,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "",
-    "Favicon": "https://static.wixstatic.com/media/ad08ec_cf6cac14c083437b8336820dee0a6680%7Emv2.png/v1/fill/w_16%2Ch_16%2Clg_1%2Cusm_0.66_1.00_0.01/ad08ec_cf6cac14c083437b8336820dee0a6680%7Emv2.png",
+    "Favicon": "",
     "How to apply (text)": "Signup for free and we'll extend for six months.",
     "How to apply (URL or email)": "https://app.sleuth.io/account/signup/",
     "More info URL": "https://www.sleuth.io/post/now-try-sleuth-free-for-six-months"
@@ -1184,7 +1184,7 @@ export const services = [
     "Discount": "Unlimited team members, projects and tasks",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5c9232ba9b11949ec40072ed_Webp.net-resizeimage.png",
+    "Favicon": "",
     "How to apply (text)": "Automatic - Sign up via Email",
     "How to apply (URL or email)": "https://app.myhours.com/#/signup/trial/0",
     "More info URL": "https://myhours.com/support"
@@ -1842,7 +1842,7 @@ export const services = [
     "Discount": "6 months free ($114 value)",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "None. Valid for all users.",
-    "Favicon": "https://contractawesome.com/wp-content/uploads/2020/03/cropped-icon-ca--32x32.png",
+    "Favicon": "https://contractawesome.com/wp-content/uploads/2020/03/cropped-icon-ca--180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://contractawesome.com",
     "More info URL": "https://contractawesome.com"
