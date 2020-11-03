@@ -32,7 +32,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://airtable.com",
-    "Description": "",
+    "Description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free trial",
     "Requirement": "Airtable is making Airtable Pro available for free to any non-political humanitarian group that is working on COVID-19 relief efforts.",
@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "",
+    "Favicon": "/assets/icon128-53d136bb0aa1c128a1a32fc3630d28eb4d3659aaa9fc748839e8d489221fe2f9.png",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -526,7 +526,7 @@ export const services = [
     "Discount": "50% for all packages",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "New customers",
-    "Favicon": "",
+    "Favicon": "https://netnut.io/wp-content/uploads/2020/04/cropped-Favicon-transparent-180x180.png",
     "How to apply (text)": "Email jeffy@netnut.io",
     "How to apply (URL or email)": "https://l.netnut.io/saasforcovid",
     "More info URL": "https://netnut.io/"
@@ -848,7 +848,7 @@ export const services = [
     "Discount": "Free for up to 10,000 PDFs / mo, then an 85% discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 related project (not-for-profit)",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up for free, then email support@docspring.com",
     "How to apply (URL or email)": "https://docspring.com",
     "More info URL": ""
@@ -1296,7 +1296,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/static/karen/favicons/apple-icon-57x57.png",
     "How to apply (text)": "Use code SixMo50 for discount",
     "How to apply (URL or email)": "https://karenapp.io",
     "More info URL": "https://karenapp.io"
@@ -1408,7 +1408,7 @@ export const services = [
     "Discount": "15%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
-    "Favicon": "https://cdn.landen.co/29al446fkkuj/assets/fygh642g.png",
+    "Favicon": "",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://customfit.ai/demo",
     "More info URL": "https://customfit.ai/playbook"
@@ -1856,7 +1856,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Only after you hit free account limits.",
     "Requirement": "None.",
-    "Favicon": "https://uploads-ssl.webflow.com/5eea6758cb789401d10bb367/5f1ef4af49feca734c3f01e2_5e402d845b31cb858c4a0b77_icon-square-256.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://www.fluxo.ai",
     "More info URL": "https://www.fluxo.ai/pricing"
@@ -2052,7 +2052,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io/?saasforcovid=discount",
     "More info URL": "https://www.kimp.io/"
@@ -2066,7 +2066,7 @@ export const services = [
     "Discount": "50% on Team Plan",
     "Does it drive you into a paid account": "Free version comprises of 5 diagrams",
     "Requirement": "None",
-    "Favicon": "/static/assets/common/icons/favicons-next/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Use the discount code at the time of purchase",
     "How to apply (URL or email)": "https://creately.com/remote-working-guide/",
     "More info URL": "https://creately.com/"
@@ -2080,7 +2080,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for charities, heavy discounts for restaurants etc",
-    "Favicon": "./img/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up and then contact them via the chat inside the app",
     "How to apply (URL or email)": "https://getcircuit.com/blog/covid-19-free-for-charities-90-off-for-restaurants/",
     "More info URL": "https://getcircuit.com/team/"
@@ -2906,7 +2906,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io",
     "More info URL": ""
