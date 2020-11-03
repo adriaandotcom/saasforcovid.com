@@ -78,7 +78,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, but this free plan has no custom domain.",
     "Requirement": "Install add-on",
-    "Favicon": "",
+    "Favicon": "../img/faviconnew.png",
     "How to apply (text)": "Use the button below",
     "How to apply (URL or email)": "https://sheet2site.com/coronavirus",
     "More info URL": ""
@@ -92,7 +92,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "resources/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Email: erwin@sparklybot.com",
     "How to apply (URL or email)": "erwin@sparklybot.com",
     "More info URL": "https://sparklybot.com"
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -848,7 +848,7 @@ export const services = [
     "Discount": "Free for up to 10,000 PDFs / mo, then an 85% discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 related project (not-for-profit)",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "/favicon.ico",
     "How to apply (text)": "Sign up for free, then email support@docspring.com",
     "How to apply (URL or email)": "https://docspring.com",
     "More info URL": ""
@@ -1170,7 +1170,7 @@ export const services = [
     "Discount": "Free Enterprise plan for the duration of the COVID-19 pandemic",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid-19 related projects like apps, websites and other digital platforms built on Firebase",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=454696de42794630a1b3a9cc72b943b6",
     "How to apply (text)": "Sign-up for a 14-day free trial and contact our support team",
     "How to apply (URL or email)": "https://app.flamelink.io/register",
     "More info URL": ""
@@ -2052,7 +2052,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io/?saasforcovid=discount",
     "More info URL": "https://www.kimp.io/"
@@ -2080,7 +2080,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for charities, heavy discounts for restaurants etc",
-    "Favicon": "",
+    "Favicon": "./img/favicon.png",
     "How to apply (text)": "Sign up and then contact them via the chat inside the app",
     "How to apply (URL or email)": "https://getcircuit.com/blog/covid-19-free-for-charities-90-off-for-restaurants/",
     "More info URL": "https://getcircuit.com/team/"
@@ -2150,7 +2150,7 @@ export const services = [
     "Discount": "Free until 1 June",
     "Does it drive you into a paid account": "No, no payment details required.",
     "Requirement": "Businesses heavily impacted by COVID-19",
-    "Favicon": "",
+    "Favicon": "https://spotonwifi.com/wp-content/uploads/2017/07/cropped-logo-1-180x180.png",
     "How to apply (text)": "Use coupon: FIGHTCOVID",
     "How to apply (URL or email)": "info@spotonwifi.com",
     "More info URL": "https://spotonwifi.com"
@@ -2332,7 +2332,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free education plan for all k-12 and higher ed students and educators, 30% off team plan for nonprofits and 100% off for nonprofits working on COVID-19 initiatives.",
-    "Favicon": "",
+    "Favicon": "/static/favicons/apple-touch-icon.png?v=00zdoEw6N6",
     "How to apply (text)": "Free forever: sign up. Education and NPO plans: apply for eligibility.",
     "How to apply (URL or email)": "https://miro.com/",
     "More info URL": ""
@@ -2906,7 +2906,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io",
     "More info URL": ""
