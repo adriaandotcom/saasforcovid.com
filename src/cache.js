@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -638,7 +638,7 @@ export const services = [
     "Discount": "Free",
     "Does it drive you into a paid account": "No",
     "Requirement": "Less than 100 devices.",
-    "Favicon": "/favicon.ico?r=124",
+    "Favicon": "",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://my.zerotier.com",
     "More info URL": "www.zerotier.com"
@@ -1464,7 +1464,7 @@ export const services = [
     "Discount": "500 free user licenses for everyone, Free SaaS for 3 months w/Shopify and BigCommerce",
     "Does it drive you into a paid account": "Yes, but we can base it on a quarterly ROI analysis",
     "Requirement": "",
-    "Favicon": "/static/favicon/favicon-32x32.png",
+    "Favicon": "/static/favicon/apple-touch-icon.png",
     "How to apply (text)": "Simply request a demo",
     "How to apply (URL or email)": "https://luxlock.com/demo/",
     "More info URL": "https://www.producthunt.com/posts/luxlock"
@@ -1898,7 +1898,7 @@ export const services = [
     "Discount": "$1/mo per location",
     "Does it drive you into a paid account": "Yes, but only $1/month",
     "Requirement": "none",
-    "Favicon": "/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com"
