@@ -302,7 +302,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "https://www.darwinmail.app/mail/lib/manifest/favicon-32x32.png",
+    "Favicon": "https://www.darwinmail.app/mail/lib/manifest/apple-touch-icon.png",
     "How to apply (text)": "Sign up and then send us an email.",
     "How to apply (URL or email)": "https://www.darwinmail.app/mail",
     "More info URL": ""
@@ -470,7 +470,7 @@ export const services = [
     "Discount": "Free 1 dashboard",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "Free 1 dashboard for 12 months.",
-    "Favicon": "",
+    "Favicon": "https://assets-global.website-files.com/5bc779c7cb6515eacd17ad0f/5be5b664be7e638f340f9531_grow-webclip.png",
     "How to apply (text)": "Fill out form on landing page",
     "How to apply (URL or email)": "https://www.grow.com/free-business-intelligence-spreadsheet-dashboard",
     "More info URL": ""
@@ -1898,7 +1898,7 @@ export const services = [
     "Discount": "$1/mo per location",
     "Does it drive you into a paid account": "Yes, but only $1/month",
     "Requirement": "none",
-    "Favicon": "",
+    "Favicon": "/favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com"
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "https://prisync.com/wp-content/uploads/2020/07/cropped-prisync-icon-black-32x32.png",
+    "Favicon": "https://prisync.com/wp-content/uploads/2020/07/cropped-prisync-icon-black-180x180.png",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
