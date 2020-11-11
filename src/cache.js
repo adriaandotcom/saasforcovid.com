@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -932,7 +932,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months can cancel subscription or upgrade",
     "Requirement": "Non-profit working on Covid-19 related response",
-    "Favicon": "",
+    "Favicon": "https://uploads-ssl.webflow.com/59a7997fdd2379000163012d/59ab48202231fd0001f39587_Artboard.png",
     "How to apply (text)": "Sign up and contact support@cozycal.com for coupon code",
     "How to apply (URL or email)": "support@cozycal.com",
     "More info URL": "https://www.cozycal.com/"
@@ -1044,7 +1044,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Covid-19 related, Some partners have offered to help with free/discounted services",
-    "Favicon": "",
+    "Favicon": "https://cdn.skyler.awsprod.workato.com/mktg-assets/favicon/apple-touch-icon-57x57-f21151cffe3fcb38f6c41cbadfdca2733878f249e3a6247d18bb02ad01ec19d8.png",
     "How to apply (text)": "Signup for free or contact us",
     "How to apply (URL or email)": "http://www.workato.com",
     "More info URL": ""
@@ -1450,7 +1450,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Yes, but you can cancel before starting paid subscription.",
     "Requirement": "",
-    "Favicon": "/static/favicon-196x196-e169fe915369d722a7ef5d3e5375c780.png",
+    "Favicon": "",
     "How to apply (text)": "Simply fill in form on website, then use coupon strongertogether when subscribing",
     "How to apply (URL or email)": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together",
     "More info URL": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together"
@@ -1674,7 +1674,7 @@ export const services = [
     "Discount": "Buy 3 months, Get 3 months for Free",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://bmaas-web-platform-assets.s3.amazonaws.com/public/assets/favicons/favicon-32.png",
     "How to apply (text)": "Sign up and use code COVID19",
     "How to apply (URL or email)": "https://amaas.adext.ai/register",
     "More info URL": "WWW.ADEXT.AI"
@@ -1800,7 +1800,7 @@ export const services = [
     "Discount": "6 months free",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "https://static.wixstatic.com/media/7491b9_2396e8f63f364bd7b9ab56672c236492%7Emv2.png/v1/fill/w_16%2Ch_16%2Clg_1%2Cusm_0.66_1.00_0.01/7491b9_2396e8f63f364bd7b9ab56672c236492%7Emv2.png",
     "How to apply (text)": "Sign up with code CORONA and email at himanshu@jobtrackable.com to get Standard plan (6 months) free",
     "How to apply (URL or email)": "https://www.jobtrackable.com/",
     "More info URL": "https://www.jobtrackable.com/plans-pricing"
@@ -2332,7 +2332,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free education plan for all k-12 and higher ed students and educators, 30% off team plan for nonprofits and 100% off for nonprofits working on COVID-19 initiatives.",
-    "Favicon": "",
+    "Favicon": "/static/favicons/apple-touch-icon.png?v=00zdoEw6N6",
     "How to apply (text)": "Free forever: sign up. Education and NPO plans: apply for eligibility.",
     "How to apply (URL or email)": "https://miro.com/",
     "More info URL": ""
