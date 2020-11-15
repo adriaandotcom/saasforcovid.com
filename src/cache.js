@@ -32,7 +32,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://airtable.com",
-    "Description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free trial",
     "Requirement": "Airtable is making Airtable Pro available for free to any non-political humanitarian group that is working on COVID-19 relief efforts.",
@@ -130,11 +130,11 @@ export const services = [
     "Approved": "Yes",
     "Category": "Incident Management",
     "URL": "https://spike.sh",
-    "Description": "Spike is a simple incident management platform that alerts via slack, phone and email and automatic escalations to help teams fix infrastructure problems.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "/spike-badge-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://clinq.com/wp-content/uploads/2018/11/cropped-36690336_225704894712047_3459899901310140416_n-1-180x180.png",
+    "Favicon": "",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
@@ -568,7 +568,7 @@ export const services = [
     "Discount": "Free 5 hourly monitors, 30% discount above that",
     "Does it drive you into a paid account": "No, no need for payment information and 3 months free usage.",
     "Requirement": "Free for Covid-19 projects or if you've been laid off.\nDiscount open to everyone.",
-    "Favicon": "https://static.wixstatic.com/media/e0aced_afc9b52737d14539bc956f07e1d93cca%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/e0aced_afc9b52737d14539bc956f07e1d93cca%7Emv2.png",
+    "Favicon": "https://static.wixstatic.com/media/e0aced_afc9b52737d14539bc956f07e1d93cca%7Emv2.png/v1/fill/w_16%2Ch_16%2Clg_1%2Cusm_0.66_1.00_0.01/e0aced_afc9b52737d14539bc956f07e1d93cca%7Emv2.png",
     "How to apply (text)": "Email support@monitoro.xyz",
     "How to apply (URL or email)": "support@monitoro.xyz",
     "More info URL": ""
@@ -806,7 +806,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
-    "Favicon": "/sitestatic/brands/textit/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Sign up for free, open a ticket to get free credits.",
     "How to apply (URL or email)": "https://textit.in/",
     "More info URL": "https://blog.textit.in/free-textit-hosting-for-coronavirus-projects"
@@ -862,7 +862,7 @@ export const services = [
     "Discount": "Free for 3 months (personal), unlimited free for nonprofits",
     "Does it drive you into a paid account": "Yes, after 3 months",
     "Requirement": "",
-    "Favicon": "https://d1eub78dsdxite.cloudfront.net/assets/apple-touch-icon-af9d74c4734f670b96632b59348c6a5a75ad90bd186296a7faa3395c8c4d2a76.png",
+    "Favicon": "",
     "How to apply (text)": "Signup and email support@tefter.io or use the covid-19 code (for personal accounts only)",
     "How to apply (URL or email)": "https://tefter.io/users/sign_up?promocode=covid-19",
     "More info URL": ""
@@ -1226,7 +1226,7 @@ export const services = [
     "Discount": "0-50%",
     "Does it drive you into a paid account": "Maybe, depends on your plan and project",
     "Requirement": "30% or 50% for the new users of Dashly:\nfree for teams and people that fight COVID-19 and its consequences",
-    "Favicon": "https://static.tildacdn.com/tild6263-3231-4263-b762-383338336334/safari-pinned-tab-ic.svg",
+    "Favicon": "",
     "How to apply (text)": "Send a message in live chat, the agents will help",
     "How to apply (URL or email)": "https://www.dashly.io/blog/crisis-management-with-dashly/",
     "More info URL": "https://www.dashly.io/blog/crisis-management-with-dashly/"
@@ -1352,7 +1352,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free Pro plan for Covid-19 projects. Discounts available for affected businesses",
-    "Favicon": "/apple-icon-57x57.png",
+    "Favicon": "",
     "How to apply (text)": "Contact us via live chat",
     "How to apply (URL or email)": "https://placid.app/",
     "More info URL": ""
@@ -1548,7 +1548,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "100% free for COVID-related data projects",
     "Requirement": "100% free for COVID-related data projects",
-    "Favicon": "https://databand.ai/wp-content/uploads/2019/11/Databand-Icon.png",
+    "Favicon": "https://databand.ai/wp-content/uploads/2019/11/Databand-Icon-150x150.png",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://databand.ai/request-demo/",
     "More info URL": ""
@@ -1758,7 +1758,7 @@ export const services = [
     "Discount": "100% for the Standard plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Only Standard plan and for all companies fighting COVID-19",
-    "Favicon": "https://assets.website-files.com/5933fd4773e44b4d95d597e8/5c76a05d245b51182dc5c1e3_remme-favicon-purple.png",
+    "Favicon": "",
     "How to apply (text)": "Fill out Contact Us form",
     "How to apply (URL or email)": "https://remme.io/contact-us",
     "More info URL": "https://remme.io/keyhub"
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
@@ -2094,7 +2094,7 @@ export const services = [
     "Discount": "45 days FREE for existing paid customers",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "You have to be an existing paid user of Automate.io. If you downgrade to the free plan, you can avail the 45-day FREE offer.",
-    "Favicon": "/assets/img/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "In the 'Downgrade to Free Plan' page in your account, select the reason for cancellation as Coronavirus/Covid-19 and click 'Avail 45-day Free Offer'",
     "How to apply (URL or email)": "help@automate.io",
     "More info URL": ""
@@ -2332,7 +2332,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free education plan for all k-12 and higher ed students and educators, 30% off team plan for nonprofits and 100% off for nonprofits working on COVID-19 initiatives.",
-    "Favicon": "/static/favicons/apple-touch-icon.png?v=00zdoEw6N6",
+    "Favicon": "",
     "How to apply (text)": "Free forever: sign up. Education and NPO plans: apply for eligibility.",
     "How to apply (URL or email)": "https://miro.com/",
     "More info URL": ""
