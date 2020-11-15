@@ -78,7 +78,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, but this free plan has no custom domain.",
     "Requirement": "Install add-on",
-    "Favicon": "",
+    "Favicon": "../img/faviconnew.png",
     "How to apply (text)": "Use the button below",
     "How to apply (URL or email)": "https://sheet2site.com/coronavirus",
     "More info URL": ""
@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "/spike-badge-icon.png",
+    "Favicon": "/spike-badge-180.png",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -568,7 +568,7 @@ export const services = [
     "Discount": "Free 5 hourly monitors, 30% discount above that",
     "Does it drive you into a paid account": "No, no need for payment information and 3 months free usage.",
     "Requirement": "Free for Covid-19 projects or if you've been laid off.\nDiscount open to everyone.",
-    "Favicon": "https://static.wixstatic.com/media/e0aced_afc9b52737d14539bc956f07e1d93cca%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/e0aced_afc9b52737d14539bc956f07e1d93cca%7Emv2.png",
+    "Favicon": "https://static.wixstatic.com/media/e0aced_afc9b52737d14539bc956f07e1d93cca%7Emv2.png/v1/fill/w_16%2Ch_16%2Clg_1%2Cusm_0.66_1.00_0.01/e0aced_afc9b52737d14539bc956f07e1d93cca%7Emv2.png",
     "How to apply (text)": "Email support@monitoro.xyz",
     "How to apply (URL or email)": "support@monitoro.xyz",
     "More info URL": ""
@@ -680,7 +680,7 @@ export const services = [
     "Discount": "Free for two months",
     "Does it drive you into a paid account": "Maybe, after two months.",
     "Requirement": "SafetyAmp is making its platform available free for two months for teams needing COVID-19 auditing capabilities",
-    "Favicon": "https://uploads-ssl.webflow.com/5ef3803d773621e809fa8be3/5f11fbceb58409168924702d_iphone.png",
+    "Favicon": "",
     "How to apply (text)": "Email sales@safetyamp.com",
     "How to apply (URL or email)": "https://safetyamp.com/covid19/",
     "More info URL": ""
@@ -1632,7 +1632,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No need for payment information and free forever",
     "Requirement": "None",
-    "Favicon": "//assets.cdnpandadoc.com/app/packages/www-next/img/fav/icon-180-509eb5f708.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up on the website from this page",
     "How to apply (URL or email)": "https://signup.pandadoc.com/?plan=rec_plans_v4_free",
     "More info URL": "https://www.pandadoc.com/free-electronic-signature-software/"
