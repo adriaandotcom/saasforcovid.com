@@ -4002,5 +4002,19 @@ export const services = [
     "How to apply (text)": "Register and head to pricing page and switch to lifetime plan enter the code: COVID50 and pay.",
     "How to apply (URL or email)": "https://app.trustely.com/pay/3",
     "More info URL": "https://trustely.com"
+  },
+  {
+    "Name": "Satfever",
+    "Approved": "",
+    "Category": "Marketing Software",
+    "URL": "https://app.myagency.club",
+    "Description": "Free local marketing platform to help you manage your business and leads",
+    "Discount": "30% OFF lifetime",
+    "Does it drive you into a paid account": "yes",
+    "Requirement": "None",
+    "Favicon": "Register free account",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "https://app.myagency.club/",
+    "More info URL": ""
   }
 ]
