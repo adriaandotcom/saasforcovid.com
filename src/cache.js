@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -456,7 +456,7 @@ export const services = [
     "Discount": "Free 50 credits",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://cdn-a.leavemealone.app/favicons/apple-icon-57x57.png",
+    "Favicon": "https://cdn-a.leavemealone.app/favicons/android-icon-192x192.png",
     "How to apply (text)": "Use coupon: HELPING_HAND on profile billing page",
     "How to apply (URL or email)": "https://leavemealone.app/signup",
     "More info URL": ""
@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://clinq.com/wp-content/uploads/2018/11/cropped-36690336_225704894712047_3459899901310140416_n-1-180x180.png",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
@@ -526,7 +526,7 @@ export const services = [
     "Discount": "50% for all packages",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "New customers",
-    "Favicon": "",
+    "Favicon": "https://netnut.io/wp-content/uploads/2020/04/cropped-Favicon-transparent-180x180.png",
     "How to apply (text)": "Email jeffy@netnut.io",
     "How to apply (URL or email)": "https://l.netnut.io/saasforcovid",
     "More info URL": "https://netnut.io/"
@@ -1212,7 +1212,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related for educational institutions and teachers",
-    "Favicon": "https://www.mindmeister.com/mm_favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Submit a request via a form",
     "How to apply (URL or email)": "https://docs.google.com/forms/d/e/1FAIpQLSeDB4wwXfF50axq-f--NRQUhwgjUgweMPKlSRQI9ul9rJ8gVA/viewform",
     "More info URL": "https://www.meisterlabs.com/meister-for-educators/"
@@ -1842,7 +1842,7 @@ export const services = [
     "Discount": "6 months free ($114 value)",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "None. Valid for all users.",
-    "Favicon": "https://contractawesome.com/wp-content/uploads/2020/03/cropped-icon-ca--180x180.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://contractawesome.com",
     "More info URL": "https://contractawesome.com"
@@ -2080,7 +2080,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for charities, heavy discounts for restaurants etc",
-    "Favicon": "",
+    "Favicon": "./img/favicon.png",
     "How to apply (text)": "Sign up and then contact them via the chat inside the app",
     "How to apply (URL or email)": "https://getcircuit.com/blog/covid-19-free-for-charities-90-off-for-restaurants/",
     "More info URL": "https://getcircuit.com/team/"
