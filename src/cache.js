@@ -50,7 +50,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free usage.",
     "Requirement": "It's appreciated to add a link back to divjoy.com (not required). Free for Covid-19 projects.",
-    "Favicon": "/static/images/favicon/favicon-16x16.png",
+    "Favicon": "/static/images/favicon/apple-touch-icon.png",
     "How to apply (text)": "Use chatbot on the page",
     "How to apply (URL or email)": "https://divjoy.com/",
     "More info URL": ""
@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://clinq.com/wp-content/uploads/2018/11/cropped-36690336_225704894712047_3459899901310140416_n-1-32x32.png",
+    "Favicon": "https://clinq.com/wp-content/uploads/2018/11/cropped-36690336_225704894712047_3459899901310140416_n-1-180x180.png",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
@@ -844,7 +844,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://docspring.com",
-    "Description": "",
+    "Description": "Build an API integration in minutes and fill out PDF forms with your data. Set up field positions and data types using our visual PDF template editor. Simply post JSON data to our API, then download a filled-out PDF in seconds.",
     "Discount": "Free for up to 10,000 PDFs / mo, then an 85% discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 related project (not-for-profit)",
@@ -1310,7 +1310,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "Nonprofit Covid-19 response project",
-    "Favicon": "/static/head/favicon/apple-touch-icon-57x57.png",
+    "Favicon": "/static/head/favicon/favicon-32x32.png",
     "How to apply (text)": "Submit a request form",
     "How to apply (URL or email)": "https://try.typeform.com/covid-19/",
     "More info URL": "https://try.typeform.com/covid-19/"
@@ -1758,7 +1758,7 @@ export const services = [
     "Discount": "100% for the Standard plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Only Standard plan and for all companies fighting COVID-19",
-    "Favicon": "",
+    "Favicon": "https://assets.website-files.com/5933fd4773e44b4d95d597e8/5c76a05d245b51182dc5c1e3_remme-favicon-purple.png",
     "How to apply (text)": "Fill out Contact Us form",
     "How to apply (URL or email)": "https://remme.io/contact-us",
     "More info URL": "https://remme.io/keyhub"
