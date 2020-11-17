@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -456,7 +456,7 @@ export const services = [
     "Discount": "Free 50 credits",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://cdn-a.leavemealone.app/favicons/android-icon-192x192.png",
+    "Favicon": "https://cdn-a.leavemealone.app/favicons/apple-icon-57x57.png",
     "How to apply (text)": "Use coupon: HELPING_HAND on profile billing page",
     "How to apply (URL or email)": "https://leavemealone.app/signup",
     "More info URL": ""
@@ -928,7 +928,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Remote Work",
     "URL": "https://www.cozycal.com",
-    "Description": "",
+    "Description": "Online scheduling and appointment booking software. A simple, elegant solution that allows your clients to schedule appointments directly on your website.",
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months can cancel subscription or upgrade",
     "Requirement": "Non-profit working on Covid-19 related response",
@@ -1380,7 +1380,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=d2c09b48cc97a2e6ba622e1da0d45c2f",
     "How to apply (text)": "There is already 50% discount on yearly subscription https://nocodeapi.com/pricing",
     "How to apply (URL or email)": "https://nocodeapi.com/pricing",
     "More info URL": "https://nocodeapi.com/what-is-nocodeapi"
@@ -1478,7 +1478,7 @@ export const services = [
     "Discount": "Free for life; 30% off all paid plans",
     "Does it drive you into a paid account": "Maybe, only if you hit limits of the free Starter Plan",
     "Requirement": "New customers",
-    "Favicon": "",
+    "Favicon": "https://mlcfk4eggqht.i.optimole.com/QPViMsA-6Ee4w9uC/w:auto/h:auto/q:auto/https://i1.wp.com/foxbound.io/wp-content/uploads/2019/06/cropped-full-Color-Logo-1.png?fit=32%2C32&ssl=1",
     "How to apply (text)": "Use the code, REBOUND30, in the Billing area",
     "How to apply (URL or email)": "https://app.foxbound.io/users/sign_up",
     "More info URL": "https://foxbound.io/project-rebound-remote-sales/"
@@ -1520,7 +1520,7 @@ export const services = [
     "Discount": "Free for the rest of 2020",
     "Does it drive you into a paid account": "No, no need for payment information and free for the rest of 2020",
     "Requirement": "Healthcare organisations",
-    "Favicon": "data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQEAYAAABPYyMiAAAABmJLR0T///////8JWPfcAAAACXBIWXMAAABIAAAASABGyWs+AAAAF0lEQVRIx2NgGAWjYBSMglEwCkbBSAcACBAAAeaR9cIAAAAASUVORK5CYII=",
+    "Favicon": "",
     "How to apply (text)": "Sign up and we will jump in to help with deployment on all your servers",
     "How to apply (URL or email)": "https://lp.kernelcare.com/kernelcare-for-free-for-healthcare",
     "More info URL": "https://www.kernelcare.com/product/"
@@ -2206,7 +2206,7 @@ export const services = [
     "Discount": "25%",
     "Does it drive you into a paid account": "Maybe, but you get a clear discount so you know upfront.",
     "Requirement": "COVID-19 projects.",
-    "Favicon": "",
+    "Favicon": "fbrfg/apple-touch-icon.png",
     "How to apply (text)": "Contact support (can be in Dutch or English)",
     "How to apply (URL or email)": "https://www.intention.nl/direct-jouw-vraag-stellen",
     "More info URL": ""
