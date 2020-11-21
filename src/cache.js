@@ -144,7 +144,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Writing Tools",
     "URL": "https://www.getoutline.com",
-    "Description": "",
+    "Description": "A modern team knowledge base for your internal documentation, product specs, support answers, meeting notes, onboarding, & more…",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 projects. Discounts available for affected industries",
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -848,7 +848,7 @@ export const services = [
     "Discount": "Free for up to 10,000 PDFs / mo, then an 85% discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 related project (not-for-profit)",
-    "Favicon": "",
+    "Favicon": "/favicon.ico",
     "How to apply (text)": "Sign up for free, then email support@docspring.com",
     "How to apply (URL or email)": "https://docspring.com",
     "More info URL": ""
@@ -1184,7 +1184,7 @@ export const services = [
     "Discount": "Unlimited team members, projects and tasks",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5c9232ba9b11949ec40072ed_Webp.net-resizeimage.png",
     "How to apply (text)": "Automatic - Sign up via Email",
     "How to apply (URL or email)": "https://app.myhours.com/#/signup/trial/0",
     "More info URL": "https://myhours.com/support"
@@ -1590,7 +1590,7 @@ export const services = [
     "Discount": "Free until 1 June",
     "Does it drive you into a paid account": "No, it cancels automatically at the end of the free period",
     "Requirement": "None",
-    "Favicon": "/assets/icons/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://app.writinganalytics.co/signup/covid-19",
     "More info URL": "https://www.writinganalytics.co/posts/covid-19/"
@@ -1660,7 +1660,7 @@ export const services = [
     "Discount": "Free for 1st month",
     "Does it drive you into a paid account": "Yes, but you can cancel the subscription",
     "Requirement": "None",
-    "Favicon": "i/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon code FREEMONTH during checkout.",
     "How to apply (URL or email)": "https://designmodo.com/freemonth/",
     "More info URL": "https://designmodo.com/freemonth/"
@@ -1758,7 +1758,7 @@ export const services = [
     "Discount": "100% for the Standard plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Only Standard plan and for all companies fighting COVID-19",
-    "Favicon": "",
+    "Favicon": "https://assets.website-files.com/5933fd4773e44b4d95d597e8/5c76a05d245b51182dc5c1e3_remme-favicon-purple.png",
     "How to apply (text)": "Fill out Contact Us form",
     "How to apply (URL or email)": "https://remme.io/contact-us",
     "More info URL": "https://remme.io/keyhub"
@@ -1842,7 +1842,7 @@ export const services = [
     "Discount": "6 months free ($114 value)",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "None. Valid for all users.",
-    "Favicon": "",
+    "Favicon": "https://contractawesome.com/wp-content/uploads/2020/03/cropped-icon-ca--180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://contractawesome.com",
     "More info URL": "https://contractawesome.com"
@@ -2024,7 +2024,7 @@ export const services = [
     "Discount": "25%",
     "Does it drive you into a paid account": "Maybe, but it's one-time payment",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://aok4q44obo-flywheel.netdna-ssl.com/wp-content/uploads/cropped-logo-icon-180x180.png",
     "How to apply (text)": "License music",
     "How to apply (URL or email)": "https://musicformakers.com/",
     "More info URL": "https://musicformakers.com/"
