@@ -1278,7 +1278,7 @@ export const services = [
     "Approved": "",
     "Category": "Remote Work",
     "URL": "https://pukkateam.com",
-    "Description": "",
+    "Description": "PukkaTeam is an always-on, online workplace for your remote team to work together throughout the day, improve communication, team awareness and feel more connected, no matter where they are. Find Out More!",
     "Discount": "60 day trial",
     "Does it drive you into a paid account": "Yes, after 60 days",
     "Requirement": "50% discount on all packages",
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-32x32.png",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
