@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "/spike-badge-180.png",
+    "Favicon": "/spike-badge-icon.png",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -690,7 +690,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "eCommerce Software",
     "URL": "https://www.blackbell.com",
-    "Description": "",
+    "Description": "Blackbell is an all-in-one platform to launch and grow your business online! No code and no tech knowledge required.",
     "Discount": "Free for 4 months",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription anytime",
     "Requirement": "",
@@ -1128,7 +1128,7 @@ export const services = [
     "Discount": "Free for 4 months",
     "Does it drive you into a paid account": "Maybe, after 4 months.",
     "Requirement": "Eligible for first responders, healthcare workers, and nonprofits that want to help their communities.",
-    "Favicon": "",
+    "Favicon": "//cdn.jotfor.ms/favicon.ico",
     "How to apply (text)": "Applications can be made through a JotForm",
     "How to apply (URL or email)": "https://www.jotform.com/corona-responder-program/apply/#form",
     "More info URL": "https://www.jotform.com/corona-responder-program/"
@@ -1226,7 +1226,7 @@ export const services = [
     "Discount": "0-50%",
     "Does it drive you into a paid account": "Maybe, depends on your plan and project",
     "Requirement": "30% or 50% for the new users of Dashly:\nfree for teams and people that fight COVID-19 and its consequences",
-    "Favicon": "https://static.tildacdn.com/tild6263-3231-4263-b762-383338336334/safari-pinned-tab-ic.svg",
+    "Favicon": "",
     "How to apply (text)": "Send a message in live chat, the agents will help",
     "How to apply (URL or email)": "https://www.dashly.io/blog/crisis-management-with-dashly/",
     "More info URL": "https://www.dashly.io/blog/crisis-management-with-dashly/"
@@ -1590,7 +1590,7 @@ export const services = [
     "Discount": "Free until 1 June",
     "Does it drive you into a paid account": "No, it cancels automatically at the end of the free period",
     "Requirement": "None",
-    "Favicon": "/assets/icons/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://app.writinganalytics.co/signup/covid-19",
     "More info URL": "https://www.writinganalytics.co/posts/covid-19/"
@@ -1758,7 +1758,7 @@ export const services = [
     "Discount": "100% for the Standard plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Only Standard plan and for all companies fighting COVID-19",
-    "Favicon": "https://assets.website-files.com/5933fd4773e44b4d95d597e8/5c76a05d245b51182dc5c1e3_remme-favicon-purple.png",
+    "Favicon": "",
     "How to apply (text)": "Fill out Contact Us form",
     "How to apply (URL or email)": "https://remme.io/contact-us",
     "More info URL": "https://remme.io/keyhub"
