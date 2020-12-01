@@ -4030,5 +4030,19 @@ export const services = [
     "How to apply (text)": "Register and enter coupon code on billing page",
     "How to apply (URL or email)": "http://dumogio.com/",
     "More info URL": ""
+  },
+  {
+    "Name": "JoyfulPerson",
+    "Approved": "",
+    "Category": "Microlearning",
+    "URL": "www.joyfulperson.com",
+    "Description": "text-based mobile micro-learning solution for frontline workers",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "None",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": "www.joyfulperson.com"
   }
 ]
