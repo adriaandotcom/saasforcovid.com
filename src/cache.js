@@ -806,7 +806,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
-    "Favicon": "/sitestatic/brands/textit/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Sign up for free, open a ticket to get free credits.",
     "How to apply (URL or email)": "https://textit.in/",
     "More info URL": "https://blog.textit.in/free-textit-hosting-for-coronavirus-projects"
@@ -1156,7 +1156,7 @@ export const services = [
     "Discount": "Free 3 months premium",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Automatic on Sign Up",
     "How to apply (URL or email)": "https://app.startday.dk/createaccount",
     "More info URL": "https://startday.app"
@@ -4037,12 +4037,12 @@ export const services = [
     "Category": "Microlearning",
     "URL": "www.joyfulperson.com",
     "Description": "text-based mobile micro-learning solution for frontline workers",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
+    "Discount": "1 month free for first time clients",
+    "Does it drive you into a paid account": "yes",
     "Requirement": "None",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
+    "How to apply (text)": "Drop us a note via our chatbot on our website, use discount code Joyful1",
+    "How to apply (URL or email)": "www.joyfulperson.com",
     "More info URL": "www.joyfulperson.com"
   }
 ]
