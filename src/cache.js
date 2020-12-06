@@ -32,7 +32,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://airtable.com",
-    "Description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free trial",
     "Requirement": "Airtable is making Airtable Pro available for free to any non-political humanitarian group that is working on COVID-19 relief efforts.",
@@ -694,7 +694,7 @@ export const services = [
     "Discount": "Free for 4 months",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription anytime",
     "Requirement": "",
-    "Favicon": "https://d2snvnzirxtkg3.cloudfront.net/blackbell/image/upload/c_crop,h_426,w_426,x_35,y_20/c_scale,h_150,r_max,w_150/v1519739171/permanent/jR3HYhnDQIyGi6RwVlVX_t4yg0d.png",
+    "Favicon": "",
     "How to apply (text)": "Apply the coupon solidaritycovid19",
     "How to apply (URL or email)": "https://www.blackbell.com/en",
     "More info URL": "https://www.blackbell.com/en"
