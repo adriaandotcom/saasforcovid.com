@@ -1450,7 +1450,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Yes, but you can cancel before starting paid subscription.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/static/favicon-196x196-e169fe915369d722a7ef5d3e5375c780.png",
     "How to apply (text)": "Simply fill in form on website, then use coupon strongertogether when subscribing",
     "How to apply (URL or email)": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together",
     "More info URL": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together"
@@ -2388,7 +2388,7 @@ export const services = [
     "Discount": "250$ credit",
     "Does it drive you into a paid account": "No",
     "Requirement": "None.",
-    "Favicon": "https://cdn.liveagent.com/app/themes/liveagent/assets/images/favicon/favicon-32x32.png",
+    "Favicon": "https://cdn.liveagent.com/app/themes/liveagent/assets/images/favicon/apple-touch-icon.png",
     "How to apply (text)": "Send us a message to: andy@liveagent.com with subject \"SaaS4Covid",
     "How to apply (URL or email)": "https://www.liveagent.com/trial/",
     "More info URL": "https://www.liveagent.com/customer-service-during-coronavirus/"
