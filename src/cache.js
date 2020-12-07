@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -414,7 +414,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "Use coupon code: stayathome",
     "How to apply (URL or email)": "https://readermode.io/premium",
     "More info URL": ""
@@ -512,7 +512,7 @@ export const services = [
     "Discount": "3 months for €3",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription any time.",
     "Requirement": "",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup, become a pro, use coupon code covid-19",
     "How to apply (URL or email)": "https://saferequest.net/en/pricing",
     "More info URL": ""
@@ -638,7 +638,7 @@ export const services = [
     "Discount": "Free",
     "Does it drive you into a paid account": "No",
     "Requirement": "Less than 100 devices.",
-    "Favicon": "/favicon.ico?r=124",
+    "Favicon": "",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://my.zerotier.com",
     "More info URL": "www.zerotier.com"
