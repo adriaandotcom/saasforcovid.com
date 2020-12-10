@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -596,7 +596,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "Healthcare organizations only.",
-    "Favicon": "https://uploads-ssl.webflow.com/img/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Just signup",
     "How to apply (URL or email)": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/",
     "More info URL": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/"
@@ -788,7 +788,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://www.atlassian.com",
-    "Description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+    "Description": "",
     "Discount": "Free for up to 10 users or build minutes (incase of Bitbucket Pipelines etc)",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -1170,7 +1170,7 @@ export const services = [
     "Discount": "Free Enterprise plan for the duration of the COVID-19 pandemic",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid-19 related projects like apps, websites and other digital platforms built on Firebase",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=454696de42794630a1b3a9cc72b943b6",
     "How to apply (text)": "Sign-up for a 14-day free trial and contact our support team",
     "How to apply (URL or email)": "https://app.flamelink.io/register",
     "More info URL": ""
@@ -1478,7 +1478,7 @@ export const services = [
     "Discount": "Free for life; 30% off all paid plans",
     "Does it drive you into a paid account": "Maybe, only if you hit limits of the free Starter Plan",
     "Requirement": "New customers",
-    "Favicon": "",
+    "Favicon": "https://mlcfk4eggqht.i.optimole.com/QPViMsA-6Ee4w9uC/w:auto/h:auto/q:auto/https://i1.wp.com/foxbound.io/wp-content/uploads/2019/06/cropped-full-Color-Logo-1.png?fit=32%2C32&ssl=1",
     "How to apply (text)": "Use the code, REBOUND30, in the Billing area",
     "How to apply (URL or email)": "https://app.foxbound.io/users/sign_up",
     "More info URL": "https://foxbound.io/project-rebound-remote-sales/"
@@ -1562,7 +1562,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "",
+    "Favicon": "/pwa/apple-icon-180.png?vv2631",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
@@ -1884,7 +1884,7 @@ export const services = [
     "Discount": "$0.01 for earch search",
     "Does it drive you into a paid account": "Yes, but only $0.01",
     "Requirement": "None.",
-    "Favicon": "https://unicorn-nest.com/wp-content/uploads/2019/12/apple-icon-120x120-1.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "http://unicorn-nest.com/",
     "More info URL": ""
@@ -1912,7 +1912,7 @@ export const services = [
     "Discount": "40% Discount",
     "Does it drive you into a paid account": "Yes, but you get a lot of value for a fair price.",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "fav/apple-touch-icon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://rulecontent.com/?cov=1",
     "More info URL": "https://rulecontent.com/?cov=1"
@@ -2080,7 +2080,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for charities, heavy discounts for restaurants etc",
-    "Favicon": "",
+    "Favicon": "./img/favicon.png",
     "How to apply (text)": "Sign up and then contact them via the chat inside the app",
     "How to apply (URL or email)": "https://getcircuit.com/blog/covid-19-free-for-charities-90-off-for-restaurants/",
     "More info URL": "https://getcircuit.com/team/"
