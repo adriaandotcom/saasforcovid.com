@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -410,7 +410,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Productivity Tools",
     "URL": "https://readermode.io",
-    "Description": "",
+    "Description": "Reader Mode is a distraction-free online reader chrome extension with dyslexia support, text-to-speech and research tools. Remove clutter and read any article in a distraction-free reader mode.",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -582,7 +582,7 @@ export const services = [
     "Discount": "Free during the lockdown",
     "Does it drive you into a paid account": "Maybe, after COVID-19.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/favicon.ico",
     "How to apply (text)": "Use the form on the page.",
     "How to apply (URL or email)": "https://jubiwee.com/en/coronavirus",
     "More info URL": ""
@@ -764,7 +764,7 @@ export const services = [
     "Discount": "Free during lockdown",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://assets.calendly.com/assets/touch-icon-iphone-1505f4afb6438bd528bbce368a44a76d03bd0882a99fee0dd7e580619a51d90b.png",
     "How to apply (text)": "Just create a free account and you have immediate access.",
     "How to apply (URL or email)": "https://calendly.com/",
     "More info URL": "https://blog.calendly.com/meeting-integration-update/"
@@ -1968,7 +1968,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related projec",
-    "Favicon": "",
+    "Favicon": "./assets/logos/favicon.ico",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://payrequest.io/donation-pages",
     "More info URL": "https://payrequest.io/donation-pages"
@@ -2150,7 +2150,7 @@ export const services = [
     "Discount": "Free until 1 June",
     "Does it drive you into a paid account": "No, no payment details required.",
     "Requirement": "Businesses heavily impacted by COVID-19",
-    "Favicon": "",
+    "Favicon": "https://spotonwifi.com/wp-content/uploads/2017/07/cropped-logo-1-180x180.png",
     "How to apply (text)": "Use coupon: FIGHTCOVID",
     "How to apply (URL or email)": "info@spotonwifi.com",
     "More info URL": "https://spotonwifi.com"
@@ -2262,7 +2262,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 10 employees",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "./apple-touch-icon.png",
     "How to apply (text)": "Signup online",
     "How to apply (URL or email)": "https://bundy.io",
     "More info URL": "https://bundy.io"
