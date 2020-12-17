@@ -456,7 +456,7 @@ export const services = [
     "Discount": "Free 50 credits",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://cdn-a.leavemealone.app/favicons/apple-icon-57x57.png",
+    "Favicon": "https://cdn-a.leavemealone.app/favicons/android-icon-192x192.png",
     "How to apply (text)": "Use coupon: HELPING_HAND on profile billing page",
     "How to apply (URL or email)": "https://leavemealone.app/signup",
     "More info URL": ""
@@ -1268,7 +1268,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Business/brand has an email newsletter",
-    "Favicon": "https://letterwell.co/wp-content/uploads/2019/10/cropped-7F91324F-2C7C-45C5-9FF4-1FEAE78967E8-180x180.jpeg",
+    "Favicon": "https://letterwell.co/wp-content/uploads/2019/10/cropped-7F91324F-2C7C-45C5-9FF4-1FEAE78967E8-32x32.jpeg",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://letterwell.co",
     "More info URL": "https://letterwell.co/about"
@@ -2024,7 +2024,7 @@ export const services = [
     "Discount": "25%",
     "Does it drive you into a paid account": "Maybe, but it's one-time payment",
     "Requirement": "",
-    "Favicon": "https://aok4q44obo-flywheel.netdna-ssl.com/wp-content/uploads/cropped-logo-icon-32x32.png",
+    "Favicon": "https://aok4q44obo-flywheel.netdna-ssl.com/wp-content/uploads/cropped-logo-icon-180x180.png",
     "How to apply (text)": "License music",
     "How to apply (URL or email)": "https://musicformakers.com/",
     "More info URL": "https://musicformakers.com/"
@@ -3294,7 +3294,7 @@ export const services = [
     "Approved": "",
     "Category": "Edtech",
     "URL": "https://kintell.com/",
-    "Description": "Kintell connects people looking for advice with those qualified to give it, via paid or Pro Bono video sessions.",
+    "Description": "",
     "Discount": "$20 credit upon signup",
     "Does it drive you into a paid account": "Maybe, it's a credit",
     "Requirement": "New users only",
