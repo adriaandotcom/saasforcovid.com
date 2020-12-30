@@ -18,7 +18,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://intercom.com",
-    "Description": "Build better customer relationships through conversational, messenger-based experiences with Intercom.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, you need to enter payment information and will be charged automatically after 2 years.",
     "Requirement": "Free of charge to any company or institution fighting COVID-19 and its impact on society, or working to help those affected.",
@@ -78,7 +78,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, but this free plan has no custom domain.",
     "Requirement": "Install add-on",
-    "Favicon": "../img/faviconnew.png",
+    "Favicon": "",
     "How to apply (text)": "Use the button below",
     "How to apply (URL or email)": "https://sheet2site.com/coronavirus",
     "More info URL": ""
@@ -218,7 +218,7 @@ export const services = [
     "Discount": "Job posting for $3",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "Disable logo options to get full discount.",
-    "Favicon": "https://remoteok.io/assets/favicon-32x32.png?2",
+    "Favicon": "/assets/apple-icon-57x57.png?2",
     "How to apply (text)": "Just post a job",
     "How to apply (URL or email)": "https://remoteok.io/hire-remotely",
     "More info URL": ""
@@ -1226,7 +1226,7 @@ export const services = [
     "Discount": "0-50%",
     "Does it drive you into a paid account": "Maybe, depends on your plan and project",
     "Requirement": "30% or 50% for the new users of Dashly:\nfree for teams and people that fight COVID-19 and its consequences",
-    "Favicon": "",
+    "Favicon": "https://static.tildacdn.com/tild6263-3231-4263-b762-383338336334/safari-pinned-tab-ic.svg",
     "How to apply (text)": "Send a message in live chat, the agents will help",
     "How to apply (URL or email)": "https://www.dashly.io/blog/crisis-management-with-dashly/",
     "More info URL": "https://www.dashly.io/blog/crisis-management-with-dashly/"
@@ -1450,7 +1450,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Yes, but you can cancel before starting paid subscription.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/static/favicon-196x196-e169fe915369d722a7ef5d3e5375c780.png",
     "How to apply (text)": "Simply fill in form on website, then use coupon strongertogether when subscribing",
     "How to apply (URL or email)": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together",
     "More info URL": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together"
