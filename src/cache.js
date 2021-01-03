@@ -218,7 +218,7 @@ export const services = [
     "Discount": "Job posting for $3",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "Disable logo options to get full discount.",
-    "Favicon": "/assets/apple-icon-57x57.png?2",
+    "Favicon": "https://remoteok.io/assets/favicon-32x32.png?2",
     "How to apply (text)": "Just post a job",
     "How to apply (URL or email)": "https://remoteok.io/hire-remotely",
     "More info URL": ""
@@ -1100,7 +1100,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "",
-    "Favicon": "https://static.wixstatic.com/media/ad08ec_cf6cac14c083437b8336820dee0a6680%7Emv2.png/v1/fill/w_16%2Ch_16%2Clg_1%2Cusm_0.66_1.00_0.01/ad08ec_cf6cac14c083437b8336820dee0a6680%7Emv2.png",
+    "Favicon": "",
     "How to apply (text)": "Signup for free and we'll extend for six months.",
     "How to apply (URL or email)": "https://app.sleuth.io/account/signup/",
     "More info URL": "https://www.sleuth.io/post/now-try-sleuth-free-for-six-months"
@@ -1138,7 +1138,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Analytics",
     "URL": "https://www.awarehq.com",
-    "Description": "",
+    "Description": "Aware is a Gartner-recognized SaaS platform used by major enterprises across the globe. We partner closely with Slack, Microsoft Teams/Yammer, Workplace from Facebook and others to meet governance, security and compliance requirements to enable messaging collaboration at scale.",
     "Discount": "Free through May",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "Dependent upon integration platforms. Slack Enteprise Grid, Workplace from Facebook, Yammer, and Microsoft Teams.",
