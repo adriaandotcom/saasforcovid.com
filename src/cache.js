@@ -18,7 +18,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://intercom.com",
-    "Description": "",
+    "Description": "Build better customer relationships through conversational, messenger-based experiences with Intercom.",
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, you need to enter payment information and will be charged automatically after 2 years.",
     "Requirement": "Free of charge to any company or institution fighting COVID-19 and its impact on society, or working to help those affected.",
@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "/spike-badge-180.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -414,7 +414,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "Use coupon code: stayathome",
     "How to apply (URL or email)": "https://readermode.io/premium",
     "More info URL": ""
@@ -1842,7 +1842,7 @@ export const services = [
     "Discount": "6 months free ($114 value)",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "None. Valid for all users.",
-    "Favicon": "",
+    "Favicon": "https://contractawesome.com/wp-content/uploads/2020/03/cropped-icon-ca--180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://contractawesome.com",
     "More info URL": "https://contractawesome.com"
@@ -1884,7 +1884,7 @@ export const services = [
     "Discount": "$0.01 for earch search",
     "Does it drive you into a paid account": "Yes, but only $0.01",
     "Requirement": "None.",
-    "Favicon": "",
+    "Favicon": "https://unicorn-nest.com/wp-content/uploads/2019/12/apple-icon-120x120-1.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "http://unicorn-nest.com/",
     "More info URL": ""
@@ -2108,7 +2108,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://hellonext.co/favicon.ico",
     "How to apply (text)": "Just ping us on chat on the website.",
     "How to apply (URL or email)": "https://hellonext.co",
     "More info URL": "https://hellonext.co"
