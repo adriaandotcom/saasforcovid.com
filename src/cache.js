@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -456,7 +456,7 @@ export const services = [
     "Discount": "Free 50 credits",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://cdn-a.leavemealone.app/favicons/android-icon-192x192.png",
     "How to apply (text)": "Use coupon: HELPING_HAND on profile billing page",
     "How to apply (URL or email)": "https://leavemealone.app/signup",
     "More info URL": ""
@@ -932,7 +932,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months can cancel subscription or upgrade",
     "Requirement": "Non-profit working on Covid-19 related response",
-    "Favicon": "",
+    "Favicon": "https://uploads-ssl.webflow.com/59a7997fdd2379000163012d/59ab48202231fd0001f39587_Artboard.png",
     "How to apply (text)": "Sign up and contact support@cozycal.com for coupon code",
     "How to apply (URL or email)": "support@cozycal.com",
     "More info URL": "https://www.cozycal.com/"
@@ -2374,7 +2374,7 @@ export const services = [
     "Discount": "100% for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "None.",
-    "Favicon": "",
+    "Favicon": "/apple-icon-57x57.png",
     "How to apply (text)": "Just send us a message.",
     "How to apply (URL or email)": "https://www.callto.shop",
     "More info URL": ""
