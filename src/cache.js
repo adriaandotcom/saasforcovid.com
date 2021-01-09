@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "",
+    "Favicon": "/spike-badge-icon.png",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://clinq.com/wp-content/uploads/2018/11/cropped-36690336_225704894712047_3459899901310140416_n-1-32x32.png",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
@@ -1800,7 +1800,7 @@ export const services = [
     "Discount": "6 months free",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "First time users",
-    "Favicon": "https://static.wixstatic.com/media/7491b9_2396e8f63f364bd7b9ab56672c236492%7Emv2.png/v1/fill/w_16%2Ch_16%2Clg_1%2Cusm_0.66_1.00_0.01/7491b9_2396e8f63f364bd7b9ab56672c236492%7Emv2.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up with code CORONA and email at himanshu@jobtrackable.com to get Standard plan (6 months) free",
     "How to apply (URL or email)": "https://www.jobtrackable.com/",
     "More info URL": "https://www.jobtrackable.com/plans-pricing"
@@ -2136,7 +2136,7 @@ export const services = [
     "Discount": "$6 off on Starter Pack Yearly",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "https://chartsfactory.com/shortcut-01.png",
+    "Favicon": "https://chartsfactory.com/shortcut-11.png",
     "How to apply (text)": "Use coupon code thanksyearly",
     "How to apply (URL or email)": "https://chartsfactory.com/#pricing",
     "More info URL": "https://chartsfactory.com"
@@ -2276,7 +2276,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "",
+    "Favicon": "/img/favicons/apple-touch-icon.png",
     "How to apply (text)": "Signup online, use promo code ZACHRANNYKRUH",
     "How to apply (URL or email)": "https://app.freelo.cz/premium/checkout/choose-plan",
     "More info URL": "https://freelo.app/"
