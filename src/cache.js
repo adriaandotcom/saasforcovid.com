@@ -568,7 +568,7 @@ export const services = [
     "Discount": "Free 5 hourly monitors, 30% discount above that",
     "Does it drive you into a paid account": "No, no need for payment information and 3 months free usage.",
     "Requirement": "Free for Covid-19 projects or if you've been laid off.\nDiscount open to everyone.",
-    "Favicon": "",
+    "Favicon": "https://static.wixstatic.com/media/e0aced_afc9b52737d14539bc956f07e1d93cca%7Emv2.png/v1/fill/w_16%2Ch_16%2Clg_1%2Cusm_0.66_1.00_0.01/e0aced_afc9b52737d14539bc956f07e1d93cca%7Emv2.png",
     "How to apply (text)": "Email support@monitoro.xyz",
     "How to apply (URL or email)": "support@monitoro.xyz",
     "More info URL": ""
@@ -690,7 +690,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "eCommerce Software",
     "URL": "https://www.blackbell.com",
-    "Description": "",
+    "Description": "Blackbell is an all-in-one platform to launch and grow your business online! No code and no tech knowledge required.",
     "Discount": "Free for 4 months",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription anytime",
     "Requirement": "",
@@ -1226,7 +1226,7 @@ export const services = [
     "Discount": "0-50%",
     "Does it drive you into a paid account": "Maybe, depends on your plan and project",
     "Requirement": "30% or 50% for the new users of Dashly:\nfree for teams and people that fight COVID-19 and its consequences",
-    "Favicon": "",
+    "Favicon": "https://static.tildacdn.com/tild6263-3231-4263-b762-383338336334/safari-pinned-tab-ic.svg",
     "How to apply (text)": "Send a message in live chat, the agents will help",
     "How to apply (URL or email)": "https://www.dashly.io/blog/crisis-management-with-dashly/",
     "More info URL": "https://www.dashly.io/blog/crisis-management-with-dashly/"
@@ -1800,7 +1800,7 @@ export const services = [
     "Discount": "6 months free",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "First time users",
-    "Favicon": "https://assets.dorik.com/5ff70ef244afdb0011b835c3/images/Favicon_lh1cgpn6.svg",
+    "Favicon": "",
     "How to apply (text)": "Sign up with code CORONA and email at himanshu@jobtrackable.com to get Standard plan (6 months) free",
     "How to apply (URL or email)": "https://www.jobtrackable.com/",
     "More info URL": "https://www.jobtrackable.com/plans-pricing"
@@ -2122,7 +2122,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "https://www.seowl.co/wp-content/uploads/2020/05/cropped-Fichier-1@2x-180x180.png",
+    "Favicon": "https://www.seowl.co/wp-content/uploads/2020/05/cropped-Fichier-1@2x-32x32.png",
     "How to apply (text)": "Email support@seowl.co",
     "How to apply (URL or email)": "support@seowl.co",
     "More info URL": "https://www.seowl.co"
@@ -2206,7 +2206,7 @@ export const services = [
     "Discount": "25%",
     "Does it drive you into a paid account": "Maybe, but you get a clear discount so you know upfront.",
     "Requirement": "COVID-19 projects.",
-    "Favicon": "fbrfg/favicon-32x32.png",
+    "Favicon": "fbrfg/apple-touch-icon.png",
     "How to apply (text)": "Contact support (can be in Dutch or English)",
     "How to apply (URL or email)": "https://www.intention.nl/direct-jouw-vraag-stellen",
     "More info URL": ""
