@@ -106,7 +106,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you get an extended free trial (6 months), no credit card needed.",
     "Requirement": "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
-    "Favicon": "https://mindwave.app/assets/favicons/apple-touch-icon.png",
+    "Favicon": "https://mindwave.app/assets/favicons/favicon-32x32.png",
     "How to apply (text)": "Email: support@mindwave.app",
     "How to apply (URL or email)": "support@mindwave.app",
     "More info URL": "https://mindwave.app/stories/covid-19-and-my-tiny-contribution-LVjv0V"
@@ -218,7 +218,7 @@ export const services = [
     "Discount": "Job posting for $3",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "Disable logo options to get full discount.",
-    "Favicon": "",
+    "Favicon": "/assets/apple-icon-57x57.png?2",
     "How to apply (text)": "Just post a job",
     "How to apply (URL or email)": "https://remoteok.io/hire-remotely",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -974,7 +974,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
-    "Favicon": "",
+    "Favicon": "https://routific.com/wp-content/uploads/2020/03/favicon.ico",
     "How to apply (text)": "Just chat with us after you sign up for a trial",
     "How to apply (URL or email)": "https://routific.com",
     "More info URL": ""
@@ -1040,7 +1040,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Low-Code/No-Code",
     "URL": "http://www.workato.com",
-    "Description": "",
+    "Description": "Workato, a leader in Gartner MQ, is more than an iPaaS. It's an Intelligent Automation platform that can be used by both Business and IT. It supports thousands of enterprise and workflow usecases so you can automate everything.",
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Covid-19 related, Some partners have offered to help with free/discounted services",
@@ -1100,7 +1100,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://assets.website-files.com/5fd148f419b866c77225d463/5fd148f419b8664c6425d5c8_Sleuth_favicon_webclip.png",
     "How to apply (text)": "Signup for free and we'll extend for six months.",
     "How to apply (URL or email)": "https://app.sleuth.io/account/signup/",
     "More info URL": "https://www.sleuth.io/post/now-try-sleuth-free-for-six-months"
@@ -1604,7 +1604,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://collegelife.co/work/wp-content/uploads/2019/06/cropped-cropped-Artboard-1-2-1-180x180.png",
     "How to apply (text)": "Sign up and send email with subject \"COVID\" to info@collegelife.co",
     "How to apply (URL or email)": "info@collegelife.co",
     "More info URL": "https://collegelife.co/nl/employers/"
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/favicon-32x32.png",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
