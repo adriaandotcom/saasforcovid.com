@@ -32,7 +32,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://airtable.com",
-    "Description": "",
+    "Description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free trial",
     "Requirement": "Airtable is making Airtable Pro available for free to any non-political humanitarian group that is working on COVID-19 relief efforts.",
@@ -78,7 +78,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, but this free plan has no custom domain.",
     "Requirement": "Install add-on",
-    "Favicon": "../img/faviconnew.png",
+    "Favicon": "",
     "How to apply (text)": "Use the button below",
     "How to apply (URL or email)": "https://sheet2site.com/coronavirus",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -400,7 +400,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
-    "Favicon": "//cdn.helpwise.io/assets/images/favicon.png",
+    "Favicon": "https://cdn.helpwise.io/assets/images/favicon.png",
     "How to apply (text)": "Signup & upgrade. Ping support for 20% off for 12 months.",
     "How to apply (URL or email)": "https://helpwise.io",
     "More info URL": ""
@@ -582,7 +582,7 @@ export const services = [
     "Discount": "Free during the lockdown",
     "Does it drive you into a paid account": "Maybe, after COVID-19.",
     "Requirement": "",
-    "Favicon": "/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Use the form on the page.",
     "How to apply (URL or email)": "https://jubiwee.com/en/coronavirus",
     "More info URL": ""
@@ -596,7 +596,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "Healthcare organizations only.",
-    "Favicon": "https://uploads-ssl.webflow.com/img/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Just signup",
     "How to apply (URL or email)": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/",
     "More info URL": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/"
@@ -1520,7 +1520,7 @@ export const services = [
     "Discount": "Free for the rest of 2020",
     "Does it drive you into a paid account": "No, no need for payment information and free for the rest of 2020",
     "Requirement": "Healthcare organisations",
-    "Favicon": "",
+    "Favicon": "https://www.kernelcare.com/wp-content/uploads/2019/09/index-150x150.png",
     "How to apply (text)": "Sign up and we will jump in to help with deployment on all your servers",
     "How to apply (URL or email)": "https://lp.kernelcare.com/kernelcare-for-free-for-healthcare",
     "More info URL": "https://www.kernelcare.com/product/"
@@ -1618,7 +1618,7 @@ export const services = [
     "Discount": "Free for 2 months",
     "Does it drive you into a paid account": "No, they have an option where no Credit Card is required to start a free-trial.",
     "Requirement": "None",
-    "Favicon": "images/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Email tony@cloudforecast.io with subject COVID",
     "How to apply (URL or email)": "https://app.cloudforecast.io/users/sign_up",
     "More info URL": "www.cloudforecast.io"
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/favicon-32x32.png",
+    "Favicon": "",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
@@ -2080,7 +2080,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for charities, heavy discounts for restaurants etc",
-    "Favicon": "./img/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up and then contact them via the chat inside the app",
     "How to apply (URL or email)": "https://getcircuit.com/blog/covid-19-free-for-charities-90-off-for-restaurants/",
     "More info URL": "https://getcircuit.com/team/"
