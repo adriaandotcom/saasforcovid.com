@@ -190,7 +190,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "Public stats + link in footer of project",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Fill in their contact form or use their chat widget",
     "How to apply (URL or email)": "https://simpleanalytics.com/contact",
     "More info URL": ""
@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://clinq.com/wp-content/uploads/2018/11/cropped-36690336_225704894712047_3459899901310140416_n-1-180x180.png",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
@@ -512,7 +512,7 @@ export const services = [
     "Discount": "3 months for €3",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription any time.",
     "Requirement": "",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup, become a pro, use coupon code covid-19",
     "How to apply (URL or email)": "https://saferequest.net/en/pricing",
     "More info URL": ""
