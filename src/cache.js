@@ -50,7 +50,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free usage.",
     "Requirement": "It's appreciated to add a link back to divjoy.com (not required). Free for Covid-19 projects.",
-    "Favicon": "/static/images/favicon/favicon-16x16.png",
+    "Favicon": "/static/images/favicon/apple-touch-icon.png",
     "How to apply (text)": "Use chatbot on the page",
     "How to apply (URL or email)": "https://divjoy.com/",
     "More info URL": ""
@@ -106,7 +106,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you get an extended free trial (6 months), no credit card needed.",
     "Requirement": "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
-    "Favicon": "https://mindwave.app/assets/favicons/favicon-32x32.png",
+    "Favicon": "https://mindwave.app/assets/favicons/apple-touch-icon.png",
     "How to apply (text)": "Email: support@mindwave.app",
     "How to apply (URL or email)": "support@mindwave.app",
     "More info URL": "https://mindwave.app/stories/covid-19-and-my-tiny-contribution-LVjv0V"
@@ -158,7 +158,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://getlowdown.com",
-    "Description": "",
+    "Description": "Your members don't have time to keep up with Slack. Give them the option to receive a daily, weekly or monthly email digest to ensure they don't miss out.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for Slack groups helping with COVID-19",
@@ -288,7 +288,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe, the discount is only applied to the first charge but it's possible to select 3 years. It will renew with normal pricing.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://burnermail.io/favicon-196x196.png",
     "How to apply (text)": "Using coupon code: STAYINGHOME",
     "How to apply (URL or email)": "https://burnermail.io",
     "More info URL": ""
@@ -788,7 +788,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://www.atlassian.com",
-    "Description": "",
+    "Description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
     "Discount": "Free for up to 10 users or build minutes (incase of Bitbucket Pipelines etc)",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -1040,7 +1040,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Low-Code/No-Code",
     "URL": "http://www.workato.com",
-    "Description": "Workato, a leader in Gartner MQ, is more than an iPaaS. It's an Intelligent Automation platform that can be used by both Business and IT. It supports thousands of enterprise and workflow usecases so you can automate everything.",
+    "Description": "",
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Covid-19 related, Some partners have offered to help with free/discounted services",
@@ -1506,7 +1506,7 @@ export const services = [
     "Discount": "Free for 1st month (or as long as needed)",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "No requirement (all customers receive a free month)",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "/favicon-32x32.png",
     "How to apply (text)": "Sign up on the website and use the code WFH",
     "How to apply (URL or email)": "https://air.inc",
     "More info URL": ""
@@ -1660,7 +1660,7 @@ export const services = [
     "Discount": "Free for 1st month",
     "Does it drive you into a paid account": "Yes, but you can cancel the subscription",
     "Requirement": "None",
-    "Favicon": "i/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon code FREEMONTH during checkout.",
     "How to apply (URL or email)": "https://designmodo.com/freemonth/",
     "More info URL": "https://designmodo.com/freemonth/"
@@ -1758,7 +1758,7 @@ export const services = [
     "Discount": "100% for the Standard plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Only Standard plan and for all companies fighting COVID-19",
-    "Favicon": "",
+    "Favicon": "https://assets.website-files.com/5933fd4773e44b4d95d597e8/5c76a05d245b51182dc5c1e3_remme-favicon-purple.png",
     "How to apply (text)": "Fill out Contact Us form",
     "How to apply (URL or email)": "https://remme.io/contact-us",
     "More info URL": "https://remme.io/keyhub"
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-32x32.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
@@ -2276,7 +2276,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "/img/favicons/apple-touch-icon.png",
+    "Favicon": "/img/favicons/favicon-64.ico",
     "How to apply (text)": "Signup online, use promo code ZACHRANNYKRUH",
     "How to apply (URL or email)": "https://app.freelo.cz/premium/checkout/choose-plan",
     "More info URL": "https://freelo.app/"
