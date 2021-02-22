@@ -106,7 +106,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you get an extended free trial (6 months), no credit card needed.",
     "Requirement": "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
-    "Favicon": "https://mindwave.app/assets/favicons/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Email: support@mindwave.app",
     "How to apply (URL or email)": "support@mindwave.app",
     "More info URL": "https://mindwave.app/stories/covid-19-and-my-tiny-contribution-LVjv0V"
@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "/assets/icon128-53d136bb0aa1c128a1a32fc3630d28eb4d3659aaa9fc748839e8d489221fe2f9.png",
+    "Favicon": "",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://clinq.com/wp-content/uploads/2018/11/cropped-36690336_225704894712047_3459899901310140416_n-1-180x180.png",
+    "Favicon": "",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
@@ -526,7 +526,7 @@ export const services = [
     "Discount": "50% for all packages",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "New customers",
-    "Favicon": "https://cdn-bbocb.nitrocdn.com/SjpELhQGauRUbLwvosedImbrLZxZavKx/assets/static/optimized/rev-4ab2991/wp-content/uploads/2020/04/cropped-Favicon-transparent-180x180.png",
+    "Favicon": "",
     "How to apply (text)": "Email jeffy@netnut.io",
     "How to apply (URL or email)": "https://l.netnut.io/saasforcovid",
     "More info URL": "https://netnut.io/"
@@ -914,7 +914,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Writing Tools",
     "URL": "https://tettra.com",
-    "Description": "Tettra is a powerful internal knowledge base, wiki and expert system. Onboard new teammates & answer repetitive questions faster with Tettra.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Scaling Plan only. Non-profit working on Covid-19 related response",
@@ -1100,7 +1100,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "",
-    "Favicon": "https://assets.website-files.com/5fd148f419b866c77225d463/60233349b46a67032154dbaa_Sleuth_logoOnly-256x256.png",
+    "Favicon": "",
     "How to apply (text)": "Signup for free and we'll extend for six months.",
     "How to apply (URL or email)": "https://app.sleuth.io/account/signup/",
     "More info URL": "https://www.sleuth.io/post/now-try-sleuth-free-for-six-months"
@@ -1128,7 +1128,7 @@ export const services = [
     "Discount": "Free for 4 months",
     "Does it drive you into a paid account": "Maybe, after 4 months.",
     "Requirement": "Eligible for first responders, healthcare workers, and nonprofits that want to help their communities.",
-    "Favicon": "",
+    "Favicon": "//cdn.jotfor.ms/favicon.ico",
     "How to apply (text)": "Applications can be made through a JotForm",
     "How to apply (URL or email)": "https://www.jotform.com/corona-responder-program/apply/#form",
     "More info URL": "https://www.jotform.com/corona-responder-program/"
@@ -1366,7 +1366,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
-    "Favicon": "/favicon-32x32.png?v=7f1cc4024b5aeb9488b9a89c53cad0bd",
+    "Favicon": "/icons/icon-48x48.png?v=7f1cc4024b5aeb9488b9a89c53cad0bd",
     "How to apply (text)": "Contact via chat",
     "How to apply (URL or email)": "https://upflow.io",
     "More info URL": ""
@@ -1548,7 +1548,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "100% free for COVID-related data projects",
     "Requirement": "100% free for COVID-related data projects",
-    "Favicon": "https://databand.ai/wp-content/uploads/2020/11/cropped-Icon-circle-dark-background-180x180.png",
+    "Favicon": "",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://databand.ai/request-demo/",
     "More info URL": ""
@@ -2038,7 +2038,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, but after 6 months you'll move to a lower volume forever free plan",
     "Requirement": "None",
-    "Favicon": "/images/favicons/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Reply to the welcome email + mention COVID-19",
     "How to apply (URL or email)": "https://continual.ly/",
     "More info URL": "https://continual.ly/"
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "https://prisync.com/wp-content/uploads/2020/07/cropped-prisync-icon-black-180x180.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
