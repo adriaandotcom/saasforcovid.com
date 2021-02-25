@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "",
+    "Favicon": "/assets/icon128-53d136bb0aa1c128a1a32fc3630d28eb4d3659aaa9fc748839e8d489221fe2f9.png",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -144,7 +144,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Writing Tools",
     "URL": "https://www.getoutline.com",
-    "Description": "",
+    "Description": "A modern team knowledge base for your internal documentation, product specs, support answers, meeting notes, onboarding, & more…",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 projects. Discounts available for affected industries",
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -456,7 +456,7 @@ export const services = [
     "Discount": "Free 50 credits",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://cdn-a.leavemealone.app/favicons/android-icon-192x192.png",
+    "Favicon": "https://cdn-a.leavemealone.app/favicons/apple-icon-57x57.png",
     "How to apply (text)": "Use coupon: HELPING_HAND on profile billing page",
     "How to apply (URL or email)": "https://leavemealone.app/signup",
     "More info URL": ""
@@ -1660,7 +1660,7 @@ export const services = [
     "Discount": "Free for 1st month",
     "Does it drive you into a paid account": "Yes, but you can cancel the subscription",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "i/favicon.png",
     "How to apply (text)": "Use coupon code FREEMONTH during checkout.",
     "How to apply (URL or email)": "https://designmodo.com/freemonth/",
     "More info URL": "https://designmodo.com/freemonth/"
@@ -1842,7 +1842,7 @@ export const services = [
     "Discount": "6 months free ($114 value)",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "None. Valid for all users.",
-    "Favicon": "",
+    "Favicon": "https://contractawesome.com/wp-content/uploads/2020/03/cropped-icon-ca--180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://contractawesome.com",
     "More info URL": "https://contractawesome.com"
@@ -2066,7 +2066,7 @@ export const services = [
     "Discount": "50% on Team Plan",
     "Does it drive you into a paid account": "Free version comprises of 5 diagrams",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/static/assets/common/icons/favicons-next/apple-touch-icon.png",
     "How to apply (text)": "Use the discount code at the time of purchase",
     "How to apply (URL or email)": "https://creately.com/remote-working-guide/",
     "More info URL": "https://creately.com/"
