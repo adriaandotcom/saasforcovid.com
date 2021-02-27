@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -456,7 +456,7 @@ export const services = [
     "Discount": "Free 50 credits",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://cdn-a.leavemealone.app/favicons/android-icon-192x192.png",
+    "Favicon": "https://cdn-a.leavemealone.app/favicons/apple-icon-57x57.png",
     "How to apply (text)": "Use coupon: HELPING_HAND on profile billing page",
     "How to apply (URL or email)": "https://leavemealone.app/signup",
     "More info URL": ""
@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://clinq.com/wp-content/uploads/2018/11/cropped-36690336_225704894712047_3459899901310140416_n-1-180x180.png",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
@@ -876,7 +876,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project",
-    "Favicon": "/favicon-196x196.png",
+    "Favicon": "",
     "How to apply (text)": "Email info@vectorspace.ai or visit https://vectorspace.ai",
     "How to apply (URL or email)": "info@vectorspace.ai",
     "More info URL": "https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html?tc=eml_cleartime"
@@ -1450,7 +1450,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Yes, but you can cancel before starting paid subscription.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/static/favicon-196x196-e169fe915369d722a7ef5d3e5375c780.png",
     "How to apply (text)": "Simply fill in form on website, then use coupon strongertogether when subscribing",
     "How to apply (URL or email)": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together",
     "More info URL": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together"
@@ -1674,7 +1674,7 @@ export const services = [
     "Discount": "Buy 3 months, Get 3 months for Free",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://bmaas-web-platform-assets.s3.amazonaws.com/public/assets/favicons/favicon-32.png",
     "How to apply (text)": "Sign up and use code COVID19",
     "How to apply (URL or email)": "https://amaas.adext.ai/register",
     "More info URL": "WWW.ADEXT.AI"
@@ -1842,7 +1842,7 @@ export const services = [
     "Discount": "6 months free ($114 value)",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "None. Valid for all users.",
-    "Favicon": "",
+    "Favicon": "https://contractawesome.com/wp-content/uploads/2020/03/cropped-icon-ca--180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://contractawesome.com",
     "More info URL": "https://contractawesome.com"
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
@@ -2220,7 +2220,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://i1.wp.com/widebot.net/wp-content/uploads/2020/10/cropped-logo-1.png?fit=180%2C180&ssl=1",
     "How to apply (text)": "When you upgrade to pro add promo code \"BeSafe",
     "How to apply (URL or email)": "https://widebot.net",
     "More info URL": ""
@@ -3028,7 +3028,7 @@ export const services = [
     "Approved": "",
     "Category": "Lead generation",
     "URL": "https://scapic.com",
-    "Description": "",
+    "Description": "Bringing immersive commerce to the next billion Indians",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Small businesses, retailers and online stores",
