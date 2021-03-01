@@ -32,7 +32,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://airtable.com",
-    "Description": "",
+    "Description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free trial",
     "Requirement": "Airtable is making Airtable Pro available for free to any non-political humanitarian group that is working on COVID-19 relief efforts.",
@@ -1156,7 +1156,7 @@ export const services = [
     "Discount": "Free 3 months premium",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Automatic on Sign Up",
     "How to apply (URL or email)": "https://app.startday.dk/createaccount",
     "More info URL": "https://startday.app"
@@ -1212,7 +1212,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related for educational institutions and teachers",
-    "Favicon": "https://www.mindmeister.com/mm_favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Submit a request via a form",
     "How to apply (URL or email)": "https://docs.google.com/forms/d/e/1FAIpQLSeDB4wwXfF50axq-f--NRQUhwgjUgweMPKlSRQI9ul9rJ8gVA/viewform",
     "More info URL": "https://www.meisterlabs.com/meister-for-educators/"
@@ -1856,7 +1856,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Only after you hit free account limits.",
     "Requirement": "None.",
-    "Favicon": "",
+    "Favicon": "https://uploads-ssl.webflow.com/5eea6758cb789401d10bb367/5f1ef4af49feca734c3f01e2_5e402d845b31cb858c4a0b77_icon-square-256.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://www.fluxo.ai",
     "More info URL": "https://www.fluxo.ai/pricing"
@@ -1898,7 +1898,7 @@ export const services = [
     "Discount": "$1/mo per location",
     "Does it drive you into a paid account": "Yes, but only $1/month",
     "Requirement": "none",
-    "Favicon": "/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com"
@@ -2038,7 +2038,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, but after 6 months you'll move to a lower volume forever free plan",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/images/favicons/favicon.ico",
     "How to apply (text)": "Reply to the welcome email + mention COVID-19",
     "How to apply (URL or email)": "https://continual.ly/",
     "More info URL": "https://continual.ly/"
