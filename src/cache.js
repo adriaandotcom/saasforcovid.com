@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -904,7 +904,7 @@ export const services = [
     "Discount": "100% discount until January 2021",
     "Does it drive you into a paid account": "Maybe, after January 2021",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://assets.website-files.com/5ec848ec2b50b6cfae06f6cc/602426afef5ef3bad557de88_favicon256.png",
     "How to apply (text)": "Simply sign up for free and get started.",
     "How to apply (URL or email)": "https://reclaim.ai",
     "More info URL": "https://reclaim.ai/product"
@@ -918,7 +918,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Scaling Plan only. Non-profit working on Covid-19 related response",
-    "Favicon": "",
+    "Favicon": "https://tettra.com/wp-content/uploads/2018/11/cropped-favicon-180x180.png",
     "How to apply (text)": "Sign up and reach out over chat",
     "How to apply (URL or email)": "https://app.tettra.co/create-team",
     "More info URL": ""
@@ -988,7 +988,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 response and recovery management",
-    "Favicon": "",
+    "Favicon": "https://www.senseilabs.com/wp-content/themes/senseilabs/favicon-16x16.png",
     "How to apply (text)": "Fill in the form and we'll get you setup",
     "How to apply (URL or email)": "https://hello.senseilabs.com/conductor-for-covid19",
     "More info URL": "https://www.senseilabs.com/conductor/conductor-for-covid-19/"
@@ -1114,7 +1114,7 @@ export const services = [
     "Discount": "15 free development hours for health-care related apps supporting the Coronavirus crisis. Waived blueprint fees for restaurant or small business who needs to transition to online orders.",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "Health-care related apps supporting the Coronavirus crisis. Small businesses transitioning to an online business model.",
-    "Favicon": "https://assets.website-files.com/5b5cd6b75bb9b0dce50e212f/5b691b549b93d76d9f36edeb_256.gif",
+    "Favicon": "",
     "How to apply (text)": "Submit 'Free Quote' form and mention COVID-19 discount.",
     "How to apply (URL or email)": "https://www.crowdbotics.com/managed-app-development",
     "More info URL": "https://blog.crowdbotics.com/rapid-app-development-discounts-resources-discounts-coronavirus/"
@@ -2066,7 +2066,7 @@ export const services = [
     "Discount": "50% on Team Plan",
     "Does it drive you into a paid account": "Free version comprises of 5 diagrams",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/static/assets/common/icons/favicons-next/favicon-32x32.png",
     "How to apply (text)": "Use the discount code at the time of purchase",
     "How to apply (URL or email)": "https://creately.com/remote-working-guide/",
     "More info URL": "https://creately.com/"
@@ -2122,7 +2122,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://www.seowl.co/wp-content/uploads/2020/05/cropped-Fichier-1@2x-32x32.png",
     "How to apply (text)": "Email support@seowl.co",
     "How to apply (URL or email)": "support@seowl.co",
     "More info URL": "https://www.seowl.co"
