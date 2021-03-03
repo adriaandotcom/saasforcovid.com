@@ -344,7 +344,7 @@ export const services = [
     "Discount": "30%",
     "Does it drive you into a paid account": "Maybe, it's a discount",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/img/favicons/apple-icon-57x57.png",
     "How to apply (text)": "Coupon: PROXYMAN_STAY_SAFE_STAY_HEALTHY",
     "How to apply (URL or email)": "https://proxyman.io/pricing",
     "More info URL": ""
@@ -396,7 +396,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://helpwise.io",
-    "Description": "",
+    "Description": "Helpwise is an easy to use shared inbox and email collaboration software for teams to manage team email accounts like help@, sales@, etc. Get Shared Inbox for your team now!",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
@@ -1380,7 +1380,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "/icons/icon-48x48.png?v=fc17b99d75c8dfe889cf0f78c646d84b",
+    "Favicon": "/favicon-32x32.png?v=fc17b99d75c8dfe889cf0f78c646d84b",
     "How to apply (text)": "There is already 50% discount on yearly subscription https://nocodeapi.com/pricing",
     "How to apply (URL or email)": "https://nocodeapi.com/pricing",
     "More info URL": "https://nocodeapi.com/what-is-nocodeapi"
@@ -1408,7 +1408,7 @@ export const services = [
     "Discount": "15%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://cdn.umso.co/29al446fkkuj/assets/fygh642g.png",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://customfit.ai/demo",
     "More info URL": "https://customfit.ai/playbook"
@@ -1618,7 +1618,7 @@ export const services = [
     "Discount": "Free for 2 months",
     "Does it drive you into a paid account": "No, they have an option where no Credit Card is required to start a free-trial.",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "images/webclip.png",
     "How to apply (text)": "Email tony@cloudforecast.io with subject COVID",
     "How to apply (URL or email)": "https://app.cloudforecast.io/users/sign_up",
     "More info URL": "www.cloudforecast.io"
@@ -1800,7 +1800,7 @@ export const services = [
     "Discount": "6 months free",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "https://assets.dorik.com/5ff70ef244afdb0011b835c3/images/Favicon_lh1cgpn6.svg",
     "How to apply (text)": "Sign up with code CORONA and email at himanshu@jobtrackable.com to get Standard plan (6 months) free",
     "How to apply (URL or email)": "https://www.jobtrackable.com/",
     "More info URL": "https://www.jobtrackable.com/plans-pricing"
@@ -2010,7 +2010,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, 14 day free trial",
     "Requirement": "None. Works on any website",
-    "Favicon": "",
+    "Favicon": "https://s3-us-west-2.amazonaws.com/storage.newclick.io/STATIC/IMG/newclick_favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "http://newclick.io/",
     "More info URL": "http://newclick.io/"
