@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -540,7 +540,7 @@ export const services = [
     "Discount": "12 months hosting",
     "Does it drive you into a paid account": "Maybe, after the 12 months.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5d5595354de4fbdd8c554dba_default_webclip.png",
     "How to apply (text)": "Contact support with details of project for discount code.",
     "How to apply (URL or email)": "https://university.webflow.com/support#contact-form",
     "More info URL": ""
@@ -764,7 +764,7 @@ export const services = [
     "Discount": "Free during lockdown",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://assets.calendly.com/assets/touch-icon-iphone-1505f4afb6438bd528bbce368a44a76d03bd0882a99fee0dd7e580619a51d90b.png",
     "How to apply (text)": "Just create a free account and you have immediate access.",
     "How to apply (URL or email)": "https://calendly.com/",
     "More info URL": "https://blog.calendly.com/meeting-integration-update/"
@@ -1198,7 +1198,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://static.tildacdn.com/tild3933-6532-4261-a235-623335386631/Frame_5.png",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://app.birdeatsbug.com",
     "More info URL": "https://birdeatsbug.com/faq"
@@ -2066,7 +2066,7 @@ export const services = [
     "Discount": "50% on Team Plan",
     "Does it drive you into a paid account": "Free version comprises of 5 diagrams",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/static/assets/common/icons/favicons-next/apple-touch-icon.png",
     "How to apply (text)": "Use the discount code at the time of purchase",
     "How to apply (URL or email)": "https://creately.com/remote-working-guide/",
     "More info URL": "https://creately.com/"
@@ -2108,7 +2108,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://hellonext.co/favicons/favicon-152-precomposed.png",
     "How to apply (text)": "Just ping us on chat on the website.",
     "How to apply (URL or email)": "https://hellonext.co",
     "More info URL": "https://hellonext.co"
@@ -2122,7 +2122,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://www.seowl.co/wp-content/uploads/2020/05/cropped-Fichier-1@2x-180x180.png",
     "How to apply (text)": "Email support@seowl.co",
     "How to apply (URL or email)": "support@seowl.co",
     "More info URL": "https://www.seowl.co"
@@ -2150,7 +2150,7 @@ export const services = [
     "Discount": "Free until 1 June",
     "Does it drive you into a paid account": "No, no payment details required.",
     "Requirement": "Businesses heavily impacted by COVID-19",
-    "Favicon": "",
+    "Favicon": "https://spotonwifi.com/wp-content/uploads/2017/07/cropped-logo-1-180x180.png",
     "How to apply (text)": "Use coupon: FIGHTCOVID",
     "How to apply (URL or email)": "info@spotonwifi.com",
     "More info URL": "https://spotonwifi.com"
@@ -2192,7 +2192,7 @@ export const services = [
     "Discount": "30% for 3 months",
     "Does it drive you into a paid account": "Maybe, but you get a clear discount so you know upfront.",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://reportei.com/wp-content/uploads/2017/11/favicon.png",
     "How to apply (text)": "Use coupon: SAASFORCOVID",
     "How to apply (URL or email)": "https://reportei.com/en/",
     "More info URL": ""
