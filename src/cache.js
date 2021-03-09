@@ -526,7 +526,7 @@ export const services = [
     "Discount": "50% for all packages",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "New customers",
-    "Favicon": "",
+    "Favicon": "https://cdn-bbocb.nitrocdn.com/SjpELhQGauRUbLwvosedImbrLZxZavKx/assets/static/optimized/rev-4ab2991/wp-content/uploads/2020/04/cropped-Favicon-transparent-32x32.png",
     "How to apply (text)": "Email jeffy@netnut.io",
     "How to apply (URL or email)": "https://l.netnut.io/saasforcovid",
     "More info URL": "https://netnut.io/"
@@ -1296,7 +1296,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "/static/karen/favicons/android-icon-192x192.png",
+    "Favicon": "/static/karen/favicons/apple-icon-57x57.png",
     "How to apply (text)": "Use code SixMo50 for discount",
     "How to apply (URL or email)": "https://karenapp.io",
     "More info URL": "https://karenapp.io"
@@ -1352,7 +1352,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free Pro plan for Covid-19 projects. Discounts available for affected businesses",
-    "Favicon": "/android-icon-192x192.png",
+    "Favicon": "/apple-icon-57x57.png",
     "How to apply (text)": "Contact us via live chat",
     "How to apply (URL or email)": "https://placid.app/",
     "More info URL": ""
