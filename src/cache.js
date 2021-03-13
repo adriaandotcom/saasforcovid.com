@@ -190,7 +190,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "Public stats + link in footer of project",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Fill in their contact form or use their chat widget",
     "How to apply (URL or email)": "https://simpleanalytics.com/contact",
     "More info URL": ""
@@ -694,7 +694,7 @@ export const services = [
     "Discount": "Free for 4 months",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription anytime",
     "Requirement": "",
-    "Favicon": "https://d2snvnzirxtkg3.cloudfront.net/blackbell/image/upload/c_crop,h_426,w_426,x_35,y_20/c_scale,h_150,r_max,w_150/v1519739171/permanent/jR3HYhnDQIyGi6RwVlVX_t4yg0d.png",
+    "Favicon": "",
     "How to apply (text)": "Apply the coupon solidaritycovid19",
     "How to apply (URL or email)": "https://www.blackbell.com/en",
     "More info URL": "https://www.blackbell.com/en"
@@ -890,7 +890,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://mk0placer5c8hgdh2ll.kinstacdn.com/wp-content/uploads/2018/08/favicon-310x310-150x150.png",
+    "Favicon": "https://mk0placer5c8hgdh2ll.kinstacdn.com/wp-content/uploads/2018/08/favicon-310x310-300x300.png",
     "How to apply (text)": "Corona correlated retail trend data is available publicly for free.",
     "How to apply (URL or email)": "https://www.placer.ai/covid-19/",
     "More info URL": "https://placer.ai"
@@ -1128,7 +1128,7 @@ export const services = [
     "Discount": "Free for 4 months",
     "Does it drive you into a paid account": "Maybe, after 4 months.",
     "Requirement": "Eligible for first responders, healthcare workers, and nonprofits that want to help their communities.",
-    "Favicon": "//cdn.jotfor.ms/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Applications can be made through a JotForm",
     "How to apply (URL or email)": "https://www.jotform.com/corona-responder-program/apply/#form",
     "More info URL": "https://www.jotform.com/corona-responder-program/"
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/favicon-32x32.png",
+    "Favicon": "",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
@@ -2052,7 +2052,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io/?saasforcovid=discount",
     "More info URL": "https://www.kimp.io/"
@@ -2262,7 +2262,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 10 employees",
     "Requirement": "None",
-    "Favicon": "./apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup online",
     "How to apply (URL or email)": "https://bundy.io",
     "More info URL": "https://bundy.io"
@@ -2906,7 +2906,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io",
     "More info URL": ""
@@ -3028,7 +3028,7 @@ export const services = [
     "Approved": "",
     "Category": "Lead generation",
     "URL": "https://scapic.com",
-    "Description": "",
+    "Description": "Bringing immersive commerce to the next billion Indians",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Small businesses, retailers and online stores",
