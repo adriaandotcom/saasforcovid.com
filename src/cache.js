@@ -78,7 +78,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, but this free plan has no custom domain.",
     "Requirement": "Install add-on",
-    "Favicon": "../img/faviconnew.png",
+    "Favicon": "",
     "How to apply (text)": "Use the button below",
     "How to apply (URL or email)": "https://sheet2site.com/coronavirus",
     "More info URL": ""
@@ -162,7 +162,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for Slack groups helping with COVID-19",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=cbf83db1d7076e7706531a225f915b35",
     "How to apply (text)": "Sign up and then send us an email.",
     "How to apply (URL or email)": "https://getlowdown.com/covid-19/",
     "More info URL": ""
@@ -960,7 +960,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "it is a free template on free plans by all partners",
-    "Favicon": "/logo192.png",
+    "Favicon": "/favicon.ico",
     "How to apply (text)": "free JAMstack-based static website template and hosting in conjunction with our partners, Netlify and Gatsby",
     "How to apply (URL or email)": "https://stopthespread.dev",
     "More info URL": "https://www.contentful.com/blog/2020/03/20/stop-the-spread-covid-19/"
@@ -1044,7 +1044,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Covid-19 related, Some partners have offered to help with free/discounted services",
-    "Favicon": "https://cdn.skyler.awsprod.workato.com/mktg-assets/favicon/favicon-194x194-9df9c0ae1c97e02ca682d4dff1799fda6ad617f0462928581fbdb030b2f65669.png",
+    "Favicon": "https://cdn.skyler.awsprod.workato.com/mktg-assets/favicon/apple-touch-icon-57x57-13c02d830c4de996e848535bbea03a71d536254989a100a6acf040221464f4c4.png",
     "How to apply (text)": "Signup for free or contact us",
     "How to apply (URL or email)": "http://www.workato.com",
     "More info URL": ""
@@ -1422,7 +1422,7 @@ export const services = [
     "Discount": "10% (First month)",
     "Does it drive you into a paid account": "Maybe, it's a discount so their earn money.",
     "Requirement": "",
-    "Favicon": "https://cdn.shortpixel.ai/spai/q_lossy+ret_img/https://deerdesigner.com/wp-content/uploads/deerdesigner-logo.png",
+    "Favicon": "cs/favicon.png",
     "How to apply (text)": "Use coupon COVID19 on the checkout",
     "How to apply (URL or email)": "https://deerdesigner.com",
     "More info URL": "https://deerdesigner.com"
@@ -2444,7 +2444,7 @@ export const services = [
     "Discount": "250$ credit",
     "Does it drive you into a paid account": "Maybe, but it's a clear discount.",
     "Requirement": "None.",
-    "Favicon": "https://d2p3olkzjojwnw.cloudfront.net/app/themes/postaffiliatepro/assets/images/favicon/favicon-32x32.png",
+    "Favicon": "https://d2p3olkzjojwnw.cloudfront.net/app/themes/postaffiliatepro/assets/images/favicon/apple-touch-icon-180x180.png",
     "How to apply (text)": "Send us a message to: andy@postaffiliatepro.com with subject \"SaaS4Covid",
     "How to apply (URL or email)": "https://www.postaffiliatepro.com/trial/",
     "More info URL": "https://www.postaffiliatepro.com/affiliate-marketing-software/"
