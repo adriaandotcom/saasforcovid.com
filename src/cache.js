@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -708,7 +708,7 @@ export const services = [
     "Discount": "Free GPUs",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://assets-global.website-files.com/5db99670374d1d829291af4f/5f0c831db773eb676c5048a1_Webclip-PaperspaceMixed.png",
+    "Favicon": "",
     "How to apply (text)": "Signup and email support@paperspace.com",
     "How to apply (URL or email)": "https://www.paperspace.com",
     "More info URL": ""
@@ -844,7 +844,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://docspring.com",
-    "Description": "",
+    "Description": "Build an API integration in minutes and fill out PDF forms with your data. Set up field positions and data types using our visual PDF template editor. Simply post JSON data to our API, then download a filled-out PDF in seconds.",
     "Discount": "Free for up to 10,000 PDFs / mo, then an 85% discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 related project (not-for-profit)",
@@ -876,7 +876,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project",
-    "Favicon": "/favicon-196x196.png",
+    "Favicon": "",
     "How to apply (text)": "Email info@vectorspace.ai or visit https://vectorspace.ai",
     "How to apply (URL or email)": "info@vectorspace.ai",
     "More info URL": "https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html?tc=eml_cleartime"
@@ -1212,7 +1212,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related for educational institutions and teachers",
-    "Favicon": "https://www.mindmeister.com/mm_favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Submit a request via a form",
     "How to apply (URL or email)": "https://docs.google.com/forms/d/e/1FAIpQLSeDB4wwXfF50axq-f--NRQUhwgjUgweMPKlSRQI9ul9rJ8gVA/viewform",
     "More info URL": "https://www.meisterlabs.com/meister-for-educators/"
@@ -1436,7 +1436,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://assets.website-files.com/5c6bb8ab3620cfc71f70b984/5d505e5b493b0583b831a834_webclip-favicon.png",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://www.trywingman.com/going-remote",
     "More info URL": ""
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "",
+    "Favicon": "wp-content/uploads/2020/02/xcropped-KLogo-1-180x180.png.pagespeed.ic.j5vps6mvsN.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
@@ -1968,7 +1968,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related projec",
-    "Favicon": "",
+    "Favicon": "./assets/logos/favicon.ico",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://payrequest.io/donation-pages",
     "More info URL": "https://payrequest.io/donation-pages"
