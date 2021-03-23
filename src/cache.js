@@ -848,7 +848,7 @@ export const services = [
     "Discount": "Free for up to 10,000 PDFs / mo, then an 85% discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 related project (not-for-profit)",
-    "Favicon": "/favicon.ico",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "Sign up for free, then email support@docspring.com",
     "How to apply (URL or email)": "https://docspring.com",
     "More info URL": ""
@@ -1450,7 +1450,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Yes, but you can cancel before starting paid subscription.",
     "Requirement": "",
-    "Favicon": "/static/favicon-196x196-e169fe915369d722a7ef5d3e5375c780.png",
+    "Favicon": "",
     "How to apply (text)": "Simply fill in form on website, then use coupon strongertogether when subscribing",
     "How to apply (URL or email)": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together",
     "More info URL": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together"
@@ -2444,7 +2444,7 @@ export const services = [
     "Discount": "250$ credit",
     "Does it drive you into a paid account": "Maybe, but it's a clear discount.",
     "Requirement": "None.",
-    "Favicon": "https://d2p3olkzjojwnw.cloudfront.net/app/themes/postaffiliatepro/assets/images/favicon/favicon-32x32.png",
+    "Favicon": "https://d2p3olkzjojwnw.cloudfront.net/app/themes/postaffiliatepro/assets/images/favicon/apple-touch-icon-180x180.png",
     "How to apply (text)": "Send us a message to: andy@postaffiliatepro.com with subject \"SaaS4Covid",
     "How to apply (URL or email)": "https://www.postaffiliatepro.com/trial/",
     "More info URL": "https://www.postaffiliatepro.com/affiliate-marketing-software/"
