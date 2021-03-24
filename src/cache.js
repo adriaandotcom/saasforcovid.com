@@ -190,7 +190,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "Public stats + link in footer of project",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "/favicon-32x32.png",
     "How to apply (text)": "Fill in their contact form or use their chat widget",
     "How to apply (URL or email)": "https://simpleanalytics.com/contact",
     "More info URL": ""
@@ -218,7 +218,7 @@ export const services = [
     "Discount": "Job posting for $3",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "Disable logo options to get full discount.",
-    "Favicon": "",
+    "Favicon": "https://remoteok.io/assets/favicon-32x32.png?1612742631",
     "How to apply (text)": "Just post a job",
     "How to apply (URL or email)": "https://remoteok.io/hire-remotely",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -988,7 +988,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 response and recovery management",
-    "Favicon": "",
+    "Favicon": "https://www.senseilabs.com/wp-content/themes/senseilabs/favicon-16x16.png",
     "How to apply (text)": "Fill in the form and we'll get you setup",
     "How to apply (URL or email)": "https://hello.senseilabs.com/conductor-for-covid19",
     "More info URL": "https://www.senseilabs.com/conductor/conductor-for-covid-19/"
@@ -2304,7 +2304,7 @@ export const services = [
     "Discount": "60%",
     "Does it drive you into a paid account": "Maybe, after September",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "",
+    "Favicon": "/assets/icon/app-icon-16x16.2db10d2862bf0a17420132b34134cd3c67124651.png",
     "How to apply (text)": "Just sign up or open chat on pricing page.",
     "How to apply (URL or email)": "https://ideanote.it",
     "More info URL": "https://ideanote.io"
