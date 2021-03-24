@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -358,7 +358,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 6 months free usage.",
     "Requirement": "To use for a covid-related site or tool, link back appreciated.",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=5df5528946772487a6ab462ff2125f26",
     "How to apply (text)": "Email: support@polypane.app",
     "How to apply (URL or email)": "support@polypane.app",
     "More info URL": "https://polypane.app"
@@ -1422,7 +1422,7 @@ export const services = [
     "Discount": "10% (First month)",
     "Does it drive you into a paid account": "Maybe, it's a discount so their earn money.",
     "Requirement": "",
-    "Favicon": "https://cdn.shortpixel.ai/spai/q_lossy+ret_img/https://deerdesigner.com/wp-content/uploads/deerdesigner-logo.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon COVID19 on the checkout",
     "How to apply (URL or email)": "https://deerdesigner.com",
     "More info URL": "https://deerdesigner.com"
