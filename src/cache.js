@@ -792,7 +792,7 @@ export const services = [
     "Discount": "Free for up to 10 users or build minutes (incase of Bitbucket Pipelines etc)",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/assets/img/favicons/atlassian/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Just signup through the link",
     "How to apply (URL or email)": "https://www.atlassian.com/software/free",
     "More info URL": "https://www.atlassian.com/remote"
@@ -928,7 +928,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Remote Work",
     "URL": "https://www.cozycal.com",
-    "Description": "Online scheduling and appointment booking software. A simple, elegant solution that allows your clients to schedule appointments directly on your website.",
+    "Description": "",
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months can cancel subscription or upgrade",
     "Requirement": "Non-profit working on Covid-19 related response",
