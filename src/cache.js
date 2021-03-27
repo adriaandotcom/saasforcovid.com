@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -988,7 +988,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 response and recovery management",
-    "Favicon": "https://www.senseilabs.com/wp-content/themes/senseilabs/favicon-16x16.png",
+    "Favicon": "",
     "How to apply (text)": "Fill in the form and we'll get you setup",
     "How to apply (URL or email)": "https://hello.senseilabs.com/conductor-for-covid19",
     "More info URL": "https://www.senseilabs.com/conductor/conductor-for-covid-19/"
@@ -1366,7 +1366,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/favicon-32x32.png?v=7f1cc4024b5aeb9488b9a89c53cad0bd",
     "How to apply (text)": "Contact via chat",
     "How to apply (URL or email)": "https://upflow.io",
     "More info URL": ""
@@ -1380,7 +1380,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=fc17b99d75c8dfe889cf0f78c646d84b",
     "How to apply (text)": "There is already 50% discount on yearly subscription https://nocodeapi.com/pricing",
     "How to apply (URL or email)": "https://nocodeapi.com/pricing",
     "More info URL": "https://nocodeapi.com/what-is-nocodeapi"
@@ -1562,7 +1562,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "/apple-touch-icon.png?v=v2664",
+    "Favicon": "/apple-touch-icon.png?v=v2665",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
@@ -1590,7 +1590,7 @@ export const services = [
     "Discount": "Free until 1 June",
     "Does it drive you into a paid account": "No, it cancels automatically at the end of the free period",
     "Requirement": "None",
-    "Favicon": "/assets/icons/favicon.ico",
+    "Favicon": "/assets/icons/apple-touch-icon.png",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://app.writinganalytics.co/signup/covid-19",
     "More info URL": "https://www.writinganalytics.co/posts/covid-19/"
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/favicon.ico",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
