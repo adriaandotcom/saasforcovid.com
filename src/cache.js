@@ -190,7 +190,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "Public stats + link in footer of project",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Fill in their contact form or use their chat widget",
     "How to apply (URL or email)": "https://simpleanalytics.com/contact",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -288,7 +288,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe, the discount is only applied to the first charge but it's possible to select 3 years. It will renew with normal pricing.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://burnermail.io/favicon-196x196.png",
     "How to apply (text)": "Using coupon code: STAYINGHOME",
     "How to apply (URL or email)": "https://burnermail.io",
     "More info URL": ""
@@ -540,7 +540,7 @@ export const services = [
     "Discount": "12 months hosting",
     "Does it drive you into a paid account": "Maybe, after the 12 months.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5d5595354de4fbdd8c554dba_default_webclip.png",
     "How to apply (text)": "Contact support with details of project for discount code.",
     "How to apply (URL or email)": "https://university.webflow.com/support#contact-form",
     "More info URL": ""
