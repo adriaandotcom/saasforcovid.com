@@ -162,7 +162,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for Slack groups helping with COVID-19",
-    "Favicon": "/favicon-32x32.png?v=cbf83db1d7076e7706531a225f915b35",
+    "Favicon": "/icons/icon-48x48.png?v=cbf83db1d7076e7706531a225f915b35",
     "How to apply (text)": "Sign up and then send us an email.",
     "How to apply (URL or email)": "https://getlowdown.com/covid-19/",
     "More info URL": ""
@@ -1464,7 +1464,7 @@ export const services = [
     "Discount": "500 free user licenses for everyone, Free SaaS for 3 months w/Shopify and BigCommerce",
     "Does it drive you into a paid account": "Yes, but we can base it on a quarterly ROI analysis",
     "Requirement": "",
-    "Favicon": "/static/favicon/favicon-32x32.png",
+    "Favicon": "/static/favicon/apple-touch-icon.png",
     "How to apply (text)": "Simply request a demo",
     "How to apply (URL or email)": "https://luxlock.com/demo/",
     "More info URL": "https://www.producthunt.com/posts/luxlock"
@@ -2360,7 +2360,7 @@ export const services = [
     "Discount": "100% for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Governmental, educational or healthcare institution responding to COVID-19",
-    "Favicon": "/static/img/favicon/apple-touch-icon.png",
+    "Favicon": "/static/img/favicon/new-favicon-32x32.png",
     "How to apply (text)": "please mention #ngo-user in chat to receive a free 6-month Business plan.",
     "How to apply (URL or email)": "https://app.user.com/accounts/register/",
     "More info URL": "https://user.com/en/blog/covid-19-support-for-gov-agencies-ngos/"
