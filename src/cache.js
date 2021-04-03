@@ -50,7 +50,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free usage.",
     "Requirement": "It's appreciated to add a link back to divjoy.com (not required). Free for Covid-19 projects.",
-    "Favicon": "",
+    "Favicon": "/static/images/favicon/apple-touch-icon.png",
     "How to apply (text)": "Use chatbot on the page",
     "How to apply (URL or email)": "https://divjoy.com/",
     "More info URL": ""
@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "",
+    "Favicon": "/spike-badge-180.png",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -918,7 +918,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Scaling Plan only. Non-profit working on Covid-19 related response",
-    "Favicon": "https://tettra.com/wp-content/uploads/2018/11/cropped-favicon-180x180.png",
+    "Favicon": "https://tettra.com/wp-content/uploads/2018/11/cropped-favicon-32x32.png",
     "How to apply (text)": "Sign up and reach out over chat",
     "How to apply (URL or email)": "https://app.tettra.co/create-team",
     "More info URL": ""
@@ -946,7 +946,7 @@ export const services = [
     "Discount": "Free 3 month 5 person business plan",
     "Does it drive you into a paid account": "Maybe, after 3 months or more than 5 persons",
     "Requirement": "Organizations with 50+ employees/volunteers and 30 minute on-boarding required",
-    "Favicon": "//shiftx.imgix.net/images/public/favicon.pdf?fm=png&w=57&h=57",
+    "Favicon": "//shiftx.imgix.net/images/public/favicon.pdf?fm=png&w=16&h=16",
     "How to apply (text)": "Chat bubble on https://shiftx.com or support@shiftx.com",
     "How to apply (URL or email)": "support@shiftx.com",
     "More info URL": ""
@@ -1012,7 +1012,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Productivity Tools",
     "URL": "https://coastapp.com",
-    "Description": "Coast makes it easy to keep everyone on the same page by bringing team chat, tasks, and workflows into one place.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid-19 related",
@@ -1128,7 +1128,7 @@ export const services = [
     "Discount": "Free for 4 months",
     "Does it drive you into a paid account": "Maybe, after 4 months.",
     "Requirement": "Eligible for first responders, healthcare workers, and nonprofits that want to help their communities.",
-    "Favicon": "",
+    "Favicon": "//cdn.jotfor.ms/favicon.ico",
     "How to apply (text)": "Applications can be made through a JotForm",
     "How to apply (URL or email)": "https://www.jotform.com/corona-responder-program/apply/#form",
     "More info URL": "https://www.jotform.com/corona-responder-program/"
@@ -1198,7 +1198,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://static.tildacdn.com/tild3933-6532-4261-a235-623335386631/Frame_5.png",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://app.birdeatsbug.com",
     "More info URL": "https://birdeatsbug.com/faq"
@@ -2122,7 +2122,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://www.seowl.co/wp-content/uploads/2020/05/cropped-Fichier-1@2x-180x180.png",
     "How to apply (text)": "Email support@seowl.co",
     "How to apply (URL or email)": "support@seowl.co",
     "More info URL": "https://www.seowl.co"
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "",
+    "Favicon": "https://prisync.com/wp-content/uploads/2020/07/cropped-prisync-icon-black-180x180.png",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
@@ -2304,7 +2304,7 @@ export const services = [
     "Discount": "60%",
     "Does it drive you into a paid account": "Maybe, after September",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "",
+    "Favicon": "/assets/icon/app-icon-16x16.2db10d2862bf0a17420132b34134cd3c67124651.png",
     "How to apply (text)": "Just sign up or open chat on pricing page.",
     "How to apply (URL or email)": "https://ideanote.it",
     "More info URL": "https://ideanote.io"
@@ -3294,7 +3294,7 @@ export const services = [
     "Approved": "",
     "Category": "Edtech",
     "URL": "https://kintell.com/",
-    "Description": "",
+    "Description": "Book in a one-to-one video session with one of our thousands of vetted advisors, for help with anything from learning to code to changing career.",
     "Discount": "$20 credit upon signup",
     "Does it drive you into a paid account": "Maybe, it's a credit",
     "Requirement": "New users only",
