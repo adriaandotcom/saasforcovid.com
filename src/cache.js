@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "/assets/icon128-53d136bb0aa1c128a1a32fc3630d28eb4d3659aaa9fc748839e8d489221fe2f9.png",
+    "Favicon": "",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -1884,7 +1884,7 @@ export const services = [
     "Discount": "$0.01 for earch search",
     "Does it drive you into a paid account": "Yes, but only $0.01",
     "Requirement": "None.",
-    "Favicon": "",
+    "Favicon": "https://unicorn-nest.com/wp-content/uploads/2019/12/apple-icon-120x120-1.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "http://unicorn-nest.com/",
     "More info URL": ""
@@ -2094,7 +2094,7 @@ export const services = [
     "Discount": "45 days FREE for existing paid customers",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "You have to be an existing paid user of Automate.io. If you downgrade to the free plan, you can avail the 45-day FREE offer.",
-    "Favicon": "",
+    "Favicon": "/assets/img/favicon.png",
     "How to apply (text)": "In the 'Downgrade to Free Plan' page in your account, select the reason for cancellation as Coronavirus/Covid-19 and click 'Avail 45-day Free Offer'",
     "How to apply (URL or email)": "help@automate.io",
     "More info URL": ""
@@ -2374,7 +2374,7 @@ export const services = [
     "Discount": "100% for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "None.",
-    "Favicon": "",
+    "Favicon": "/apple-icon-57x57.png",
     "How to apply (text)": "Just send us a message.",
     "How to apply (URL or email)": "https://www.callto.shop",
     "More info URL": ""
