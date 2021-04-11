@@ -526,7 +526,7 @@ export const services = [
     "Discount": "50% for all packages",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "New customers",
-    "Favicon": "https://cdn-bbocb.nitrocdn.com/SjpELhQGauRUbLwvosedImbrLZxZavKx/assets/static/optimized/rev-b7d86af/wp-content/uploads/2020/04/cropped-Favicon-transparent-180x180.png",
+    "Favicon": "https://netnut.io/wp-content/uploads/2020/04/cropped-Favicon-transparent-180x180.png",
     "How to apply (text)": "Email jeffy@netnut.io",
     "How to apply (URL or email)": "https://l.netnut.io/saasforcovid",
     "More info URL": "https://netnut.io/"
@@ -1562,7 +1562,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "/favicon.ico?v=v2669",
+    "Favicon": "/apple-touch-icon.png?v=v2669",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
@@ -2164,7 +2164,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no payment details required. No contracts. No commitments.",
     "Requirement": "Covid-19 Impacted E-commerce Businesses. New customers.",
-    "Favicon": "https://prisync.com/wp-content/uploads/2020/07/cropped-prisync-icon-black-180x180.png",
+    "Favicon": "https://prisync.com/wp-content/uploads/2020/07/cropped-prisync-icon-black-32x32.png",
     "How to apply (text)": "Sign up from the link provided here.",
     "How to apply (URL or email)": "https://prisync.com/register",
     "More info URL": ""
