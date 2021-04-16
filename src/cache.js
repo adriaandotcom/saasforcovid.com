@@ -130,7 +130,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Incident Management",
     "URL": "https://spike.sh",
-    "Description": "",
+    "Description": "Spike is a simple incident management platform that alerts via slack, phone and email and automatic escalations to help teams fix infrastructure problems.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
@@ -792,7 +792,7 @@ export const services = [
     "Discount": "Free for up to 10 users or build minutes (incase of Bitbucket Pipelines etc)",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/assets/img/favicons/atlassian/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Just signup through the link",
     "How to apply (URL or email)": "https://www.atlassian.com/software/free",
     "More info URL": "https://www.atlassian.com/remote"
@@ -932,7 +932,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months can cancel subscription or upgrade",
     "Requirement": "Non-profit working on Covid-19 related response",
-    "Favicon": "",
+    "Favicon": "https://uploads-ssl.webflow.com/59a7997fdd2379000163012d/59ab48202231fd0001f39587_Artboard.png",
     "How to apply (text)": "Sign up and contact support@cozycal.com for coupon code",
     "How to apply (URL or email)": "support@cozycal.com",
     "More info URL": "https://www.cozycal.com/"
@@ -960,7 +960,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "it is a free template on free plans by all partners",
-    "Favicon": "/logo192.png",
+    "Favicon": "",
     "How to apply (text)": "free JAMstack-based static website template and hosting in conjunction with our partners, Netlify and Gatsby",
     "How to apply (URL or email)": "https://stopthespread.dev",
     "More info URL": "https://www.contentful.com/blog/2020/03/20/stop-the-spread-covid-19/"
@@ -1422,7 +1422,7 @@ export const services = [
     "Discount": "10% (First month)",
     "Does it drive you into a paid account": "Maybe, it's a discount so their earn money.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://cdn.shortpixel.ai/spai/q_lossy+ret_img/https://deerdesigner.com/wp-content/uploads/deerdesigner-logo.png",
     "How to apply (text)": "Use coupon COVID19 on the checkout",
     "How to apply (URL or email)": "https://deerdesigner.com",
     "More info URL": "https://deerdesigner.com"
@@ -1618,7 +1618,7 @@ export const services = [
     "Discount": "Free for 2 months",
     "Does it drive you into a paid account": "No, they have an option where no Credit Card is required to start a free-trial.",
     "Requirement": "None",
-    "Favicon": "images/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Email tony@cloudforecast.io with subject COVID",
     "How to apply (URL or email)": "https://app.cloudforecast.io/users/sign_up",
     "More info URL": "www.cloudforecast.io"
