@@ -442,7 +442,7 @@ export const services = [
     "Discount": "Lifetime for $48, rather than $4/mo. ongoing.",
     "Does it drive you into a paid account": "No, but you have to pay a one time fee.",
     "Requirement": "",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & upgrade to PRO Lifetime Account for $48.",
     "How to apply (URL or email)": "https://www.retrospect.team/",
     "More info URL": ""
@@ -694,7 +694,7 @@ export const services = [
     "Discount": "Free for 4 months",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription anytime",
     "Requirement": "",
-    "Favicon": "https://d2snvnzirxtkg3.cloudfront.net/blackbell/image/upload/c_crop,h_426,w_426,x_35,y_20/c_scale,h_150,r_max,w_150/v1519739171/permanent/jR3HYhnDQIyGi6RwVlVX_t4yg0d.png",
+    "Favicon": "",
     "How to apply (text)": "Apply the coupon solidaritycovid19",
     "How to apply (URL or email)": "https://www.blackbell.com/en",
     "More info URL": "https://www.blackbell.com/en"
@@ -1954,7 +1954,7 @@ export const services = [
     "Discount": "Free meetings during COVID, Webinars 20% Discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/favicon.svg",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://livestorm.co/blog/livestorm-and-covid-19/",
     "More info URL": "https://livestorm.co/"
