@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -732,7 +732,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://devscore.com",
-    "Description": "DevScore is a Low Code Automation Service for software development teams to automate manual tasks, data synchronizations and reporting of Scrum, CI/CD and Operations.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -848,7 +848,7 @@ export const services = [
     "Discount": "Free for up to 10,000 PDFs / mo, then an 85% discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 related project (not-for-profit)",
-    "Favicon": "/favicon.ico",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "Sign up for free, then email support@docspring.com",
     "How to apply (URL or email)": "https://docspring.com",
     "More info URL": ""
@@ -862,7 +862,7 @@ export const services = [
     "Discount": "Free for 3 months (personal), unlimited free for nonprofits",
     "Does it drive you into a paid account": "Yes, after 3 months",
     "Requirement": "",
-    "Favicon": "https://d1eub78dsdxite.cloudfront.net/assets/apple-touch-icon-17060db823e010bef202c84f7efeff7bbe599d26048fc4587dbc034dce0153b5.png",
+    "Favicon": "",
     "How to apply (text)": "Signup and email support@tefter.io or use the covid-19 code (for personal accounts only)",
     "How to apply (URL or email)": "https://tefter.io/users/sign_up?promocode=covid-19",
     "More info URL": ""
@@ -918,7 +918,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Scaling Plan only. Non-profit working on Covid-19 related response",
-    "Favicon": "https://tettra.com/wp-content/uploads/2018/11/cropped-favicon-180x180.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up and reach out over chat",
     "How to apply (URL or email)": "https://app.tettra.co/create-team",
     "More info URL": ""
@@ -1226,7 +1226,7 @@ export const services = [
     "Discount": "0-50%",
     "Does it drive you into a paid account": "Maybe, depends on your plan and project",
     "Requirement": "30% or 50% for the new users of Dashly:\nfree for teams and people that fight COVID-19 and its consequences",
-    "Favicon": "https://static.tildacdn.com/tild6263-3231-4263-b762-383338336334/safari-pinned-tab-ic.svg",
+    "Favicon": "",
     "How to apply (text)": "Send a message in live chat, the agents will help",
     "How to apply (URL or email)": "https://www.dashly.io/blog/crisis-management-with-dashly/",
     "More info URL": "https://www.dashly.io/blog/crisis-management-with-dashly/"
@@ -1464,7 +1464,7 @@ export const services = [
     "Discount": "500 free user licenses for everyone, Free SaaS for 3 months w/Shopify and BigCommerce",
     "Does it drive you into a paid account": "Yes, but we can base it on a quarterly ROI analysis",
     "Requirement": "",
-    "Favicon": "/static/favicon/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Simply request a demo",
     "How to apply (URL or email)": "https://luxlock.com/demo/",
     "More info URL": "https://www.producthunt.com/posts/luxlock"
@@ -1912,7 +1912,7 @@ export const services = [
     "Discount": "40% Discount",
     "Does it drive you into a paid account": "Yes, but you get a lot of value for a fair price.",
     "Requirement": "None",
-    "Favicon": "fav/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://rulecontent.com/?cov=1",
     "More info URL": "https://rulecontent.com/?cov=1"
@@ -2080,7 +2080,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for charities, heavy discounts for restaurants etc",
-    "Favicon": "./img/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up and then contact them via the chat inside the app",
     "How to apply (URL or email)": "https://getcircuit.com/blog/covid-19-free-for-charities-90-off-for-restaurants/",
     "More info URL": "https://getcircuit.com/team/"
@@ -2094,7 +2094,7 @@ export const services = [
     "Discount": "45 days FREE for existing paid customers",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "You have to be an existing paid user of Automate.io. If you downgrade to the free plan, you can avail the 45-day FREE offer.",
-    "Favicon": "",
+    "Favicon": "/assets/img/favicon.png",
     "How to apply (text)": "In the 'Downgrade to Free Plan' page in your account, select the reason for cancellation as Coronavirus/Covid-19 and click 'Avail 45-day Free Offer'",
     "How to apply (URL or email)": "help@automate.io",
     "More info URL": ""
