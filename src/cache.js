@@ -78,7 +78,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, but this free plan has no custom domain.",
     "Requirement": "Install add-on",
-    "Favicon": "",
+    "Favicon": "../img/faviconnew.png",
     "How to apply (text)": "Use the button below",
     "How to apply (URL or email)": "https://sheet2site.com/coronavirus",
     "More info URL": ""
@@ -764,7 +764,7 @@ export const services = [
     "Discount": "Free during lockdown",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "",
-    "Favicon": "https://assets.calendly.com/assets/touch-icon-iphone-legacy-1505f4afb6438bd528bbce368a44a76d03bd0882a99fee0dd7e580619a51d90b.png",
+    "Favicon": "https://assets.calendly.com/assets/touch-icon-iphone-1505f4afb6438bd528bbce368a44a76d03bd0882a99fee0dd7e580619a51d90b.png",
     "How to apply (text)": "Just create a free account and you have immediate access.",
     "How to apply (URL or email)": "https://calendly.com/",
     "More info URL": "https://blog.calendly.com/meeting-integration-update/"
@@ -872,7 +872,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Analytics",
     "URL": "https://vectorspace.ai",
-    "Description": "",
+    "Description": "NLP/NLU Datasets by Vectorspace AI",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project",
@@ -942,7 +942,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Productivity Tools",
     "URL": "https://shiftx.com",
-    "Description": "ShiftX is a collaborative tool, empowering teams to easily visualize, understand and improve how your business operates.",
+    "Description": "",
     "Discount": "Free 3 month 5 person business plan",
     "Does it drive you into a paid account": "Maybe, after 3 months or more than 5 persons",
     "Requirement": "Organizations with 50+ employees/volunteers and 30 minute on-boarding required",
@@ -1226,7 +1226,7 @@ export const services = [
     "Discount": "0-50%",
     "Does it drive you into a paid account": "Maybe, depends on your plan and project",
     "Requirement": "30% or 50% for the new users of Dashly:\nfree for teams and people that fight COVID-19 and its consequences",
-    "Favicon": "https://static.tildacdn.com/tild6263-3231-4263-b762-383338336334/safari-pinned-tab-ic.svg",
+    "Favicon": "",
     "How to apply (text)": "Send a message in live chat, the agents will help",
     "How to apply (URL or email)": "https://www.dashly.io/blog/crisis-management-with-dashly/",
     "More info URL": "https://www.dashly.io/blog/crisis-management-with-dashly/"
@@ -1912,7 +1912,7 @@ export const services = [
     "Discount": "40% Discount",
     "Does it drive you into a paid account": "Yes, but you get a lot of value for a fair price.",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "fav/apple-touch-icon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://rulecontent.com/?cov=1",
     "More info URL": "https://rulecontent.com/?cov=1"
@@ -2108,7 +2108,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://hellonext.co/favicons/favicon-152-precomposed.png",
     "How to apply (text)": "Just ping us on chat on the website.",
     "How to apply (URL or email)": "https://hellonext.co",
     "More info URL": "https://hellonext.co"
@@ -2220,7 +2220,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://i1.wp.com/widebot.net/wp-content/uploads/2020/10/cropped-logo-1.png?fit=180%2C180&ssl=1",
     "How to apply (text)": "When you upgrade to pro add promo code \"BeSafe",
     "How to apply (URL or email)": "https://widebot.net",
     "More info URL": ""
