@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -638,7 +638,7 @@ export const services = [
     "Discount": "Free",
     "Does it drive you into a paid account": "No",
     "Requirement": "Less than 100 devices.",
-    "Favicon": "",
+    "Favicon": "/favicon.ico?r=124",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://my.zerotier.com",
     "More info URL": "www.zerotier.com"
@@ -708,7 +708,7 @@ export const services = [
     "Discount": "Free GPUs",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://assets-global.website-files.com/5db99670374d1d829291af4f/5f0c831db773eb676c5048a1_Webclip-PaperspaceMixed.png",
     "How to apply (text)": "Signup and email support@paperspace.com",
     "How to apply (URL or email)": "https://www.paperspace.com",
     "More info URL": ""
@@ -1278,7 +1278,7 @@ export const services = [
     "Approved": "",
     "Category": "Remote Work",
     "URL": "https://pukkateam.com",
-    "Description": "",
+    "Description": "PukkaTeam is an always-on, online workplace for your remote team to work together throughout the day, improve communication, team awareness and feel more connected, no matter where they are. Find Out More!",
     "Discount": "60 day trial",
     "Does it drive you into a paid account": "Yes, after 60 days",
     "Requirement": "50% discount on all packages",
@@ -1352,7 +1352,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free Pro plan for Covid-19 projects. Discounts available for affected businesses",
-    "Favicon": "/apple-icon-57x57.png",
+    "Favicon": "/android-icon-192x192.png",
     "How to apply (text)": "Contact us via live chat",
     "How to apply (URL or email)": "https://placid.app/",
     "More info URL": ""
@@ -1366,7 +1366,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=7f1cc4024b5aeb9488b9a89c53cad0bd",
     "How to apply (text)": "Contact via chat",
     "How to apply (URL or email)": "https://upflow.io",
     "More info URL": ""
@@ -1506,7 +1506,7 @@ export const services = [
     "Discount": "Free for 1st month (or as long as needed)",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "No requirement (all customers receive a free month)",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "Sign up on the website and use the code WFH",
     "How to apply (URL or email)": "https://air.inc",
     "More info URL": ""
@@ -1870,7 +1870,7 @@ export const services = [
     "Discount": "3 months free",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "None.",
-    "Favicon": "",
+    "Favicon": "https://invoicequick.com/apple-icon-57x57.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://app.invoicequick.com/auth/register",
     "More info URL": "https://invoicequick.com/help-free-users/"
@@ -1898,7 +1898,7 @@ export const services = [
     "Discount": "$1/mo per location",
     "Does it drive you into a paid account": "Yes, but only $1/month",
     "Requirement": "none",
-    "Favicon": "/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com"
