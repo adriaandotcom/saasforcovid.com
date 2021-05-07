@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "",
+    "Favicon": "/assets/icon128-53d136bb0aa1c128a1a32fc3630d28eb4d3659aaa9fc748839e8d489221fe2f9.png",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -876,7 +876,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project",
-    "Favicon": "/favicon-196x196.png",
+    "Favicon": "",
     "How to apply (text)": "Email info@vectorspace.ai or visit https://vectorspace.ai",
     "How to apply (URL or email)": "info@vectorspace.ai",
     "More info URL": "https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html?tc=eml_cleartime"
@@ -946,7 +946,7 @@ export const services = [
     "Discount": "Free 3 month 5 person business plan",
     "Does it drive you into a paid account": "Maybe, after 3 months or more than 5 persons",
     "Requirement": "Organizations with 50+ employees/volunteers and 30 minute on-boarding required",
-    "Favicon": "",
+    "Favicon": "//shiftx.imgix.net/images/public/favicon.pdf?fm=png&w=57&h=57",
     "How to apply (text)": "Chat bubble on https://shiftx.com or support@shiftx.com",
     "How to apply (URL or email)": "support@shiftx.com",
     "More info URL": ""
@@ -1226,7 +1226,7 @@ export const services = [
     "Discount": "0-50%",
     "Does it drive you into a paid account": "Maybe, depends on your plan and project",
     "Requirement": "30% or 50% for the new users of Dashly:\nfree for teams and people that fight COVID-19 and its consequences",
-    "Favicon": "",
+    "Favicon": "https://static.tildacdn.com/tild6263-3231-4263-b762-383338336334/safari-pinned-tab-ic.svg",
     "How to apply (text)": "Send a message in live chat, the agents will help",
     "How to apply (URL or email)": "https://www.dashly.io/blog/crisis-management-with-dashly/",
     "More info URL": "https://www.dashly.io/blog/crisis-management-with-dashly/"
