@@ -46,7 +46,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://divjoy.com",
-    "Description": "",
+    "Description": "Divjoy helps you create the perfect codebase and UI for your next React project.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free usage.",
     "Requirement": "It's appreciated to add a link back to divjoy.com (not required). Free for Covid-19 projects.",
@@ -106,7 +106,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you get an extended free trial (6 months), no credit card needed.",
     "Requirement": "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
-    "Favicon": "https://mindwave.app/assets/favicons/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Email: support@mindwave.app",
     "How to apply (URL or email)": "support@mindwave.app",
     "More info URL": "https://mindwave.app/stories/covid-19-and-my-tiny-contribution-LVjv0V"
@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "/assets/icon128-53d136bb0aa1c128a1a32fc3630d28eb4d3659aaa9fc748839e8d489221fe2f9.png",
+    "Favicon": "",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -130,11 +130,11 @@ export const services = [
     "Approved": "Yes",
     "Category": "Incident Management",
     "URL": "https://spike.sh",
-    "Description": "Spike is a simple incident management platform that alerts via slack, phone and email and automatic escalations to help teams fix infrastructure problems.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "/spike-badge-180.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://clinq.com/wp-content/uploads/2018/11/cropped-36690336_225704894712047_3459899901310140416_n-1-180x180.png",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
@@ -764,7 +764,7 @@ export const services = [
     "Discount": "Free during lockdown",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "",
-    "Favicon": "data:image/png;base64,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",
+    "Favicon": "",
     "How to apply (text)": "Just create a free account and you have immediate access.",
     "How to apply (URL or email)": "https://calendly.com/",
     "More info URL": "https://blog.calendly.com/meeting-integration-update/"
@@ -1012,7 +1012,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Productivity Tools",
     "URL": "https://coastapp.com",
-    "Description": "",
+    "Description": "Coast makes it easy to keep everyone on the same page by bringing team chat, tasks, and workflows into one place.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid-19 related",
@@ -1254,7 +1254,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://kidpofy.com/assets/img/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://kidpofy.com",
     "More info URL": ""
@@ -1352,7 +1352,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free Pro plan for Covid-19 projects. Discounts available for affected businesses",
-    "Favicon": "/apple-icon-57x57.png",
+    "Favicon": "",
     "How to apply (text)": "Contact us via live chat",
     "How to apply (URL or email)": "https://placid.app/",
     "More info URL": ""
@@ -1478,7 +1478,7 @@ export const services = [
     "Discount": "Free for life; 30% off all paid plans",
     "Does it drive you into a paid account": "Maybe, only if you hit limits of the free Starter Plan",
     "Requirement": "New customers",
-    "Favicon": "https://mlcfk4eggqht.i.optimole.com/QPViMsA-6Ee4w9uC/w:auto/h:auto/q:auto/https://i1.wp.com/foxbound.io/wp-content/uploads/2019/06/cropped-full-Color-Logo-1.png?fit=180%2C180&ssl=1",
+    "Favicon": "",
     "How to apply (text)": "Use the code, REBOUND30, in the Billing area",
     "How to apply (URL or email)": "https://app.foxbound.io/users/sign_up",
     "More info URL": "https://foxbound.io/project-rebound-remote-sales/"
@@ -1562,7 +1562,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon.png?v=v2680",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
@@ -1632,7 +1632,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No need for payment information and free forever",
     "Requirement": "None",
-    "Favicon": "//assets.cdnpandadoc.com/app/packages/www-next/img/fav/icon-180-509eb5f708.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up on the website from this page",
     "How to apply (URL or email)": "https://signup.pandadoc.com/?plan=rec_plans_v4_free",
     "More info URL": "https://www.pandadoc.com/free-electronic-signature-software/"
@@ -1856,7 +1856,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Only after you hit free account limits.",
     "Requirement": "None.",
-    "Favicon": "https://uploads-ssl.webflow.com/5eea6758cb789401d10bb367/5f1ef4af49feca734c3f01e2_5e402d845b31cb858c4a0b77_icon-square-256.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://www.fluxo.ai",
     "More info URL": "https://www.fluxo.ai/pricing"
@@ -2094,7 +2094,7 @@ export const services = [
     "Discount": "45 days FREE for existing paid customers",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "You have to be an existing paid user of Automate.io. If you downgrade to the free plan, you can avail the 45-day FREE offer.",
-    "Favicon": "/assets/img/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "In the 'Downgrade to Free Plan' page in your account, select the reason for cancellation as Coronavirus/Covid-19 and click 'Avail 45-day Free Offer'",
     "How to apply (URL or email)": "help@automate.io",
     "More info URL": ""
@@ -2332,7 +2332,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free education plan for all k-12 and higher ed students and educators, 30% off team plan for nonprofits and 100% off for nonprofits working on COVID-19 initiatives.",
-    "Favicon": "/static/favicons/apple-touch-icon.png?v=00zdoEw6N6",
+    "Favicon": "",
     "How to apply (text)": "Free forever: sign up. Education and NPO plans: apply for eligibility.",
     "How to apply (URL or email)": "https://miro.com/",
     "More info URL": ""
