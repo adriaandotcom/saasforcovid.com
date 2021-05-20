@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -970,7 +970,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Delivery management",
     "URL": "https://routific.com",
-    "Description": "",
+    "Description": "Routific is a route optimization software platform that helps delivery businesses plan their routes more efficiently, saving time and up to 40% on fuel.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
@@ -1380,7 +1380,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=fc17b99d75c8dfe889cf0f78c646d84b",
     "How to apply (text)": "There is already 50% discount on yearly subscription https://nocodeapi.com/pricing",
     "How to apply (URL or email)": "https://nocodeapi.com/pricing",
     "More info URL": "https://nocodeapi.com/what-is-nocodeapi"
@@ -1450,7 +1450,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Yes, but you can cancel before starting paid subscription.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABy1BMVEUAAAAU0I0Vz44Wz48Wz48Wz44Wz48Xz48Wz48Xzo8W0JAazJEr1YAXz5AWzo8Wz48V0I8AzJkXzo8Wz48Wz48X0Y8Vz48Wz48VzpAVzo4Vzo8Wz48Uzo4Wz48Av4AXz48Vz48Wz48Vz5EUzpMWzo8V0I4Xz5AXzo4Wz48Xz48Vz48Wz48W0JAWz48W0JAWz48Wz48Wz48Wz44Wz48Wzo8Xz44ZzowVz48WzpAWz44Wz48Wz48Wz48XzY0V0JAWz44VzpAWz48Wzo8V0I4VyooWz48Wz48Vz5AW05AWz48/16M21p7K9ObA8uEl0pb////+//8a0JGQ6MmK58cp05gb0JLy/Pnq+/UXz48q05mP6MmX6s2O6Mni+fGQ6MqG5sXl+vOL58d5474b0JGF5sXe+O8n05cm0peA5cJr4bhs4bh85MAj0pUd0ZMf0ZM716HI9OXw/Pge0ZOd69D4/fv8/v638Nw61qC/8uD9//6M58iR6Mr1/fq58d0w1Jsm0pZ75L9w4bpp4Ld2470w1Jx14713474s1Jqb6s/d+O8h0ZSf69GT6cvh+fGU6cz6/v30/for05mV6cwg0ZT5/vwZ0JC78d6v7tgy1Z3uj1BKAAAASXRSTlMAJl+ZyNXh7tSdZx4GZdLGYgVE3dxCef5ueG39P9oEZGDPJRppVp6Tw8DW0+fl9/b45MXBmFofyl7e2Pz7OGxqPts5YRiU7FUXZ0vf0QAAAAFiS0dET25mQUkAAAAJcEhZcwAAAI0AAACNAcZm96QAAAAHdElNRQflAwwIJwEk+jayAAABlklEQVQ4y4VT5V8CQRAd9RQLFRXPQmzsbrFzDdZu7G4xEbu7gz/XJfbcVdD3Zd+8Nzc3v50dAAoXVzfB3UMm8/AUvLx94Ad85X6Ig3+AgvUDg9AvBCu//RAROYAYSv0w5AThNl8pOkuIiLT4imBWa2pmI1UUSVBzH7W0cmE0SYhhBR1ua2djASCW8o7OLoS6e3r7EOofGKRqHMRTOoT1OoSGR4g/iseomgCJlPbr8TgpMYHQJJ6apqoGkqT/zczO2cj8gk4SkyEF/YlUSLOzRa77pWU7SYcM67myitcGDNQ2rG9sbm1baSZkWc/mHeParlSj27S3uX9gT0hDfyL7vyb9IEfih0fHNnJyuiiJuaCh9GwUn5P2yUVdYP0lVfMgn9IrfH2D0O0dmdg9HqaqHHwofTCRYRken8iwnl9MVC0AKGR7ejW+vbNxEnkP3lzXH59cWGRZiWJWMZvZqMTy5CCy1NklaMtsz7rcWYKaLkaFwxpa9fdqVRb/9quq+eUVeDunhlteC2oT6gRVvSjWqwRNQ6MkfwGPZP08C7qKQQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wMy0xMlQwODozOTowMSswMTowMJnbmMwAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDMtMTJUMDg6Mzk6MDErMDE6MDDohiBwAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAFd6VFh0UmF3IHByb2ZpbGUgdHlwZSBpcHRjAAB4nOPyDAhxVigoyk/LzEnlUgADIwsuYwsTIxNLkxQDEyBEgDTDZAMjs1Qgy9jUyMTMxBzEB8uASKBKLgDqFxF08kI1lQAAAABJRU5ErkJggg==",
     "How to apply (text)": "Simply fill in form on website, then use coupon strongertogether when subscribing",
     "How to apply (URL or email)": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together",
     "More info URL": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together"
@@ -1632,7 +1632,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No need for payment information and free forever",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "//assets.cdnpandadoc.com/app/packages/www-next/img/fav/icon-180-509eb5f708.png",
     "How to apply (text)": "Sign up on the website from this page",
     "How to apply (URL or email)": "https://signup.pandadoc.com/?plan=rec_plans_v4_free",
     "More info URL": "https://www.pandadoc.com/free-electronic-signature-software/"
@@ -2052,7 +2052,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io/?saasforcovid=discount",
     "More info URL": "https://www.kimp.io/"
@@ -2108,7 +2108,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://hellonext.co/favicons/favicon-152-precomposed.png",
     "How to apply (text)": "Just ping us on chat on the website.",
     "How to apply (URL or email)": "https://hellonext.co",
     "More info URL": "https://hellonext.co"
@@ -2332,7 +2332,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free education plan for all k-12 and higher ed students and educators, 30% off team plan for nonprofits and 100% off for nonprofits working on COVID-19 initiatives.",
-    "Favicon": "",
+    "Favicon": "/static/favicons/apple-touch-icon.png?v=00zdoEw6N6",
     "How to apply (text)": "Free forever: sign up. Education and NPO plans: apply for eligibility.",
     "How to apply (URL or email)": "https://miro.com/",
     "More info URL": ""
@@ -2906,7 +2906,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io",
     "More info URL": ""
