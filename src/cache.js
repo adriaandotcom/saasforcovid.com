@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -988,7 +988,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 response and recovery management",
-    "Favicon": "https://www.senseilabs.com/wp-content/themes/senseilabs/favicon-16x16.png",
+    "Favicon": "",
     "How to apply (text)": "Fill in the form and we'll get you setup",
     "How to apply (URL or email)": "https://hello.senseilabs.com/conductor-for-covid19",
     "More info URL": "https://www.senseilabs.com/conductor/conductor-for-covid-19/"
@@ -1604,7 +1604,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months",
     "Requirement": "None",
-    "Favicon": "https://collegelife.co/work/wp-content/uploads/2019/06/cropped-cropped-Artboard-1-2-1-180x180.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up and send email with subject \"COVID\" to info@collegelife.co",
     "How to apply (URL or email)": "info@collegelife.co",
     "More info URL": "https://collegelife.co/nl/employers/"
@@ -1772,7 +1772,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "COVID-19 related projects only.",
-    "Favicon": "",
+    "Favicon": "/assets/images/apple-touch-icon.png",
     "How to apply (text)": "Sign up and let me know",
     "How to apply (URL or email)": "https://dashboard.tryhexadecimal.com",
     "More info URL": "https://tryhexadecimal.com"
@@ -2444,7 +2444,7 @@ export const services = [
     "Discount": "250$ credit",
     "Does it drive you into a paid account": "Maybe, but it's a clear discount.",
     "Requirement": "None.",
-    "Favicon": "https://d2p3olkzjojwnw.cloudfront.net/app/themes/postaffiliatepro/assets/images/favicon/apple-touch-icon-180x180.png",
+    "Favicon": "",
     "How to apply (text)": "Send us a message to: andy@postaffiliatepro.com with subject \"SaaS4Covid",
     "How to apply (URL or email)": "https://www.postaffiliatepro.com/trial/",
     "More info URL": "https://www.postaffiliatepro.com/affiliate-marketing-software/"
