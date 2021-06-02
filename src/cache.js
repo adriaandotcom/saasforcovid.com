@@ -4044,5 +4044,19 @@ export const services = [
     "How to apply (text)": "Drop us a note via our chatbot on our website, use discount code Joyful1",
     "How to apply (URL or email)": "www.joyfulperson.com",
     "More info URL": "www.joyfulperson.com"
+  },
+  {
+    "Name": "WorkInSync",
+    "Approved": "",
+    "Category": "",
+    "URL": "https://www.workinsync.io/",
+    "Description": "",
+    "Discount": "",
+    "Does it drive you into a paid account": "",
+    "Requirement": "",
+    "Favicon": "",
+    "How to apply (text)": "",
+    "How to apply (URL or email)": "",
+    "More info URL": ""
   }
 ]
