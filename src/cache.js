@@ -4048,15 +4048,15 @@ export const services = [
   {
     "Name": "WorkInSync",
     "Approved": "",
-    "Category": "",
+    "Category": "Business Planning",
     "URL": "https://www.workinsync.io/",
-    "Description": "",
-    "Discount": "",
-    "Does it drive you into a paid account": "",
-    "Requirement": "",
+    "Description": "VACCINATION DRIVE : Are you also one of those organizations that are planning to vaccinate your employees and their dear ones?\nThen this is for you!\nTo support organizations in their employee vaccination programs, we at MoveInSync have developed a vaccination module which will enable this process.  Salient features: 1. Ability for employee to book vaccine appointment at office 2. Ability to define daily vaccine limit and slot wise capacity 3. Ability to include family members in booking 4. Report for admin  5. Employee can book vaccination and transport in same app",
+    "Discount": "30% discount",
+    "Does it drive you into a paid account": "yes",
+    "Requirement": "None",
     "Favicon": "",
-    "How to apply (text)": "",
-    "How to apply (URL or email)": "",
-    "More info URL": ""
+    "How to apply (text)": "email @ shevalli.bhushan@moveinsync.com",
+    "How to apply (URL or email)": "shevalli.bhushan@moveinsync.com; mohit@moveinsync.com",
+    "More info URL": "https://www.workinsync.io/"
   }
 ]
