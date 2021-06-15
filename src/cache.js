@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "",
+    "Favicon": "/spike-badge-180.png",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -204,7 +204,7 @@ export const services = [
     "Discount": "70%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://kedaiweb.co/4/favicon-32x32.png",
     "How to apply (text)": "Signup & all addon up to 70% discount",
     "How to apply (URL or email)": "https://kedaiweb.co",
     "More info URL": ""
@@ -382,7 +382,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://justcall.io",
-    "Description": "JustCall is a cloud based phone system for your remote sales and support teams. Integrates with HubSpot, Intercom, Pipedrive, Salesforce & other CRM/Helpdesk tools.",
+    "Description": "",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off on subscription plans for 6 months. 70% off 1st month.",
@@ -862,7 +862,7 @@ export const services = [
     "Discount": "Free for 3 months (personal), unlimited free for nonprofits",
     "Does it drive you into a paid account": "Yes, after 3 months",
     "Requirement": "",
-    "Favicon": "https://d1eub78dsdxite.cloudfront.net/assets/apple-touch-icon-17060db823e010bef202c84f7efeff7bbe599d26048fc4587dbc034dce0153b5.png",
+    "Favicon": "",
     "How to apply (text)": "Signup and email support@tefter.io or use the covid-19 code (for personal accounts only)",
     "How to apply (URL or email)": "https://tefter.io/users/sign_up?promocode=covid-19",
     "More info URL": ""
@@ -942,7 +942,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Productivity Tools",
     "URL": "https://shiftx.com",
-    "Description": "",
+    "Description": "ShiftX is a collaborative tool, empowering teams to easily visualize, understand and improve how your business operates.",
     "Discount": "Free 3 month 5 person business plan",
     "Does it drive you into a paid account": "Maybe, after 3 months or more than 5 persons",
     "Requirement": "Organizations with 50+ employees/volunteers and 30 minute on-boarding required",
@@ -1296,7 +1296,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/static/karen/favicons/apple-icon-57x57.png",
     "How to apply (text)": "Use code SixMo50 for discount",
     "How to apply (URL or email)": "https://karenapp.io",
     "More info URL": "https://karenapp.io"
@@ -1744,7 +1744,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related",
-    "Favicon": "/static/images/favicon/apple-icon-57x57.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "demo@kgbase.com",
     "More info URL": "https://kgbase.com/pages/learn"
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "https://ucarecdn.com/dbf76e7b-1154-4afc-8b1d-db95e4857873/",
+    "Favicon": "",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "wp-content/uploads/2020/02/xcropped-KLogo-1-180x180.png.pagespeed.ic.aVhOpgbpta.webp",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
@@ -2052,7 +2052,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io/?saasforcovid=discount",
     "More info URL": "https://www.kimp.io/"
@@ -2304,7 +2304,7 @@ export const services = [
     "Discount": "60%",
     "Does it drive you into a paid account": "Maybe, after September",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "",
+    "Favicon": "https://assets-global.website-files.com/5ffa0a049299970b9577fbcf/605a07992aa352264879012b_logomark-256x256-webclip.png",
     "How to apply (text)": "Just sign up or open chat on pricing page.",
     "How to apply (URL or email)": "https://ideanote.it",
     "More info URL": "https://ideanote.io"
@@ -2906,7 +2906,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io",
     "More info URL": ""
@@ -3028,7 +3028,7 @@ export const services = [
     "Approved": "",
     "Category": "Lead generation",
     "URL": "https://scapic.com",
-    "Description": "Bringing immersive commerce to the next billion Indians",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Small businesses, retailers and online stores",
