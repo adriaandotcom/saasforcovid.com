@@ -46,7 +46,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://divjoy.com",
-    "Description": "",
+    "Description": "Divjoy helps you create the perfect codebase and UI for your next React project.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free usage.",
     "Requirement": "It's appreciated to add a link back to divjoy.com (not required). Free for Covid-19 projects.",
@@ -162,7 +162,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for Slack groups helping with COVID-19",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=cbf83db1d7076e7706531a225f915b35",
     "How to apply (text)": "Sign up and then send us an email.",
     "How to apply (URL or email)": "https://getlowdown.com/covid-19/",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is a simple, online project management tool for teams using Office 365 It's fast, beautiful and easy to use Start now for free!",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -1758,7 +1758,7 @@ export const services = [
     "Discount": "100% for the Standard plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Only Standard plan and for all companies fighting COVID-19",
-    "Favicon": "https://assets.website-files.com/5933fd4773e44b4d95d597e8/5c76a05d245b51182dc5c1e3_remme-favicon-purple.png",
+    "Favicon": "",
     "How to apply (text)": "Fill out Contact Us form",
     "How to apply (URL or email)": "https://remme.io/contact-us",
     "More info URL": "https://remme.io/keyhub"
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "https://ucarecdn.com/dbf76e7b-1154-4afc-8b1d-db95e4857873/",
+    "Favicon": "",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-32x32.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
