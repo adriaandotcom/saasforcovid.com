@@ -162,7 +162,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for Slack groups helping with COVID-19",
-    "Favicon": "/icons/icon-48x48.png?v=cbf83db1d7076e7706531a225f915b35",
+    "Favicon": "/favicon-32x32.png?v=cbf83db1d7076e7706531a225f915b35",
     "How to apply (text)": "Sign up and then send us an email.",
     "How to apply (URL or email)": "https://getlowdown.com/covid-19/",
     "More info URL": ""
@@ -1128,7 +1128,7 @@ export const services = [
     "Discount": "Free for 4 months",
     "Does it drive you into a paid account": "Maybe, after 4 months.",
     "Requirement": "Eligible for first responders, healthcare workers, and nonprofits that want to help their communities.",
-    "Favicon": "//cdn.jotfor.ms/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Applications can be made through a JotForm",
     "How to apply (URL or email)": "https://www.jotform.com/corona-responder-program/apply/#form",
     "More info URL": "https://www.jotform.com/corona-responder-program/"
@@ -1366,7 +1366,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
-    "Favicon": "/icons/icon-48x48.png?v=7f1cc4024b5aeb9488b9a89c53cad0bd",
+    "Favicon": "/favicon-32x32.png?v=7f1cc4024b5aeb9488b9a89c53cad0bd",
     "How to apply (text)": "Contact via chat",
     "How to apply (URL or email)": "https://upflow.io",
     "More info URL": ""
@@ -1520,7 +1520,7 @@ export const services = [
     "Discount": "Free for the rest of 2020",
     "Does it drive you into a paid account": "No, no need for payment information and free for the rest of 2020",
     "Requirement": "Healthcare organisations",
-    "Favicon": "https://www.kernelcare.com/wp-content/uploads/2019/09/index-150x150.png",
+    "Favicon": "https://www.kernelcare.com/wp-content/uploads/2019/09/index.png",
     "How to apply (text)": "Sign up and we will jump in to help with deployment on all your servers",
     "How to apply (URL or email)": "https://lp.kernelcare.com/kernelcare-for-free-for-healthcare",
     "More info URL": "https://www.kernelcare.com/product/"
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-32x32.png",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
