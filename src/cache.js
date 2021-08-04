@@ -904,7 +904,7 @@ export const services = [
     "Discount": "100% discount until January 2021",
     "Does it drive you into a paid account": "Maybe, after January 2021",
     "Requirement": "",
-    "Favicon": "https://assets.website-files.com/5ec848ec2b50b6cfae06f6cc/60785b9d2d09ec6bfb5810c5_apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Simply sign up for free and get started.",
     "How to apply (URL or email)": "https://reclaim.ai",
     "More info URL": "https://reclaim.ai/product"
@@ -1180,7 +1180,7 @@ export const services = [
     "Approved": "",
     "Category": "Remote Work",
     "URL": "https://myhours.com",
-    "Description": "",
+    "Description": "Free Time Tracking software with a track record. Time tracked on projects and tasks can be easily turned into shareable reports for your clients or managers. Set hourly rates and generate invoices with ease.",
     "Discount": "Unlimited team members, projects and tasks",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -1198,7 +1198,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://static.tildacdn.com/tild3933-6532-4261-a235-623335386631/Frame_5.png",
+    "Favicon": "",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://app.birdeatsbug.com",
     "More info URL": "https://birdeatsbug.com/faq"
@@ -1548,7 +1548,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "100% free for COVID-related data projects",
     "Requirement": "100% free for COVID-related data projects",
-    "Favicon": "https://databand.ai/wp-content/uploads/2020/11/cropped-Icon-circle-dark-background-180x180.png",
+    "Favicon": "https://databand.ai/wp-content/uploads/2020/11/cropped-Icon-circle-dark-background-32x32.png",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://databand.ai/request-demo/",
     "More info URL": ""
@@ -2052,7 +2052,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io/?saasforcovid=discount",
     "More info URL": "https://www.kimp.io/"
@@ -2374,7 +2374,7 @@ export const services = [
     "Discount": "100% for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "None.",
-    "Favicon": "/apple-icon-57x57.png",
+    "Favicon": "/android-icon-192x192.png",
     "How to apply (text)": "Just send us a message.",
     "How to apply (URL or email)": "https://www.callto.shop",
     "More info URL": ""
@@ -2906,7 +2906,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io",
     "More info URL": ""
