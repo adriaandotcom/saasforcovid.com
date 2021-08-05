@@ -358,7 +358,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 6 months free usage.",
     "Requirement": "To use for a covid-related site or tool, link back appreciated.",
-    "Favicon": "/icons/icon-48x48.png?v=5df5528946772487a6ab462ff2125f26",
+    "Favicon": "/favicon-32x32.png?v=5df5528946772487a6ab462ff2125f26",
     "How to apply (text)": "Email: support@polypane.app",
     "How to apply (URL or email)": "support@polypane.app",
     "More info URL": "https://polypane.app"
@@ -438,7 +438,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://www.retrospect.team",
-    "Description": "",
+    "Description": "Easily conduct end of sprint and project retrospectives with everyone on your team no matter their location.",
     "Discount": "Lifetime for $48, rather than $4/mo. ongoing.",
     "Does it drive you into a paid account": "No, but you have to pay a one time fee.",
     "Requirement": "",
@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://clinq.com/wp-content/uploads/2018/11/cropped-36690336_225704894712047_3459899901310140416_n-1-32x32.png",
+    "Favicon": "https://clinq.com/wp-content/uploads/2018/11/cropped-36690336_225704894712047_3459899901310140416_n-1-180x180.png",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
@@ -890,7 +890,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://mk0placer5c8hgdh2ll.kinstacdn.com/wp-content/uploads/2018/08/favicon-310x310-150x150.png",
+    "Favicon": "https://mk0placer5c8hgdh2ll.kinstacdn.com/wp-content/uploads/2018/08/favicon-310x310-300x300.png",
     "How to apply (text)": "Corona correlated retail trend data is available publicly for free.",
     "How to apply (URL or email)": "https://www.placer.ai/covid-19/",
     "More info URL": "https://placer.ai"
@@ -1254,7 +1254,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://kidpofy.com/assets/img/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://kidpofy.com",
     "More info URL": ""
