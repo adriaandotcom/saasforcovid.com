@@ -918,7 +918,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Scaling Plan only. Non-profit working on Covid-19 related response",
-    "Favicon": "https://tettra.com/wp-content/uploads/2018/11/cropped-favicon-180x180.png",
+    "Favicon": "https://tettra.com/wp-content/uploads/2018/11/cropped-favicon-32x32.png",
     "How to apply (text)": "Sign up and reach out over chat",
     "How to apply (URL or email)": "https://app.tettra.co/create-team",
     "More info URL": ""
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "https://ucarecdn.com/dbf76e7b-1154-4afc-8b1d-db95e4857873/",
+    "Favicon": "",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
@@ -1814,7 +1814,7 @@ export const services = [
     "Discount": "3 months free",
     "Does it drive you into a paid account": "Maybe, after 3 months",
     "Requirement": "First time users",
-    "Favicon": "/favicon.ico",
+    "Favicon": "/logo192.png",
     "How to apply (text)": "Drop an email to team@bigradar.io with subject: Corona",
     "How to apply (URL or email)": "https://www.bigradar.io",
     "More info URL": ""
@@ -2122,7 +2122,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/images/favicon.ico",
     "How to apply (text)": "Email support@seowl.co",
     "How to apply (URL or email)": "support@seowl.co",
     "More info URL": "https://www.seowl.co"
@@ -3308,7 +3308,7 @@ export const services = [
     "Approved": "",
     "Category": "Project Management",
     "URL": "https://rentman.io",
-    "Description": "Modern rental software to run your live event rentals and productions. Manage and plan resources, scheduling, and communication from a single platform. Get started for free.",
+    "Description": "",
     "Discount": "100% off for 3 months",
     "Does it drive you into a paid account": "No, the 3 free months end by themselves unless you activate your account.",
     "Requirement": "New users only",
