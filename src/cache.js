@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -596,7 +596,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "Healthcare organizations only.",
-    "Favicon": "https://uploads-ssl.webflow.com/img/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Just signup",
     "How to apply (URL or email)": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/",
     "More info URL": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/"
