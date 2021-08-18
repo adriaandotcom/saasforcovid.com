@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is a Simple and Secure Project Management Software for Teams using Microsoft Office 365. Start a Free 14 Day Trial.",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -284,11 +284,11 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://burnermail.io",
-    "Description": "",
+    "Description": "One-click burner email addresses that you can use when signing up on websites to protect your identity and prevent your personal email address from being sold or spammed.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe, the discount is only applied to the first charge but it's possible to select 3 years. It will renew with normal pricing.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://burnermail.io/favicon-196x196.png",
     "How to apply (text)": "Using coupon code: STAYINGHOME",
     "How to apply (URL or email)": "https://burnermail.io",
     "More info URL": ""
@@ -358,7 +358,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 6 months free usage.",
     "Requirement": "To use for a covid-related site or tool, link back appreciated.",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=5df5528946772487a6ab462ff2125f26",
     "How to apply (text)": "Email: support@polypane.app",
     "How to apply (URL or email)": "support@polypane.app",
     "More info URL": "https://polypane.app"
@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://clinq.com/wp-content/uploads/2018/11/cropped-36690336_225704894712047_3459899901310140416_n-1-180x180.png",
+    "Favicon": "https://clinq.com/wp-content/uploads/2018/11/cropped-36690336_225704894712047_3459899901310140416_n-1-32x32.png",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
@@ -596,7 +596,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "Healthcare organizations only.",
-    "Favicon": "",
+    "Favicon": "https://uploads-ssl.webflow.com/img/webclip.png",
     "How to apply (text)": "Just signup",
     "How to apply (URL or email)": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/",
     "More info URL": "https://www.hypercare.com/blog/hypercare-now-providing-free-unlimited-service-to-combat-covid-19/"
@@ -890,7 +890,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://mk0placer5c8hgdh2ll.kinstacdn.com/wp-content/uploads/2018/08/favicon-310x310-300x300.png",
     "How to apply (text)": "Corona correlated retail trend data is available publicly for free.",
     "How to apply (URL or email)": "https://www.placer.ai/covid-19/",
     "More info URL": "https://placer.ai"
@@ -1128,7 +1128,7 @@ export const services = [
     "Discount": "Free for 4 months",
     "Does it drive you into a paid account": "Maybe, after 4 months.",
     "Requirement": "Eligible for first responders, healthcare workers, and nonprofits that want to help their communities.",
-    "Favicon": "",
+    "Favicon": "//cdn.jotfor.ms/favicon.ico",
     "How to apply (text)": "Applications can be made through a JotForm",
     "How to apply (URL or email)": "https://www.jotform.com/corona-responder-program/apply/#form",
     "More info URL": "https://www.jotform.com/corona-responder-program/"
@@ -1226,7 +1226,7 @@ export const services = [
     "Discount": "0-50%",
     "Does it drive you into a paid account": "Maybe, depends on your plan and project",
     "Requirement": "30% or 50% for the new users of Dashly:\nfree for teams and people that fight COVID-19 and its consequences",
-    "Favicon": "",
+    "Favicon": "/assets/static/favicon.f22e9f3.dffc2dbe8a48e5a10760f3c72eff18b4.png",
     "How to apply (text)": "Send a message in live chat, the agents will help",
     "How to apply (URL or email)": "https://www.dashly.io/blog/crisis-management-with-dashly/",
     "More info URL": "https://www.dashly.io/blog/crisis-management-with-dashly/"
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://ucarecdn.com/dbf76e7b-1154-4afc-8b1d-db95e4857873/",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
