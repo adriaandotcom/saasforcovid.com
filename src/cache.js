@@ -1450,7 +1450,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Yes, but you can cancel before starting paid subscription.",
     "Requirement": "",
-    "Favicon": "data:image/png;base64,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",
+    "Favicon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABy1BMVEUAAAAU0I0Vz44Wz48Wz48Wz44Wz48Xz48Wz48Xzo8W0JAazJEr1YAXz5AWzo8Wz48V0I8AzJkXzo8Wz48Wz48X0Y8Vz48Wz48VzpAVzo4Vzo8Wz48Uzo4Wz48Av4AXz48Vz48Wz48Vz5EUzpMWzo8V0I4Xz5AXzo4Wz48Xz48Vz48Wz48W0JAWz48W0JAWz48Wz48Wz48Wz44Wz48Wzo8Xz44ZzowVz48WzpAWz44Wz48Wz48Wz48XzY0V0JAWz44VzpAWz48Wzo8V0I4VyooWz48Wz48Vz5AW05AWz48/16M21p7K9ObA8uEl0pb////+//8a0JGQ6MmK58cp05gb0JLy/Pnq+/UXz48q05mP6MmX6s2O6Mni+fGQ6MqG5sXl+vOL58d5474b0JGF5sXe+O8n05cm0peA5cJr4bhs4bh85MAj0pUd0ZMf0ZM716HI9OXw/Pge0ZOd69D4/fv8/v638Nw61qC/8uD9//6M58iR6Mr1/fq58d0w1Jsm0pZ75L9w4bpp4Ld2470w1Jx14713474s1Jqb6s/d+O8h0ZSf69GT6cvh+fGU6cz6/v30/for05mV6cwg0ZT5/vwZ0JC78d6v7tgy1Z3uj1BKAAAASXRSTlMAJl+ZyNXh7tSdZx4GZdLGYgVE3dxCef5ueG39P9oEZGDPJRppVp6Tw8DW0+fl9/b45MXBmFofyl7e2Pz7OGxqPts5YRiU7FUXZ0vf0QAAAAFiS0dET25mQUkAAAAJcEhZcwAAAI0AAACNAcZm96QAAAAHdElNRQflAwwIJwEk+jayAAABlklEQVQ4y4VT5V8CQRAd9RQLFRXPQmzsbrFzDdZu7G4xEbu7gz/XJfbcVdD3Zd+8Nzc3v50dAAoXVzfB3UMm8/AUvLx94Ad85X6Ig3+AgvUDg9AvBCu//RAROYAYSv0w5AThNl8pOkuIiLT4imBWa2pmI1UUSVBzH7W0cmE0SYhhBR1ua2djASCW8o7OLoS6e3r7EOofGKRqHMRTOoT1OoSGR4g/iseomgCJlPbr8TgpMYHQJJ6apqoGkqT/zczO2cj8gk4SkyEF/YlUSLOzRa77pWU7SYcM67myitcGDNQ2rG9sbm1baSZkWc/mHeParlSj27S3uX9gT0hDfyL7vyb9IEfih0fHNnJyuiiJuaCh9GwUn5P2yUVdYP0lVfMgn9IrfH2D0O0dmdg9HqaqHHwofTCRYRken8iwnl9MVC0AKGR7ejW+vbNxEnkP3lzXH59cWGRZiWJWMZvZqMTy5CCy1NklaMtsz7rcWYKaLkaFwxpa9fdqVRb/9quq+eUVeDunhlteC2oT6gRVvSjWqwRNQ6MkfwGPZP08C7qKQQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wMy0xMlQwODozOTowMSswMTowMJnbmMwAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDMtMTJUMDg6Mzk6MDErMDE6MDDohiBwAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAFd6VFh0UmF3IHByb2ZpbGUgdHlwZSBpcHRjAAB4nOPyDAhxVigoyk/LzEnlUgADIwsuYwsTIxNLkxQDEyBEgDTDZAMjs1Qgy9jUyMTMxBzEB8uASKBKLgDqFxF08kI1lQAAAABJRU5ErkJggg==",
     "How to apply (text)": "Simply fill in form on website, then use coupon strongertogether when subscribing",
     "How to apply (URL or email)": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together",
     "More info URL": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together"
@@ -1478,7 +1478,7 @@ export const services = [
     "Discount": "Free for life; 30% off all paid plans",
     "Does it drive you into a paid account": "Maybe, only if you hit limits of the free Starter Plan",
     "Requirement": "New customers",
-    "Favicon": "https://mlcfk4eggqht.i.optimole.com/QPViMsA-6Ee4w9uC/w:auto/h:auto/q:auto/https://i1.wp.com/foxbound.io/wp-content/uploads/2019/06/cropped-full-Color-Logo-1.png?fit=32%2C32&ssl=1",
+    "Favicon": "https://mlcfk4eggqht.i.optimole.com/QPViMsA-6Ee4w9uC/w:auto/h:auto/q:auto/https://i1.wp.com/foxbound.io/wp-content/uploads/2019/06/cropped-full-Color-Logo-1.png?fit=180%2C180&ssl=1",
     "How to apply (text)": "Use the code, REBOUND30, in the Billing area",
     "How to apply (URL or email)": "https://app.foxbound.io/users/sign_up",
     "More info URL": "https://foxbound.io/project-rebound-remote-sales/"
@@ -1744,7 +1744,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related",
-    "Favicon": "/static/images/favicon/android-icon-192x192.png",
+    "Favicon": "/static/images/favicon/apple-icon-57x57.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "demo@kgbase.com",
     "More info URL": "https://kgbase.com/pages/learn"
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-32x32.png",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
@@ -2010,7 +2010,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, 14 day free trial",
     "Requirement": "None. Works on any website",
-    "Favicon": "https://storage.newclick.io/STATIC/IMG/newclick_favicon.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "http://newclick.io/",
     "More info URL": "http://newclick.io/"
@@ -2052,7 +2052,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io/?saasforcovid=discount",
     "More info URL": "https://www.kimp.io/"
@@ -2206,7 +2206,7 @@ export const services = [
     "Discount": "25%",
     "Does it drive you into a paid account": "Maybe, but you get a clear discount so you know upfront.",
     "Requirement": "COVID-19 projects.",
-    "Favicon": "fbrfg/apple-touch-icon.png",
+    "Favicon": "fbrfg/favicon-32x32.png",
     "How to apply (text)": "Contact support (can be in Dutch or English)",
     "How to apply (URL or email)": "https://www.intention.nl/direct-jouw-vraag-stellen",
     "More info URL": ""
@@ -2906,7 +2906,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io",
     "More info URL": ""
