@@ -400,7 +400,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
-    "Favicon": "",
+    "Favicon": "https://cdn.helpwise.io/assets/images/favicon.png",
     "How to apply (text)": "Signup & upgrade. Ping support for 20% off for 12 months.",
     "How to apply (URL or email)": "https://helpwise.io",
     "More info URL": ""
@@ -442,7 +442,7 @@ export const services = [
     "Discount": "Lifetime for $48, rather than $4/mo. ongoing.",
     "Does it drive you into a paid account": "No, but you have to pay a one time fee.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/favicon-32x32.png",
     "How to apply (text)": "Signup & upgrade to PRO Lifetime Account for $48.",
     "How to apply (URL or email)": "https://www.retrospect.team/",
     "More info URL": ""
@@ -1110,7 +1110,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Low-Code/No-Code",
     "URL": "https://www.crowdbotics.com",
-    "Description": "",
+    "Description": "It's not low-code, it's full code made easy. Build business-ready software, apps, integrations, and more with the Crowdbotics App Builder. Hire certified PMs and developers to help build your project at any time.",
     "Discount": "15 free development hours for health-care related apps supporting the Coronavirus crisis. Waived blueprint fees for restaurant or small business who needs to transition to online orders.",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "Health-care related apps supporting the Coronavirus crisis. Small businesses transitioning to an online business model.",
@@ -1422,7 +1422,7 @@ export const services = [
     "Discount": "10% (First month)",
     "Does it drive you into a paid account": "Maybe, it's a discount so their earn money.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://cdn.shortpixel.ai/spai/q_lossy+ret_img/https://deerdesigner.com/wp-content/uploads/deerdesigner-logo.png",
     "How to apply (text)": "Use coupon COVID19 on the checkout",
     "How to apply (URL or email)": "https://deerdesigner.com",
     "More info URL": "https://deerdesigner.com"
@@ -2262,7 +2262,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 10 employees",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "./apple-touch-icon.png",
     "How to apply (text)": "Signup online",
     "How to apply (URL or email)": "https://bundy.io",
     "More info URL": "https://bundy.io"
