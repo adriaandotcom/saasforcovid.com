@@ -736,7 +736,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "./assets/img/brand/favicon.png",
     "How to apply (text)": "Signup and email support@devscore.com",
     "How to apply (URL or email)": "support@devscore.com",
     "More info URL": ""
@@ -1114,7 +1114,7 @@ export const services = [
     "Discount": "15 free development hours for health-care related apps supporting the Coronavirus crisis. Waived blueprint fees for restaurant or small business who needs to transition to online orders.",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "Health-care related apps supporting the Coronavirus crisis. Small businesses transitioning to an online business model.",
-    "Favicon": "",
+    "Favicon": "https://assets.website-files.com/5b5cd6b75bb9b0dce50e212f/5b691b549b93d76d9f36edeb_256.gif",
     "How to apply (text)": "Submit 'Free Quote' form and mention COVID-19 discount.",
     "How to apply (URL or email)": "https://www.crowdbotics.com/managed-app-development",
     "More info URL": "https://blog.crowdbotics.com/rapid-app-development-discounts-resources-discounts-coronavirus/"
@@ -1772,7 +1772,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "COVID-19 related projects only.",
-    "Favicon": "/assets/images/apple-touch-icon.png",
+    "Favicon": "/assets/images/favicon-32x32.png",
     "How to apply (text)": "Sign up and let me know",
     "How to apply (URL or email)": "https://dashboard.tryhexadecimal.com",
     "More info URL": "https://tryhexadecimal.com"
@@ -1800,7 +1800,7 @@ export const services = [
     "Discount": "6 months free",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "https://assets.dorik.com/5ff70ef244afdb0011b835c3/images/Favicon_lh1cgpn6.svg",
     "How to apply (text)": "Sign up with code CORONA and email at himanshu@jobtrackable.com to get Standard plan (6 months) free",
     "How to apply (URL or email)": "https://www.jobtrackable.com/",
     "More info URL": "https://www.jobtrackable.com/plans-pricing"
@@ -1898,7 +1898,7 @@ export const services = [
     "Discount": "$1/mo per location",
     "Does it drive you into a paid account": "Yes, but only $1/month",
     "Requirement": "none",
-    "Favicon": "",
+    "Favicon": "/favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com"
@@ -2108,7 +2108,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/favicons/favicon-76.png",
+    "Favicon": "/favicons/favicon-32.png",
     "How to apply (text)": "Just ping us on chat on the website.",
     "How to apply (URL or email)": "https://hellonext.co",
     "More info URL": "https://hellonext.co"
@@ -3028,7 +3028,7 @@ export const services = [
     "Approved": "",
     "Category": "Lead generation",
     "URL": "https://scapic.com",
-    "Description": "Bringing immersive commerce to the next billion Indians",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Small businesses, retailers and online stores",
