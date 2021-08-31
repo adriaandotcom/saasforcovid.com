@@ -2374,7 +2374,7 @@ export const services = [
     "Discount": "100% for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "None.",
-    "Favicon": "/apple-icon-57x57.png",
+    "Favicon": "",
     "How to apply (text)": "Just send us a message.",
     "How to apply (URL or email)": "https://www.callto.shop",
     "More info URL": ""
@@ -3308,7 +3308,7 @@ export const services = [
     "Approved": "",
     "Category": "Project Management",
     "URL": "https://rentman.io",
-    "Description": "",
+    "Description": "Modern rental software to run your live event rentals and productions. Manage and plan resources, scheduling, and communication from a single platform. Get started for free.",
     "Discount": "100% off for 3 months",
     "Does it drive you into a paid account": "No, the 3 free months end by themselves unless you activate your account.",
     "Requirement": "New users only",
