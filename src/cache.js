@@ -32,7 +32,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://airtable.com",
-    "Description": "",
+    "Description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free trial",
     "Requirement": "Airtable is making Airtable Pro available for free to any non-political humanitarian group that is working on COVID-19 relief efforts.",
@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "",
+    "Favicon": "/assets/icon128-53d136bb0aa1c128a1a32fc3630d28eb4d3659aaa9fc748839e8d489221fe2f9.png",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -1040,7 +1040,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Low-Code/No-Code",
     "URL": "http://www.workato.com",
-    "Description": "Workato, a leader in Gartner MQ, is more than an iPaaS. It's an Intelligent Automation platform that can be used by both Business and IT. It supports thousands of enterprise and workflow usecases so you can automate everything.",
+    "Description": "",
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Covid-19 related, Some partners have offered to help with free/discounted services",
@@ -1156,7 +1156,7 @@ export const services = [
     "Discount": "Free 3 months premium",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "./favicon.ico",
     "How to apply (text)": "Automatic on Sign Up",
     "How to apply (URL or email)": "https://app.startday.dk/createaccount",
     "More info URL": "https://startday.app"
@@ -1576,7 +1576,7 @@ export const services = [
     "Discount": "Free until July",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/helios/static/favicon-e3269bd511ed2da5fd1ae9a20dc5fb54.ico",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://www.pleo.io",
     "More info URL": ""
@@ -1730,7 +1730,7 @@ export const services = [
     "Discount": "Free tier of recruitment softwre",
     "Does it drive you into a paid account": "Maybe, if there's further interest in additional features or tiers",
     "Requirement": "Must have an Applicant Tracking System",
-    "Favicon": "",
+    "Favicon": "/favicon.png",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://register.joonko.com",
     "More info URL": "https://joonko.co/how-it-works"
