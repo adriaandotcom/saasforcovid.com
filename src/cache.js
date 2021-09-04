@@ -106,7 +106,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you get an extended free trial (6 months), no credit card needed.",
     "Requirement": "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
-    "Favicon": "https://mindwave.app/assets/favicons/apple-touch-icon.png",
+    "Favicon": "https://mindwave.app/assets/favicons/favicon-32x32.png",
     "How to apply (text)": "Email: support@mindwave.app",
     "How to apply (URL or email)": "support@mindwave.app",
     "More info URL": "https://mindwave.app/stories/covid-19-and-my-tiny-contribution-LVjv0V"
@@ -540,7 +540,7 @@ export const services = [
     "Discount": "12 months hosting",
     "Does it drive you into a paid account": "Maybe, after the 12 months.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5d5595354de4fbdd8c554dba_default_webclip.png",
     "How to apply (text)": "Contact support with details of project for discount code.",
     "How to apply (URL or email)": "https://university.webflow.com/support#contact-form",
     "More info URL": ""
@@ -1138,7 +1138,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Analytics",
     "URL": "https://www.awarehq.com",
-    "Description": "",
+    "Description": "Aware is a Gartner-recognized SaaS platform used by major enterprises across the globe. We partner closely with Slack, Microsoft Teams/Yammer, Workplace from Facebook and others to meet governance, security and compliance requirements to enable messaging collaboration at scale.",
     "Discount": "Free through May",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "Dependent upon integration platforms. Slack Enteprise Grid, Workplace from Facebook, Yammer, and Microsoft Teams.",
@@ -1590,7 +1590,7 @@ export const services = [
     "Discount": "Free until 1 June",
     "Does it drive you into a paid account": "No, it cancels automatically at the end of the free period",
     "Requirement": "None",
-    "Favicon": "/assets/icons/favicon.ico",
+    "Favicon": "/assets/icons/apple-touch-icon.png",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://app.writinganalytics.co/signup/covid-19",
     "More info URL": "https://www.writinganalytics.co/posts/covid-19/"
@@ -2024,7 +2024,7 @@ export const services = [
     "Discount": "25%",
     "Does it drive you into a paid account": "Maybe, but it's one-time payment",
     "Requirement": "",
-    "Favicon": "https://aok4q44obo-flywheel.netdna-ssl.com/wp-content/uploads/cropped-logo-icon-32x32.png",
+    "Favicon": "https://aok4q44obo-flywheel.netdna-ssl.com/wp-content/uploads/cropped-logo-icon-180x180.png",
     "How to apply (text)": "License music",
     "How to apply (URL or email)": "https://musicformakers.com/",
     "More info URL": "https://musicformakers.com/"
@@ -2206,7 +2206,7 @@ export const services = [
     "Discount": "25%",
     "Does it drive you into a paid account": "Maybe, but you get a clear discount so you know upfront.",
     "Requirement": "COVID-19 projects.",
-    "Favicon": "fbrfg/favicon-32x32.png",
+    "Favicon": "fbrfg/apple-touch-icon.png",
     "How to apply (text)": "Contact support (can be in Dutch or English)",
     "How to apply (URL or email)": "https://www.intention.nl/direct-jouw-vraag-stellen",
     "More info URL": ""
@@ -3028,7 +3028,7 @@ export const services = [
     "Approved": "",
     "Category": "Lead generation",
     "URL": "https://scapic.com",
-    "Description": "",
+    "Description": "Bringing immersive commerce to the next billion Indians",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Small businesses, retailers and online stores",
