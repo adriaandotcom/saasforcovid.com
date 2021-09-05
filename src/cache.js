@@ -1226,7 +1226,7 @@ export const services = [
     "Discount": "0-50%",
     "Does it drive you into a paid account": "Maybe, depends on your plan and project",
     "Requirement": "30% or 50% for the new users of Dashly:\nfree for teams and people that fight COVID-19 and its consequences",
-    "Favicon": "/assets/static/favicon.f22e9f3.dffc2dbe8a48e5a10760f3c72eff18b4.png",
+    "Favicon": "data:,",
     "How to apply (text)": "Send a message in live chat, the agents will help",
     "How to apply (URL or email)": "https://www.dashly.io/blog/crisis-management-with-dashly/",
     "More info URL": "https://www.dashly.io/blog/crisis-management-with-dashly/"
@@ -1408,7 +1408,7 @@ export const services = [
     "Discount": "15%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
-    "Favicon": "https://cdn.umso.co/29al446fkkuj/assets/fygh642g.png",
+    "Favicon": "",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://customfit.ai/demo",
     "More info URL": "https://customfit.ai/playbook"
@@ -2332,7 +2332,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free education plan for all k-12 and higher ed students and educators, 30% off team plan for nonprofits and 100% off for nonprofits working on COVID-19 initiatives.",
-    "Favicon": "/static/favicons/favicon-32x32.png?v=00zdoEw6N6",
+    "Favicon": "/static/favicons/apple-touch-icon.png?v=00zdoEw6N6",
     "How to apply (text)": "Free forever: sign up. Education and NPO plans: apply for eligibility.",
     "How to apply (URL or email)": "https://miro.com/",
     "More info URL": ""
@@ -2374,7 +2374,7 @@ export const services = [
     "Discount": "100% for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "None.",
-    "Favicon": "/apple-icon-57x57.png",
+    "Favicon": "/android-icon-192x192.png",
     "How to apply (text)": "Just send us a message.",
     "How to apply (URL or email)": "https://www.callto.shop",
     "More info URL": ""
