@@ -830,7 +830,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Website Tools",
     "URL": "https://algolia.com",
-    "Description": "Create AI-powered search & discovery across websites & apps.",
+    "Description": "",
     "Discount": "Free Pro Plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
@@ -918,7 +918,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Scaling Plan only. Non-profit working on Covid-19 related response",
-    "Favicon": "https://tettra.com/wp-content/uploads/2018/11/cropped-favicon-180x180.png",
+    "Favicon": "https://tettra.com/wp-content/uploads/2018/11/cropped-favicon-32x32.png",
     "How to apply (text)": "Sign up and reach out over chat",
     "How to apply (URL or email)": "https://app.tettra.co/create-team",
     "More info URL": ""
@@ -1800,7 +1800,7 @@ export const services = [
     "Discount": "6 months free",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "First time users",
-    "Favicon": "https://assets.dorik.com/5ff70ef244afdb0011b835c3/images/Favicon_lh1cgpn6.svg",
+    "Favicon": "",
     "How to apply (text)": "Sign up with code CORONA and email at himanshu@jobtrackable.com to get Standard plan (6 months) free",
     "How to apply (URL or email)": "https://www.jobtrackable.com/",
     "More info URL": "https://www.jobtrackable.com/plans-pricing"
