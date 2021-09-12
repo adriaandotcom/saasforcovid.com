@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is a Simple and Secure Project Management Software for Teams using Microsoft Office 365. Start a Free 14 Day Trial.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -410,7 +410,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Productivity Tools",
     "URL": "https://readermode.io",
-    "Description": "Reader Mode is a distraction-free online reader chrome extension with dyslexia support, text-to-speech and research tools. Remove clutter and read any article in a distraction-free reader mode.",
+    "Description": "",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -806,7 +806,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
-    "Favicon": "/sitestatic/brands/textit/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Sign up for free, open a ticket to get free credits.",
     "How to apply (URL or email)": "https://textit.in/",
     "More info URL": "https://blog.textit.in/free-textit-hosting-for-coronavirus-projects"
@@ -946,7 +946,7 @@ export const services = [
     "Discount": "Free 3 month 5 person business plan",
     "Does it drive you into a paid account": "Maybe, after 3 months or more than 5 persons",
     "Requirement": "Organizations with 50+ employees/volunteers and 30 minute on-boarding required",
-    "Favicon": "//shiftx.imgix.net/images/public/favicon.pdf?fm=png&w=16&h=16",
+    "Favicon": "//shiftx.imgix.net/images/public/favicon.pdf?fm=png&w=57&h=57",
     "How to apply (text)": "Chat bubble on https://shiftx.com or support@shiftx.com",
     "How to apply (URL or email)": "support@shiftx.com",
     "More info URL": ""
@@ -1100,7 +1100,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "",
-    "Favicon": "https://assets.website-files.com/5fd148f419b866c77225d463/60233349b46a67032154dbaa_Sleuth_logoOnly-256x256.png",
+    "Favicon": "",
     "How to apply (text)": "Signup for free and we'll extend for six months.",
     "How to apply (URL or email)": "https://app.sleuth.io/account/signup/",
     "More info URL": "https://www.sleuth.io/post/now-try-sleuth-free-for-six-months"
@@ -1254,7 +1254,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://kidpofy.com/assets/img/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://kidpofy.com",
     "More info URL": ""
@@ -1268,7 +1268,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Business/brand has an email newsletter",
-    "Favicon": "https://letterwell.co/wp-content/uploads/2021/03/cropped-7F91324F-2C7C-45C5-9FF4-1FEAE78967E8-1-180x180.png",
+    "Favicon": "",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://letterwell.co",
     "More info URL": "https://letterwell.co/about"
@@ -1296,7 +1296,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "/static/karen/favicons/apple-icon-57x57.png",
+    "Favicon": "",
     "How to apply (text)": "Use code SixMo50 for discount",
     "How to apply (URL or email)": "https://karenapp.io",
     "More info URL": "https://karenapp.io"
@@ -1450,7 +1450,7 @@ export const services = [
     "Discount": "Free for 3 months",
     "Does it drive you into a paid account": "Yes, but you can cancel before starting paid subscription.",
     "Requirement": "",
-    "Favicon": "data:image/png;base64,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",
+    "Favicon": "",
     "How to apply (text)": "Simply fill in form on website, then use coupon strongertogether when subscribing",
     "How to apply (URL or email)": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together",
     "More info URL": "https://kiwihr.com/en/stronger-together?utm_source=saasforcovid&utm_medium=referral&utm_campaign=en-stronger-together"
@@ -2094,7 +2094,7 @@ export const services = [
     "Discount": "45 days FREE for existing paid customers",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "You have to be an existing paid user of Automate.io. If you downgrade to the free plan, you can avail the 45-day FREE offer.",
-    "Favicon": "/assets/img/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "In the 'Downgrade to Free Plan' page in your account, select the reason for cancellation as Coronavirus/Covid-19 and click 'Avail 45-day Free Offer'",
     "How to apply (URL or email)": "help@automate.io",
     "More info URL": ""
