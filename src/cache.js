@@ -1758,7 +1758,7 @@ export const services = [
     "Discount": "100% for the Standard plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Only Standard plan and for all companies fighting COVID-19",
-    "Favicon": "",
+    "Favicon": "https://assets.website-files.com/5933fd4773e44b4d95d597e8/5c76a05d245b51182dc5c1e3_remme-favicon-purple.png",
     "How to apply (text)": "Fill out Contact Us form",
     "How to apply (URL or email)": "https://remme.io/contact-us",
     "More info URL": "https://remme.io/keyhub"
@@ -2206,7 +2206,7 @@ export const services = [
     "Discount": "25%",
     "Does it drive you into a paid account": "Maybe, but you get a clear discount so you know upfront.",
     "Requirement": "COVID-19 projects.",
-    "Favicon": "fbrfg/favicon-32x32.png",
+    "Favicon": "fbrfg/apple-touch-icon.png",
     "How to apply (text)": "Contact support (can be in Dutch or English)",
     "How to apply (URL or email)": "https://www.intention.nl/direct-jouw-vraag-stellen",
     "More info URL": ""
