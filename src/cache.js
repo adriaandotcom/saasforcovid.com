@@ -50,7 +50,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free usage.",
     "Requirement": "It's appreciated to add a link back to divjoy.com (not required). Free for Covid-19 projects.",
-    "Favicon": "/static/images/favicon/favicon-16x16.png",
+    "Favicon": "",
     "How to apply (text)": "Use chatbot on the page",
     "How to apply (URL or email)": "https://divjoy.com/",
     "More info URL": ""
@@ -806,7 +806,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
-    "Favicon": "",
+    "Favicon": "/sitestatic/brands/textit/favicon.ico",
     "How to apply (text)": "Sign up for free, open a ticket to get free credits.",
     "How to apply (URL or email)": "https://textit.in/",
     "More info URL": "https://blog.textit.in/free-textit-hosting-for-coronavirus-projects"
