@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is a Simple and Secure Project Management Software for Teams using Microsoft Office 365. Start a Free 14 Day Trial.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -764,7 +764,7 @@ export const services = [
     "Discount": "Free during lockdown",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "",
-    "Favicon": "data:image/png;base64,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",
+    "Favicon": "",
     "How to apply (text)": "Just create a free account and you have immediate access.",
     "How to apply (URL or email)": "https://calendly.com/",
     "More info URL": "https://blog.calendly.com/meeting-integration-update/"
@@ -862,7 +862,7 @@ export const services = [
     "Discount": "Free for 3 months (personal), unlimited free for nonprofits",
     "Does it drive you into a paid account": "Yes, after 3 months",
     "Requirement": "",
-    "Favicon": "https://d1eub78dsdxite.cloudfront.net/assets/favicon-32x32-ac56a6dc2d7708439f6c9cb2e405c3b8a8ca56bc24e52a2bd815384ca2b90410.png",
+    "Favicon": "https://d1eub78dsdxite.cloudfront.net/assets/apple-touch-icon-17060db823e010bef202c84f7efeff7bbe599d26048fc4587dbc034dce0153b5.png",
     "How to apply (text)": "Signup and email support@tefter.io or use the covid-19 code (for personal accounts only)",
     "How to apply (URL or email)": "https://tefter.io/users/sign_up?promocode=covid-19",
     "More info URL": ""
@@ -1100,7 +1100,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "",
-    "Favicon": "https://assets.website-files.com/5fd148f419b866c77225d463/60233349b46a67032154dbaa_Sleuth_logoOnly-256x256.png",
+    "Favicon": "",
     "How to apply (text)": "Signup for free and we'll extend for six months.",
     "How to apply (URL or email)": "https://app.sleuth.io/account/signup/",
     "More info URL": "https://www.sleuth.io/post/now-try-sleuth-free-for-six-months"
@@ -1576,7 +1576,7 @@ export const services = [
     "Discount": "Free until July",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/helios/static/favicon-e3269bd511ed2da5fd1ae9a20dc5fb54.ico",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://www.pleo.io",
     "More info URL": ""
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://ucarecdn.com/dbf76e7b-1154-4afc-8b1d-db95e4857873/",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
@@ -1898,7 +1898,7 @@ export const services = [
     "Discount": "$1/mo per location",
     "Does it drive you into a paid account": "Yes, but only $1/month",
     "Requirement": "none",
-    "Favicon": "/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com"
@@ -2094,7 +2094,7 @@ export const services = [
     "Discount": "45 days FREE for existing paid customers",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "You have to be an existing paid user of Automate.io. If you downgrade to the free plan, you can avail the 45-day FREE offer.",
-    "Favicon": "/assets/img/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "In the 'Downgrade to Free Plan' page in your account, select the reason for cancellation as Coronavirus/Covid-19 and click 'Avail 45-day Free Offer'",
     "How to apply (URL or email)": "help@automate.io",
     "More info URL": ""
