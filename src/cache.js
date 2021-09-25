@@ -876,7 +876,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project",
-    "Favicon": "",
+    "Favicon": "/favicon-196x196.png",
     "How to apply (text)": "Email info@vectorspace.ai or visit https://vectorspace.ai",
     "How to apply (URL or email)": "info@vectorspace.ai",
     "More info URL": "https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html?tc=eml_cleartime"
@@ -1520,7 +1520,7 @@ export const services = [
     "Discount": "Free for the rest of 2020",
     "Does it drive you into a paid account": "No, no need for payment information and free for the rest of 2020",
     "Requirement": "Healthcare organisations",
-    "Favicon": "https://www.kernelcare.com/wp-content/uploads/2019/09/index.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up and we will jump in to help with deployment on all your servers",
     "How to apply (URL or email)": "https://lp.kernelcare.com/kernelcare-for-free-for-healthcare",
     "More info URL": "https://www.kernelcare.com/product/"
@@ -1646,7 +1646,7 @@ export const services = [
     "Discount": "Free for 1st year",
     "Does it drive you into a paid account": "No, first year free and no credit card required",
     "Requirement": "New K-12 customers",
-    "Favicon": "/favicon-f99f13ec.ico",
+    "Favicon": "",
     "How to apply (text)": "Complete request trial form",
     "How to apply (URL or email)": "https://www.qualified.io/signup",
     "More info URL": "https://www.qualified.io/blog/posts/qualified-and-codewars-are-free-for-k-12-teachers-and-students"
@@ -2010,7 +2010,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, 14 day free trial",
     "Requirement": "None. Works on any website",
-    "Favicon": "",
+    "Favicon": "https://storage.newclick.io/STATIC/IMG/newclick_favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "http://newclick.io/",
     "More info URL": "http://newclick.io/"
