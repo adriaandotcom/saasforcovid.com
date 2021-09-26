@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "/assets/icon128-53d136bb0aa1c128a1a32fc3630d28eb4d3659aaa9fc748839e8d489221fe2f9.png",
+    "Favicon": "",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is straightforward, ready-to-use project management software that integrates into your existing Microsoft 365 infrastructure.",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -410,7 +410,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Productivity Tools",
     "URL": "https://readermode.io",
-    "Description": "Reader Mode is a distraction-free online reader chrome extension with dyslexia support, text-to-speech and research tools. Remove clutter and read any article in a distraction-free reader mode.",
+    "Description": "",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -764,7 +764,7 @@ export const services = [
     "Discount": "Free during lockdown",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "data:image/png;base64,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",
     "How to apply (text)": "Just create a free account and you have immediate access.",
     "How to apply (URL or email)": "https://calendly.com/",
     "More info URL": "https://blog.calendly.com/meeting-integration-update/"
@@ -1478,7 +1478,7 @@ export const services = [
     "Discount": "Free for life; 30% off all paid plans",
     "Does it drive you into a paid account": "Maybe, only if you hit limits of the free Starter Plan",
     "Requirement": "New customers",
-    "Favicon": "",
+    "Favicon": "https://mlcfk4eggqht.i.optimole.com/QPViMsA-6Ee4w9uC/w:auto/h:auto/q:auto/https://i1.wp.com/foxbound.io/wp-content/uploads/2019/06/cropped-full-Color-Logo-1.png?fit=180%2C180&ssl=1",
     "How to apply (text)": "Use the code, REBOUND30, in the Billing area",
     "How to apply (URL or email)": "https://app.foxbound.io/users/sign_up",
     "More info URL": "https://foxbound.io/project-rebound-remote-sales/"
@@ -1744,7 +1744,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related",
-    "Favicon": "",
+    "Favicon": "/static/images/favicon/apple-icon-57x57.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "demo@kgbase.com",
     "More info URL": "https://kgbase.com/pages/learn"
@@ -2136,7 +2136,7 @@ export const services = [
     "Discount": "$6 off on Starter Pack Yearly",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://chartsfactory.com/shortcut-01.png",
     "How to apply (text)": "Use coupon code thanksyearly",
     "How to apply (URL or email)": "https://chartsfactory.com/#pricing",
     "More info URL": "https://chartsfactory.com"
@@ -2150,7 +2150,7 @@ export const services = [
     "Discount": "Free until 1 June",
     "Does it drive you into a paid account": "No, no payment details required.",
     "Requirement": "Businesses heavily impacted by COVID-19",
-    "Favicon": "",
+    "Favicon": "https://spotonwifi.com/wp-content/uploads/2017/07/cropped-logo-1-180x180.png",
     "How to apply (text)": "Use coupon: FIGHTCOVID",
     "How to apply (URL or email)": "info@spotonwifi.com",
     "More info URL": "https://spotonwifi.com"
@@ -2276,7 +2276,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "",
+    "Favicon": "/img/favicons/apple-touch-icon.png",
     "How to apply (text)": "Signup online, use promo code ZACHRANNYKRUH",
     "How to apply (URL or email)": "https://app.freelo.cz/premium/checkout/choose-plan",
     "More info URL": "https://freelo.app/"
