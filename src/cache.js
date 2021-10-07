@@ -92,7 +92,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "resources/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Email: erwin@sparklybot.com",
     "How to apply (URL or email)": "erwin@sparklybot.com",
     "More info URL": "https://sparklybot.com"
@@ -106,7 +106,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you get an extended free trial (6 months), no credit card needed.",
     "Requirement": "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
-    "Favicon": "",
+    "Favicon": "https://mindwave.app/assets/favicons/apple-touch-icon.png",
     "How to apply (text)": "Email: support@mindwave.app",
     "How to apply (URL or email)": "support@mindwave.app",
     "More info URL": "https://mindwave.app/stories/covid-19-and-my-tiny-contribution-LVjv0V"
@@ -204,7 +204,7 @@ export const services = [
     "Discount": "70%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "https://kedaiweb.co/4/favicon-32x32.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & all addon up to 70% discount",
     "How to apply (URL or email)": "https://kedaiweb.co",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is straightforward, ready-to-use project management software that integrates into your existing Microsoft 365 infrastructure.",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -1856,7 +1856,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Only after you hit free account limits.",
     "Requirement": "None.",
-    "Favicon": "",
+    "Favicon": "https://uploads-ssl.webflow.com/5eea6758cb789401d10bb367/5f1ef4af49feca734c3f01e2_5e402d845b31cb858c4a0b77_icon-square-256.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://www.fluxo.ai",
     "More info URL": "https://www.fluxo.ai/pricing"
@@ -2332,7 +2332,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free education plan for all k-12 and higher ed students and educators, 30% off team plan for nonprofits and 100% off for nonprofits working on COVID-19 initiatives.",
-    "Favicon": "",
+    "Favicon": "/static/favicons/apple-touch-icon.png?v=00zdoEw6N6",
     "How to apply (text)": "Free forever: sign up. Education and NPO plans: apply for eligibility.",
     "How to apply (URL or email)": "https://miro.com/",
     "More info URL": ""
