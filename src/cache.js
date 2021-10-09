@@ -904,7 +904,7 @@ export const services = [
     "Discount": "100% discount until January 2021",
     "Does it drive you into a paid account": "Maybe, after January 2021",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://assets.website-files.com/5ec848ec2b50b6cfae06f6cc/60785b9d2d09ec6bfb5810c5_apple-touch-icon.png",
     "How to apply (text)": "Simply sign up for free and get started.",
     "How to apply (URL or email)": "https://reclaim.ai",
     "More info URL": "https://reclaim.ai/product"
@@ -1562,7 +1562,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon.png?v=v2740",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
