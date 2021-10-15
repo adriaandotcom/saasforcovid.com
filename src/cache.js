@@ -162,7 +162,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for Slack groups helping with COVID-19",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=cbf83db1d7076e7706531a225f915b35",
     "How to apply (text)": "Sign up and then send us an email.",
     "How to apply (URL or email)": "https://getlowdown.com/covid-19/",
     "More info URL": ""
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -988,7 +988,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 response and recovery management",
-    "Favicon": "https://www.senseilabs.com/wp-content/themes/senseilabs/favicon-16x16.png",
+    "Favicon": "",
     "How to apply (text)": "Fill in the form and we'll get you setup",
     "How to apply (URL or email)": "https://hello.senseilabs.com/conductor-for-covid19",
     "More info URL": "https://www.senseilabs.com/conductor/conductor-for-covid-19/"
@@ -1422,7 +1422,7 @@ export const services = [
     "Discount": "10% (First month)",
     "Does it drive you into a paid account": "Maybe, it's a discount so their earn money.",
     "Requirement": "",
-    "Favicon": "https://cdn.shortpixel.ai/spai/q_lossy+ret_img+to_auto/https://deerdesigner.com/wp-content/uploads/deerdesigner-logo.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon COVID19 on the checkout",
     "How to apply (URL or email)": "https://deerdesigner.com",
     "More info URL": "https://deerdesigner.com"
@@ -1632,7 +1632,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No need for payment information and free forever",
     "Requirement": "None",
-    "Favicon": "//assets.cdnpandadoc.com/app/packages/www-next/img/fav/icon-180-509eb5f708.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up on the website from this page",
     "How to apply (URL or email)": "https://signup.pandadoc.com/?plan=rec_plans_v4_free",
     "More info URL": "https://www.pandadoc.com/free-electronic-signature-software/"
@@ -1744,7 +1744,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related",
-    "Favicon": "",
+    "Favicon": "/static/images/favicon/apple-icon-57x57.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "demo@kgbase.com",
     "More info URL": "https://kgbase.com/pages/learn"
@@ -1758,7 +1758,7 @@ export const services = [
     "Discount": "100% for the Standard plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Only Standard plan and for all companies fighting COVID-19",
-    "Favicon": "",
+    "Favicon": "https://assets.website-files.com/5933fd4773e44b4d95d597e8/5c76a05d245b51182dc5c1e3_remme-favicon-purple.png",
     "How to apply (text)": "Fill out Contact Us form",
     "How to apply (URL or email)": "https://remme.io/contact-us",
     "More info URL": "https://remme.io/keyhub"
@@ -2024,7 +2024,7 @@ export const services = [
     "Discount": "25%",
     "Does it drive you into a paid account": "Maybe, but it's one-time payment",
     "Requirement": "",
-    "Favicon": "https://aok4q44obo-flywheel.netdna-ssl.com/wp-content/uploads/cropped-logo-icon-32x32.png",
+    "Favicon": "https://aok4q44obo-flywheel.netdna-ssl.com/wp-content/uploads/cropped-logo-icon-180x180.png",
     "How to apply (text)": "License music",
     "How to apply (URL or email)": "https://musicformakers.com/",
     "More info URL": "https://musicformakers.com/"
