@@ -18,7 +18,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://intercom.com",
-    "Description": "Build great customer relationships every step of the journey with Intercom.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, you need to enter payment information and will be charged automatically after 2 years.",
     "Requirement": "Free of charge to any company or institution fighting COVID-19 and its impact on society, or working to help those affected.",
@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "/spike-badge-icon.png",
+    "Favicon": "/spike-badge-180.png",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -862,7 +862,7 @@ export const services = [
     "Discount": "Free for 3 months (personal), unlimited free for nonprofits",
     "Does it drive you into a paid account": "Yes, after 3 months",
     "Requirement": "",
-    "Favicon": "https://d1eub78dsdxite.cloudfront.net/assets/apple-touch-icon-17060db823e010bef202c84f7efeff7bbe599d26048fc4587dbc034dce0153b5.png",
+    "Favicon": "https://d1eub78dsdxite.cloudfront.net/assets/favicon-32x32-ac56a6dc2d7708439f6c9cb2e405c3b8a8ca56bc24e52a2bd815384ca2b90410.png",
     "How to apply (text)": "Signup and email support@tefter.io or use the covid-19 code (for personal accounts only)",
     "How to apply (URL or email)": "https://tefter.io/users/sign_up?promocode=covid-19",
     "More info URL": ""
@@ -1576,7 +1576,7 @@ export const services = [
     "Discount": "Free until July",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/helios/static/favicon-e3269bd511ed2da5fd1ae9a20dc5fb54.ico",
+    "Favicon": "/helios/experiments/homepage-v3-experiment/static/favicon-e3269bd511ed2da5fd1ae9a20dc5fb54.ico",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://www.pleo.io",
     "More info URL": ""
