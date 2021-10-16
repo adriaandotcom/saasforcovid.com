@@ -540,7 +540,7 @@ export const services = [
     "Discount": "12 months hosting",
     "Does it drive you into a paid account": "Maybe, after the 12 months.",
     "Requirement": "",
-    "Favicon": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5d5595354de4fbdd8c554dba_default_webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Contact support with details of project for discount code.",
     "How to apply (URL or email)": "https://university.webflow.com/support#contact-form",
     "More info URL": ""
@@ -1380,7 +1380,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "/favicon-32x32.png?v=fc17b99d75c8dfe889cf0f78c646d84b",
+    "Favicon": "/icons/icon-48x48.png?v=fc17b99d75c8dfe889cf0f78c646d84b",
     "How to apply (text)": "There is already 50% discount on yearly subscription https://nocodeapi.com/pricing",
     "How to apply (URL or email)": "https://nocodeapi.com/pricing",
     "More info URL": "https://nocodeapi.com/what-is-nocodeapi"
@@ -1576,7 +1576,7 @@ export const services = [
     "Discount": "Free until July",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/helios/static/favicon-e3269bd511ed2da5fd1ae9a20dc5fb54.ico",
+    "Favicon": "/helios/experiments/homepage-v3-experiment/static/favicon-e3269bd511ed2da5fd1ae9a20dc5fb54.ico",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://www.pleo.io",
     "More info URL": ""
@@ -1632,7 +1632,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No need for payment information and free forever",
     "Requirement": "None",
-    "Favicon": "//assets.cdnpandadoc.com/app/packages/www-next/img/fav/icon-180-509eb5f708.png",
+    "Favicon": "//assets.cdnpandadoc.com/app/packages/www-next/img/fav/icon-192-db126555ce.png",
     "How to apply (text)": "Sign up on the website from this page",
     "How to apply (URL or email)": "https://signup.pandadoc.com/?plan=rec_plans_v4_free",
     "More info URL": "https://www.pandadoc.com/free-electronic-signature-software/"
@@ -2108,7 +2108,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/favicons/favicon-32.png",
+    "Favicon": "/favicons/favicon-76.png",
     "How to apply (text)": "Just ping us on chat on the website.",
     "How to apply (URL or email)": "https://hellonext.co",
     "More info URL": "https://hellonext.co"
