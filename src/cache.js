@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is straightforward, ready-to-use project management software that integrates into your existing Microsoft 365 infrastructure.",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -400,7 +400,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
-    "Favicon": "",
+    "Favicon": "https://cdn.helpwise.io/assets/images/favicon.png",
     "How to apply (text)": "Signup & upgrade. Ping support for 20% off for 12 months.",
     "How to apply (URL or email)": "https://helpwise.io",
     "More info URL": ""
@@ -764,7 +764,7 @@ export const services = [
     "Discount": "Free during lockdown",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://assets-marketing-site.calendly.com/favicon-32x32.png?v=562a6280871383fd65846bc6297cf964",
     "How to apply (text)": "Just create a free account and you have immediate access.",
     "How to apply (URL or email)": "https://calendly.com/",
     "More info URL": "https://blog.calendly.com/meeting-integration-update/"
@@ -1814,7 +1814,7 @@ export const services = [
     "Discount": "3 months free",
     "Does it drive you into a paid account": "Maybe, after 3 months",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "/logo192.png",
     "How to apply (text)": "Drop an email to team@bigradar.io with subject: Corona",
     "How to apply (URL or email)": "https://www.bigradar.io",
     "More info URL": ""
