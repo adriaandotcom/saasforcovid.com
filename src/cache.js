@@ -1156,7 +1156,7 @@ export const services = [
     "Discount": "Free 3 months premium",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Automatic on Sign Up",
     "How to apply (URL or email)": "https://app.startday.dk/createaccount",
     "More info URL": "https://startday.app"
@@ -1362,7 +1362,7 @@ export const services = [
     "Approved": "",
     "Category": "Finance",
     "URL": "https://upflow.io",
-    "Description": "",
+    "Description": "Stop wasting time and automate customer payments reminders. With Upflow, businesses quickly collect unpaid invoices and reduce overdue payments by 50%.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
