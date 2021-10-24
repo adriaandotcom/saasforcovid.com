@@ -396,7 +396,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://helpwise.io",
-    "Description": "",
+    "Description": "Helpwise is an easy to use shared inbox and email collaboration software for teams to manage team email accounts like help@, sales@, etc. Get Shared Inbox for your team now!",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
@@ -1730,7 +1730,7 @@ export const services = [
     "Discount": "Free tier of recruitment softwre",
     "Does it drive you into a paid account": "Maybe, if there's further interest in additional features or tiers",
     "Requirement": "Must have an Applicant Tracking System",
-    "Favicon": "/favicon.ico",
+    "Favicon": "/favicon.png",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://register.joonko.com",
     "More info URL": "https://joonko.co/how-it-works"
@@ -1744,7 +1744,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related",
-    "Favicon": "/static/images/favicon/android-icon-192x192.png",
+    "Favicon": "/static/images/favicon/apple-icon-57x57.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "demo@kgbase.com",
     "More info URL": "https://kgbase.com/pages/learn"
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "https://ucarecdn.com/dbf76e7b-1154-4afc-8b1d-db95e4857873/",
+    "Favicon": "",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
