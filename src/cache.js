@@ -638,7 +638,7 @@ export const services = [
     "Discount": "Free",
     "Does it drive you into a paid account": "No",
     "Requirement": "Less than 100 devices.",
-    "Favicon": "/favicon.ico?r=124",
+    "Favicon": "",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://my.zerotier.com",
     "More info URL": "www.zerotier.com"
@@ -988,7 +988,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 response and recovery management",
-    "Favicon": "",
+    "Favicon": "https://www.senseilabs.com/wp-content/themes/senseilabs/favicon-16x16.png",
     "How to apply (text)": "Fill in the form and we'll get you setup",
     "How to apply (URL or email)": "https://hello.senseilabs.com/conductor-for-covid19",
     "More info URL": "https://www.senseilabs.com/conductor/conductor-for-covid-19/"
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-32x32.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
