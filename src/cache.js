@@ -914,7 +914,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Writing Tools",
     "URL": "https://tettra.com",
-    "Description": "",
+    "Description": "Tettra is an internal knowledge base, wiki and knowledge management system that helps answer repetitive questions and onboard teammates faster.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Scaling Plan only. Non-profit working on Covid-19 related response",
