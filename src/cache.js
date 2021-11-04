@@ -470,7 +470,7 @@ export const services = [
     "Discount": "Free 1 dashboard",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "Free 1 dashboard for 12 months.",
-    "Favicon": "https://assets-global.website-files.com/5bc779c7cb6515eacd17ad0f/5be5b664be7e638f340f9531_grow-webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Fill out form on landing page",
     "How to apply (URL or email)": "https://www.grow.com/free-business-intelligence-spreadsheet-dashboard",
     "More info URL": ""
@@ -1576,7 +1576,7 @@ export const services = [
     "Discount": "Free until July",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/helios/static/favicon-e3269bd511ed2da5fd1ae9a20dc5fb54.ico",
+    "Favicon": "/helios/experiments/homepage-v3-experiment/static/favicon-e3269bd511ed2da5fd1ae9a20dc5fb54.ico",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://www.pleo.io",
     "More info URL": ""
@@ -1660,7 +1660,7 @@ export const services = [
     "Discount": "Free for 1st month",
     "Does it drive you into a paid account": "Yes, but you can cancel the subscription",
     "Requirement": "None",
-    "Favicon": "i/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon code FREEMONTH during checkout.",
     "How to apply (URL or email)": "https://designmodo.com/freemonth/",
     "More info URL": "https://designmodo.com/freemonth/"
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "https://ucarecdn.com/dbf76e7b-1154-4afc-8b1d-db95e4857873/",
+    "Favicon": "https://ucarecdn.com/f516afb8-67b3-4922-915a-0598470b2cec/",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
@@ -1800,7 +1800,7 @@ export const services = [
     "Discount": "6 months free",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "First time users",
-    "Favicon": "https://assets.dorik.com/5ff70ef244afdb0011b835c3/images/Favicon_lh1cgpn6.svg",
+    "Favicon": "",
     "How to apply (text)": "Sign up with code CORONA and email at himanshu@jobtrackable.com to get Standard plan (6 months) free",
     "How to apply (URL or email)": "https://www.jobtrackable.com/",
     "More info URL": "https://www.jobtrackable.com/plans-pricing"
@@ -1814,7 +1814,7 @@ export const services = [
     "Discount": "3 months free",
     "Does it drive you into a paid account": "Maybe, after 3 months",
     "Requirement": "First time users",
-    "Favicon": "/favicon.ico",
+    "Favicon": "/logo192.png",
     "How to apply (text)": "Drop an email to team@bigradar.io with subject: Corona",
     "How to apply (URL or email)": "https://www.bigradar.io",
     "More info URL": ""
@@ -2010,7 +2010,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, 14 day free trial",
     "Requirement": "None. Works on any website",
-    "Favicon": "",
+    "Favicon": "https://storage.newclick.io/STATIC/IMG/newclick_favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "http://newclick.io/",
     "More info URL": "http://newclick.io/"
@@ -2108,7 +2108,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/favicons/favicon-76.png",
+    "Favicon": "",
     "How to apply (text)": "Just ping us on chat on the website.",
     "How to apply (URL or email)": "https://hellonext.co",
     "More info URL": "https://hellonext.co"
@@ -3294,7 +3294,7 @@ export const services = [
     "Approved": "",
     "Category": "Edtech",
     "URL": "https://kintell.com/",
-    "Description": "Book in a one-to-one video session with one of our thousands of vetted advisors, for help with anything from learning to code to changing career.",
+    "Description": "",
     "Discount": "$20 credit upon signup",
     "Does it drive you into a paid account": "Maybe, it's a credit",
     "Requirement": "New users only",
