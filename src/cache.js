@@ -204,7 +204,7 @@ export const services = [
     "Discount": "70%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://kedaiweb.co/4/favicon-32x32.png",
     "How to apply (text)": "Signup & all addon up to 70% discount",
     "How to apply (URL or email)": "https://kedaiweb.co",
     "More info URL": ""
@@ -1044,7 +1044,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Covid-19 related, Some partners have offered to help with free/discounted services",
-    "Favicon": "https://cdn.marie.awsprod.workato.com/mktg-assets/favicon/apple-touch-icon-57x57-13c02d830c4de996e848535bbea03a71d536254989a100a6acf040221464f4c4.png",
+    "Favicon": "https://cdn.marie.awsprod.workato.com/mktg-assets/favicon/favicon-194x194-9df9c0ae1c97e02ca682d4dff1799fda6ad617f0462928581fbdb030b2f65669.png",
     "How to apply (text)": "Signup for free or contact us",
     "How to apply (URL or email)": "http://www.workato.com",
     "More info URL": ""
@@ -1268,7 +1268,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Business/brand has an email newsletter",
-    "Favicon": "https://letterwell.co/wp-content/uploads/2021/03/cropped-7F91324F-2C7C-45C5-9FF4-1FEAE78967E8-1-32x32.png",
+    "Favicon": "https://letterwell.co/wp-content/uploads/2021/03/cropped-7F91324F-2C7C-45C5-9FF4-1FEAE78967E8-1-180x180.png",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://letterwell.co",
     "More info URL": "https://letterwell.co/about"
@@ -1576,7 +1576,7 @@ export const services = [
     "Discount": "Free until July",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/helios/experiments/homepage-v3-experiment/static/favicon-e3269bd511ed2da5fd1ae9a20dc5fb54.ico",
+    "Favicon": "/helios/static/favicon-e3269bd511ed2da5fd1ae9a20dc5fb54.ico",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://www.pleo.io",
     "More info URL": ""
