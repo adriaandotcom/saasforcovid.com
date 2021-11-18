@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "/spike-badge-180.png",
+    "Favicon": "/spike-badge-icon.png",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://clinq.com/wp-content/uploads/2021/08/favicon-150x150.png",
+    "Favicon": "https://clinq.com/wp-content/uploads/2021/08/favicon-300x300.png",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
@@ -680,7 +680,7 @@ export const services = [
     "Discount": "Free for two months",
     "Does it drive you into a paid account": "Maybe, after two months.",
     "Requirement": "SafetyAmp is making its platform available free for two months for teams needing COVID-19 auditing capabilities",
-    "Favicon": "",
+    "Favicon": "https://uploads-ssl.webflow.com/5ef3803d773621e809fa8be3/5f11fbceb58409168924702d_iphone.png",
     "How to apply (text)": "Email sales@safetyamp.com",
     "How to apply (URL or email)": "https://safetyamp.com/covid19/",
     "More info URL": ""
@@ -806,7 +806,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
-    "Favicon": "",
+    "Favicon": "/sitestatic/brands/textit/favicon.ico",
     "How to apply (text)": "Sign up for free, open a ticket to get free credits.",
     "How to apply (URL or email)": "https://textit.in/",
     "More info URL": "https://blog.textit.in/free-textit-hosting-for-coronavirus-projects"
@@ -1156,7 +1156,7 @@ export const services = [
     "Discount": "Free 3 months premium",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Automatic on Sign Up",
     "How to apply (URL or email)": "https://app.startday.dk/createaccount",
     "More info URL": "https://startday.app"
@@ -1968,7 +1968,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related projec",
-    "Favicon": "",
+    "Favicon": "./assets/logos/favicon.ico",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://payrequest.io/donation-pages",
     "More info URL": "https://payrequest.io/donation-pages"
