@@ -204,7 +204,7 @@ export const services = [
     "Discount": "70%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "https://kedaiweb.co/4/favicon-32x32.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & all addon up to 70% discount",
     "How to apply (URL or email)": "https://kedaiweb.co",
     "More info URL": ""
@@ -508,7 +508,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Productivity Tools",
     "URL": "https://saferequest.net",
-    "Description": "Safely receive files only you can open.",
+    "Description": "",
     "Discount": "3 months for €3",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription any time.",
     "Requirement": "",
@@ -526,7 +526,7 @@ export const services = [
     "Discount": "50% for all packages",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "New customers",
-    "Favicon": "https://netnut.io/wp-content/uploads/2020/04/cropped-Favicon-transparent-180x180.png",
+    "Favicon": "https://netnut.io/wp-content/uploads/2020/04/cropped-Favicon-transparent-32x32.png",
     "How to apply (text)": "Email jeffy@netnut.io",
     "How to apply (URL or email)": "https://l.netnut.io/saasforcovid",
     "More info URL": "https://netnut.io/"
@@ -918,7 +918,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Scaling Plan only. Non-profit working on Covid-19 related response",
-    "Favicon": "https://tettra.com/wp-content/uploads/2018/11/cropped-favicon-32x32.png",
+    "Favicon": "https://tettra.com/wp-content/uploads/2018/11/cropped-favicon-180x180.png",
     "How to apply (text)": "Sign up and reach out over chat",
     "How to apply (URL or email)": "https://app.tettra.co/create-team",
     "More info URL": ""
@@ -1212,7 +1212,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related for educational institutions and teachers",
-    "Favicon": "https://www.mindmeister.com/mm_favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Submit a request via a form",
     "How to apply (URL or email)": "https://docs.google.com/forms/d/e/1FAIpQLSeDB4wwXfF50axq-f--NRQUhwgjUgweMPKlSRQI9ul9rJ8gVA/viewform",
     "More info URL": "https://www.meisterlabs.com/meister-for-educators/"
@@ -1362,7 +1362,7 @@ export const services = [
     "Approved": "",
     "Category": "Finance",
     "URL": "https://upflow.io",
-    "Description": "",
+    "Description": "Gérez le suivi de vos factures, de l'envoi au paiement. Avec Upflow, encaissez 100% de votre chiffre d'affaires",
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
@@ -1772,7 +1772,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "COVID-19 related projects only.",
-    "Favicon": "/assets/images/favicon-32x32.png",
+    "Favicon": "/assets/images/apple-touch-icon.png",
     "How to apply (text)": "Sign up and let me know",
     "How to apply (URL or email)": "https://dashboard.tryhexadecimal.com",
     "More info URL": "https://tryhexadecimal.com"
@@ -2444,7 +2444,7 @@ export const services = [
     "Discount": "250$ credit",
     "Does it drive you into a paid account": "Maybe, but it's a clear discount.",
     "Requirement": "None.",
-    "Favicon": "https://www.postaffiliatepro.com/app/themes/postaffiliatepro/assets/images/favicon/favicon-32x32.png",
+    "Favicon": "https://www.postaffiliatepro.com/app/themes/postaffiliatepro/assets/images/favicon/apple-touch-icon.png",
     "How to apply (text)": "Send us a message to: andy@postaffiliatepro.com with subject \"SaaS4Covid",
     "How to apply (URL or email)": "https://www.postaffiliatepro.com/trial/",
     "More info URL": "https://www.postaffiliatepro.com/affiliate-marketing-software/"
