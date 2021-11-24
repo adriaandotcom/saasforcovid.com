@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is straightforward, ready-to-use project management software that integrates into your existing Microsoft 365 infrastructure.",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -494,7 +494,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Incident Management",
     "URL": "https://pagertree.com",
-    "Description": "",
+    "Description": "PagerTree on-call incident management gives devops teams flexible schedules, escalations, & reliable notifications via email, SMS, voice, & smartphone app.",
     "Discount": "3 months $3",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription any time.",
     "Requirement": "",
@@ -526,7 +526,7 @@ export const services = [
     "Discount": "50% for all packages",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "New customers",
-    "Favicon": "",
+    "Favicon": "https://netnut.io/wp-content/uploads/2020/04/cropped-Favicon-transparent-32x32.png",
     "How to apply (text)": "Email jeffy@netnut.io",
     "How to apply (URL or email)": "https://l.netnut.io/saasforcovid",
     "More info URL": "https://netnut.io/"
@@ -1646,7 +1646,7 @@ export const services = [
     "Discount": "Free for 1st year",
     "Does it drive you into a paid account": "No, first year free and no credit card required",
     "Requirement": "New K-12 customers",
-    "Favicon": "",
+    "Favicon": "/favicon-f99f13ec.ico",
     "How to apply (text)": "Complete request trial form",
     "How to apply (URL or email)": "https://www.qualified.io/signup",
     "More info URL": "https://www.qualified.io/blog/posts/qualified-and-codewars-are-free-for-k-12-teachers-and-students"
@@ -1674,7 +1674,7 @@ export const services = [
     "Discount": "Buy 3 months, Get 3 months for Free",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://bmaas-web-platform-assets.s3.amazonaws.com/public/assets/favicons/favicon-32.png",
     "How to apply (text)": "Sign up and use code COVID19",
     "How to apply (URL or email)": "https://amaas.adext.ai/register",
     "More info URL": "WWW.ADEXT.AI"
@@ -2262,7 +2262,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 10 employees",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "./favicon-32x32.png",
     "How to apply (text)": "Signup online",
     "How to apply (URL or email)": "https://bundy.io",
     "More info URL": "https://bundy.io"
