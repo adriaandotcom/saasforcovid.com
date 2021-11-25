@@ -1646,7 +1646,7 @@ export const services = [
     "Discount": "Free for 1st year",
     "Does it drive you into a paid account": "No, first year free and no credit card required",
     "Requirement": "New K-12 customers",
-    "Favicon": "",
+    "Favicon": "/favicon-f99f13ec.ico",
     "How to apply (text)": "Complete request trial form",
     "How to apply (URL or email)": "https://www.qualified.io/signup",
     "More info URL": "https://www.qualified.io/blog/posts/qualified-and-codewars-are-free-for-k-12-teachers-and-students"
@@ -3308,7 +3308,7 @@ export const services = [
     "Approved": "",
     "Category": "Project Management",
     "URL": "https://rentman.io",
-    "Description": "",
+    "Description": "Rentman is a scalable resource management software that helps you schedule resources, track inventory and create professional quotes in an easy to use system",
     "Discount": "100% off for 3 months",
     "Does it drive you into a paid account": "No, the 3 free months end by themselves unless you activate your account.",
     "Requirement": "New users only",
