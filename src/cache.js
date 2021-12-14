@@ -1100,7 +1100,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "",
-    "Favicon": "https://assets.website-files.com/5fd148f419b866c77225d463/60233349b46a67032154dbaa_Sleuth_logoOnly-256x256.png",
+    "Favicon": "",
     "How to apply (text)": "Signup for free and we'll extend for six months.",
     "How to apply (URL or email)": "https://app.sleuth.io/account/signup/",
     "More info URL": "https://www.sleuth.io/post/now-try-sleuth-free-for-six-months"
@@ -1114,7 +1114,7 @@ export const services = [
     "Discount": "15 free development hours for health-care related apps supporting the Coronavirus crisis. Waived blueprint fees for restaurant or small business who needs to transition to online orders.",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "Health-care related apps supporting the Coronavirus crisis. Small businesses transitioning to an online business model.",
-    "Favicon": "https://assets.website-files.com/5b5cd6b75bb9b0dce50e212f/5b691b549b93d76d9f36edeb_256.gif",
+    "Favicon": "",
     "How to apply (text)": "Submit 'Free Quote' form and mention COVID-19 discount.",
     "How to apply (URL or email)": "https://www.crowdbotics.com/managed-app-development",
     "More info URL": "https://blog.crowdbotics.com/rapid-app-development-discounts-resources-discounts-coronavirus/"
@@ -1870,7 +1870,7 @@ export const services = [
     "Discount": "3 months free",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "None.",
-    "Favicon": "front-page/front-page/images/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://app.invoicequick.com/auth/register",
     "More info URL": "https://invoicequick.com/help-free-users/"
@@ -2220,7 +2220,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "https://i1.wp.com/widebot.net/wp-content/uploads/2020/10/cropped-logo-1.png?fit=180%2C180&ssl=1",
+    "Favicon": "https://widebot.net/wp-content/uploads/2020/06/Asset-5.png",
     "How to apply (text)": "When you upgrade to pro add promo code \"BeSafe",
     "How to apply (URL or email)": "https://widebot.net",
     "More info URL": ""
@@ -2276,7 +2276,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "/img/favicons/favicon-64.ico",
+    "Favicon": "/img/favicons/apple-touch-icon.png",
     "How to apply (text)": "Signup online, use promo code ZACHRANNYKRUH",
     "How to apply (URL or email)": "https://app.freelo.cz/premium/checkout/choose-plan",
     "More info URL": "https://freelo.app/"
