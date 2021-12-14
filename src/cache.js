@@ -400,7 +400,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
-    "Favicon": "https://cdn.helpwise.io/assets/images/favicon.png",
+    "Favicon": "//cdn.helpwise.io/assets/images/favicon.png",
     "How to apply (text)": "Signup & upgrade. Ping support for 20% off for 12 months.",
     "How to apply (URL or email)": "https://helpwise.io",
     "More info URL": ""
@@ -1404,7 +1404,7 @@ export const services = [
     "Approved": "",
     "Category": "Lead generation",
     "URL": "https://customfit.ai",
-    "Description": "",
+    "Description": "Increase website conversions by engaging each micro segment of your audience by creating customized webpages with CustomFit's website editor.",
     "Discount": "15%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
@@ -1800,7 +1800,7 @@ export const services = [
     "Discount": "6 months free",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "https://assets.dorik.com/5ff70ef244afdb0011b835c3/images/Favicon_lh1cgpn6.svg",
     "How to apply (text)": "Sign up with code CORONA and email at himanshu@jobtrackable.com to get Standard plan (6 months) free",
     "How to apply (URL or email)": "https://www.jobtrackable.com/",
     "More info URL": "https://www.jobtrackable.com/plans-pricing"
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-32x32.png",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
@@ -2052,7 +2052,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io/?saasforcovid=discount",
     "More info URL": "https://www.kimp.io/"
@@ -2906,7 +2906,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io",
     "More info URL": ""
