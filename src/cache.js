@@ -50,7 +50,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free usage.",
     "Requirement": "It's appreciated to add a link back to divjoy.com (not required). Free for Covid-19 projects.",
-    "Favicon": "/static/images/favicon/favicon-16x16.png",
+    "Favicon": "/static/images/favicon/apple-touch-icon.png",
     "How to apply (text)": "Use chatbot on the page",
     "How to apply (URL or email)": "https://divjoy.com/",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is straightforward, ready-to-use project management software that integrates into your existing Microsoft 365 infrastructure.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -792,7 +792,7 @@ export const services = [
     "Discount": "Free for up to 10 users or build minutes (incase of Bitbucket Pipelines etc)",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://wac-cdn-2.atlassian.com/image/upload/f_auto,q_auto/assets/img/favicons/atlassian/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Just signup through the link",
     "How to apply (URL or email)": "https://www.atlassian.com/software/free",
     "More info URL": "https://www.atlassian.com/remote"
@@ -988,7 +988,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 response and recovery management",
-    "Favicon": "https://www.senseilabs.com/wp-content/themes/senseilabs/favicon-16x16.png",
+    "Favicon": "",
     "How to apply (text)": "Fill in the form and we'll get you setup",
     "How to apply (URL or email)": "https://hello.senseilabs.com/conductor-for-covid19",
     "More info URL": "https://www.senseilabs.com/conductor/conductor-for-covid-19/"
@@ -1100,7 +1100,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "",
-    "Favicon": "https://assets.website-files.com/5fd148f419b866c77225d463/60233349b46a67032154dbaa_Sleuth_logoOnly-256x256.png",
+    "Favicon": "",
     "How to apply (text)": "Signup for free and we'll extend for six months.",
     "How to apply (URL or email)": "https://app.sleuth.io/account/signup/",
     "More info URL": "https://www.sleuth.io/post/now-try-sleuth-free-for-six-months"
@@ -1632,7 +1632,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No need for payment information and free forever",
     "Requirement": "None",
-    "Favicon": "//assets.cdnpandadoc.com/app/packages/www-next/img/fav/icon-180-509eb5f708.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up on the website from this page",
     "How to apply (URL or email)": "https://signup.pandadoc.com/?plan=rec_plans_v4_free",
     "More info URL": "https://www.pandadoc.com/free-electronic-signature-software/"
@@ -1758,7 +1758,7 @@ export const services = [
     "Discount": "100% for the Standard plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Only Standard plan and for all companies fighting COVID-19",
-    "Favicon": "https://assets.website-files.com/5933fd4773e44b4d95d597e8/5c76a05d245b51182dc5c1e3_remme-favicon-purple.png",
+    "Favicon": "",
     "How to apply (text)": "Fill out Contact Us form",
     "How to apply (URL or email)": "https://remme.io/contact-us",
     "More info URL": "https://remme.io/keyhub"
@@ -2360,7 +2360,7 @@ export const services = [
     "Discount": "100% for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Governmental, educational or healthcare institution responding to COVID-19",
-    "Favicon": "/static/img/favicon/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "please mention #ngo-user in chat to receive a free 6-month Business plan.",
     "How to apply (URL or email)": "https://app.user.com/accounts/register/",
     "More info URL": "https://user.com/en/blog/covid-19-support-for-gov-agencies-ngos/"
