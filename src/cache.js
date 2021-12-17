@@ -50,7 +50,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free usage.",
     "Requirement": "It's appreciated to add a link back to divjoy.com (not required). Free for Covid-19 projects.",
-    "Favicon": "/static/images/favicon/apple-touch-icon.png",
+    "Favicon": "/static/images/favicon/favicon-16x16.png",
     "How to apply (text)": "Use chatbot on the page",
     "How to apply (URL or email)": "https://divjoy.com/",
     "More info URL": ""
@@ -382,7 +382,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://justcall.io",
-    "Description": "",
+    "Description": "JustCall is a cloud based phone system for remote sales and support teams. Integrates with HubSpot, Intercom, Pipedrive, Salesforce & other CRM/Helpdesk tools.",
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off on subscription plans for 6 months. 70% off 1st month.",
