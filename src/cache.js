@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is straightforward, ready-to-use project management software that integrates into your existing Microsoft 365 infrastructure.",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -400,7 +400,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
-    "Favicon": "",
+    "Favicon": "https://cdn.helpwise.io/assets/images/favicon.png",
     "How to apply (text)": "Signup & upgrade. Ping support for 20% off for 12 months.",
     "How to apply (URL or email)": "https://helpwise.io",
     "More info URL": ""
@@ -1296,7 +1296,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/static/karen/favicons/apple-icon-57x57.png",
     "How to apply (text)": "Use code SixMo50 for discount",
     "How to apply (URL or email)": "https://karenapp.io",
     "More info URL": "https://karenapp.io"
@@ -1534,7 +1534,7 @@ export const services = [
     "Discount": "Free 2 months of the Business plan",
     "Does it drive you into a paid account": "Yes, but you can cancel at any time and before any payment takes place",
     "Requirement": "Free for Businesses impacted by COVID-1",
-    "Favicon": "",
+    "Favicon": "https://about.noisli.com/assets/icons/icon-196x196.png",
     "How to apply (text)": "Fill in the request form",
     "How to apply (URL or email)": "https://support.noisli.com/coronavirus-response",
     "More info URL": "https://support.noisli.com/coronavirus-response"
@@ -1590,7 +1590,7 @@ export const services = [
     "Discount": "Free until 1 June",
     "Does it drive you into a paid account": "No, it cancels automatically at the end of the free period",
     "Requirement": "None",
-    "Favicon": "/assets/icons/apple-touch-icon.png",
+    "Favicon": "/assets/icons/favicon.ico",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://app.writinganalytics.co/signup/covid-19",
     "More info URL": "https://www.writinganalytics.co/posts/covid-19/"
@@ -2122,7 +2122,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "/images/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Email support@seowl.co",
     "How to apply (URL or email)": "support@seowl.co",
     "More info URL": "https://www.seowl.co"
