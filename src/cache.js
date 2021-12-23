@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "/spike-badge-180.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -2052,7 +2052,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io/?saasforcovid=discount",
     "More info URL": "https://www.kimp.io/"
@@ -2906,7 +2906,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, after 7 days free trial",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "//q5g9j9b9.stackpathcdn.com/wp-content/themes/kimpan/assets/images/favicon.png",
     "How to apply (text)": "Just sign up, discount applied already.",
     "How to apply (URL or email)": "https://kimp.io",
     "More info URL": ""
