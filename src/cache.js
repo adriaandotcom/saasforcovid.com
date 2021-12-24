@@ -438,7 +438,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://www.retrospect.team",
-    "Description": "Easily conduct end of sprint and project retrospectives with everyone on your team no matter their location.",
+    "Description": "",
     "Discount": "Lifetime for $48, rather than $4/mo. ongoing.",
     "Does it drive you into a paid account": "No, but you have to pay a one time fee.",
     "Requirement": "",
@@ -568,7 +568,7 @@ export const services = [
     "Discount": "Free 5 hourly monitors, 30% discount above that",
     "Does it drive you into a paid account": "No, no need for payment information and 3 months free usage.",
     "Requirement": "Free for Covid-19 projects or if you've been laid off.\nDiscount open to everyone.",
-    "Favicon": "https://uploads-ssl.webflow.com/6177ddefd3a3b05ced964a5f/617eca815d5bdc19a383c4fb_android-chrome-256x256.png",
+    "Favicon": "",
     "How to apply (text)": "Email support@monitoro.xyz",
     "How to apply (URL or email)": "support@monitoro.xyz",
     "More info URL": ""
@@ -988,7 +988,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 response and recovery management",
-    "Favicon": "",
+    "Favicon": "https://www.senseilabs.com/wp-content/themes/senseilabs/favicon-16x16.png",
     "How to apply (text)": "Fill in the form and we'll get you setup",
     "How to apply (URL or email)": "https://hello.senseilabs.com/conductor-for-covid19",
     "More info URL": "https://www.senseilabs.com/conductor/conductor-for-covid-19/"
@@ -1278,7 +1278,7 @@ export const services = [
     "Approved": "",
     "Category": "Remote Work",
     "URL": "https://pukkateam.com",
-    "Description": "PukkaTeam is an always-on, online workplace for your remote team to work together throughout the day, improve communication, team awareness and feel more connected, no matter where they are. Find Out More!",
+    "Description": "",
     "Discount": "60 day trial",
     "Does it drive you into a paid account": "Yes, after 60 days",
     "Requirement": "50% discount on all packages",
@@ -1674,7 +1674,7 @@ export const services = [
     "Discount": "Buy 3 months, Get 3 months for Free",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "https://bmaas-web-platform-assets.s3.amazonaws.com/public/assets/favicons/favicon-32.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up and use code COVID19",
     "How to apply (URL or email)": "https://amaas.adext.ai/register",
     "More info URL": "WWW.ADEXT.AI"
@@ -2276,7 +2276,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "/img/favicons/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup online, use promo code ZACHRANNYKRUH",
     "How to apply (URL or email)": "https://app.freelo.cz/premium/checkout/choose-plan",
     "More info URL": "https://freelo.app/"
