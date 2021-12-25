@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "/assets/icon128-974563fcee3f940b0915225ec2da389871173ef4a7076a0b33c8c7f1feafe7de.png",
+    "Favicon": "",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -1660,7 +1660,7 @@ export const services = [
     "Discount": "Free for 1st month",
     "Does it drive you into a paid account": "Yes, but you can cancel the subscription",
     "Requirement": "None",
-    "Favicon": "i/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon code FREEMONTH during checkout.",
     "How to apply (URL or email)": "https://designmodo.com/freemonth/",
     "More info URL": "https://designmodo.com/freemonth/"
@@ -1870,7 +1870,7 @@ export const services = [
     "Discount": "3 months free",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "None.",
-    "Favicon": "front-page/front-page/images/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://app.invoicequick.com/auth/register",
     "More info URL": "https://invoicequick.com/help-free-users/"
@@ -2374,7 +2374,7 @@ export const services = [
     "Discount": "100% for 3 months",
     "Does it drive you into a paid account": "Maybe, after 3 months.",
     "Requirement": "None.",
-    "Favicon": "/android-icon-192x192.png",
+    "Favicon": "/apple-icon-57x57.png",
     "How to apply (text)": "Just send us a message.",
     "How to apply (URL or email)": "https://www.callto.shop",
     "More info URL": ""
