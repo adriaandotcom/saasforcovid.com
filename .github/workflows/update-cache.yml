@@ -2,7 +2,7 @@ name: Update Cache
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "0 * * * *" # Every hour
 
 jobs:
   build:
