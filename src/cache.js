@@ -512,7 +512,7 @@ export const services = [
     "Discount": "3 months for €3",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription any time.",
     "Requirement": "",
-    "Favicon": "/favicon-32x32.png",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "Signup, become a pro, use coupon code covid-19",
     "How to apply (URL or email)": "https://saferequest.net/en/pricing",
     "More info URL": ""
@@ -540,7 +540,7 @@ export const services = [
     "Discount": "12 months hosting",
     "Does it drive you into a paid account": "Maybe, after the 12 months.",
     "Requirement": "",
-    "Favicon": "https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5d5595354de4fbdd8c554dba_default_webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Contact support with details of project for discount code.",
     "How to apply (URL or email)": "https://university.webflow.com/support#contact-form",
     "More info URL": ""
@@ -1800,7 +1800,7 @@ export const services = [
     "Discount": "6 months free",
     "Does it drive you into a paid account": "Maybe, after 6 months",
     "Requirement": "First time users",
-    "Favicon": "https://assets.dorik.com/5ff70ef244afdb0011b835c3/images/Favicon_lh1cgpn6.svg",
+    "Favicon": "",
     "How to apply (text)": "Sign up with code CORONA and email at himanshu@jobtrackable.com to get Standard plan (6 months) free",
     "How to apply (URL or email)": "https://www.jobtrackable.com/",
     "More info URL": "https://www.jobtrackable.com/plans-pricing"
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-32x32.png",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
@@ -2094,7 +2094,7 @@ export const services = [
     "Discount": "45 days FREE for existing paid customers",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "You have to be an existing paid user of Automate.io. If you downgrade to the free plan, you can avail the 45-day FREE offer.",
-    "Favicon": "",
+    "Favicon": "/assets/img/favicon.png",
     "How to apply (text)": "In the 'Downgrade to Free Plan' page in your account, select the reason for cancellation as Coronavirus/Covid-19 and click 'Avail 45-day Free Offer'",
     "How to apply (URL or email)": "help@automate.io",
     "More info URL": ""
@@ -2262,7 +2262,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 10 employees",
     "Requirement": "None",
-    "Favicon": "./apple-touch-icon.png",
+    "Favicon": "./favicon-32x32.png",
     "How to apply (text)": "Signup online",
     "How to apply (URL or email)": "https://bundy.io",
     "More info URL": "https://bundy.io"
