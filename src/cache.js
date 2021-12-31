@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is straightforward, ready-to-use project management software that integrates into your existing Microsoft 365 infrastructure.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -806,7 +806,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
-    "Favicon": "/sitestatic/brands/textit/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Sign up for free, open a ticket to get free credits.",
     "How to apply (URL or email)": "https://textit.in/",
     "More info URL": "https://blog.textit.in/free-textit-hosting-for-coronavirus-projects"
@@ -1156,7 +1156,7 @@ export const services = [
     "Discount": "Free 3 months premium",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Automatic on Sign Up",
     "How to apply (URL or email)": "https://app.startday.dk/createaccount",
     "More info URL": "https://startday.app"
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "https://ucarecdn.com/f516afb8-67b3-4922-915a-0598470b2cec/",
+    "Favicon": "",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
@@ -2318,7 +2318,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after July",
     "Requirement": "Covid-19 related projects (website, apps, iniatives looking for sponsors, online events to support artists...)",
-    "Favicon": "https://uploads-ssl.webflow.com/img/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Sign Up and contact us using the chat.",
     "How to apply (URL or email)": "contact@sponseasy.com",
     "More info URL": "https://sponseasy.com/#covidhelp"
@@ -2332,7 +2332,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free education plan for all k-12 and higher ed students and educators, 30% off team plan for nonprofits and 100% off for nonprofits working on COVID-19 initiatives.",
-    "Favicon": "https://static-website.miro.com/static/favicons/apple-touch-icon.png?version=develop.522.production",
+    "Favicon": "https://static-website.miro.com/static/favicons/apple-touch-icon.png?version=develop.525.production",
     "How to apply (text)": "Free forever: sign up. Education and NPO plans: apply for eligibility.",
     "How to apply (URL or email)": "https://miro.com/",
     "More info URL": ""
