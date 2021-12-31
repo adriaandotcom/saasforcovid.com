@@ -130,11 +130,11 @@ export const services = [
     "Approved": "Yes",
     "Category": "Incident Management",
     "URL": "https://spike.sh",
-    "Description": "",
+    "Description": "Spike is a simple incident management platform that alerts via slack, phone and email and automatic escalations to help teams fix infrastructure problems.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "",
+    "Favicon": "/spike-badge-180.png",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is straightforward, ready-to-use project management software that integrates into your existing Microsoft 365 infrastructure.",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -526,7 +526,7 @@ export const services = [
     "Discount": "50% for all packages",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "New customers",
-    "Favicon": "",
+    "Favicon": "https://cdn-bbocb.nitrocdn.com/SjpELhQGauRUbLwvosedImbrLZxZavKx/assets/static/optimized/rev-d5ebdb0/wp-content/uploads/2020/04/cropped-Favicon-transparent-180x180.png",
     "How to apply (text)": "Email jeffy@netnut.io",
     "How to apply (URL or email)": "https://l.netnut.io/saasforcovid",
     "More info URL": "https://netnut.io/"
@@ -806,7 +806,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
-    "Favicon": "",
+    "Favicon": "/sitestatic/brands/textit/favicon.ico",
     "How to apply (text)": "Sign up for free, open a ticket to get free credits.",
     "How to apply (URL or email)": "https://textit.in/",
     "More info URL": "https://blog.textit.in/free-textit-hosting-for-coronavirus-projects"
@@ -1156,7 +1156,7 @@ export const services = [
     "Discount": "Free 3 months premium",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Automatic on Sign Up",
     "How to apply (URL or email)": "https://app.startday.dk/createaccount",
     "More info URL": "https://startday.app"
@@ -1758,7 +1758,7 @@ export const services = [
     "Discount": "100% for the Standard plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Only Standard plan and for all companies fighting COVID-19",
-    "Favicon": "",
+    "Favicon": "https://assets.website-files.com/5933fd4773e44b4d95d597e8/5c76a05d245b51182dc5c1e3_remme-favicon-purple.png",
     "How to apply (text)": "Fill out Contact Us form",
     "How to apply (URL or email)": "https://remme.io/contact-us",
     "More info URL": "https://remme.io/keyhub"
@@ -2094,7 +2094,7 @@ export const services = [
     "Discount": "45 days FREE for existing paid customers",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "You have to be an existing paid user of Automate.io. If you downgrade to the free plan, you can avail the 45-day FREE offer.",
-    "Favicon": "/assets/img/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "In the 'Downgrade to Free Plan' page in your account, select the reason for cancellation as Coronavirus/Covid-19 and click 'Avail 45-day Free Offer'",
     "How to apply (URL or email)": "help@automate.io",
     "More info URL": ""
