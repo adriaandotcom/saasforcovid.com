@@ -50,7 +50,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free usage.",
     "Requirement": "It's appreciated to add a link back to divjoy.com (not required). Free for Covid-19 projects.",
-    "Favicon": "",
+    "Favicon": "/static/images/favicon/favicon-16x16.png",
     "How to apply (text)": "Use chatbot on the page",
     "How to apply (URL or email)": "https://divjoy.com/",
     "More info URL": ""
@@ -78,7 +78,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, but this free plan has no custom domain.",
     "Requirement": "Install add-on",
-    "Favicon": "",
+    "Favicon": "../img/faviconnew.png",
     "How to apply (text)": "Use the button below",
     "How to apply (URL or email)": "https://sheet2site.com/coronavirus",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is straightforward, ready-to-use project management software that integrates into your existing Microsoft 365 infrastructure.",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -508,7 +508,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Productivity Tools",
     "URL": "https://saferequest.net",
-    "Description": "",
+    "Description": "Safely receive files only you can open.",
     "Discount": "3 months for €3",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription any time.",
     "Requirement": "",
@@ -764,7 +764,7 @@ export const services = [
     "Discount": "Free during lockdown",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://assets-marketing-site.calendly.com/favicon-32x32.png?v=562a6280871383fd65846bc6297cf964",
     "How to apply (text)": "Just create a free account and you have immediate access.",
     "How to apply (URL or email)": "https://calendly.com/",
     "More info URL": "https://blog.calendly.com/meeting-integration-update/"
@@ -844,7 +844,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://docspring.com",
-    "Description": "",
+    "Description": "Build an API integration in minutes and fill out PDF forms with your data. Set up field positions and data types using our visual PDF template editor. Simply post JSON data to our API, then download a filled-out PDF in seconds.",
     "Discount": "Free for up to 10,000 PDFs / mo, then an 85% discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 related project (not-for-profit)",
@@ -862,7 +862,7 @@ export const services = [
     "Discount": "Free for 3 months (personal), unlimited free for nonprofits",
     "Does it drive you into a paid account": "Yes, after 3 months",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://d1eub78dsdxite.cloudfront.net/assets/apple-touch-icon-17060db823e010bef202c84f7efeff7bbe599d26048fc4587dbc034dce0153b5.png",
     "How to apply (text)": "Signup and email support@tefter.io or use the covid-19 code (for personal accounts only)",
     "How to apply (URL or email)": "https://tefter.io/users/sign_up?promocode=covid-19",
     "More info URL": ""
@@ -876,7 +876,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project",
-    "Favicon": "",
+    "Favicon": "/favicon-196x196.png",
     "How to apply (text)": "Email info@vectorspace.ai or visit https://vectorspace.ai",
     "How to apply (URL or email)": "info@vectorspace.ai",
     "More info URL": "https://www.prnewswire.com/news-releases/covid-19-drug-repurposing-datasets-now-available-in-collaboration-with-vectorspace-ai-amazon--microsoft-301030507.html?tc=eml_cleartime"
@@ -1268,7 +1268,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Business/brand has an email newsletter",
-    "Favicon": "",
+    "Favicon": "https://letterwell.co/wp-content/uploads/2021/03/cropped-7F91324F-2C7C-45C5-9FF4-1FEAE78967E8-1-180x180.png",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://letterwell.co",
     "More info URL": "https://letterwell.co/about"
@@ -1940,7 +1940,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "All students, teachers, hospital and government workers, worldwide, get unlimited Krisp for free.",
-    "Favicon": "",
+    "Favicon": "https://krisp.ai/wp-content/uploads/2020/02/cropped-KLogo-1-180x180.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://krisp.ai/",
     "More info URL": "https://krisp.ai/blog/covid19-response/"
@@ -2360,7 +2360,7 @@ export const services = [
     "Discount": "100% for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Governmental, educational or healthcare institution responding to COVID-19",
-    "Favicon": "",
+    "Favicon": "/static/img/favicon/apple-touch-icon.png",
     "How to apply (text)": "please mention #ngo-user in chat to receive a free 6-month Business plan.",
     "How to apply (URL or email)": "https://app.user.com/accounts/register/",
     "More info URL": "https://user.com/en/blog/covid-19-support-for-gov-agencies-ngos/"
