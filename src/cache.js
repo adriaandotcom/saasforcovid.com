@@ -1716,7 +1716,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://p16-hera-va.ibyteimg.com/tos-useast2a-i-hn4qzgxq2n/c4411b3a79bc4fd581b06a310e10998a~tplv-hn4qzgxq2n-image:0:0.image",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://www.larksuite.com",
     "More info URL": "www.larksuite.com"
