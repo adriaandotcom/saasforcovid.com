@@ -284,7 +284,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Email",
     "URL": "https://burnermail.io",
-    "Description": "",
+    "Description": "One-click burner email addresses that you can use when signing up on websites to protect your identity and prevent your personal email address from being sold or spammed.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe, the discount is only applied to the first charge but it's possible to select 3 years. It will renew with normal pricing.",
     "Requirement": "",
@@ -806,7 +806,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
-    "Favicon": "",
+    "Favicon": "/sitestatic/brands/textit/favicon.ico",
     "How to apply (text)": "Sign up for free, open a ticket to get free credits.",
     "How to apply (URL or email)": "https://textit.in/",
     "More info URL": "https://blog.textit.in/free-textit-hosting-for-coronavirus-projects"
@@ -1898,7 +1898,7 @@ export const services = [
     "Discount": "$1/mo per location",
     "Does it drive you into a paid account": "Yes, but only $1/month",
     "Requirement": "none",
-    "Favicon": "",
+    "Favicon": "/favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com"
@@ -2038,7 +2038,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, but after 6 months you'll move to a lower volume forever free plan",
     "Requirement": "None",
-    "Favicon": "/images/favicons/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Reply to the welcome email + mention COVID-19",
     "How to apply (URL or email)": "https://continual.ly/",
     "More info URL": "https://continual.ly/"
@@ -2304,7 +2304,7 @@ export const services = [
     "Discount": "60%",
     "Does it drive you into a paid account": "Maybe, after September",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "",
+    "Favicon": "https://assets-global.website-files.com/5ffa0a049299970b9577fbcf/605a07992aa352264879012b_logomark-256x256-webclip.png",
     "How to apply (text)": "Just sign up or open chat on pricing page.",
     "How to apply (URL or email)": "https://ideanote.it",
     "More info URL": "https://ideanote.io"
