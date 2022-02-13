@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "",
+    "Favicon": "/assets/icon128-974563fcee3f940b0915225ec2da389871173ef4a7076a0b33c8c7f1feafe7de.png",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://clinq.com/wp-content/uploads/2021/08/favicon-300x300.png",
+    "Favicon": "https://clinq.com/wp-content/uploads/2021/08/favicon-150x150.png",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
@@ -830,7 +830,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Website Tools",
     "URL": "https://algolia.com",
-    "Description": "Create AI-powered search & discovery across websites & apps.",
+    "Description": "",
     "Discount": "Free Pro Plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
