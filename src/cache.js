@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is straightforward, ready-to-use project management software that integrates into your existing Microsoft 365 infrastructure.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -1138,7 +1138,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Analytics",
     "URL": "https://www.awarehq.com",
-    "Description": "Aware is a Gartner-recognized SaaS platform used by major enterprises across the globe. We partner closely with Slack, Microsoft Teams/Yammer, Workplace from Facebook and others to meet governance, security and compliance requirements to enable messaging collaboration at scale.",
+    "Description": "Monitor your collaboration data with Aware. Discover modern data governance, risk and compliance controls that analyze human behavior–all from one platform.",
     "Discount": "Free through May",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "Dependent upon integration platforms. Slack Enteprise Grid, Workplace from Facebook, Yammer, and Microsoft Teams.",
@@ -1366,7 +1366,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
-    "Favicon": "/icons/icon-48x48.png?v=8c3840568078dc1cccd33d77c9515347",
+    "Favicon": "",
     "How to apply (text)": "Contact via chat",
     "How to apply (URL or email)": "https://upflow.io",
     "More info URL": ""
@@ -1464,7 +1464,7 @@ export const services = [
     "Discount": "500 free user licenses for everyone, Free SaaS for 3 months w/Shopify and BigCommerce",
     "Does it drive you into a paid account": "Yes, but we can base it on a quarterly ROI analysis",
     "Requirement": "",
-    "Favicon": "https://uploads-ssl.webflow.com/60d493fbf3aee2512e738a3f/610775303a25dd30da959efb_Luxlock%20Icon%20250x250.png",
+    "Favicon": "",
     "How to apply (text)": "Simply request a demo",
     "How to apply (URL or email)": "https://luxlock.com/demo/",
     "More info URL": "https://www.producthunt.com/posts/luxlock"
@@ -1870,7 +1870,7 @@ export const services = [
     "Discount": "3 months free",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "None.",
-    "Favicon": "front-page/front-page/images/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://app.invoicequick.com/auth/register",
     "More info URL": "https://invoicequick.com/help-free-users/"
@@ -2360,7 +2360,7 @@ export const services = [
     "Discount": "100% for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Governmental, educational or healthcare institution responding to COVID-19",
-    "Favicon": "/static/img/favicon/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "please mention #ngo-user in chat to receive a free 6-month Business plan.",
     "How to apply (URL or email)": "https://app.user.com/accounts/register/",
     "More info URL": "https://user.com/en/blog/covid-19-support-for-gov-agencies-ngos/"
@@ -2388,7 +2388,7 @@ export const services = [
     "Discount": "250$ credit",
     "Does it drive you into a paid account": "No",
     "Requirement": "None.",
-    "Favicon": "https://www.liveagent.com/app/themes/liveagent/assets/images/favicon/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Send us a message to: andy@liveagent.com with subject \"SaaS4Covid",
     "How to apply (URL or email)": "https://www.liveagent.com/trial/",
     "More info URL": "https://www.liveagent.com/customer-service-during-coronavirus/"
