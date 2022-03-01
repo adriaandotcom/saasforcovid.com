@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://clinq.com/wp-content/uploads/2021/08/favicon-300x300.png",
+    "Favicon": "https://clinq.com/wp-content/uploads/2021/08/favicon-150x150.png",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
@@ -1138,7 +1138,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Analytics",
     "URL": "https://www.awarehq.com",
-    "Description": "",
+    "Description": "Monitor your collaboration data with Aware. Discover modern data governance, risk and compliance controls that analyze human behavior–all from one platform.",
     "Discount": "Free through May",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "Dependent upon integration platforms. Slack Enteprise Grid, Workplace from Facebook, Yammer, and Microsoft Teams.",
