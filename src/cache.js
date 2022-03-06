@@ -1968,7 +1968,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related projec",
-    "Favicon": "https://payrequest.io/wp-content/plugins/pwa-for-wp/images/logo.png",
+    "Favicon": "https://media.payrequest.nl/wp-content/uploads/2021/07/18025502/favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://payrequest.io/donation-pages",
     "More info URL": "https://payrequest.io/donation-pages"
