@@ -186,7 +186,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Analytics",
     "URL": "https://simpleanalytics.com",
-    "Description": "Simple Analytics gives you the analytics you need without invading the privacy of your users, with a clean interface, and simple integration. GDPR, CCPA and, PECR compliant because we don't handle PII data and set no cookies.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "Public stats + link in footer of project",
@@ -1184,7 +1184,7 @@ export const services = [
     "Discount": "Unlimited team members, projects and tasks",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://uploads-ssl.webflow.com/5c77a918ef19681741be7bca/5fd73afee589faaf4b11d25c_rsz_ms-icon-310x310.png",
+    "Favicon": "",
     "How to apply (text)": "Automatic - Sign up via Email",
     "How to apply (URL or email)": "https://app.myhours.com/#/signup/trial/0",
     "More info URL": "https://myhours.com/support"
