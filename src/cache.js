@@ -18,7 +18,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://intercom.com",
-    "Description": "",
+    "Description": "Build lasting customer relationships with Intercom, the Engagement OS.",
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, you need to enter payment information and will be charged automatically after 2 years.",
     "Requirement": "Free of charge to any company or institution fighting COVID-19 and its impact on society, or working to help those affected.",
@@ -32,7 +32,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://airtable.com",
-    "Description": "",
+    "Description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free trial",
     "Requirement": "Airtable is making Airtable Pro available for free to any non-political humanitarian group that is working on COVID-19 relief efforts.",
@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "",
+    "Favicon": "/assets/icon128-974563fcee3f940b0915225ec2da389871173ef4a7076a0b33c8c7f1feafe7de.png",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -456,7 +456,7 @@ export const services = [
     "Discount": "Free 50 credits",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://cdn-a.leavemealone.app/favicons/apple-icon-57x57.png",
+    "Favicon": "https://cdn-a.leavemealone.app/favicons/android-icon-192x192.png",
     "How to apply (text)": "Use coupon: HELPING_HAND on profile billing page",
     "How to apply (URL or email)": "https://leavemealone.app/signup",
     "More info URL": ""
@@ -484,7 +484,7 @@ export const services = [
     "Discount": "600 free minutes per user",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://clinq.com/wp-content/uploads/2021/08/favicon-300x300.png",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://clinq.com/en/",
     "More info URL": ""
@@ -960,7 +960,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "it is a free template on free plans by all partners",
-    "Favicon": "/logo192.png",
+    "Favicon": "/favicon.ico",
     "How to apply (text)": "free JAMstack-based static website template and hosting in conjunction with our partners, Netlify and Gatsby",
     "How to apply (URL or email)": "https://stopthespread.dev",
     "More info URL": "https://www.contentful.com/blog/2020/03/20/stop-the-spread-covid-19/"
@@ -1156,7 +1156,7 @@ export const services = [
     "Discount": "Free 3 months premium",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Automatic on Sign Up",
     "How to apply (URL or email)": "https://app.startday.dk/createaccount",
     "More info URL": "https://startday.app"
@@ -1226,7 +1226,7 @@ export const services = [
     "Discount": "0-50%",
     "Does it drive you into a paid account": "Maybe, depends on your plan and project",
     "Requirement": "30% or 50% for the new users of Dashly:\nfree for teams and people that fight COVID-19 and its consequences",
-    "Favicon": "",
+    "Favicon": "/assets/static/favicon.f22e9f3.dffc2dbe8a48e5a10760f3c72eff18b4.png",
     "How to apply (text)": "Send a message in live chat, the agents will help",
     "How to apply (URL or email)": "https://www.dashly.io/blog/crisis-management-with-dashly/",
     "More info URL": "https://www.dashly.io/blog/crisis-management-with-dashly/"
@@ -1674,7 +1674,7 @@ export const services = [
     "Discount": "Buy 3 months, Get 3 months for Free",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://bmaas-web-platform-assets.s3.amazonaws.com/public/assets/favicons/favicon-32.png",
     "How to apply (text)": "Sign up and use code COVID19",
     "How to apply (URL or email)": "https://amaas.adext.ai/register",
     "More info URL": "WWW.ADEXT.AI"
@@ -2122,7 +2122,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "/images/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Email support@seowl.co",
     "How to apply (URL or email)": "support@seowl.co",
     "More info URL": "https://www.seowl.co"
@@ -2136,7 +2136,7 @@ export const services = [
     "Discount": "$6 off on Starter Pack Yearly",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "https://chartsfactory.com/shortcut-01.png",
     "How to apply (text)": "Use coupon code thanksyearly",
     "How to apply (URL or email)": "https://chartsfactory.com/#pricing",
     "More info URL": "https://chartsfactory.com"
@@ -2332,7 +2332,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free education plan for all k-12 and higher ed students and educators, 30% off team plan for nonprofits and 100% off for nonprofits working on COVID-19 initiatives.",
-    "Favicon": "",
+    "Favicon": "https://static-website.miro.com/static/favicons/apple-touch-icon.png?version=develop.689.production",
     "How to apply (text)": "Free forever: sign up. Education and NPO plans: apply for eligibility.",
     "How to apply (URL or email)": "https://miro.com/",
     "More info URL": ""
