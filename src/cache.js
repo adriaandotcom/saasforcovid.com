@@ -218,7 +218,7 @@ export const services = [
     "Discount": "Job posting for $3",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "Disable logo options to get full discount.",
-    "Favicon": "/assets/apple-icon-57x57.png?2",
+    "Favicon": "",
     "How to apply (text)": "Just post a job",
     "How to apply (URL or email)": "https://remoteok.io/hire-remotely",
     "More info URL": ""
@@ -508,7 +508,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Productivity Tools",
     "URL": "https://saferequest.net",
-    "Description": "",
+    "Description": "Safely receive files only you can open.",
     "Discount": "3 months for €3",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription any time.",
     "Requirement": "",
@@ -1674,7 +1674,7 @@ export const services = [
     "Discount": "Buy 3 months, Get 3 months for Free",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "https://bmaas-web-platform-assets.s3.amazonaws.com/public/assets/favicons/favicon-32.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up and use code COVID19",
     "How to apply (URL or email)": "https://amaas.adext.ai/register",
     "More info URL": "WWW.ADEXT.AI"
@@ -1954,7 +1954,7 @@ export const services = [
     "Discount": "Free meetings during COVID, Webinars 20% Discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/favicon-32x32.png",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://livestorm.co/blog/livestorm-and-covid-19/",
     "More info URL": "https://livestorm.co/"
