@@ -554,7 +554,7 @@ export const services = [
     "Discount": "3 months free",
     "Does it drive you into a paid account": "Maybe, after the 3 months.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "//www.ibm.com/favicon.ico",
     "How to apply (text)": "Use the form on their page.",
     "How to apply (URL or email)": "https://www.ibm.com/account/reg/us-en/signup?formid=urx-43430",
     "More info URL": "https://www.ibm.com/thought-leadership/covid19/?lnk=ushpv18l1"
@@ -1786,7 +1786,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "https://dstack.ai/assets/favicon-16x16.png",
+    "Favicon": "https://dstack.ai/assets/apple-touch-icon-57x57.png",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://dstack.ai",
     "More info URL": "https://dstack.ai"
@@ -2262,7 +2262,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 10 employees",
     "Requirement": "None",
-    "Favicon": "./apple-touch-icon.png",
+    "Favicon": "./favicon-32x32.png",
     "How to apply (text)": "Signup online",
     "How to apply (URL or email)": "https://bundy.io",
     "More info URL": "https://bundy.io"
