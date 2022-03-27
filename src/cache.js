@@ -106,7 +106,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you get an extended free trial (6 months), no credit card needed.",
     "Requirement": "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
-    "Favicon": "",
+    "Favicon": "https://mindwave.app/assets/favicons/apple-touch-icon.png",
     "How to apply (text)": "Email: support@mindwave.app",
     "How to apply (URL or email)": "support@mindwave.app",
     "More info URL": "https://mindwave.app/stories/covid-19-and-my-tiny-contribution-LVjv0V"
@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "",
+    "Favicon": "/assets/icon128-974563fcee3f940b0915225ec2da389871173ef4a7076a0b33c8c7f1feafe7de.png",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is straightforward, ready-to-use project management software that integrates into your existing Microsoft 365 infrastructure.",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -778,7 +778,7 @@ export const services = [
     "Discount": "Free for 3 months for SMBs",
     "Does it drive you into a paid account": "No, you are welcome to sign up if you end up loving it, though.",
     "Requirement": "Having less than 20 agents.",
-    "Favicon": "",
+    "Favicon": "/img/graphics/favicon20150812.png",
     "How to apply (text)": "Sign up for a demo, then tell the rep you want the 3 months free plan.",
     "How to apply (URL or email)": "https://www.queuemetrics-live.com/landing/covid19.jsp",
     "More info URL": ""
@@ -806,7 +806,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
-    "Favicon": "",
+    "Favicon": "/sitestatic/brands/textit/favicon.ico",
     "How to apply (text)": "Sign up for free, open a ticket to get free credits.",
     "How to apply (URL or email)": "https://textit.in/",
     "More info URL": "https://blog.textit.in/free-textit-hosting-for-coronavirus-projects"
@@ -1212,7 +1212,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related for educational institutions and teachers",
-    "Favicon": "https://www.mindmeister.com/mm_favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Submit a request via a form",
     "How to apply (URL or email)": "https://docs.google.com/forms/d/e/1FAIpQLSeDB4wwXfF50axq-f--NRQUhwgjUgweMPKlSRQI9ul9rJ8gVA/viewform",
     "More info URL": "https://www.meisterlabs.com/meister-for-educators/"
@@ -1576,7 +1576,7 @@ export const services = [
     "Discount": "Free until July",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/helios/static/favicon-0c1f3a43589bbaf89459a4491ba89dbe.ico",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://www.pleo.io",
     "More info URL": ""
@@ -2136,7 +2136,7 @@ export const services = [
     "Discount": "$6 off on Starter Pack Yearly",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "https://chartsfactory.com/shortcut-01.png",
+    "Favicon": "https://chartsfactory.com/shortcut-11.png",
     "How to apply (text)": "Use coupon code thanksyearly",
     "How to apply (URL or email)": "https://chartsfactory.com/#pricing",
     "More info URL": "https://chartsfactory.com"
@@ -2304,7 +2304,7 @@ export const services = [
     "Discount": "60%",
     "Does it drive you into a paid account": "Maybe, after September",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "",
+    "Favicon": "https://assets-global.website-files.com/5ffa0a049299970b9577fbcf/605a07992aa352264879012b_logomark-256x256-webclip.png",
     "How to apply (text)": "Just sign up or open chat on pricing page.",
     "How to apply (URL or email)": "https://ideanote.it",
     "More info URL": "https://ideanote.io"
