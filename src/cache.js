@@ -134,7 +134,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for COVID-19 projects",
-    "Favicon": "/spike-badge-180.png",
+    "Favicon": "/spike-badge-icon.png",
     "How to apply (text)": "Signup & email us covid19@spike.sh",
     "How to apply (URL or email)": "covid19@spike.sh",
     "More info URL": ""
@@ -470,7 +470,7 @@ export const services = [
     "Discount": "Free 1 dashboard",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "Free 1 dashboard for 12 months.",
-    "Favicon": "https://assets-global.website-files.com/5bc779c7cb6515eacd17ad0f/5be5b664be7e638f340f9531_grow-webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Fill out form on landing page",
     "How to apply (URL or email)": "https://www.grow.com/free-business-intelligence-spreadsheet-dashboard",
     "More info URL": ""
@@ -988,7 +988,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 response and recovery management",
-    "Favicon": "",
+    "Favicon": "https://www.senseilabs.com/wp-content/themes/senseilabs/favicon-16x16.png",
     "How to apply (text)": "Fill in the form and we'll get you setup",
     "How to apply (URL or email)": "https://hello.senseilabs.com/conductor-for-covid19",
     "More info URL": "https://www.senseilabs.com/conductor/conductor-for-covid-19/"
@@ -1156,7 +1156,7 @@ export const services = [
     "Discount": "Free 3 months premium",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "./favicon.ico",
     "How to apply (text)": "Automatic on Sign Up",
     "How to apply (URL or email)": "https://app.startday.dk/createaccount",
     "More info URL": "https://startday.app"
@@ -1758,7 +1758,7 @@ export const services = [
     "Discount": "100% for the Standard plan",
     "Does it drive you into a paid account": "No",
     "Requirement": "Only Standard plan and for all companies fighting COVID-19",
-    "Favicon": "",
+    "Favicon": "https://assets.website-files.com/5933fd4773e44b4d95d597e8/5c76a05d245b51182dc5c1e3_remme-favicon-purple.png",
     "How to apply (text)": "Fill out Contact Us form",
     "How to apply (URL or email)": "https://remme.io/contact-us",
     "More info URL": "https://remme.io/keyhub"
@@ -2332,7 +2332,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free education plan for all k-12 and higher ed students and educators, 30% off team plan for nonprofits and 100% off for nonprofits working on COVID-19 initiatives.",
-    "Favicon": "https://static-website.miro.com/static/favicons/apple-touch-icon.png?version=develop.697.production",
+    "Favicon": "https://static-website.miro.com/static/favicons/apple-touch-icon.png?version=develop.701.production",
     "How to apply (text)": "Free forever: sign up. Education and NPO plans: apply for eligibility.",
     "How to apply (URL or email)": "https://miro.com/",
     "More info URL": ""
