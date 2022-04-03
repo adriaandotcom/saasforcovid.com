@@ -890,7 +890,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://www.placer.ai/wp-content/uploads/2018/08/favicon-310x310-300x300.png",
+    "Favicon": "https://www.placer.ai/wp-content/uploads/2018/08/favicon-310x310-150x150.png",
     "How to apply (text)": "Corona correlated retail trend data is available publicly for free.",
     "How to apply (URL or email)": "https://www.placer.ai/covid-19/",
     "More info URL": "https://placer.ai"
@@ -1730,7 +1730,7 @@ export const services = [
     "Discount": "Free tier of recruitment softwre",
     "Does it drive you into a paid account": "Maybe, if there's further interest in additional features or tiers",
     "Requirement": "Must have an Applicant Tracking System",
-    "Favicon": "/favicon.png",
+    "Favicon": "/favicon.ico",
     "How to apply (text)": "Just sign up",
     "How to apply (URL or email)": "https://register.joonko.com",
     "More info URL": "https://joonko.co/how-it-works"
@@ -2010,7 +2010,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes, 14 day free trial",
     "Requirement": "None. Works on any website",
-    "Favicon": "",
+    "Favicon": "https://storage.newclick.io/STATIC/IMG/newclick_favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "http://newclick.io/",
     "More info URL": "http://newclick.io/"
@@ -2080,7 +2080,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for charities, heavy discounts for restaurants etc",
-    "Favicon": "",
+    "Favicon": "https://getcircuit.com/img/favicon.png",
     "How to apply (text)": "Sign up and then contact them via the chat inside the app",
     "How to apply (URL or email)": "https://getcircuit.com/blog/covid-19-free-for-charities-90-off-for-restaurants/",
     "More info URL": "https://getcircuit.com/team/"
