@@ -494,7 +494,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Incident Management",
     "URL": "https://pagertree.com",
-    "Description": "PagerTree on-call incident management gives devops teams flexible schedules, escalations, & reliable notifications via email, SMS, voice, & smartphone app.",
+    "Description": "",
     "Discount": "3 months $3",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription any time.",
     "Requirement": "",
@@ -2108,7 +2108,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/static/favicons/favicon-32x32.png",
+    "Favicon": "/static/favicons/apple-touch-icon.png",
     "How to apply (text)": "Just ping us on chat on the website.",
     "How to apply (URL or email)": "https://hellonext.co",
     "More info URL": "https://hellonext.co"
