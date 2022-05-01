@@ -1156,7 +1156,7 @@ export const services = [
     "Discount": "Free 3 months premium",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "./favicon.ico",
     "How to apply (text)": "Automatic on Sign Up",
     "How to apply (URL or email)": "https://app.startday.dk/createaccount",
     "More info URL": "https://startday.app"
@@ -2066,7 +2066,7 @@ export const services = [
     "Discount": "50% on Team Plan",
     "Does it drive you into a paid account": "Free version comprises of 5 diagrams",
     "Requirement": "None",
-    "Favicon": "/static/assets/common/icons/favicons-next/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Use the discount code at the time of purchase",
     "How to apply (URL or email)": "https://creately.com/remote-working-guide/",
     "More info URL": "https://creately.com/"
@@ -3294,7 +3294,7 @@ export const services = [
     "Approved": "",
     "Category": "Edtech",
     "URL": "https://kintell.com/",
-    "Description": "Teach, consult, mentor, learn, schedule meetings and change the world with Kintell – the simple and powerful way to share knowledge over video.",
+    "Description": "",
     "Discount": "$20 credit upon signup",
     "Does it drive you into a paid account": "Maybe, it's a credit",
     "Requirement": "New users only",
