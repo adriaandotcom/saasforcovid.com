@@ -358,7 +358,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 6 months free usage.",
     "Requirement": "To use for a covid-related site or tool, link back appreciated.",
-    "Favicon": "/icons/icon-48x48.png?v=5df5528946772487a6ab462ff2125f26",
+    "Favicon": "",
     "How to apply (text)": "Email: support@polypane.app",
     "How to apply (URL or email)": "support@polypane.app",
     "More info URL": "https://polypane.app"
@@ -732,11 +732,11 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://devscore.com",
-    "Description": "",
+    "Description": "DevScore is a Low Code Automation Service for software development teams to automate manual tasks, data synchronizations and reporting of Scrum, CI/CD and Operations.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./assets/img/brand/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup and email support@devscore.com",
     "How to apply (URL or email)": "support@devscore.com",
     "More info URL": ""
@@ -1898,7 +1898,7 @@ export const services = [
     "Discount": "$1/mo per location",
     "Does it drive you into a paid account": "Yes, but only $1/month",
     "Requirement": "none",
-    "Favicon": "/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://curbtocar.com",
     "More info URL": "https://curbtocar.com"
@@ -1954,7 +1954,7 @@ export const services = [
     "Discount": "Free meetings during COVID, Webinars 20% Discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://livestorm.co/blog/livestorm-and-covid-19/",
     "More info URL": "https://livestorm.co/"
