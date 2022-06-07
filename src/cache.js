@@ -970,11 +970,11 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Delivery management",
     "URL": "https://routific.com",
-    "Description": "Routific is a route planning software platform that helps delivery businesses plan their routes more efficiently, saving time and up to 40% on fuel.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
-    "Favicon": "",
+    "Favicon": "https://routific.com/wp-content/uploads/2020/03/favicon.ico",
     "How to apply (text)": "Just chat with us after you sign up for a trial",
     "How to apply (URL or email)": "https://routific.com",
     "More info URL": ""
@@ -1576,7 +1576,7 @@ export const services = [
     "Discount": "Free until July",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/helios/experiments/feature-apo-864-ab-experiment-homepage-hero-video/static/favicon-0c1f3a43589bbaf89459a4491ba89dbe.ico",
+    "Favicon": "/helios/static/favicon-0c1f3a43589bbaf89459a4491ba89dbe.ico",
     "How to apply (text)": "Fill out demo request form",
     "How to apply (URL or email)": "https://www.pleo.io",
     "More info URL": ""
