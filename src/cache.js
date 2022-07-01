@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -732,7 +732,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://devscore.com",
-    "Description": "DevScore is a Low Code Automation Service for software development teams to automate manual tasks, data synchronizations and reporting of Scrum, CI/CD and Operations.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -848,7 +848,7 @@ export const services = [
     "Discount": "Free for up to 10,000 PDFs / mo, then an 85% discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 related project (not-for-profit)",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up for free, then email support@docspring.com",
     "How to apply (URL or email)": "https://docspring.com",
     "More info URL": ""
@@ -1268,7 +1268,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Business/brand has an email newsletter",
-    "Favicon": "https://letterwell.co/wp-content/uploads/2021/03/cropped-7F91324F-2C7C-45C5-9FF4-1FEAE78967E8-1-180x180.png",
+    "Favicon": "",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://letterwell.co",
     "More info URL": "https://letterwell.co/about"
@@ -1856,7 +1856,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Only after you hit free account limits.",
     "Requirement": "None.",
-    "Favicon": "https://uploads-ssl.webflow.com/5eea6758cb789401d10bb367/5f1ef4af49feca734c3f01e2_5e402d845b31cb858c4a0b77_icon-square-256.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://www.fluxo.ai",
     "More info URL": "https://www.fluxo.ai/pricing"
@@ -1968,7 +1968,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related projec",
-    "Favicon": "",
+    "Favicon": "https://media.payrequest.nl/wp-content/uploads/2021/07/18025502/favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://payrequest.io/donation-pages",
     "More info URL": "https://payrequest.io/donation-pages"
@@ -2108,7 +2108,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/favicon/apple-icon-57x57.png",
     "How to apply (text)": "Just ping us on chat on the website.",
     "How to apply (URL or email)": "https://hellonext.co",
     "More info URL": "https://hellonext.co"
