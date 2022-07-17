@@ -8,7 +8,7 @@ export const services = [
     "Discount": "$1,000",
     "Does it drive you into a paid account": "Maybe, but you can get pretty far with $1000.",
     "Requirement": "Expires one year after it is issued",
-    "Favicon": "",
+    "Favicon": "/_next/static/media/apple-touch-icon.d7edaa01.png",
     "How to apply (text)": "Fill in their form on a special page",
     "How to apply (URL or email)": "https://www.digitalocean.com/community/pages/covid-19",
     "More info URL": ""
@@ -78,7 +78,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, but this free plan has no custom domain.",
     "Requirement": "Install add-on",
-    "Favicon": "../img/faviconnew.png",
+    "Favicon": "",
     "How to apply (text)": "Use the button below",
     "How to apply (URL or email)": "https://sheet2site.com/coronavirus",
     "More info URL": ""
@@ -106,7 +106,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you get an extended free trial (6 months), no credit card needed.",
     "Requirement": "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
-    "Favicon": "https://mindwave.app/assets/favicons/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Email: support@mindwave.app",
     "How to apply (URL or email)": "support@mindwave.app",
     "More info URL": "https://mindwave.app/stories/covid-19-and-my-tiny-contribution-LVjv0V"
@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "",
+    "Favicon": "/assets/icon128-974563fcee3f940b0915225ec2da389871173ef4a7076a0b33c8c7f1feafe7de.png",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -974,7 +974,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
-    "Favicon": "",
+    "Favicon": "https://routific.com/wp-content/uploads/2020/03/favicon.ico",
     "How to apply (text)": "Just chat with us after you sign up for a trial",
     "How to apply (URL or email)": "https://routific.com",
     "More info URL": ""
@@ -1040,7 +1040,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Low-Code/No-Code",
     "URL": "http://www.workato.com",
-    "Description": "Workato, a leader in Gartner MQ, is more than an iPaaS. It's an Intelligent Automation platform that can be used by both Business and IT. It supports thousands of enterprise and workflow usecases so you can automate everything.",
+    "Description": "",
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Covid-19 related, Some partners have offered to help with free/discounted services",
@@ -1380,7 +1380,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=fc17b99d75c8dfe889cf0f78c646d84b",
     "How to apply (text)": "There is already 50% discount on yearly subscription https://nocodeapi.com/pricing",
     "How to apply (URL or email)": "https://nocodeapi.com/pricing",
     "More info URL": "https://nocodeapi.com/what-is-nocodeapi"
@@ -1464,7 +1464,7 @@ export const services = [
     "Discount": "500 free user licenses for everyone, Free SaaS for 3 months w/Shopify and BigCommerce",
     "Does it drive you into a paid account": "Yes, but we can base it on a quarterly ROI analysis",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://uploads-ssl.webflow.com/60d493fbf3aee2512e738a3f/610775303a25dd30da959efb_Luxlock%20Icon%20250x250.png",
     "How to apply (text)": "Simply request a demo",
     "How to apply (URL or email)": "https://luxlock.com/demo/",
     "More info URL": "https://www.producthunt.com/posts/luxlock"
@@ -1814,7 +1814,7 @@ export const services = [
     "Discount": "3 months free",
     "Does it drive you into a paid account": "Maybe, after 3 months",
     "Requirement": "First time users",
-    "Favicon": "/logo192.png",
+    "Favicon": "",
     "How to apply (text)": "Drop an email to team@bigradar.io with subject: Corona",
     "How to apply (URL or email)": "https://www.bigradar.io",
     "More info URL": ""
@@ -1870,7 +1870,7 @@ export const services = [
     "Discount": "3 months free",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "None.",
-    "Favicon": "front-page/images/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://app.invoicequick.com/auth/register",
     "More info URL": "https://invoicequick.com/help-free-users/"
@@ -1968,7 +1968,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related projec",
-    "Favicon": "",
+    "Favicon": "https://media.payrequest.nl/wp-content/uploads/2021/07/18025502/favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://payrequest.io/donation-pages",
     "More info URL": "https://payrequest.io/donation-pages"
@@ -2080,7 +2080,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for charities, heavy discounts for restaurants etc",
-    "Favicon": "",
+    "Favicon": "https://getcircuit.com/img/favicon.png",
     "How to apply (text)": "Sign up and then contact them via the chat inside the app",
     "How to apply (URL or email)": "https://getcircuit.com/blog/covid-19-free-for-charities-90-off-for-restaurants/",
     "More info URL": "https://getcircuit.com/team/"
@@ -2108,7 +2108,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/favicon/apple-icon-57x57.png",
     "How to apply (text)": "Just ping us on chat on the website.",
     "How to apply (URL or email)": "https://hellonext.co",
     "More info URL": "https://hellonext.co"
@@ -3294,7 +3294,7 @@ export const services = [
     "Approved": "",
     "Category": "Edtech",
     "URL": "https://kintell.com/",
-    "Description": "",
+    "Description": "Teach, consult, mentor, learn, schedule meetings and change the world with Kintell – the simple and powerful way to share knowledge over video.",
     "Discount": "$20 credit upon signup",
     "Does it drive you into a paid account": "Maybe, it's a credit",
     "Requirement": "New users only",
