@@ -8,7 +8,7 @@ export const services = [
     "Discount": "$1,000",
     "Does it drive you into a paid account": "Maybe, but you can get pretty far with $1000.",
     "Requirement": "Expires one year after it is issued",
-    "Favicon": "/_next/static/media/apple-touch-icon.d7edaa01.png",
+    "Favicon": "",
     "How to apply (text)": "Fill in their form on a special page",
     "How to apply (URL or email)": "https://www.digitalocean.com/community/pages/covid-19",
     "More info URL": ""
@@ -78,7 +78,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, but this free plan has no custom domain.",
     "Requirement": "Install add-on",
-    "Favicon": "../img/faviconnew.png",
+    "Favicon": "",
     "How to apply (text)": "Use the button below",
     "How to apply (URL or email)": "https://sheet2site.com/coronavirus",
     "More info URL": ""
@@ -270,7 +270,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Remote Work",
     "URL": "https://remoteleaf.com",
-    "Description": "",
+    "Description": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, linkedin, reddit, twitter, facebook groups and hacker news hiring.",
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
@@ -1254,7 +1254,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://kidpofy.com/assets/img/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://kidpofy.com",
     "More info URL": ""
@@ -2080,7 +2080,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for charities, heavy discounts for restaurants etc",
-    "Favicon": "",
+    "Favicon": "https://getcircuit.com/img/favicon.png",
     "How to apply (text)": "Sign up and then contact them via the chat inside the app",
     "How to apply (URL or email)": "https://getcircuit.com/blog/covid-19-free-for-charities-90-off-for-restaurants/",
     "More info URL": "https://getcircuit.com/team/"
