@@ -288,7 +288,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe, the discount is only applied to the first charge but it's possible to select 3 years. It will renew with normal pricing.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://burnermail.io/favicon-196x196.png",
     "How to apply (text)": "Using coupon code: STAYINGHOME",
     "How to apply (URL or email)": "https://burnermail.io",
     "More info URL": ""
@@ -494,7 +494,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Incident Management",
     "URL": "https://pagertree.com",
-    "Description": "PagerTree on-call incident management gives devops teams flexible schedules, escalations, & reliable notifications via email, SMS, voice, & smartphone app.",
+    "Description": "",
     "Discount": "3 months $3",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription any time.",
     "Requirement": "",
@@ -844,7 +844,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://docspring.com",
-    "Description": "",
+    "Description": "Build an API integration in minutes and fill out PDF forms with your data. Set up field positions and data types using our visual PDF template editor. Simply post JSON data to our API, then download a filled-out PDF in seconds.",
     "Discount": "Free for up to 10,000 PDFs / mo, then an 85% discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 related project (not-for-profit)",
@@ -1954,7 +1954,7 @@ export const services = [
     "Discount": "Free meetings during COVID, Webinars 20% Discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://livestorm.co/blog/livestorm-and-covid-19/",
     "More info URL": "https://livestorm.co/"
@@ -2108,7 +2108,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "/favicon/apple-icon-57x57.png",
     "How to apply (text)": "Just ping us on chat on the website.",
     "How to apply (URL or email)": "https://hellonext.co",
     "More info URL": "https://hellonext.co"
@@ -2122,7 +2122,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "/images/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Email support@seowl.co",
     "How to apply (URL or email)": "support@seowl.co",
     "More info URL": "https://www.seowl.co"
