@@ -186,7 +186,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Analytics",
     "URL": "https://simpleanalytics.com",
-    "Description": "Simple Analytics is the privacy-first Google Analytics alternative that is 100% GDPR compliant. Give us a try!",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "Public stats + link in footer of project",
@@ -470,7 +470,7 @@ export const services = [
     "Discount": "Free 1 dashboard",
     "Does it drive you into a paid account": "Maybe, with the upsells.",
     "Requirement": "Free 1 dashboard for 12 months.",
-    "Favicon": "",
+    "Favicon": "https://assets-global.website-files.com/5bc779c7cb6515eacd17ad0f/5be5b664be7e638f340f9531_grow-webclip.png",
     "How to apply (text)": "Fill out form on landing page",
     "How to apply (URL or email)": "https://www.grow.com/free-business-intelligence-spreadsheet-dashboard",
     "More info URL": ""
@@ -970,7 +970,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Delivery management",
     "URL": "https://routific.com",
-    "Description": "Routific is a route planning software platform that helps delivery businesses plan their routes more efficiently, saving time and up to 40% on fuel.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
@@ -1562,7 +1562,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "COVID-19 related, non-profit organizations",
-    "Favicon": "/apple-touch-icon.png?v=v2989",
+    "Favicon": "/apple-touch-icon.png?v=v2990",
     "How to apply (text)": "Create a free trial and message support from within your account",
     "How to apply (URL or email)": "https://statushero.com/signup",
     "More info URL": "https://statushero.com"
@@ -1632,7 +1632,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No need for payment information and free forever",
     "Requirement": "None",
-    "Favicon": "//assets.cdnpandadoc.com/app/packages/www-next/img/fav/icon-180-509eb5f708.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up on the website from this page",
     "How to apply (URL or email)": "https://signup.pandadoc.com/?plan=rec_plans_v4_free",
     "More info URL": "https://www.pandadoc.com/free-electronic-signature-software/"
@@ -1772,7 +1772,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "COVID-19 related projects only.",
-    "Favicon": "",
+    "Favicon": "/assets/images/favicon-32x32.png",
     "How to apply (text)": "Sign up and let me know",
     "How to apply (URL or email)": "https://dashboard.tryhexadecimal.com",
     "More info URL": "https://tryhexadecimal.com"
@@ -1968,7 +1968,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related projec",
-    "Favicon": "",
+    "Favicon": "https://media.payrequest.nl/wp-content/uploads/2021/07/18025502/favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://payrequest.io/donation-pages",
     "More info URL": "https://payrequest.io/donation-pages"
@@ -2080,7 +2080,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free for charities, heavy discounts for restaurants etc",
-    "Favicon": "",
+    "Favicon": "https://getcircuit.com/img/favicon.png",
     "How to apply (text)": "Sign up and then contact them via the chat inside the app",
     "How to apply (URL or email)": "https://getcircuit.com/blog/covid-19-free-for-charities-90-off-for-restaurants/",
     "More info URL": "https://getcircuit.com/team/"
