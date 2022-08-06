@@ -8,7 +8,7 @@ export const services = [
     "Discount": "$1,000",
     "Does it drive you into a paid account": "Maybe, but you can get pretty far with $1000.",
     "Requirement": "Expires one year after it is issued",
-    "Favicon": "/_next/static/media/apple-touch-icon.d7edaa01.png",
+    "Favicon": "",
     "How to apply (text)": "Fill in their form on a special page",
     "How to apply (URL or email)": "https://www.digitalocean.com/community/pages/covid-19",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is straightforward, ready-to-use project management software that integrates into your existing Microsoft 365 infrastructure.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -288,7 +288,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe, the discount is only applied to the first charge but it's possible to select 3 years. It will renew with normal pricing.",
     "Requirement": "",
-    "Favicon": "https://burnermail.io/favicon-196x196.png",
+    "Favicon": "",
     "How to apply (text)": "Using coupon code: STAYINGHOME",
     "How to apply (URL or email)": "https://burnermail.io",
     "More info URL": ""
@@ -414,7 +414,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "Use coupon code: stayathome",
     "How to apply (URL or email)": "https://readermode.io/premium",
     "More info URL": ""
@@ -848,7 +848,7 @@ export const services = [
     "Discount": "Free for up to 10,000 PDFs / mo, then an 85% discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 related project (not-for-profit)",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up for free, then email support@docspring.com",
     "How to apply (URL or email)": "https://docspring.com",
     "More info URL": ""
@@ -1044,7 +1044,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Covid-19 related, Some partners have offered to help with free/discounted services",
-    "Favicon": "/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Signup for free or contact us",
     "How to apply (URL or email)": "http://www.workato.com",
     "More info URL": ""
@@ -1954,7 +1954,7 @@ export const services = [
     "Discount": "Free meetings during COVID, Webinars 20% Discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/apple-touch-icon.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://livestorm.co/blog/livestorm-and-covid-19/",
     "More info URL": "https://livestorm.co/"
@@ -2108,7 +2108,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "No",
     "Requirement": "None",
-    "Favicon": "/favicon/apple-icon-57x57.png",
+    "Favicon": "",
     "How to apply (text)": "Just ping us on chat on the website.",
     "How to apply (URL or email)": "https://hellonext.co",
     "More info URL": "https://hellonext.co"
