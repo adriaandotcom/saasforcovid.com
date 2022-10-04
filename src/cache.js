@@ -8,7 +8,7 @@ export const services = [
     "Discount": "$1,000",
     "Does it drive you into a paid account": "Maybe, but you can get pretty far with $1000.",
     "Requirement": "Expires one year after it is issued",
-    "Favicon": "",
+    "Favicon": "/_next/static/media/apple-touch-icon.d7edaa01.png",
     "How to apply (text)": "Fill in their form on a special page",
     "How to apply (URL or email)": "https://www.digitalocean.com/community/pages/covid-19",
     "More info URL": ""
@@ -18,7 +18,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://intercom.com",
-    "Description": "Build lasting customer relationships with Intercom, the Engagement OS.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, you need to enter payment information and will be charged automatically after 2 years.",
     "Requirement": "Free of charge to any company or institution fighting COVID-19 and its impact on society, or working to help those affected.",
@@ -32,7 +32,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://airtable.com",
-    "Description": "Airtable is a low-code platform for building collaborative apps. Customize your workflow, collaborate, and achieve ambitious outcomes. Get started for free.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "No, no need for payment information and 1 year free trial",
     "Requirement": "Airtable is making Airtable Pro available for free to any non-political humanitarian group that is working on COVID-19 relief efforts.",
@@ -400,7 +400,7 @@ export const services = [
     "Discount": "20%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "20% off for 12 months",
-    "Favicon": "https://cdn.helpwise.io/assets/images/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup & upgrade. Ping support for 20% off for 12 months.",
     "How to apply (URL or email)": "https://helpwise.io",
     "More info URL": ""
@@ -456,7 +456,7 @@ export const services = [
     "Discount": "Free 50 credits",
     "Does it drive you into a paid account": "Maybe, but you will not be automatically charged.",
     "Requirement": "",
-    "Favicon": "https://cdn-a.leavemealone.app/favicons/apple-icon-57x57.png",
+    "Favicon": "https://cdn-a.leavemealone.app/favicons/android-icon-192x192.png",
     "How to apply (text)": "Use coupon: HELPING_HAND on profile billing page",
     "How to apply (URL or email)": "https://leavemealone.app/signup",
     "More info URL": ""
@@ -512,7 +512,7 @@ export const services = [
     "Discount": "3 months for €3",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription any time.",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "Signup, become a pro, use coupon code covid-19",
     "How to apply (URL or email)": "https://saferequest.net/en/pricing",
     "More info URL": ""
@@ -680,7 +680,7 @@ export const services = [
     "Discount": "Free for two months",
     "Does it drive you into a paid account": "Maybe, after two months.",
     "Requirement": "SafetyAmp is making its platform available free for two months for teams needing COVID-19 auditing capabilities",
-    "Favicon": "",
+    "Favicon": "https://uploads-ssl.webflow.com/5ef3803d773621e809fa8be3/5f11fbceb58409168924702d_iphone.png",
     "How to apply (text)": "Email sales@safetyamp.com",
     "How to apply (URL or email)": "https://safetyamp.com/covid19/",
     "More info URL": ""
@@ -708,7 +708,7 @@ export const services = [
     "Discount": "Free GPUs",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://assets-global.website-files.com/5db99670374d1d829291af4f/5f0c831db773eb676c5048a1_Webclip-PaperspaceMixed.png",
     "How to apply (text)": "Signup and email support@paperspace.com",
     "How to apply (URL or email)": "https://www.paperspace.com",
     "More info URL": ""
@@ -1212,7 +1212,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related for educational institutions and teachers",
-    "Favicon": "https://www.mindmeister.com/mm_favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Submit a request via a form",
     "How to apply (URL or email)": "https://docs.google.com/forms/d/e/1FAIpQLSeDB4wwXfF50axq-f--NRQUhwgjUgweMPKlSRQI9ul9rJ8gVA/viewform",
     "More info URL": "https://www.meisterlabs.com/meister-for-educators/"
@@ -1296,7 +1296,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "/static/karen/favicons/apple-icon-57x57.png",
+    "Favicon": "",
     "How to apply (text)": "Use code SixMo50 for discount",
     "How to apply (URL or email)": "https://karenapp.io",
     "More info URL": "https://karenapp.io"
@@ -1632,7 +1632,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No need for payment information and free forever",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "//assets.cdnpandadoc.com/app/packages/www-next/img/fav/icon-180-509eb5f708.png",
     "How to apply (text)": "Sign up on the website from this page",
     "How to apply (URL or email)": "https://signup.pandadoc.com/?plan=rec_plans_v4_free",
     "More info URL": "https://www.pandadoc.com/free-electronic-signature-software/"
@@ -1660,7 +1660,7 @@ export const services = [
     "Discount": "Free for 1st month",
     "Does it drive you into a paid account": "Yes, but you can cancel the subscription",
     "Requirement": "None",
-    "Favicon": "i/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Use coupon code FREEMONTH during checkout.",
     "How to apply (URL or email)": "https://designmodo.com/freemonth/",
     "More info URL": "https://designmodo.com/freemonth/"
@@ -1968,7 +1968,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related projec",
-    "Favicon": "",
+    "Favicon": "https://media.payrequest.nl/wp-content/uploads/2021/07/18025502/favicon.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://payrequest.io/donation-pages",
     "More info URL": "https://payrequest.io/donation-pages"
