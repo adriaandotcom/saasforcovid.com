@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "/assets/icon128-974563fcee3f940b0915225ec2da389871173ef4a7076a0b33c8c7f1feafe7de.png",
+    "Favicon": "",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is straightforward, ready-to-use project management software that integrates into your existing Microsoft 365 infrastructure.",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -302,7 +302,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://www.darwinmail.app/mail/lib/manifest/apple-touch-icon.png",
     "How to apply (text)": "Sign up and then send us an email.",
     "How to apply (URL or email)": "https://www.darwinmail.app/mail",
     "More info URL": ""
@@ -638,7 +638,7 @@ export const services = [
     "Discount": "Free",
     "Does it drive you into a paid account": "No",
     "Requirement": "Less than 100 devices.",
-    "Favicon": "/favicon.ico?r=124",
+    "Favicon": "",
     "How to apply (text)": "No application needed",
     "How to apply (URL or email)": "https://my.zerotier.com",
     "More info URL": "www.zerotier.com"
@@ -680,7 +680,7 @@ export const services = [
     "Discount": "Free for two months",
     "Does it drive you into a paid account": "Maybe, after two months.",
     "Requirement": "SafetyAmp is making its platform available free for two months for teams needing COVID-19 auditing capabilities",
-    "Favicon": "https://uploads-ssl.webflow.com/5ef3803d773621e809fa8be3/5f11fbceb58409168924702d_iphone.png",
+    "Favicon": "",
     "How to apply (text)": "Email sales@safetyamp.com",
     "How to apply (URL or email)": "https://safetyamp.com/covid19/",
     "More info URL": ""
@@ -788,7 +788,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://www.atlassian.com",
-    "Description": "Atlassian's team collaboration software like Jira, Confluence and Trello help teams organize, discuss, and complete shared work.",
+    "Description": "",
     "Discount": "Free for up to 10 users or build minutes (incase of Bitbucket Pipelines etc)",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
@@ -918,7 +918,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Scaling Plan only. Non-profit working on Covid-19 related response",
-    "Favicon": "https://tettra.com/wp-content/uploads/2018/11/cropped-favicon-300x300.png",
+    "Favicon": "",
     "How to apply (text)": "Sign up and reach out over chat",
     "How to apply (URL or email)": "https://app.tettra.co/create-team",
     "More info URL": ""
@@ -988,7 +988,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 response and recovery management",
-    "Favicon": "",
+    "Favicon": "https://www.senseilabs.com/wp-content/themes/senseilabs/favicon-16x16.png",
     "How to apply (text)": "Fill in the form and we'll get you setup",
     "How to apply (URL or email)": "https://hello.senseilabs.com/conductor-for-covid19",
     "More info URL": "https://www.senseilabs.com/conductor/conductor-for-covid-19/"
@@ -1044,7 +1044,7 @@ export const services = [
     "Discount": "Free for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Covid-19 related, Some partners have offered to help with free/discounted services",
-    "Favicon": "/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Signup for free or contact us",
     "How to apply (URL or email)": "http://www.workato.com",
     "More info URL": ""
@@ -1114,7 +1114,7 @@ export const services = [
     "Discount": "15 free development hours for health-care related apps supporting the Coronavirus crisis. Waived blueprint fees for restaurant or small business who needs to transition to online orders.",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "Health-care related apps supporting the Coronavirus crisis. Small businesses transitioning to an online business model.",
-    "Favicon": "",
+    "Favicon": "https://assets-global.website-files.com/5b5cd6b75bb9b0dce50e212f/5b691b549b93d76d9f36edeb_256.gif",
     "How to apply (text)": "Submit 'Free Quote' form and mention COVID-19 discount.",
     "How to apply (URL or email)": "https://www.crowdbotics.com/managed-app-development",
     "More info URL": "https://blog.crowdbotics.com/rapid-app-development-discounts-resources-discounts-coronavirus/"
@@ -1226,7 +1226,7 @@ export const services = [
     "Discount": "0-50%",
     "Does it drive you into a paid account": "Maybe, depends on your plan and project",
     "Requirement": "30% or 50% for the new users of Dashly:\nfree for teams and people that fight COVID-19 and its consequences",
-    "Favicon": "",
+    "Favicon": "/icons/icon-48x48.png?v=a630d0ff5346677908ea14af614d6d40",
     "How to apply (text)": "Send a message in live chat, the agents will help",
     "How to apply (URL or email)": "https://www.dashly.io/blog/crisis-management-with-dashly/",
     "More info URL": "https://www.dashly.io/blog/crisis-management-with-dashly/"
@@ -1254,7 +1254,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://kidpofy.com/assets/img/favicon.png",
     "How to apply (text)": "Automatically on sign up",
     "How to apply (URL or email)": "https://kidpofy.com",
     "More info URL": ""
@@ -1534,7 +1534,7 @@ export const services = [
     "Discount": "Free 2 months of the Business plan",
     "Does it drive you into a paid account": "Yes, but you can cancel at any time and before any payment takes place",
     "Requirement": "Free for Businesses impacted by COVID-1",
-    "Favicon": "",
+    "Favicon": "https://about.noisli.com/assets/icons/icon-196x196.png",
     "How to apply (text)": "Fill in the request form",
     "How to apply (URL or email)": "https://support.noisli.com/coronavirus-response",
     "More info URL": "https://support.noisli.com/coronavirus-response"
@@ -1968,7 +1968,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "COVID-19 related projec",
-    "Favicon": "https://payrequest.io/wp-content/uploads/2022/10/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://payrequest.io/donation-pages",
     "More info URL": "https://payrequest.io/donation-pages"
@@ -2276,7 +2276,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "COVID-19 projects, businesses impacted by COVID-19",
-    "Favicon": "",
+    "Favicon": "/img/favicons/apple-touch-icon.png",
     "How to apply (text)": "Signup online, use promo code ZACHRANNYKRUH",
     "How to apply (URL or email)": "https://app.freelo.cz/premium/checkout/choose-plan",
     "More info URL": "https://freelo.app/"
