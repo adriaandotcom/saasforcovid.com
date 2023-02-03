@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "",
+    "Description": "Project Central is straightforward, ready-to-use project management software that integrates into your existing Microsoft 365 infrastructure.",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -1110,7 +1110,7 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Low-Code/No-Code",
     "URL": "https://www.crowdbotics.com",
-    "Description": "",
+    "Description": "A better way to build software. Launch 3X faster and cheaper with our data-driven app development platform.",
     "Discount": "15 free development hours for health-care related apps supporting the Coronavirus crisis. Waived blueprint fees for restaurant or small business who needs to transition to online orders.",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "Health-care related apps supporting the Coronavirus crisis. Small businesses transitioning to an online business model.",
@@ -1366,7 +1366,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "/favicon/android-chrome-192x192.png",
     "How to apply (text)": "Contact via chat",
     "How to apply (URL or email)": "https://upflow.io",
     "More info URL": ""
@@ -1632,7 +1632,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No need for payment information and free forever",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "//assets.cdnpandadoc.com/app/packages/www-next/img/fav/icon-192-db126555ce.png",
     "How to apply (text)": "Sign up on the website from this page",
     "How to apply (URL or email)": "https://signup.pandadoc.com/?plan=rec_plans_v4_free",
     "More info URL": "https://www.pandadoc.com/free-electronic-signature-software/"
@@ -1660,7 +1660,7 @@ export const services = [
     "Discount": "Free for 1st month",
     "Does it drive you into a paid account": "Yes, but you can cancel the subscription",
     "Requirement": "None",
-    "Favicon": "",
+    "Favicon": "i/favicon.png",
     "How to apply (text)": "Use coupon code FREEMONTH during checkout.",
     "How to apply (URL or email)": "https://designmodo.com/freemonth/",
     "More info URL": "https://designmodo.com/freemonth/"
@@ -1814,7 +1814,7 @@ export const services = [
     "Discount": "3 months free",
     "Does it drive you into a paid account": "Maybe, after 3 months",
     "Requirement": "First time users",
-    "Favicon": "",
+    "Favicon": "https://bigradar.io/content/uploads/2022/09/256.png",
     "How to apply (text)": "Drop an email to team@bigradar.io with subject: Corona",
     "How to apply (URL or email)": "https://www.bigradar.io",
     "More info URL": ""
