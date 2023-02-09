@@ -18,7 +18,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Website Tools",
     "URL": "https://intercom.com",
-    "Description": "Intercom helps over 25,000 global organizations deliver better customer support via personalized conversations and automated support.",
+    "Description": "",
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, you need to enter payment information and will be charged automatically after 2 years.",
     "Requirement": "Free of charge to any company or institution fighting COVID-19 and its impact on society, or working to help those affected.",
@@ -106,7 +106,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No, you get an extended free trial (6 months), no credit card needed.",
     "Requirement": "COVID-19 projects, or anyone who can't afford it (literally or mentally)",
-    "Favicon": "",
+    "Favicon": "https://mindwave.app/assets/favicons/apple-touch-icon.png",
     "How to apply (text)": "Email: support@mindwave.app",
     "How to apply (URL or email)": "support@mindwave.app",
     "More info URL": "https://mindwave.app/stories/covid-19-and-my-tiny-contribution-LVjv0V"
@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "",
+    "Favicon": "/assets/icon128-974563fcee3f940b0915225ec2da389871173ef4a7076a0b33c8c7f1feafe7de.png",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -494,7 +494,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Incident Management",
     "URL": "https://pagertree.com",
-    "Description": "PagerTree on-call incident management gives devops teams flexible schedules, escalations, & reliable notifications via email, SMS, voice, & smartphone app.",
+    "Description": "",
     "Discount": "3 months $3",
     "Does it drive you into a paid account": "Yes, but you can cancel your subscription any time.",
     "Requirement": "",
@@ -736,7 +736,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "./assets/img/brand/favicon.png",
+    "Favicon": "",
     "How to apply (text)": "Signup and email support@devscore.com",
     "How to apply (URL or email)": "support@devscore.com",
     "More info URL": ""
@@ -2122,7 +2122,7 @@ export const services = [
     "Discount": "50% off on all plans",
     "Does it drive you into a paid account": "Yes",
     "Requirement": "None",
-    "Favicon": "/images/favicon.ico",
+    "Favicon": "",
     "How to apply (text)": "Email support@seowl.co",
     "How to apply (URL or email)": "support@seowl.co",
     "More info URL": "https://www.seowl.co"
@@ -2360,7 +2360,7 @@ export const services = [
     "Discount": "100% for 6 months",
     "Does it drive you into a paid account": "Maybe, after 6 months.",
     "Requirement": "Governmental, educational or healthcare institution responding to COVID-19",
-    "Favicon": "",
+    "Favicon": "https://assets.website-files.com/637cb013128547f2276f560d/637ce13631ca163fb45fb482_apple.png",
     "How to apply (text)": "please mention #ngo-user in chat to receive a free 6-month Business plan.",
     "How to apply (URL or email)": "https://app.user.com/accounts/register/",
     "More info URL": "https://user.com/en/blog/covid-19-support-for-gov-agencies-ngos/"
