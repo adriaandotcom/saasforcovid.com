@@ -256,7 +256,7 @@ export const services = [
     "Approved": "Yes",
     "Category": "Project Management",
     "URL": "https://www.projectcentral.com",
-    "Description": "Project Central is straightforward, ready-to-use project management software that integrates into your existing Microsoft 365 infrastructure.",
+    "Description": "",
     "Discount": "50%",
     "Does it drive you into a paid account": "No, after 14-day free trial expires and it will then prompt for payment information.",
     "Requirement": "Users need a Microsoft Work account",
@@ -708,7 +708,7 @@ export const services = [
     "Discount": "Free GPUs",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "https://assets-global.website-files.com/5db99670374d1d829291af4f/5f0c831db773eb676c5048a1_Webclip-PaperspaceMixed.png",
+    "Favicon": "",
     "How to apply (text)": "Signup and email support@paperspace.com",
     "How to apply (URL or email)": "https://www.paperspace.com",
     "More info URL": ""
@@ -1352,7 +1352,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Free Pro plan for Covid-19 projects. Discounts available for affected businesses",
-    "Favicon": "/apple-icon-57x57.png",
+    "Favicon": "",
     "How to apply (text)": "Contact us via live chat",
     "How to apply (URL or email)": "https://placid.app/",
     "More info URL": ""
@@ -1380,7 +1380,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "Maybe",
     "Requirement": "",
-    "Favicon": "https://nocodeapi.com/wp-content/uploads/2022/06/icon-logo-150x150.png",
+    "Favicon": "https://nocodeapi.com/wp-content/uploads/2022/06/icon-logo-300x300.png",
     "How to apply (text)": "There is already 50% discount on yearly subscription https://nocodeapi.com/pricing",
     "How to apply (URL or email)": "https://nocodeapi.com/pricing",
     "More info URL": "https://nocodeapi.com/what-is-nocodeapi"
@@ -1870,7 +1870,7 @@ export const services = [
     "Discount": "3 months free",
     "Does it drive you into a paid account": "No, you don't have to enter any payment information.",
     "Requirement": "None.",
-    "Favicon": "",
+    "Favicon": "front-page/images/webclip.png",
     "How to apply (text)": "",
     "How to apply (URL or email)": "https://app.invoicequick.com/auth/register",
     "More info URL": "https://invoicequick.com/help-free-users/"
@@ -2318,7 +2318,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after July",
     "Requirement": "Covid-19 related projects (website, apps, iniatives looking for sponsors, online events to support artists...)",
-    "Favicon": "",
+    "Favicon": "https://uploads-ssl.webflow.com/img/webclip.png",
     "How to apply (text)": "Sign Up and contact us using the chat.",
     "How to apply (URL or email)": "contact@sponseasy.com",
     "More info URL": "https://sponseasy.com/#covidhelp"
