@@ -120,7 +120,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Your business has been substantially affected by COVID-19",
-    "Favicon": "",
+    "Favicon": "/assets/icon128-974563fcee3f940b0915225ec2da389871173ef4a7076a0b33c8c7f1feafe7de.png",
     "How to apply (text)": "Install Chrome extension @ https://trypigeon.co",
     "How to apply (URL or email)": "pat@trypigeon.co",
     "More info URL": ""
@@ -732,11 +732,11 @@ export const services = [
     "Approved": "Waiting...",
     "Category": "Developer Tools",
     "URL": "https://devscore.com",
-    "Description": "",
+    "Description": "DevScore is a Low Code Automation Service for software development teams to automate manual tasks, data synchronizations and reporting of Scrum, CI/CD and Operations.",
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "./assets/img/brand/favicon.png",
     "How to apply (text)": "Signup and email support@devscore.com",
     "How to apply (URL or email)": "support@devscore.com",
     "More info URL": ""
@@ -848,7 +848,7 @@ export const services = [
     "Discount": "Free for up to 10,000 PDFs / mo, then an 85% discount",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 related project (not-for-profit)",
-    "Favicon": "",
+    "Favicon": "/apple-touch-icon.png",
     "How to apply (text)": "Sign up for free, then email support@docspring.com",
     "How to apply (URL or email)": "https://docspring.com",
     "More info URL": ""
@@ -974,7 +974,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "No",
     "Requirement": "Covid19 Related project.",
-    "Favicon": "",
+    "Favicon": "https://routific.wpenginepowered.com/wp-content/uploads/2020/03/favicon.ico",
     "How to apply (text)": "Just chat with us after you sign up for a trial",
     "How to apply (URL or email)": "https://routific.com",
     "More info URL": ""
@@ -1534,7 +1534,7 @@ export const services = [
     "Discount": "Free 2 months of the Business plan",
     "Does it drive you into a paid account": "Yes, but you can cancel at any time and before any payment takes place",
     "Requirement": "Free for Businesses impacted by COVID-1",
-    "Favicon": "",
+    "Favicon": "https://about.noisli.com/assets/icons/icon-196x196.png",
     "How to apply (text)": "Fill in the request form",
     "How to apply (URL or email)": "https://support.noisli.com/coronavirus-response",
     "More info URL": "https://support.noisli.com/coronavirus-response"
@@ -1982,7 +1982,7 @@ export const services = [
     "Discount": "50%",
     "Does it drive you into a paid account": "",
     "Requirement": "",
-    "Favicon": "",
+    "Favicon": "https://investorhunt.co/favicon.ico",
     "How to apply (text)": "Use this code: Stay-Safe",
     "How to apply (URL or email)": "https://investorhunt.co/pricing",
     "More info URL": ""
@@ -2318,7 +2318,7 @@ export const services = [
     "Discount": "100%",
     "Does it drive you into a paid account": "Maybe, after July",
     "Requirement": "Covid-19 related projects (website, apps, iniatives looking for sponsors, online events to support artists...)",
-    "Favicon": "https://uploads-ssl.webflow.com/img/webclip.png",
+    "Favicon": "",
     "How to apply (text)": "Sign Up and contact us using the chat.",
     "How to apply (URL or email)": "contact@sponseasy.com",
     "More info URL": "https://sponseasy.com/#covidhelp"
@@ -3294,7 +3294,7 @@ export const services = [
     "Approved": "",
     "Category": "Edtech",
     "URL": "https://kintell.com/",
-    "Description": "",
+    "Description": "Teach, consult, mentor, learn, schedule meetings and change the world with Kintell – the simple and powerful way to share knowledge over video.",
     "Discount": "$20 credit upon signup",
     "Does it drive you into a paid account": "Maybe, it's a credit",
     "Requirement": "New users only",
