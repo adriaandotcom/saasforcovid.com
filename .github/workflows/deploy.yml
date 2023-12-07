@@ -5,12 +5,37 @@ on:
     branches:
       - master
 
+env:
+  node-version: "14.17"
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Check Out Repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+
+      - name: Create a cache folder for node and npm
+        id: npm-cache
+        uses: actions/cache@v2.1.6
+        env:
+          cache-name: cache-node-modules-${{ env.node-version }}-acceptance-4
+        with:
+          path: |
+            ~/.npm
+            **/node_modules
+          key: ${{ runner.os }}-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-${{ env.cache-name }}-
+
+      - name: Setup node
+        uses: actions/setup-node@v2
+        with:
+          node-version: ${{ env.node-version }}
+          cache: "npm"
 
       - name: Get current date
         id: date

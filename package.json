@@ -2,6 +2,9 @@
   "name": "covid-discount",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "14.17"
+  },
   "scripts": {
     "cache": "node ./lib/update-cache --experimental-modules",
     "start": "npm run serve",
