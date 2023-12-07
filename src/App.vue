@@ -1157,7 +1157,9 @@ export default {
   name: "App",
   data() {
     return {
-      json: services,
+      json: services.filter((service) => {
+        return service.URL !== "https://freelo.app/";
+      }),
       error: null,
       services: [],
       loading: true,
