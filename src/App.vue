@@ -147,7 +147,7 @@
             </li>
           </ul>
         </div>
-        
+
         <div
           class="mx-auto my-0 mb-8 py-4 px-6 bg-white shadow border rounded flex items-center justify-center w-full"
         >
@@ -155,644 +155,760 @@
           <ul class="flex flex-wrap justify-center">
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('ads')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('ads')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('ads')"
                 >Ads</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('affiliate marketing')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('affiliate marketing')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('affiliate marketing')"
                 >Affiliate Marketing</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('analytics')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('analytics')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('analytics')"
                 >Analytics</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('app store optimisation')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('app store optimisation')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('app store optimisation')"
                 >App Store Optimisation</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('assessments')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('assessments')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('assessments')"
                 >Assessments</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('authentication')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('authentication')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('authentication')"
                 >Authentication</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('backup')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('backup')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('backup')"
                 >Backup</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('business intelligence')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('business intelligence')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('business intelligence')"
                 >Business Intelligence</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('cartography')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('cartography')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('cartography')"
                 >Cartography</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('cms')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('cms')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('cms')"
                 >CMS</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('content marketing')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('content marketing')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('content marketing')"
                 >Content Marketing</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('contract management')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('contract management')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('contract management')"
                 >Contract Management</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('crm')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('crm')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('crm')"
                 >CRM</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('cybersecurity')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('cybersecurity')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('cybersecurity')"
                 >Cybersecurity</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('data collection')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('data collection')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('data collection')"
                 >Data Collection</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('delivery management')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('delivery management')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('delivery management')"
                 >Delivery Management</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('developer tools')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('developer tools')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('developer tools')"
                 >Developer Tools</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('diagramming and collaboration tool')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('diagramming and collaboration tool')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('diagramming and collaboration tool')"
                 >Diagramming and Collaboration Tool</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('domain names')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('domain names')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('domain names')"
                 >Domain Names</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('ecommerce software')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('ecommerce software')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('ecommerce software')"
                 >eCommerce Software</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('edtech')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('edtech')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('edtech')"
                 >Edtech</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('email')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('email')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('email')"
                 >Email</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('email signature manager')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('email signature manager')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('email signature manager')"
                 >Email signature manager</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('finance')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('finance')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('finance')"
                 >Finance</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('health records')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('health records')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('health records')"
                 >Health Records</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('help desk software')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('help desk software')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('help desk software')"
                 >Help Desk Software</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('hosting')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('hosting')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('hosting')"
                 >Hosting</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('hr')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('hr')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('hr')"
                 >HR</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('incident management')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('incident management')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('incident management')"
                 >Incident Management</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('internal communication')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('internal communication')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('internal communication')"
                 >Internal Communication</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('lead generation')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('lead generation')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('lead generation')"
                 >Lead generation</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('live presentations')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('live presentations')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('live presentations')"
                 >Live Presentations</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('low-code/no-code')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('low-code/no-code')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('low-code/no-code')"
                 >Low-Code/No-Code</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('management tools')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('management tools')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('management tools')"
                 >Management Tools</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('marketing automation')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('marketing automation')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('marketing automation')"
                 >Marketing Automation</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('marketing/ livechat')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('marketing/ livechat')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('marketing/ livechat')"
                 >Marketing/ LiveChat</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('monitoring')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('monitoring')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('monitoring')"
                 >Monitoring</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('people management')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('people management')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('people management')"
                 >People Management</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('productivity tools')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('productivity tools')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('productivity tools')"
                 >Productivity Tools</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('project management')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('project management')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('project management')"
                 >Project Management</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('recruitment')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('recruitment')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('recruitment')"
                 >Recruitment</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('remote work')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('remote work')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('remote work')"
                 >Remote Work</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('reporting')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('reporting')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('reporting')"
                 >Reporting</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('sales tools')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('sales tools')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('sales tools')"
                 >Sales Tools</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('slack app')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('slack app')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('slack app')"
                 >Slack App</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('software editor')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('software editor')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('software editor')"
                 >Software Editor</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('spreadsheets')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('spreadsheets')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('spreadsheets')"
                 >Spreadsheets</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('video & music')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('video & music')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('video & music')"
                 >Video & Music</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('vpn')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('vpn')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('vpn')"
                 >VPN</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('web/graphic design')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('web/graphic design')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('web/graphic design')"
                 >Web/Graphic Design</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('website builder')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('website builder')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('website builder')"
                 >Website Builder</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('website tools')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('website tools')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('website tools')"
                 >Website Tools</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('writing tools')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('writing tools')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('writing tools')"
                 >Writing Tools</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('shipping software')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('shipping software')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('shipping software')"
                 >Shipping Software</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('customer feedback')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('customer feedback')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('customer feedback')"
                 >Customer Feedback</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('mobile app')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('mobile app')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('mobile app')"
                 >Mobile App</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('restaurant online ordering')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('restaurant online ordering')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('restaurant online ordering')"
                 >Restaurant Online Ordering</a
               >
             </li>
             <li class="mr-2 mb-3">
               <a
-                :class="`rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
-                  show.includes('url shortener')
-                    ? 'bg-custom-pink text-white'
-                    : 'text-custom-pink bg-gray-300'
-                }`"
+                :class="
+                  `rounded py-1 px-3 hover:text-gray-800 cursor-pointer ${
+                    show.includes('url shortener')
+                      ? 'bg-custom-pink text-white'
+                      : 'text-custom-pink bg-gray-300'
+                  }`
+                "
                 @click="toggle('url shortener')"
                 >URL Shortener</a
               >
             </li>
           </ul>
-        </div>      
+        </div>
 
         <div class="px-4 w-full my-2" v-if="error">
           <p class="border-2 border-red-400 rounded inline p-2 text-red-600">
@@ -836,7 +952,7 @@
                       `https://twitter.com/share?url=${encodeURIComponent(
                         'https://saasforcovid.com'
                       )}&text=${encodeURIComponent(
-                        `Hi @AdriaanvRossum, there is something wrong with the '${service.name}' listing.\n\n(please replace this line with what is wrong...)\n\n`
+                        `Hi @adriaandotcom, there is something wrong with the '${service.name}' listing.\n\n(please replace this line with what is wrong...)\n\n`
                       )}`
                     "
                   >
@@ -1139,7 +1255,7 @@
     <div class="fixed bottom-0 right-0">
       <a
         class="flex items-center gradient px-3 py-2 rounded-tl-lg text-white border-t border-l"
-        href="https://twitter.com/intent/user?screen_name=AdriaanvRossum"
+        href="https://twitter.com/intent/user?screen_name=adriaandotcom"
       >
         <img class="w-6 rounded-full mr-2" src="/adriaan.jpg" /> Created by
         Adriaan
@@ -1231,8 +1347,8 @@ export default {
               ? ", " + paid.split(",")[1].trim()
               : ".";
           }
-          
-           if (categorychoice) {
+
+          if (categorychoice) {
             // console.log(categorychoice);
             if (/^ads/i.test(categorychoice)) {
               service.selectedCategory = "ads";
@@ -1361,7 +1477,7 @@ export default {
               service.selectedCategory = "other";
             }
           }
-         
+
           service.useEmail =
             service.how_to_apply_url_or_email &&
             service.how_to_apply_url_or_email.includes("@");
@@ -1377,12 +1493,13 @@ export default {
           if (left === "maybe" && ["no"].includes(right)) return 1;
           return 0;
         });
-      return showServices.filter(({ driveToPaid }) => {
-        return this.show.includes(driveToPaid);
-      })
-      .filter(({ selectedCategory }) => {
-        return this.show.includes(selectedCategory);
-      });
+      return showServices
+        .filter(({ driveToPaid }) => {
+          return this.show.includes(driveToPaid);
+        })
+        .filter(({ selectedCategory }) => {
+          return this.show.includes(selectedCategory);
+        });
     },
   },
   methods: {
