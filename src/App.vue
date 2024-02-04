@@ -1181,7 +1181,7 @@
         <span v-if="buildDate"
           ><a
             :href="
-              `https://github.com/adriaanvanrossum/saasforcovid.com/${
+              `https://github.com/adriaandotcom/saasforcovid.com/${
                 commitHash ? `commit/${commitHash}` : 'commits/master'
               }`
             "
@@ -1205,7 +1205,7 @@
         >
         - Code is
         <a
-          href="https://github.com/adriaanvanrossum/saasforcovid.com?utm_source=saasforcovid.com"
+          href="https://github.com/adriaandotcom/saasforcovid.com?utm_source=saasforcovid.com"
           class="text-white underline"
           >open source</a
         >
